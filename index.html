@@ -1,29 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Secret Academy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f0f4f8;
-        }
-        h1 {
-            color: #2c3e50;
-            font-size: 3em;
-        }
-        p {
-            color: #34495e;
-            font-size: 1.2em;
-        }
-    </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>秘密游牧部落 · 学习小组</title>
+    <!-- 外部 CSS & JS -->
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <h1>🔐 Secret Academy</h1>
-    <p>Welcome to your knowledge hub.</p>
-    <p>✨ Coming soon... ✨</p>
+<div class="club-wrapper">
+    <!-- ========== 顶部菜单栏 ========== -->
+    <nav class="menu-bar" role="navigation" aria-label="主导航">
+        <div class="menu-brand">
+            <span class="brand-name">🌿 秘密游牧部落</span>
+            <span class="brand-sub">· 学习小组</span>
+        </div>
+        <div class="menu-links">
+            <a href="#">首页</a>
+            <a href="#">共学</a>
+            <a href="#">资源</a>
+            <a href="#">部落</a>
+            <a href="#" class="cta-btn">
+                    <span class="github-icon">
+                        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+                        GitHub
+                    </span>
+            </a>
+        </div>
+    </nav>
+
+    <!-- ========== 主体内容 ========== -->
+    <div class="club-content">
+        <!-- Hero -->
+        <section class="hero">
+            <div class="hero-text">
+                <h2>📚 游牧共学 · 自由生长</h2>
+                <p>秘密游牧部落是一个学习小组。</p>
+
+            </div>
+            <div class="hero-code-icon">
+                🌾
+            </div>
+        </section>
+
+        <!-- 特性网格 / 学习方向 -->
+        <div class="feature-grid">
+            <div class="feature-item">
+                <h3><span>🚀</span> 做项目</h3>
+                <p>学生自己写项目计划，筹资金，执行项目。</p>
+                <span class="tag">项目 · 计划</span>
+            </div>
+            <div class="feature-item">
+                <h3><span>📖</span> 自学</h3>
+                <p>学生们在课堂上自学，不用老师教，进度各不同</p>
+                <span class="tag">自学 · 节奏</span>
+            </div>
+            <div class="feature-item">
+                <h3><span>⚡</span> JS 交互</h3>
+                <p>DOM 操作、事件、异步、模块化，让页面活起来。</p>
+                <span class="tag">逻辑 · 实战</span>
+            </div>
+        </div>
+
+        <!-- 互动区：游牧者计数器 (JS 演示) -->
+        <div class="interactive-block">
+            <div class="counter-box">
+                <p>🏕️ 当前在线游牧者</p>
+                <div class="counter-display" id="memberCounter">12</div>
+            </div>
+            <div class="btn-group">
+                <button class="btn btn-primary" id="joinBtn">➕ 加入</button>
+                <button class="btn btn-outline" id="leaveBtn">➖ 离开</button>
+                <button class="btn btn-outline" id="resetBtn">↺ 重置</button>
+            </div>
+        </div>
+
+        <!-- 额外说明 -->
+        <p style="font-size:0.9rem; color:#4f6b88; margin-top:0.2rem; padding-left:0.5rem; border-left: 3px solid #b3cce6;">
+            ⚙️ 计数器由 JavaScript 维护，点击按钮实时更新。
+        </p>
+
+        <!-- Footer -->
+        <footer class="club-footer">
+            <span>© 2026 秘密游牧部落 · 学习小组</span>
+            <div class="footer-links">
+                <a href="#">共学项目</a>
+                <a href="#">资源库</a>
+                <a href="#">部落成员</a>
+                <a href="#">GitHub</a>
+            </div>
+        </footer>
+    </div>
+    <!-- end club-content -->
+</div>
+<!-- end club-wrapper -->
+
+<script src="main.js"></script>
 </body>
 </html>
