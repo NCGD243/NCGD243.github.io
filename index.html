@@ -120,7 +120,6 @@
   .panel .hint { font-size: 0.78rem; color: #94a3b8; margin-top: 0.5rem; }
   .panel code { background: #eef2f6; padding: 0.1rem 0.35rem; border-radius: 4px; }
   .panel a { color: #2563eb; }
-
   .icon-btn.download-btn:hover { background: #dcfce7; color: #166534; }
 </style>
 </head>
@@ -158,13 +157,6 @@
 
 <script>
 (function() {
-  // ================================================================
-  // src 文件管理器 —— 基于 GitHub REST API
-  //
-  // 功能：浏览 / 上传（图片、文本）/ 下载 / 新建文件夹 / 删除
-  // 认证：细粒度 Personal Access Token（Contents: Read & Write）
-  // ================================================================
-
   const SRC_ROOT = 'src';
   const LS_KEY = 'gh-src-explorer-v1';
 
@@ -187,7 +179,6 @@
   const repoTitle = $('repoTitle');
   const branchLabel = $('branchLabel');
 
-  // ---------- 配置持久化 ----------
   function loadConfig() {
     try {
       const raw = localStorage.getItem(LS_KEY);
@@ -200,7 +191,6 @@
     config = { owner: '', repo: '', branch: 'main', token: '' };
   }
 
-  // ---------- 小工具 ----------
   function toast(msg, isError = false) {
     toastEl.textContent = msg;
     toastEl.classList.toggle('error', isError);
@@ -266,6 +256,22 @@
     return { notFound: false, entries: data };
   }
 
+  // 写操作后等待 GitHub 让新数据生效，然后再请求列表
+  // expectName：我们期望在列表中看到的条目名称（可选）
+  async function listFolderAfterWrite(apiPath, expectName) {
+    const MAX_TRIES = 8;
+    let last = null;
+    for (let i = 0; i < MAX_TRIES; i++) {
+      const res = await listFolder(apiPath);
+      last = res;
+      if (!expectName) return res;
+      if (res.entries.some(e => e.name === expectName)) return res;
+      // 等待递增的延迟
+      await new Promise(r => setTimeout(r, 300 + i * 250));
+    }
+    return last;
+  }
+
   function fileToBase64(file) {
     return new Promise((resolve, reject) => {
       const r = new FileReader();
@@ -300,19 +306,12 @@
 
   // ---------- 下载 ----------
   async function downloadFile(entry) {
-    // entry: { path, name, sha, size, download_url }
     try {
       toast(`⬇️ 正在下载 ${entry.name}…`);
-
       let blob;
-
-      // 优先用 API 拉取（带 token，适合私有仓库 / 大文件），
-      // 若失败则回退到 download_url。
       try {
         const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(config.branch)}`);
         if (data.__notFound || !data.content) throw new Error('内容不可用');
-
-        // GitHub 返回的 content 是 base64，可能带换行符
         const cleanBase64 = data.content.replace(/\n/g, '');
         const binary = atob(cleanBase64);
         const bytes = new Uint8Array(binary.length);
@@ -329,7 +328,6 @@
         blob = await res.blob();
       }
 
-      // 触发浏览器下载
       const blobUrl = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = blobUrl;
@@ -347,13 +345,20 @@
   }
 
   // ---------- 渲染 ----------
-  async function render() {
+  async function render(opts = {}) {
     if (!config.token) { renderSettings('first-time'); return; }
 
     fileListEl.innerHTML = `<div class="loading-state">正在加载 ${esc(SRC_ROOT)}…</div>`;
 
     try {
-      const { notFound, entries } = await listFolder(fullPath(currentPath));
+      let result;
+      if (opts.expectName) {
+        result = await listFolderAfterWrite(fullPath(currentPath), opts.expectName);
+      } else {
+        result = await listFolder(fullPath(currentPath));
+      }
+
+      const { notFound, entries } = result;
 
       if (notFound) {
         if (currentPath.length === 0) {
@@ -450,14 +455,12 @@
 
   function renderSettings(mode) {
     const isEdit = mode === 'edit';
-
     fileListEl.innerHTML = `
       <div class="panel">
         <h2>${isEdit ? '⚙️ 设置' : '🔗 连接到你的 GitHub 仓库'}</h2>
         <p>${isEdit
           ? '更新仓库信息或 Token。'
           : '输入仓库信息，以及具有 <strong>Contents: Read &amp; Write</strong> 权限的细粒度 Personal Access Token。'}</p>
-
         <div class="field">
           <label>GitHub 用户名 / 组织</label>
           <input type="text" id="cfgOwner" placeholder="octocat" value="${esc(config.owner)}">
@@ -479,7 +482,6 @@
             创建 Token —— 只授权本仓库，权限选择 <code>Contents: Read and write</code>。
           </div>
         </div>
-
         <div class="row">
           <button class="btn btn-primary" id="saveCfgBtn">${isEdit ? '💾 保存' : '✅ 连接'}</button>
           ${isEdit ? `<button class="btn" id="cancelCfgBtn">取消</button>` : ''}
@@ -527,7 +529,7 @@
         branch: config.branch
       });
       toast(`📁 已创建 ${SRC_ROOT}/`);
-      await render();
+      await render({ expectName: SRC_ROOT });
     } catch (e) { toast('失败：' + e.message, true); }
   }
 
@@ -546,7 +548,8 @@
         branch: config.branch
       });
       toast(`📁 已创建 ${n}/`);
-      await render();
+      // ← 关键修复：等待 GitHub 让新文件夹出现在列表里
+      await render({ expectName: n });
     } catch (e) { toast('失败：' + e.message, true); }
   }
 
@@ -598,6 +601,7 @@
 
     let added = 0;
     let errors = [];
+    let lastName = null;
 
     for (const file of wanted) {
       try {
@@ -615,13 +619,18 @@
         if (existingSha) body.sha = existingSha;
         await gh('PUT', apiPath, body);
         added++;
+        lastName = file.name;
       } catch (e) {
         console.error(e);
         errors.push(`${file.name}: ${e.message}`);
       }
     }
 
-    if (added > 0) { toast(`⬆️ 已上传 ${added} 个文件`); await render(); }
+    if (added > 0) {
+      toast(`⬆️ 已上传 ${added} 个文件`);
+      // ← 关键修复：等待 GitHub 让新文件出现在列表里
+      await render({ expectName: lastName });
+    }
     if (errors.length) toast(`⚠️ ${errors.length} 个失败：${errors[0]}`, true);
   }
 
