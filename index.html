@@ -1,100 +1,629 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>秘密游牧部落 · 学习小组</title>
-    <!-- 外部 CSS & JS -->
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📁 src explorer</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            background: #f0f2f5; color: #1e293b; padding: 1.5rem; line-height: 1.5;
+        }
+        .app {
+            max-width: 960px; margin: 0 auto; background: white; border-radius: 24px;
+            overflow: hidden; box-shadow: 0 20px 35px -8px rgba(0,0,0,0.15), 0 4px 12px 0 rgba(0,0,0,0.05);
+        }
+        .toolbar {
+            padding: 1.25rem 1.5rem; background: #fff; border-bottom: 1px solid #e9eef3;
+            display: flex; flex-wrap: wrap; align-items: center;
+            justify-content: space-between; gap: 1rem;
+        }
+        .repo-info { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
+        .repo-icon { font-size: 2rem; }
+        .repo-info h1 { font-size: 1.15rem; font-weight: 600; color: #0f172a; }
+        .branch {
+            background: #eef2f6; padding: 0.25rem 0.75rem; border-radius: 40px;
+            font-size: 0.8rem; font-weight: 500; color: #334155;
+        }
+        .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+        .btn {
+            display: inline-flex; align-items: center; gap: 0.5rem;
+            background: #f1f5f9; padding: 0.55rem 1rem; border-radius: 40px;
+            font-size: 0.9rem; font-weight: 500; color: #1e293b;
+            cursor: pointer; border: 1px solid #e2e8f0; transition: 0.15s;
+        }
+        .btn:hover { background: #e6edf4; }
+        .btn-primary { background: #1e293b; color: white; border-color: #1e293b; }
+        .btn-primary:hover { background: #0f172a; }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .path-bar {
+            padding: 0.75rem 1.5rem; background: #fafcff; border-bottom: 1px solid #e9eef3;
+            font-size: 0.9rem; font-weight: 500; display: flex;
+            align-items: center; gap: 0.35rem; flex-wrap: wrap; min-height: 50px;
+        }
+        .crumb {
+            background: #eef2f6; padding: 0.2rem 0.7rem; border-radius: 30px;
+            display: inline-flex; align-items: center; gap: 0.25rem;
+        }
+        .crumb.current { background: #d9e2ef; font-weight: 600; }
+        .crumb[data-path-index] { cursor: pointer; }
+        .crumb[data-path-index]:hover { background: #d9e2ef; }
+        .file-list {
+            padding: 0.5rem 0.75rem 1.5rem; min-height: 320px; max-height: 500px;
+            overflow-y: auto; position: relative;
+        }
+        .file-list.drag-over {
+            background: #f0f7ff; outline: 2px dashed #3b82f6; outline-offset: -4px; border-radius: 12px;
+        }
+        .item {
+            display: flex; align-items: center; padding: 0.7rem 1rem;
+            margin: 0.15rem 0; border-radius: 14px; border: 1px solid transparent;
+        }
+        .item:hover { background: #f8fafd; border-color: #e2e8f0; }
+        .item-icon { font-size: 1.4rem; margin-right: 0.9rem; width: 1.8rem; text-align: center; }
+        .item-name { flex: 1; font-weight: 500; color: #0f172a; word-break: break-word; }
+        .item-name.folder { color: #0f3b7a; font-weight: 600; }
+        .item-meta {
+            font-size: 0.75rem; color: #64748b; background: #f1f5f9;
+            padding: 0.2rem 0.65rem; border-radius: 30px; white-space: nowrap;
+        }
+        .item-actions { display: flex; gap: 0.4rem; margin-left: 0.8rem; }
+        .icon-btn {
+            background: transparent; border: none; font-size: 1.1rem;
+            padding: 0.2rem 0.4rem; border-radius: 8px; cursor: pointer; color: #5f6c80;
+        }
+        .icon-btn:hover { background: #e2e8f0; color: #0f172a; }
+        .empty-state { text-align: center; padding: 3rem 1rem; color: #94a3b8; font-style: italic; }
+        #imageInput, #txtInput { display: none; }
+        .toast {
+            position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+            background: #1e293b; color: white; padding: 0.7rem 1.5rem;
+            border-radius: 40px; font-size: 0.9rem; font-weight: 500;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2); opacity: 0;
+            transition: opacity 0.2s; pointer-events: none; z-index: 100; max-width: 90vw;
+            text-align: center;
+        }
+        .toast.show { opacity: 1; }
+        .toast.error { background: #b91c1c; }
+        .footnote {
+            padding: 0.8rem 1.5rem; background: #fafcff; border-top: 1px solid #e9eef3;
+            font-size: 0.8rem; color: #6b7a8f; display: flex;
+            justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;
+        }
+        .status-badge { display: inline-flex; align-items: center; gap: 0.3rem; }
+        .status-dot { width: 8px; height: 8px; border-radius: 50%; background: #94a3b8; }
+        .status-dot.connected { background: #22c55e; }
+        .loading-state { text-align: center; padding: 3rem 1rem; color: #64748b; }
+        .item-thumb {
+            width: 36px; height: 36px; object-fit: cover; border-radius: 8px;
+            margin-right: 0.9rem; flex-shrink: 0; background: #f1f5f9; border: 1px solid #e2e8f0;
+        }
+        .panel {
+            text-align: center; padding: 2.5rem 2rem; max-width: 560px; margin: 0 auto;
+        }
+        .panel h2 { font-size: 1.25rem; margin-bottom: 0.75rem; color: #0f172a; }
+        .panel p { color: #64748b; margin-bottom: 1.25rem; font-size: 0.9rem; }
+        .panel .field { text-align: left; margin-bottom: 1rem; }
+        .panel label {
+            display: block; font-size: 0.8rem; font-weight: 600; color: #334155;
+            margin-bottom: 0.35rem;
+        }
+        .panel input[type=text], .panel input[type=password] {
+            width: 100%; padding: 0.6rem 0.85rem; border: 1px solid #cbd5e1;
+            border-radius: 10px; font-size: 0.9rem; font-family: inherit;
+            background: #f8fafc; color: #0f172a;
+        }
+        .panel input:focus { outline: 2px solid #3b82f6; outline-offset: -1px; background: white; }
+        .panel .row { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem; }
+        .panel .hint { font-size: 0.78rem; color: #94a3b8; margin-top: 0.5rem; }
+        .panel code { background: #eef2f6; padding: 0.1rem 0.35rem; border-radius: 4px; }
+    </style>
 </head>
 <body>
-<div class="club-wrapper">
-    <!-- ========== 顶部菜单栏 ========== -->
-    <nav class="menu-bar" role="navigation" aria-label="主导航">
-        <div class="menu-brand">
-            <span class="brand-name">🌿 秘密游牧部落</span>
-            <span class="brand-sub">· 学习小组</span>
+<div class="app">
+    <div class="toolbar">
+        <div class="repo-info">
+            <span class="repo-icon">📁</span>
+            <h1 id="repoTitle">src</h1>
+            <span class="branch" id="branchLabel">main</span>
         </div>
-        <div class="menu-links">
-            <a href="#">首页</a>
-            <a href="#">共学</a>
-            <a href="#">资源</a>
-            <a href="#">部落</a>
-            <a href="#" class="cta-btn">
-                    <span class="github-icon">
-                        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-                        GitHub
-                    </span>
-            </a>
+        <div class="actions">
+            <button class="btn" id="newFolderBtn" disabled><span>📁+</span> New folder</button>
+            <button class="btn" id="uploadTxtBtn" disabled><span>📄</span> Upload txt</button>
+            <button class="btn btn-primary" id="uploadImgBtn" disabled><span>🖼️</span> Upload images</button>
+            <button class="btn" id="settingsBtn" title="Settings">⚙️</button>
         </div>
-    </nav>
-
-    <!-- ========== 主体内容 ========== -->
-    <div class="club-content">
-        <!-- Hero -->
-        <section class="hero">
-            <div class="hero-text">
-                <h2>📚 游牧共学 · 自由生长</h2>
-                <p>秘密游牧部落是一个学习小组。</p>
-
-            </div>
-            <div class="hero-code-icon">
-                🌾
-            </div>
-        </section>
-
-        <!-- 特性网格 / 学习方向 -->
-        <div class="feature-grid">
-            <div class="feature-item">
-                <h3><span>🚀</span> 做项目</h3>
-                <p>学生自己写项目计划，筹资金，执行项目。</p>
-                <span class="tag">项目 · 计划</span>
-            </div>
-            <div class="feature-item">
-                <h3><span>📖</span> 自学</h3>
-                <p>学生们在课堂上自学，不用老师教，进度各不同</p>
-                <span class="tag">自学 · 节奏</span>
-            </div>
-            <div class="feature-item">
-                <h3><span>⚡</span> JS 交互</h3>
-                <p>DOM 操作、事件、异步、模块化，让页面活起来。</p>
-                <span class="tag">逻辑 · 实战</span>
-            </div>
-        </div>
-
-        <!-- 互动区：游牧者计数器 (JS 演示) -->
-        <div class="interactive-block">
-            <div class="counter-box">
-                <p>🏕️ 当前在线游牧者</p>
-                <div class="counter-display" id="memberCounter">12</div>
-            </div>
-            <div class="btn-group">
-                <button class="btn btn-primary" id="joinBtn">➕ 加入</button>
-                <button class="btn btn-outline" id="leaveBtn">➖ 离开</button>
-                <button class="btn btn-outline" id="resetBtn">↺ 重置</button>
-            </div>
-        </div>
-
-        <!-- 额外说明 -->
-        <p style="font-size:0.9rem; color:#4f6b88; margin-top:0.2rem; padding-left:0.5rem; border-left: 3px solid #b3cce6;">
-            ⚙️ 计数器由 JavaScript 维护，点击按钮实时更新。
-        </p>
-
-        <!-- Footer -->
-        <footer class="club-footer">
-            <span>© 2026 秘密游牧部落 · 学习小组</span>
-            <div class="footer-links">
-                <a href="#">共学项目</a>
-                <a href="#">资源库</a>
-                <a href="#">部落成员</a>
-                <a href="#">GitHub</a>
-            </div>
-        </footer>
     </div>
-    <!-- end club-content -->
-</div>
-<!-- end club-wrapper -->
 
-<script src="main.js"></script>
+    <div class="path-bar" id="pathBar"><span class="crumb">📁 src</span></div>
+    <div class="file-list" id="fileList"></div>
+
+    <div class="footnote">
+    <span class="status-badge">
+      <span class="status-dot" id="statusDot"></span>
+      <span id="statusText">Not connected</span>
+    </span>
+        <span>⚡ Writes directly to your GitHub repo</span>
+    </div>
+</div>
+
+<input type="file" id="imageInput" multiple accept="image/*">
+<input type="file" id="txtInput" multiple accept=".txt,text/plain">
+<div class="toast" id="toast"></div>
+
+<script>
+    (function() {
+        // ================================================================
+        // src explorer — GitHub REST API backed
+        //
+        // Reads/writes the `src/` folder of your repo.
+        // Auth: fine-grained Personal Access Token (Contents: Read & Write).
+        // Token stored only in this browser's localStorage.
+        // ================================================================
+
+        const SRC_ROOT = 'src';
+        const LS_KEY = 'gh-src-explorer-v1';
+
+        let config = { owner: '', repo: '', branch: 'main', token: '' };
+        let currentPath = [];   // e.g. ['components','ui'] relative to SRC_ROOT
+        let entriesCache = [];  // current folder listing
+
+        // ---------- DOM ----------
+        const $ = id => document.getElementById(id);
+        const fileListEl = $('fileList');
+        const pathBar = $('pathBar');
+        const newFolderBtn = $('newFolderBtn');
+        const uploadTxtBtn = $('uploadTxtBtn');
+        const uploadImgBtn = $('uploadImgBtn');
+        const settingsBtn = $('settingsBtn');
+        const imageInput = $('imageInput');
+        const txtInput = $('txtInput');
+        const toastEl = $('toast');
+        const statusDot = $('statusDot');
+        const statusText = $('statusText');
+        const repoTitle = $('repoTitle');
+        const branchLabel = $('branchLabel');
+
+        // ---------- Config persistence ----------
+        function loadConfig() {
+            try {
+                const raw = localStorage.getItem(LS_KEY);
+                if (raw) config = { ...config, ...JSON.parse(raw) };
+            } catch {}
+        }
+        function saveConfig() { localStorage.setItem(LS_KEY, JSON.stringify(config)); }
+        function clearConfig() {
+            localStorage.removeItem(LS_KEY);
+            config = { owner: '', repo: '', branch: 'main', token: '' };
+        }
+
+        // ---------- Small helpers ----------
+        function toast(msg, isError = false) {
+            toastEl.textContent = msg;
+            toastEl.classList.toggle('error', isError);
+            toastEl.classList.add('show');
+            clearTimeout(window._toastT);
+            window._toastT = setTimeout(() => toastEl.classList.remove('show'), 2500);
+        }
+        function esc(t) {
+            const d = document.createElement('div');
+            d.textContent = t;
+            return d.innerHTML;
+        }
+        function formatSize(b) {
+            if (b == null) return '—';
+            if (b < 1024) return b + ' B';
+            if (b < 1048576) return (b / 1024).toFixed(1) + ' KB';
+            return (b / 1048576).toFixed(2) + ' MB';
+        }
+        function isImageName(n) { return /\.(jpe?g|png|gif|webp|svg|bmp|ico|avif)$/i.test(n); }
+        function isTxtName(n) { return /\.txt$/i.test(n); }
+
+        function setConnected(v) {
+            statusDot.classList.toggle('connected', v);
+            statusText.textContent = v ? `Connected · ${config.owner}/${config.repo}` : 'Not connected';
+            newFolderBtn.disabled = !v;
+            uploadTxtBtn.disabled = !v;
+            uploadImgBtn.disabled = !v;
+            repoTitle.textContent = v ? `${config.repo} / ${SRC_ROOT}` : SRC_ROOT;
+            branchLabel.textContent = v ? config.branch : 'main';
+        }
+
+        function fullPath(relParts) {
+            return [SRC_ROOT, ...relParts].join('/');
+        }
+
+        // ---------- GitHub API ----------
+        async function gh(method, apiPath, body) {
+            const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${apiPath}`;
+            const headers = {
+                'Accept': 'application/vnd.github+json',
+                'Authorization': `Bearer ${config.token}`,
+                'X-GitHub-Api-Version': '2022-11-28'
+            };
+            const opts = { method, headers };
+            if (body) {
+                headers['Content-Type'] = 'application/json';
+                opts.body = JSON.stringify(body);
+            }
+            const res = await fetch(url, opts);
+            if (res.status === 404) return { __notFound: true };
+            if (!res.ok) {
+                let msg = res.statusText;
+                try { const j = await res.json(); msg = j.message || msg; } catch {}
+                throw new Error(msg);
+            }
+            return res.json();
+        }
+
+        async function listFolder(apiPath) {
+            const data = await gh('GET', `${apiPath}?ref=${encodeURIComponent(config.branch)}`);
+            if (data.__notFound) return { notFound: true, entries: [] };
+            if (!Array.isArray(data)) return { notFound: false, entries: [data] };
+            return { notFound: false, entries: data };
+        }
+
+        function fileToBase64(file) {
+            return new Promise((resolve, reject) => {
+                const r = new FileReader();
+                r.onload = () => {
+                    const s = r.result;
+                    resolve(s.slice(s.indexOf(',') + 1));
+                };
+                r.onerror = () => reject(r.error);
+                r.readAsDataURL(file);
+            });
+        }
+
+        // ---------- Test connection ----------
+        async function testConnection() {
+            if (!config.owner || !config.repo || !config.token) return false;
+            try {
+                const res = await fetch(`https://api.github.com/repos/${config.owner}/${config.repo}`, {
+                    headers: {
+                        'Authorization': `Bearer ${config.token}`,
+                        'Accept': 'application/vnd.github+json'
+                    }
+                });
+                if (!res.ok) {
+                    const j = await res.json().catch(() => ({}));
+                    throw new Error(j.message || res.statusText);
+                }
+                return true;
+            } catch (e) {
+                toast('Connection failed: ' + e.message, true);
+                return false;
+            }
+        }
+
+        // ---------- Render ----------
+        async function render() {
+            if (!config.token) { renderSettings('first-time'); return; }
+
+            fileListEl.innerHTML = `<div class="loading-state">Loading ${esc(SRC_ROOT)}…</div>`;
+
+            try {
+                const { notFound, entries } = await listFolder(fullPath(currentPath));
+
+                if (notFound) {
+                    if (currentPath.length === 0) {
+                        fileListEl.innerHTML = `
+            <div class="panel">
+              <h2>📂 No <code>${SRC_ROOT}</code> folder found</h2>
+              <p>Your repo doesn't have a <code>${esc(SRC_ROOT)}</code> folder on <code>${esc(config.branch)}</code> yet.</p>
+              <button class="btn btn-primary" id="createSrcBtn">➕ Create src folder</button>
+            </div>`;
+                        $('createSrcBtn').addEventListener('click', createSrcFolder);
+                        return;
+                    }
+                    fileListEl.innerHTML = `<div class="empty-state">⚠️ Folder not found</div>`;
+                    return;
+                }
+
+                entries.sort((a, b) => {
+                    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+                    return a.name.localeCompare(b.name);
+                });
+                entriesCache = entries;
+
+                renderBreadcrumb();
+
+                if (!entries.length) {
+                    fileListEl.innerHTML = `<div class="empty-state">📭 This folder is empty</div>`;
+                    return;
+                }
+
+                let html = '';
+                for (const entry of entries) {
+                    const isFolder = entry.type === 'dir';
+                    let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
+
+                    if (!isFolder && isImageName(entry.name)) {
+                        const rawUrl = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${config.branch}/${entry.path}`;
+                        thumb = `<img class="item-thumb" src="${rawUrl}" loading="lazy" onerror="this.outerHTML='<span class=\\'item-icon\\'>🖼️</span>'">`;
+                    } else if (!isFolder && isTxtName(entry.name)) {
+                        thumb = `<span class="item-icon">📄</span>`;
+                    }
+
+                    html += `
+          <div class="item" data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
+            ${thumb}
+            <span class="item-name ${isFolder ? 'folder' : ''}">${esc(entry.name)}</span>
+            ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
+            <div class="item-actions">
+              ${isFolder ? `<button class="icon-btn open-folder" data-folder="${esc(entry.name)}">📂</button>` : ''}
+              <button class="icon-btn delete-item" data-path="${esc(entry.path)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}">🗑️</button>
+            </div>
+          </div>`;
+                }
+                fileListEl.innerHTML = html;
+
+                fileListEl.querySelectorAll('.open-folder').forEach(b =>
+                    b.addEventListener('click', e => { e.stopPropagation(); openFolder(b.dataset.folder); }));
+                fileListEl.querySelectorAll('.delete-item').forEach(b =>
+                    b.addEventListener('click', e => { e.stopPropagation(); deleteEntry(b.dataset.path, b.dataset.type, b.dataset.sha); }));
+                fileListEl.querySelectorAll('.item').forEach(el =>
+                    el.addEventListener('dblclick', e => {
+                        if (e.target.closest('.icon-btn')) return;
+                        if (el.dataset.type === 'dir') openFolder(el.dataset.name);
+                    }));
+            } catch (err) {
+                fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
+            }
+        }
+
+        function renderBreadcrumb() {
+            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(SRC_ROOT)}</span>`;
+            currentPath.forEach((seg, i) => {
+                html += `<span>/</span>`;
+                const last = i === currentPath.length - 1;
+                html += `<span class="crumb ${last ? 'current' : ''}" data-path-index="${i}">📁 ${esc(seg)}</span>`;
+            });
+            pathBar.innerHTML = html;
+            pathBar.querySelectorAll('.crumb[data-path-index]').forEach(c =>
+                c.addEventListener('click', () => navigateToIndex(+c.dataset.pathIndex)));
+        }
+
+        function renderSettings(mode) {
+            const isEdit = mode === 'edit';
+
+            fileListEl.innerHTML = `
+      <div class="panel">
+        <h2>${isEdit ? '⚙️ Settings' : '🔗 Connect to your GitHub repo'}</h2>
+        <p>${isEdit
+                ? 'Update your repo details or token.'
+                : 'Enter your repo details and a fine-grained Personal Access Token with <strong>Contents: Read &amp; Write</strong>.'}</p>
+
+        <div class="field">
+          <label>GitHub username / org</label>
+          <input type="text" id="cfgOwner" placeholder="octocat" value="${esc(config.owner)}">
+        </div>
+        <div class="field">
+          <label>Repository name</label>
+          <input type="text" id="cfgRepo" placeholder="my-repo" value="${esc(config.repo)}">
+        </div>
+        <div class="field">
+          <label>Branch</label>
+          <input type="text" id="cfgBranch" placeholder="main" value="${esc(config.branch || 'main')}">
+        </div>
+        <div class="field">
+          <label>Personal Access Token</label>
+          <input type="password" id="cfgToken" placeholder="github_pat_..." value="${esc(config.token)}">
+          <div class="hint">
+            Create one at
+            <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens</a>
+            — scope it to <em>only this repo</em> with <code>Contents: Read and write</code>.
+          </div>
+        </div>
+
+        <div class="row">
+          <button class="btn btn-primary" id="saveCfgBtn">${isEdit ? '💾 Save' : '✅ Connect'}</button>
+          ${isEdit ? `<button class="btn" id="cancelCfgBtn">Cancel</button>` : ''}
+          ${isEdit ? `<button class="btn" id="disconnectBtn">🚪 Disconnect</button>` : ''}
+        </div>
+      </div>`;
+
+            $('saveCfgBtn').addEventListener('click', async () => {
+                const owner = $('cfgOwner').value.trim();
+                const repo = $('cfgRepo').value.trim();
+                const branch = $('cfgBranch').value.trim() || 'main';
+                const token = $('cfgToken').value.trim();
+                if (!owner || !repo || !token) { toast('All fields are required', true); return; }
+                config = { owner, repo, branch, token };
+                const ok = await testConnection();
+                if (!ok) return;
+                saveConfig();
+                setConnected(true);
+                toast('✅ Connected');
+                await render();
+            });
+
+            if (isEdit) {
+                $('cancelCfgBtn').addEventListener('click', () => render());
+                $('disconnectBtn').addEventListener('click', () => {
+                    if (!confirm('Forget your token and disconnect?')) return;
+                    clearConfig();
+                    setConnected(false);
+                    renderSettings('first-time');
+                });
+            }
+        }
+
+        // ---------- Navigation ----------
+        function openFolder(name) { currentPath.push(name); render(); }
+        function navigateToIndex(idx) {
+            currentPath = idx < 0 ? [] : currentPath.slice(0, idx + 1);
+            render();
+        }
+
+        // ---------- Create src ----------
+        async function createSrcFolder() {
+            try {
+                await gh('PUT', `${SRC_ROOT}/.gitkeep`, {
+                    message: `Create ${SRC_ROOT} folder`,
+                    content: btoa(''),
+                    branch: config.branch
+                });
+                toast(`📁 Created ${SRC_ROOT}/`);
+                await render();
+            } catch (e) { toast('Failed: ' + e.message, true); }
+        }
+
+        // ---------- Create folder ----------
+        async function createNewFolder() {
+            const name = prompt('New folder name:', 'new-folder');
+            if (!name || !name.trim()) return;
+            const n = name.trim();
+            if (n.includes('/') || n.includes('\\')) { alert('No slashes allowed.'); return; }
+            if (entriesCache.some(e => e.name === n)) { alert(`"${n}" already exists.`); return; }
+
+            const apiPath = fullPath([...currentPath, n]) + '/.gitkeep';
+            try {
+                await gh('PUT', apiPath, {
+                    message: `Create folder ${[...currentPath, n].join('/')}`,
+                    content: btoa(''),
+                    branch: config.branch
+                });
+                toast(`📁 Created ${n}/`);
+                await render();
+            } catch (e) { toast('Failed: ' + e.message, true); }
+        }
+
+        // ---------- Delete ----------
+        async function deleteEntry(path, type, sha) {
+            if (type === 'dir') {
+                if (!confirm(`Delete folder "${path.split('/').pop()}" and ALL its contents?`)) return;
+                try {
+                    await deleteFolderRecursive(path);
+                    toast('🗑️ Folder deleted');
+                    await render();
+                } catch (e) { toast('Failed: ' + e.message, true); }
+                return;
+            }
+            if (!sha) { toast('Missing SHA', true); return; }
+            if (!confirm(`Delete "${path.split('/').pop()}"?`)) return;
+            try {
+                await gh('DELETE', path, {
+                    message: `Delete ${path}`,
+                    sha,
+                    branch: config.branch
+                });
+                toast('🗑️ Deleted');
+                await render();
+            } catch (e) { toast('Delete failed: ' + e.message, true); }
+        }
+
+        async function deleteFolderRecursive(path) {
+            const { entries } = await listFolder(path);
+            for (const entry of entries) {
+                if (entry.type === 'dir') {
+                    await deleteFolderRecursive(entry.path);
+                } else {
+                    await gh('DELETE', entry.path, {
+                        message: `Delete ${entry.path}`,
+                        sha: entry.sha,
+                        branch: config.branch
+                    });
+                }
+            }
+        }
+
+        // ---------- Upload ----------
+        async function uploadFiles(files, kind) {
+            // kind: 'image' | 'txt'
+            const wanted = Array.from(files).filter(f =>
+                kind === 'image' ? f.type.startsWith('image/') : (f.type === 'text/plain' || /\.txt$/i.test(f.name))
+            );
+
+            if (!wanted.length) { toast('No matching files selected', true); return; }
+            if (wanted.length < files.length) toast(`${files.length - wanted.length} file(s) skipped`, true);
+
+            let added = 0;
+            let errors = [];
+
+            for (const file of wanted) {
+                try {
+                    let existingSha = null;
+                    for (const e of entriesCache) {
+                        if (e.name === file.name && e.type === 'file') { existingSha = e.sha; break; }
+                    }
+                    const apiPath = fullPath([...currentPath, file.name]);
+                    const base64 = await fileToBase64(file);
+                    const body = {
+                        message: existingSha ? `Update ${file.name}` : `Add ${file.name}`,
+                        content: base64,
+                        branch: config.branch
+                    };
+                    if (existingSha) body.sha = existingSha;
+                    await gh('PUT', apiPath, body);
+                    added++;
+                } catch (e) {
+                    console.error(e);
+                    errors.push(`${file.name}: ${e.message}`);
+                }
+            }
+
+            if (added > 0) { toast(`⬆️ Uploaded ${added} file(s)`); await render(); }
+            if (errors.length) toast(`⚠️ ${errors.length} failed: ${errors[0]}`, true);
+        }
+
+        // ---------- Events ----------
+        newFolderBtn.addEventListener('click', createNewFolder);
+        uploadImgBtn.addEventListener('click', () => imageInput.click());
+        uploadTxtBtn.addEventListener('click', () => txtInput.click());
+        settingsBtn.addEventListener('click', () => renderSettings('edit'));
+
+        imageInput.addEventListener('change', async e => {
+            if (e.target.files?.length) await uploadFiles(e.target.files, 'image');
+            imageInput.value = '';
+        });
+        txtInput.addEventListener('change', async e => {
+            if (e.target.files?.length) await uploadFiles(e.target.files, 'txt');
+            txtInput.value = '';
+        });
+
+        fileListEl.addEventListener('dragover', e => {
+            e.preventDefault();
+            if (config.token) fileListEl.classList.add('drag-over');
+        });
+        fileListEl.addEventListener('dragleave', e => {
+            if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
+        });
+        fileListEl.addEventListener('drop', async e => {
+            e.preventDefault();
+            fileListEl.classList.remove('drag-over');
+            if (!config.token) return;
+            const files = e.dataTransfer.files;
+            if (!files?.length) return;
+            // Auto-detect: images vs txt
+            const arr = Array.from(files);
+            const imgs = arr.filter(f => f.type.startsWith('image/'));
+            const txts = arr.filter(f => f.type === 'text/plain' || /\.txt$/i.test(f.name));
+            if (imgs.length) await uploadFiles(imgs, 'image');
+            if (txts.length) await uploadFiles(txts, 'txt');
+            const other = arr.length - imgs.length - txts.length;
+            if (other > 0) toast(`${other} unsupported file(s) skipped`, true);
+        });
+
+        // ---------- Boot ----------
+        (async function init() {
+            loadConfig();
+            if (!config.token) {
+                setConnected(false);
+                renderSettings('first-time');
+                return;
+            }
+            const ok = await testConnection();
+            if (ok) {
+                setConnected(true);
+                await render();
+            } else {
+                setConnected(false);
+                renderSettings('first-time');
+            }
+        })();
+    })();
+</script>
 </body>
 </html>
