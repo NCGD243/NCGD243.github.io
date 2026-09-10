@@ -139,7 +139,7 @@
     </div>
   </div>
 
-  <div class="path-bar" id="pathBar"><span class="crumb">📁 src</span></div>
+  <div class="path-bar" id="pathBar"><span class="crumb">📁</span></div>
   <div class="file-list" id="fileList"></div>
 
   <div class="footnote">
@@ -147,7 +147,6 @@
       <span class="status-dot" id="statusDot"></span>
       <span id="statusText">未连接</span>
     </span>
-    <span>⚡ 直接读写你的 GitHub 仓库</span>
   </div>
 </div>
 
@@ -432,7 +431,7 @@
       renderBreadcrumb();
 
       if (!visibleEntries.length) {
-        fileListEl.innerHTML = `<div class="empty-state">📭 此文件夹为空</div>`;
+        fileListEl.innerHTML = `<div class="empty-state">此文件夹为空</div>`;
         return;
       }
 
