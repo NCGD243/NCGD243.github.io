@@ -164,6 +164,11 @@
   let currentPath = [];
   let entriesCache = [];
 
+  // 缩略图缓存：path → objectURL（在重新渲染时释放旧的）
+  const thumbCache = new Map();
+  // 我们通过 API 拉过的原始 blob 数据，避免重复拉取
+  const thumbBlobUrls = new Map();
+
   const $ = id => document.getElementById(id);
   const fileListEl = $('fileList');
   const pathBar = $('pathBar');
@@ -226,6 +231,51 @@
     return [SRC_ROOT, ...relParts].join('/');
   }
 
+  // ---------- 缩略图缓存管理 ----------
+  function releaseAllThumbs() {
+    for (const url of thumbBlobUrls.values()) {
+      try { URL.revokeObjectURL(url); } catch {}
+    }
+    thumbBlobUrls.clear();
+    thumbCache.clear();
+  }
+
+  // 获取图片并转换成 objectURL，缓存在内存里
+  async function getThumbUrl(entry) {
+    const key = `${entry.path}@${entry.sha || ''}`;
+    if (thumbCache.has(key)) return thumbCache.get(key);
+
+    // 拉一次 API 拿到 base64 → blob → objectURL
+    try {
+      const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(config.branch)}`);
+      if (data.__notFound || !data.content) throw new Error('no content');
+
+      const cleanBase64 = data.content.replace(/\n/g, '');
+      const binary = atob(cleanBase64);
+      const bytes = new Uint8Array(binary.length);
+      for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+
+      // 从扩展名猜测 MIME，blob 才会有正确类型（否则浏览器不能正确渲染）
+      const ext = (entry.name.split('.').pop() || '').toLowerCase();
+      const mimeMap = {
+        jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png',
+        gif: 'image/gif', webp: 'image/webp', svg: 'image/svg+xml',
+        bmp: 'image/bmp', ico: 'image/x-icon', avif: 'image/avif'
+      };
+      const mime = mimeMap[ext] || 'application/octet-stream';
+
+      const blob = new Blob([bytes], { type: mime });
+      const url = URL.createObjectURL(blob);
+      thumbCache.set(key, url);
+      thumbBlobUrls.set(key, url);
+      return url;
+    } catch (e) {
+      console.warn('缩略图获取失败', entry.path, e);
+      thumbCache.set(key, null);
+      return null;
+    }
+  }
+
   // ---------- GitHub API ----------
   async function gh(method, apiPath, body) {
     const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${apiPath}`;
@@ -256,8 +306,6 @@
     return { notFound: false, entries: data };
   }
 
-  // 写操作后等待 GitHub 让新数据生效，然后再请求列表
-  // expectName：我们期望在列表中看到的条目名称（可选）
   async function listFolderAfterWrite(apiPath, expectName) {
     const MAX_TRIES = 8;
     let last = null;
@@ -266,7 +314,6 @@
       last = res;
       if (!expectName) return res;
       if (res.entries.some(e => e.name === expectName)) return res;
-      // 等待递增的延迟
       await new Promise(r => setTimeout(r, 300 + i * 250));
     }
     return last;
@@ -304,7 +351,6 @@
     }
   }
 
-  // ---------- 下载 ----------
   async function downloadFile(entry) {
     try {
       toast(`⬇️ 正在下载 ${entry.name}…`);
@@ -393,11 +439,12 @@
       let html = '';
       for (const entry of visibleEntries) {
         const isFolder = entry.type === 'dir';
+        // 先用占位符，缩略图稍后异步替换
         let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
-
+        let thumbPlaceholder = '';
         if (!isFolder && isImageName(entry.name)) {
-          const rawUrl = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${config.branch}/${entry.path}`;
-          thumb = `<img class="item-thumb" src="${rawUrl}" loading="lazy" onerror="this.outerHTML='<span class=\\'item-icon\\'>🖼️</span>'">`;
+          thumbPlaceholder = `<span class="item-thumb thumb-placeholder" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}"></span>`;
+          thumb = thumbPlaceholder;
         }
 
         html += `
@@ -414,6 +461,7 @@
       }
       fileListEl.innerHTML = html;
 
+      // 给文件夹/文件绑定事件
       fileListEl.querySelectorAll('.open-folder').forEach(b =>
         b.addEventListener('click', e => { e.stopPropagation(); openFolder(b.dataset.folder); }));
 
@@ -436,6 +484,29 @@
           if (e.target.closest('.icon-btn')) return;
           if (el.dataset.type === 'dir') openFolder(el.dataset.name);
         }));
+
+      // 异步加载每个缩略图（用 API，避免 raw.githubusercontent CDN 延迟）
+      fileListEl.querySelectorAll('.thumb-placeholder').forEach(async ph => {
+        const path = ph.dataset.path;
+        const sha = ph.dataset.sha;
+        const entry = visibleEntries.find(e => e.path === path);
+        if (!entry) return;
+        const url = await getThumbUrl(entry);
+        if (url) {
+          const img = document.createElement('img');
+          img.className = 'item-thumb';
+          img.src = url;
+          img.loading = 'lazy';
+          img.alt = '';
+          ph.replaceWith(img);
+        } else {
+          // 无法获取 → 用通用图标
+          const span = document.createElement('span');
+          span.className = 'item-icon';
+          span.textContent = '🖼️';
+          ph.replaceWith(span);
+        }
+      });
     } catch (err) {
       fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
     }
@@ -548,7 +619,6 @@
         branch: config.branch
       });
       toast(`📁 已创建 ${n}/`);
-      // ← 关键修复：等待 GitHub 让新文件夹出现在列表里
       await render({ expectName: n });
     } catch (e) { toast('失败：' + e.message, true); }
   }
@@ -628,65 +698,6 @@
 
     if (added > 0) {
       toast(`⬆️ 已上传 ${added} 个文件`);
-      // ← 关键修复：等待 GitHub 让新文件出现在列表里
       await render({ expectName: lastName });
     }
-    if (errors.length) toast(`⚠️ ${errors.length} 个失败：${errors[0]}`, true);
-  }
-
-  newFolderBtn.addEventListener('click', createNewFolder);
-  uploadImgBtn.addEventListener('click', () => imageInput.click());
-  uploadTxtBtn.addEventListener('click', () => txtInput.click());
-  settingsBtn.addEventListener('click', () => renderSettings('edit'));
-
-  imageInput.addEventListener('change', async e => {
-    if (e.target.files?.length) await uploadFiles(e.target.files, 'image');
-    imageInput.value = '';
-  });
-  txtInput.addEventListener('change', async e => {
-    if (e.target.files?.length) await uploadFiles(e.target.files, 'txt');
-    txtInput.value = '';
-  });
-
-  fileListEl.addEventListener('dragover', e => {
-    e.preventDefault();
-    if (config.token) fileListEl.classList.add('drag-over');
-  });
-  fileListEl.addEventListener('dragleave', e => {
-    if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
-  });
-  fileListEl.addEventListener('drop', async e => {
-    e.preventDefault();
-    fileListEl.classList.remove('drag-over');
-    if (!config.token) return;
-    const files = e.dataTransfer.files;
-    if (!files?.length) return;
-    const arr = Array.from(files);
-    const imgs = arr.filter(f => f.type.startsWith('image/'));
-    const txts = arr.filter(f => f.type === 'text/plain' || /\.txt$/i.test(f.name));
-    if (imgs.length) await uploadFiles(imgs, 'image');
-    if (txts.length) await uploadFiles(txts, 'txt');
-    const other = arr.length - imgs.length - txts.length;
-    if (other > 0) toast(`${other} 个不支持的文件已跳过`, true);
-  });
-
-  (async function init() {
-    loadConfig();
-    if (!config.token) {
-      setConnected(false);
-      renderSettings('first-time');
-      return;
-    }
-    const ok = await testConnection();
-    if (ok) {
-      setConnected(true);
-      await render();
-    } else {
-      setConnected(false);
-      renderSettings('first-time');
-    }
-  })();
-})();
-</script>
-</body>
-</html>
+    if (errors.length
