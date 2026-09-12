@@ -228,13 +228,14 @@
 
         // 生成带缓存破除参数的 raw 图片地址
         // 用 sha 作为版本号 —— 每次更新后 sha 会变，浏览器会重新拉取
+        // 对中文/空格等字符做 URL 编码
         function rawImageUrl(entry) {
-            const base = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${config.branch}/${entry.path}`;
+            const encodedPath = entry.path.split('/').map(encodeURIComponent).join('/');
+            const base = `https://raw.githubusercontent.com/${encodeURIComponent(config.owner)}/${encodeURIComponent(config.repo)}/${encodeURIComponent(config.branch)}/${encodedPath}`;
             const version = entry.sha ? entry.sha.slice(0, 12) : Date.now();
             return `${base}?v=${version}`;
         }
 
-        // ---------- GitHub API ----------
         async function gh(method, apiPath, body) {
             const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${apiPath}`;
             const headers = {
@@ -396,9 +397,10 @@
                     let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
 
                     if (!isFolder && isImageName(entry.name)) {
-                        // ← 缓存破除：每次都用 sha 生成全新的 URL
+                        // ← 使用带 sha 的缓存破除 URL
                         const imgUrl = rawImageUrl(entry);
-                        thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy" onerror="this.outerHTML='<span class=\\'item-icon\\'>🖼️</span>'">`;
+                        thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy"
+                    onerror="this.outerHTML='<span class=\\'item-icon\\' title=\\'图片加载失败\\'>🖼️</span>'; console.warn('图片加载失败:', '${esc(imgUrl)}');">`;
                     }
 
                     html += `
