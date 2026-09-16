@@ -322,9 +322,9 @@
         }
 
         // ---------- GitHub API ----------
-        // 修复：分离路径和查询字符串，避免把 ?ref=main 也编码进去
+        // 修复 1：分离路径和查询字符串，避免把 ?ref=main 也编码进去
+        // 修复 2：区分真正的权限错误 vs 限流；限流错误显示为"请求过于频繁"
         async function gh(method, apiPath, body, { auth = false } = {}) {
-            // 拆分 path 和 query
             let path = apiPath;
             let query = '';
             const qIndex = apiPath.indexOf('?');
@@ -332,7 +332,6 @@
                 path = apiPath.slice(0, qIndex);
                 query = apiPath.slice(qIndex);
             }
-            // 只对路径的每一段做 URL 编码，保留 / 分隔符
             const encodedPath = path.split('/').map(encodeURIComponent).join('/');
             const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${encodedPath}${query}`;
 
@@ -351,14 +350,29 @@
             }
             const res = await fetch(url, opts);
             if (res.status === 404) return { __notFound: true };
-            if (res.status === 401) {
-                saveToken('');
-                throw new Error('Token 无效或已过期，已自动退出登录');
-            }
-            if (res.status === 403) throw new Error('Token 权限不足');
+
             if (!res.ok) {
-                let msg = res.statusText;
-                try { const j = await res.json(); msg = j.message || msg; } catch {}
+                let errBody = {};
+                try { errBody = await res.json(); } catch {}
+                const msg = errBody.message || res.statusText;
+
+                if (res.status === 401) {
+                    saveToken('');
+                    throw new Error('Token 无效或已过期，已自动退出登录');
+                }
+                if (res.status === 403) {
+                    // 区分限流 vs 真权限不足
+                    const isRateLimit = /rate limit|secondary rate limit|abuse/i.test(msg)
+                        || res.headers.get('x-ratelimit-remaining') === '0';
+                    if (isRateLimit) {
+                        throw new Error('GitHub 请求过于频繁，请稍后再试：' + msg);
+                    }
+                    throw new Error('权限不足：' + msg);
+                }
+                if (res.status === 409 || res.status === 422) {
+                    // 冲突 / SHA 不匹配 —— 通常是重试时的瞬时问题
+                    throw new Error('数据冲突（可能是缓存延迟），请重试：' + msg);
+                }
                 throw new Error(msg);
             }
             return res.json();
@@ -371,18 +385,27 @@
             return { notFound: false, entries: data };
         }
 
+        // 修复 3：重试循环吞掉瞬时错误（限流、传播延迟）继续尝试，不中断整个 render
         async function listFolderAfterWrite(apiPath, { expectName, absentName } = {}) {
             const MAX_TRIES = 8;
             let last = null;
+            let lastErr = null;
             for (let i = 0; i < MAX_TRIES; i++) {
-                const res = await listFolder(apiPath);
-                last = res;
-                if (absentName && !res.entries.some(e => e.name === absentName)) return res;
-                if (expectName && res.entries.some(e => e.name === expectName)) return res;
-                if (!expectName && !absentName) return res;
-                await new Promise(r => setTimeout(r, 300 + i * 250));
+                try {
+                    const res = await listFolder(apiPath);
+                    last = res;
+                    if (absentName && !res.entries.some(e => e.name === absentName)) return res;
+                    if (expectName && res.entries.some(e => e.name === expectName)) return res;
+                    if (!expectName && !absentName) return res;
+                } catch (e) {
+                    lastErr = e;
+                    console.warn('listFolder 重试失败：', e.message);
+                }
+                await new Promise(r => setTimeout(r, 500 + i * 400));
             }
-            return last;
+            if (last) return last;
+            if (lastErr) throw lastErr;
+            return await listFolder(apiPath);
         }
 
         function fileToBase64(file) {
@@ -765,7 +788,6 @@
             await render();
         })();
     })();
-    // blah
 </script>
 </body>
 </html>
