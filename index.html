@@ -23,10 +23,6 @@
         .repo-info { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
         .repo-icon { font-size: 2rem; }
         .repo-info h1 { font-size: 1.15rem; font-weight: 600; color: #0f172a; }
-        .branch {
-            background: #eef2f6; padding: 0.25rem 0.75rem; border-radius: 40px;
-            font-size: 0.8rem; font-weight: 500; color: #334155;
-        }
         .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
         .btn {
             display: inline-flex; align-items: center; gap: 0.5rem;
@@ -348,7 +344,6 @@
                 logoutBtn.style.display = 'none';
             }
             repoTitle.textContent = TARGET_ROOT;
-            branchLabel.textContent = REPO.branch;
         }
 
         // ---------- 小工具 ----------
