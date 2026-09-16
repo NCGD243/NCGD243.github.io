@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="/favicon.ico">
-    <title>部件目录</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <title>主页 👑 管理员</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -21,7 +21,12 @@
             justify-content: space-between; gap: 1rem;
         }
         .repo-info { display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
-        .repo-icon { font-size: 2rem; }
+        .repo-icon-img {
+            width: 32px; height: 32px;
+            object-fit: contain;
+            display: block;
+            flex-shrink: 0;
+        }
         .repo-info h1 { font-size: 1.15rem; font-weight: 600; color: #0f172a; }
         .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
         .btn {
@@ -194,7 +199,7 @@
 <div class="app" id="app">
     <div class="toolbar">
         <div class="repo-info">
-            <span class="repo-icon">📁</span>
+            <img class="repo-icon-img" src="/favicon.png" alt="">
             <h1 id="repoTitle">主页</h1>
             <span class="admin-badge admin-only"><span>👑</span> 管理员</span>
         </div>
@@ -562,7 +567,6 @@
 
         // ---------- 打开文件 ----------
         function openImageInNewTab(entry) {
-            // 直接用 raw URL —— 浏览器新标签页会自己处理图片
             const url = rawImageUrlNoCache(entry);
             window.open(url, '_blank', 'noopener');
         }
@@ -626,7 +630,6 @@
                 openTextPreview(entry);
                 return;
             }
-            // 其他文件类型：直接下载
             downloadFile(entry);
         }
 
@@ -751,7 +754,6 @@
                             sha: el.dataset.sha,
                             path: el.dataset.path
                         };
-                        // 找回原 entry 以获取 size 等字段
                         const full = entriesCache.find(x => x.path === el.dataset.path) || entry;
                         handleDoubleClick(full);
                     }));
