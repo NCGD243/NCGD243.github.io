@@ -73,6 +73,7 @@
             margin: 0.15rem 0; border-radius: 14px; border: 1px solid transparent;
         }
         .item:hover { background: #f8fafd; border-color: #e2e8f0; }
+        .item.openable { cursor: pointer; }
         .item-icon { font-size: 1.4rem; margin-right: 0.9rem; width: 1.8rem; text-align: center; }
         .item-name { flex: 1; font-weight: 500; color: #0f172a; word-break: break-word; }
         .item-name.folder { color: #0f3b7a; font-weight: 600; }
@@ -155,6 +156,41 @@
             font-size: 0.78rem; font-weight: 600;
             display: inline-flex; align-items: center; gap: 0.3rem;
         }
+
+        /* 文本预览模态框 */
+        .text-modal {
+            background: white; border-radius: 20px;
+            max-width: 780px; width: 100%; max-height: 85vh;
+            display: flex; flex-direction: column;
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.35);
+            overflow: hidden;
+        }
+        .text-modal-header {
+            padding: 1rem 1.5rem; border-bottom: 1px solid #e9eef3;
+            display: flex; align-items: center; justify-content: space-between;
+            gap: 1rem; flex-shrink: 0;
+        }
+        .text-modal-header h3 {
+            font-size: 1rem; margin: 0; color: #0f172a;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .text-modal-header .actions { display: flex; gap: 0.5rem; }
+        .text-modal-body {
+            padding: 1.25rem 1.5rem; overflow: auto; flex: 1;
+            background: #fafcff;
+        }
+        .text-modal-body pre {
+            font-family: 'SF Mono', Menlo, Consolas, 'Courier New', monospace;
+            font-size: 0.85rem; line-height: 1.55;
+            white-space: pre-wrap; word-break: break-word;
+            color: #1e293b; margin: 0;
+        }
+        .text-modal-body .loading {
+            text-align: center; color: #94a3b8; font-style: italic;
+        }
+        .text-modal-body .error {
+            color: #b91c1c;
+        }
     </style>
 </head>
 <body>
@@ -208,16 +244,36 @@
     </div>
 </div>
 
+<!-- 文本预览对话框 -->
+<div class="modal-backdrop" id="textModal">
+    <div class="text-modal">
+        <div class="text-modal-header">
+            <h3 id="textModalTitle">文本预览</h3>
+            <div class="actions">
+                <button class="btn" id="textModalDownloadBtn"><span>⬇️</span> 下载</button>
+                <button class="btn" id="textModalCloseBtn">关闭</button>
+            </div>
+        </div>
+        <div class="text-modal-body" id="textModalBody">
+            <div class="loading">正在加载…</div>
+        </div>
+    </div>
+</div>
+
 <script>
     (function() {
         // ================================================================
         // 主页 文件管理器 —— 混合模式
         //
-        // - 只读：无需登录。任何访客都能浏览、下载。
+        // - 只读：无需登录。任何访客都能浏览、下载、双击预览。
         // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
         //   Token 存在 localStorage，之后打开此浏览器自动保持登录。
         //
         // 目标文件夹：仓库根目录下的 "主页" 文件夹
+        // 双击行为：
+        //   - 文件夹 → 进入文件夹
+        //   - 图片   → 新标签页打开原图
+        //   - 文本   → 弹出预览框显示内容
         // ================================================================
 
         const TARGET_ROOT = '主页';
@@ -254,6 +310,14 @@
         const loginTokenInput = $('loginTokenInput');
         const loginCancelBtn = $('loginCancelBtn');
         const loginConfirmBtn = $('loginConfirmBtn');
+
+        const textModal = $('textModal');
+        const textModalTitle = $('textModalTitle');
+        const textModalBody = $('textModalBody');
+        const textModalCloseBtn = $('textModalCloseBtn');
+        const textModalDownloadBtn = $('textModalDownloadBtn');
+
+        let currentTextEntry = null;
 
         // ---------- 登录状态 ----------
         function isAdmin() { return !!token; }
@@ -308,6 +372,7 @@
             return (b / 1048576).toFixed(2) + ' MB';
         }
         function isImageName(n) { return /\.(jpe?g|png|gif|webp|svg|bmp|ico|avif)$/i.test(n); }
+        function isTextName(n) { return /\.(txt|md|json|js|css|html|htm|xml|yml|yaml|log|csv|tsv|ini|conf)$/i.test(n); }
         function isHiddenFile(n) { return n.startsWith('.'); }
 
         function fullPath(relParts) {
@@ -321,9 +386,13 @@
             return `${base}?v=${version}`;
         }
 
+        // 用于在新标签页打开原图（带缓存破除）
+        function rawImageUrlNoCache(entry) {
+            const encodedPath = entry.path.split('/').map(encodeURIComponent).join('/');
+            return `https://raw.githubusercontent.com/${encodeURIComponent(REPO.owner)}/${encodeURIComponent(REPO.repo)}/${encodeURIComponent(REPO.branch)}/${encodedPath}?t=${Date.now()}`;
+        }
+
         // ---------- GitHub API ----------
-        // 修复 1：分离路径和查询字符串，避免把 ?ref=main 也编码进去
-        // 修复 2：区分真正的权限错误 vs 限流；限流错误显示为"请求过于频繁"
         async function gh(method, apiPath, body, { auth = false } = {}) {
             let path = apiPath;
             let query = '';
@@ -361,7 +430,6 @@
                     throw new Error('Token 无效或已过期，已自动退出登录');
                 }
                 if (res.status === 403) {
-                    // 区分限流 vs 真权限不足
                     const isRateLimit = /rate limit|secondary rate limit|abuse/i.test(msg)
                         || res.headers.get('x-ratelimit-remaining') === '0';
                     if (isRateLimit) {
@@ -370,7 +438,6 @@
                     throw new Error('权限不足：' + msg);
                 }
                 if (res.status === 409 || res.status === 422) {
-                    // 冲突 / SHA 不匹配 —— 通常是重试时的瞬时问题
                     throw new Error('数据冲突（可能是缓存延迟），请重试：' + msg);
                 }
                 throw new Error(msg);
@@ -385,7 +452,6 @@
             return { notFound: false, entries: data };
         }
 
-        // 修复 3：重试循环吞掉瞬时错误（限流、传播延迟）继续尝试，不中断整个 render
         async function listFolderAfterWrite(apiPath, { expectName, absentName } = {}) {
             const MAX_TRIES = 8;
             let last = null;
@@ -418,6 +484,28 @@
                 r.onerror = () => reject(r.error);
                 r.readAsDataURL(file);
             });
+        }
+
+        // base64 → UTF-8 文本
+        function base64ToText(b64) {
+            try {
+                const clean = b64.replace(/\n/g, '');
+                const binary = atob(clean);
+                const bytes = new Uint8Array(binary.length);
+                for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+                return new TextDecoder('utf-8').decode(bytes);
+            } catch (e) {
+                return null;
+            }
+        }
+
+        // base64 → Blob（用于下载）
+        function base64ToBlob(b64) {
+            const clean = b64.replace(/\n/g, '');
+            const binary = atob(clean);
+            const bytes = new Uint8Array(binary.length);
+            for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+            return new Blob([bytes], { type: 'application/octet-stream' });
         }
 
         // ---------- 登录对话框 ----------
@@ -478,17 +566,83 @@
             }
         }
 
+        // ---------- 打开文件 ----------
+        function openImageInNewTab(entry) {
+            // 直接用 raw URL —— 浏览器新标签页会自己处理图片
+            const url = rawImageUrlNoCache(entry);
+            window.open(url, '_blank', 'noopener');
+        }
+
+        async function openTextPreview(entry) {
+            currentTextEntry = entry;
+            textModalTitle.textContent = entry.name;
+            textModalBody.innerHTML = `<div class="loading">正在加载…</div>`;
+            textModal.classList.add('show');
+
+            try {
+                const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(REPO.branch)}`);
+                if (data.__notFound || !data.content) throw new Error('内容不可用');
+
+                const text = base64ToText(data.content);
+                if (text === null) throw new Error('无法解码文本');
+
+                textModalBody.innerHTML = `<pre>${esc(text)}</pre>`;
+            } catch (e) {
+                console.error(e);
+                textModalBody.innerHTML = `<div class="error">加载失败：${esc(e.message)}</div>`;
+            }
+        }
+
+        function closeTextModal() {
+            textModal.classList.remove('show');
+            currentTextEntry = null;
+            textModalBody.innerHTML = '';
+        }
+
+        async function downloadCurrentText() {
+            if (!currentTextEntry) return;
+            try {
+                const data = await gh('GET', `${currentTextEntry.path}?ref=${encodeURIComponent(REPO.branch)}`);
+                if (data.__notFound || !data.content) throw new Error('内容不可用');
+                const blob = base64ToBlob(data.content);
+                const blobUrl = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = blobUrl;
+                a.download = currentTextEntry.name;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
+            } catch (e) {
+                toast('下载失败：' + e.message, true);
+            }
+        }
+
+        // 双击条目
+        function handleDoubleClick(entry) {
+            if (entry.type === 'dir') {
+                openFolder(entry.name);
+                return;
+            }
+            if (isImageName(entry.name)) {
+                openImageInNewTab(entry);
+                return;
+            }
+            if (isTextName(entry.name)) {
+                openTextPreview(entry);
+                return;
+            }
+            // 其他文件类型：直接下载
+            downloadFile(entry);
+        }
+
         // ---------- 下载 ----------
         async function downloadFile(entry) {
             try {
                 toast(`⬇️ 正在下载 ${entry.name}…`);
                 const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(REPO.branch)}`);
                 if (data.__notFound || !data.content) throw new Error('内容不可用');
-                const cleanBase64 = data.content.replace(/\n/g, '');
-                const binary = atob(cleanBase64);
-                const bytes = new Uint8Array(binary.length);
-                for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
-                const blob = new Blob([bytes], { type: 'application/octet-stream' });
+                const blob = base64ToBlob(data.content);
 
                 const blobUrl = URL.createObjectURL(blob);
                 const a = document.createElement('a');
@@ -552,16 +706,20 @@
                 let html = '';
                 for (const entry of visibleEntries) {
                     const isFolder = entry.type === 'dir';
+                    const isImage = !isFolder && isImageName(entry.name);
+                    const isText = !isFolder && isTextName(entry.name);
+                    const openable = isFolder || isImage || isText;
+
                     let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
 
-                    if (!isFolder && isImageName(entry.name)) {
+                    if (isImage) {
                         const imgUrl = rawImageUrl(entry);
                         thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy"
                     onerror="this.outerHTML='<span class=\\'item-icon\\' title=\\'图片加载失败\\'>🖼️</span>'; console.warn('图片加载失败:', '${esc(imgUrl)}');">`;
                     }
 
                     html += `
-          <div class="item" data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
+          <div class="item ${openable ? 'openable' : ''}" data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
             ${thumb}
             <span class="item-name ${isFolder ? 'folder' : ''}">${esc(entry.name)}</span>
             ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
@@ -593,7 +751,15 @@
                 fileListEl.querySelectorAll('.item').forEach(el =>
                     el.addEventListener('dblclick', e => {
                         if (e.target.closest('.icon-btn')) return;
-                        if (el.dataset.type === 'dir') openFolder(el.dataset.name);
+                        const entry = {
+                            name: el.dataset.name,
+                            type: el.dataset.type,
+                            sha: el.dataset.sha,
+                            path: el.dataset.path
+                        };
+                        // 找回原 entry 以获取 size 等字段
+                        const full = entriesCache.find(x => x.path === el.dataset.path) || entry;
+                        handleDoubleClick(full);
                     }));
             } catch (err) {
                 fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
@@ -779,6 +945,18 @@
             if (txts.length) await uploadFiles(txts, 'txt');
             const other = arr.length - imgs.length - txts.length;
             if (other > 0) toast(`${other} 个不支持的文件已跳过`, true);
+        });
+
+        // 文本模态框事件
+        textModalCloseBtn.addEventListener('click', closeTextModal);
+        textModal.addEventListener('click', e => {
+            if (e.target === textModal) closeTextModal();
+        });
+        textModalDownloadBtn.addEventListener('click', downloadCurrentText);
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && textModal.classList.contains('show')) {
+                closeTextModal();
+            }
         });
 
         // ---------- 启动 ----------
