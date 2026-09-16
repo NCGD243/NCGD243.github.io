@@ -322,9 +322,20 @@
         }
 
         // ---------- GitHub API ----------
+        // 修复：分离路径和查询字符串，避免把 ?ref=main 也编码进去
         async function gh(method, apiPath, body, { auth = false } = {}) {
-            const encodedApiPath = apiPath.split('/').map(encodeURIComponent).join('/');
-            const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${encodedApiPath}`;
+            // 拆分 path 和 query
+            let path = apiPath;
+            let query = '';
+            const qIndex = apiPath.indexOf('?');
+            if (qIndex !== -1) {
+                path = apiPath.slice(0, qIndex);
+                query = apiPath.slice(qIndex);
+            }
+            // 只对路径的每一段做 URL 编码，保留 / 分隔符
+            const encodedPath = path.split('/').map(encodeURIComponent).join('/');
+            const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${encodedPath}${query}`;
+
             const headers = {
                 'Accept': 'application/vnd.github+json',
                 'X-GitHub-Api-Version': '2022-11-28'
