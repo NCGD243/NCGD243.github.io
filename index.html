@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📁 src 文件管理器</title>
+    <title>📁 主页 文件管理器</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
@@ -26,7 +26,7 @@
             background: #eef2f6; padding: 0.25rem 0.75rem; border-radius: 40px;
             font-size: 0.8rem; font-weight: 500; color: #334155;
         }
-        .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+        .actions { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
         .btn {
             display: inline-flex; align-items: center; gap: 0.5rem;
             background: #f1f5f9; padding: 0.55rem 1rem; border-radius: 40px;
@@ -38,6 +38,18 @@
         .btn-primary { background: #1e293b; color: white; border-color: #1e293b; }
         .btn-primary:hover { background: #0f172a; }
         .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .btn-login {
+            background: #dbeafe; color: #1e40af; border-color: #bfdbfe;
+        }
+        .btn-login:hover { background: #bfdbfe; }
+        .btn-logout {
+            background: #fee2e2; color: #991b1b; border-color: #fecaca;
+        }
+        .btn-logout:hover { background: #fecaca; }
+
+        /* 隐藏未登录时的写入按钮 */
+        .app:not(.is-admin) .admin-only { display: none !important; }
+
         .path-bar {
             padding: 0.75rem 1.5rem; background: #fafcff; border-bottom: 1px solid #e9eef3;
             font-size: 0.9rem; font-weight: 500; display: flex;
@@ -82,7 +94,7 @@
             background: #1e293b; color: white; padding: 0.7rem 1.5rem;
             border-radius: 40px; font-size: 0.9rem; font-weight: 500;
             box-shadow: 0 10px 20px rgba(0,0,0,0.2); opacity: 0;
-            transition: opacity 0.2s; pointer-events: none; z-index: 100; max-width: 90vw;
+            transition: opacity 0.2s; pointer-events: none; z-index: 300; max-width: 90vw;
             text-align: center;
         }
         .toast.show { opacity: 1; }
@@ -94,7 +106,8 @@
         }
         .status-badge { display: inline-flex; align-items: center; gap: 0.3rem; }
         .status-dot { width: 8px; height: 8px; border-radius: 50%; background: #94a3b8; }
-        .status-dot.connected { background: #22c55e; }
+        .status-dot.readonly { background: #f59e0b; }
+        .status-dot.admin { background: #22c55e; }
         .loading-state { text-align: center; padding: 3rem 1rem; color: #64748b; }
         .item-thumb {
             width: 36px; height: 36px; object-fit: cover; border-radius: 8px;
@@ -105,49 +118,76 @@
         }
         .panel h2 { font-size: 1.25rem; margin-bottom: 0.75rem; color: #0f172a; }
         .panel p { color: #64748b; margin-bottom: 1.25rem; font-size: 0.9rem; }
-        .panel .field { text-align: left; margin-bottom: 1rem; }
-        .panel label {
-            display: block; font-size: 0.8rem; font-weight: 600; color: #334155;
-            margin-bottom: 0.35rem;
-        }
-        .panel input[type=text], .panel input[type=password] {
-            width: 100%; padding: 0.6rem 0.85rem; border: 1px solid #cbd5e1;
-            border-radius: 10px; font-size: 0.9rem; font-family: inherit;
-            background: #f8fafc; color: #0f172a;
-        }
-        .panel input:focus { outline: 2px solid #3b82f6; outline-offset: -1px; background: white; }
-        .panel .row { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem; }
-        .panel .hint { font-size: 0.78rem; color: #94a3b8; margin-top: 0.5rem; }
         .panel code { background: #eef2f6; padding: 0.1rem 0.35rem; border-radius: 4px; }
         .panel a { color: #2563eb; }
         .icon-btn.download-btn:hover { background: #dcfce7; color: #166534; }
+
+        /* modal */
+        .modal-backdrop {
+            position: fixed; inset: 0; background: rgba(15, 23, 42, 0.55);
+            display: none; align-items: center; justify-content: center;
+            z-index: 200; padding: 1.5rem;
+        }
+        .modal-backdrop.show { display: flex; }
+        .modal {
+            background: white; border-radius: 20px; padding: 1.75rem;
+            max-width: 480px; width: 100%;
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.35);
+        }
+        .modal h3 { font-size: 1.1rem; margin-bottom: 0.5rem; color: #0f172a; }
+        .modal p { font-size: 0.85rem; color: #64748b; margin-bottom: 1.25rem; }
+        .modal .field { margin-bottom: 1rem; }
+        .modal label {
+            display: block; font-size: 0.8rem; font-weight: 600;
+            color: #334155; margin-bottom: 0.35rem;
+        }
+        .modal input {
+            width: 100%; padding: 0.6rem 0.85rem; border: 1px solid #cbd5e1;
+            border-radius: 10px; font-size: 0.9rem; font-family: inherit;
+            background: #f8fafc;
+        }
+        .modal input:focus { outline: 2px solid #3b82f6; outline-offset: -1px; background: white; }
+        .modal .hint { font-size: 0.75rem; color: #94a3b8; margin-top: 0.4rem; }
+        .modal .row { display: flex; gap: 0.6rem; justify-content: flex-end; margin-top: 1.25rem; }
+        .modal a { color: #2563eb; }
+        .modal code { background: #eef2f6; padding: 0.1rem 0.35rem; border-radius: 4px; font-size: 0.85rem; }
+
+        /* admin badge */
+        .admin-badge {
+            background: #dcfce7; color: #166534; border: 1px solid #86efac;
+            padding: 0.3rem 0.75rem; border-radius: 40px;
+            font-size: 0.78rem; font-weight: 600;
+            display: inline-flex; align-items: center; gap: 0.3rem;
+        }
     </style>
 </head>
 <body>
-<div class="app">
+<div class="app" id="app">
     <div class="toolbar">
         <div class="repo-info">
             <span class="repo-icon">📁</span>
-            <h1 id="repoTitle">src</h1>
+            <h1 id="repoTitle">主页</h1>
             <span class="branch" id="branchLabel">main</span>
+            <span class="admin-badge admin-only"><span>👑</span> 管理员</span>
         </div>
         <div class="actions">
-            <button class="btn" id="newFolderBtn" disabled><span>📁+</span> 新建文件夹</button>
-            <button class="btn" id="uploadTxtBtn" disabled><span>📄</span> 上传文本</button>
-            <button class="btn btn-primary" id="uploadImgBtn" disabled><span>🖼️</span> 上传图片</button>
-            <button class="btn" id="settingsBtn" title="设置">⚙️</button>
+            <button class="btn admin-only" id="newFolderBtn"><span>📁+</span> 新建文件夹</button>
+            <button class="btn admin-only" id="uploadTxtBtn"><span>📄</span> 上传文本</button>
+            <button class="btn btn-primary admin-only" id="uploadImgBtn"><span>🖼️</span> 上传图片</button>
+            <button class="btn btn-login" id="loginBtn"><span>🔑</span> 管理员登录</button>
+            <button class="btn btn-logout admin-only" id="logoutBtn"><span>🚪</span> 退出登录</button>
         </div>
     </div>
 
-    <div class="path-bar" id="pathBar"><span class="crumb">📁 src</span></div>
+    <div class="path-bar" id="pathBar"><span class="crumb">📁 主页</span></div>
     <div class="file-list" id="fileList"></div>
 
     <div class="footnote">
     <span class="status-badge">
-      <span class="status-dot" id="statusDot"></span>
-      <span id="statusText">未连接</span>
+      <span class="status-dot readonly" id="statusDot"></span>
+      <span id="statusText">只读模式 · 任何人可浏览</span>
     </span>
-        <span>⚡ 直接读写你的 GitHub 仓库</span>
+        <span>⚡ 只读无需登录；写入需要管理员登录</span>
     </div>
 </div>
 
@@ -155,22 +195,62 @@
 <input type="file" id="txtInput" multiple accept=".txt,text/plain">
 <div class="toast" id="toast"></div>
 
+<!-- 登录对话框 -->
+<div class="modal-backdrop" id="loginModal">
+    <div class="modal">
+        <h3>🔑 管理员登录</h3>
+        <p>输入 GitHub Personal Access Token 以解锁写入权限（上传、删除、新建文件夹）。
+            登录状态会保存在此浏览器中，之后打开无需再次输入。</p>
+        <div class="field">
+            <label>Personal Access Token</label>
+            <input type="password" id="loginTokenInput" placeholder="github_pat_..." autocomplete="off">
+            <div class="hint">
+                在
+                <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens</a>
+                创建细粒度 Token（仅限本仓库，<code>Contents: Read and write</code>）。
+            </div>
+        </div>
+        <div class="row">
+            <button class="btn" id="loginCancelBtn">取消</button>
+            <button class="btn btn-primary" id="loginConfirmBtn">登录</button>
+        </div>
+    </div>
+</div>
+
 <script>
     (function() {
-        const SRC_ROOT = 'src';
-        const LS_KEY = 'gh-src-explorer-v1';
+        // ================================================================
+        // 主页 文件管理器 —— 混合模式
+        //
+        // - 只读：无需登录。任何访客都能浏览、下载。
+        // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
+        //   Token 存在 localStorage，之后打开此浏览器自动保持登录。
+        //
+        // 目标文件夹：仓库根目录下的 "主页" 文件夹
+        // ================================================================
 
-        let config = { owner: 'NCGD243', repo: '', branch: 'main', token: '' };
+        const TARGET_ROOT = '主页';
+        const LS_TOKEN = 'gh-explorer-token-v1';
+
+        const REPO = {
+            owner: 'NCGD243',
+            repo:  'NCGD243.github.io',
+            branch: 'main'
+        };
+
+        let token = '';
         let currentPath = [];
         let entriesCache = [];
 
         const $ = id => document.getElementById(id);
+        const app = $('app');
         const fileListEl = $('fileList');
         const pathBar = $('pathBar');
         const newFolderBtn = $('newFolderBtn');
         const uploadTxtBtn = $('uploadTxtBtn');
         const uploadImgBtn = $('uploadImgBtn');
-        const settingsBtn = $('settingsBtn');
+        const loginBtn = $('loginBtn');
+        const logoutBtn = $('logoutBtn');
         const imageInput = $('imageInput');
         const txtInput = $('txtInput');
         const toastEl = $('toast');
@@ -179,18 +259,45 @@
         const repoTitle = $('repoTitle');
         const branchLabel = $('branchLabel');
 
-        function loadConfig() {
-            try {
-                const raw = localStorage.getItem(LS_KEY);
-                if (raw) config = { ...config, ...JSON.parse(raw) };
-            } catch {}
+        const loginModal = $('loginModal');
+        const loginTokenInput = $('loginTokenInput');
+        const loginCancelBtn = $('loginCancelBtn');
+        const loginConfirmBtn = $('loginConfirmBtn');
+
+        // ---------- 登录状态 ----------
+        function isAdmin() { return !!token; }
+
+        function loadToken() {
+            token = localStorage.getItem(LS_TOKEN) || '';
         }
-        function saveConfig() { localStorage.setItem(LS_KEY, JSON.stringify(config)); }
-        function clearConfig() {
-            localStorage.removeItem(LS_KEY);
-            config = { owner: '', repo: '', branch: 'main', token: '' };
+        function saveToken(t) {
+            token = t || '';
+            if (token) localStorage.setItem(LS_TOKEN, token);
+            else localStorage.removeItem(LS_TOKEN);
+            updateAuthUI();
         }
 
+        function updateAuthUI() {
+            if (isAdmin()) {
+                app.classList.add('is-admin');
+                statusDot.classList.remove('readonly');
+                statusDot.classList.add('admin');
+                statusText.textContent = '管理员模式 · 可写入';
+                loginBtn.style.display = 'none';
+                logoutBtn.style.display = '';
+            } else {
+                app.classList.remove('is-admin');
+                statusDot.classList.remove('admin');
+                statusDot.classList.add('readonly');
+                statusText.textContent = '只读模式 · 任何人可浏览';
+                loginBtn.style.display = '';
+                logoutBtn.style.display = 'none';
+            }
+            repoTitle.textContent = `${REPO.repo} / ${TARGET_ROOT}`;
+            branchLabel.textContent = REPO.branch;
+        }
+
+        // ---------- 小工具 ----------
         function toast(msg, isError = false) {
             toastEl.textContent = msg;
             toastEl.classList.toggle('error', isError);
@@ -212,37 +319,30 @@
         function isImageName(n) { return /\.(jpe?g|png|gif|webp|svg|bmp|ico|avif)$/i.test(n); }
         function isHiddenFile(n) { return n.startsWith('.'); }
 
-        function setConnected(v) {
-            statusDot.classList.toggle('connected', v);
-            statusText.textContent = v ? `已连接 · ${config.owner}/${config.repo}` : '未连接';
-            newFolderBtn.disabled = !v;
-            uploadTxtBtn.disabled = !v;
-            uploadImgBtn.disabled = !v;
-            repoTitle.textContent = v ? `${config.repo} / ${SRC_ROOT}` : SRC_ROOT;
-            branchLabel.textContent = v ? config.branch : 'main';
-        }
-
         function fullPath(relParts) {
-            return [SRC_ROOT, ...relParts].join('/');
+            return [TARGET_ROOT, ...relParts].join('/');
         }
 
-        // 生成带缓存破除参数的 raw 图片地址
-        // 用 sha 作为版本号 —— 每次更新后 sha 会变，浏览器会重新拉取
-        // 对中文/空格等字符做 URL 编码
         function rawImageUrl(entry) {
             const encodedPath = entry.path.split('/').map(encodeURIComponent).join('/');
-            const base = `https://raw.githubusercontent.com/${encodeURIComponent(config.owner)}/${encodeURIComponent(config.repo)}/${encodeURIComponent(config.branch)}/${encodedPath}`;
+            const base = `https://raw.githubusercontent.com/${encodeURIComponent(REPO.owner)}/${encodeURIComponent(REPO.repo)}/${encodeURIComponent(REPO.branch)}/${encodedPath}`;
             const version = entry.sha ? entry.sha.slice(0, 12) : Date.now();
             return `${base}?v=${version}`;
         }
 
-        async function gh(method, apiPath, body) {
-            const url = `https://api.github.com/repos/${config.owner}/${config.repo}/contents/${apiPath}`;
+        // ---------- GitHub API ----------
+        async function gh(method, apiPath, body, { auth = false } = {}) {
+            // 注意：apiPath 里的中文需要编码，但 / 要保留
+            const encodedApiPath = apiPath.split('/').map(encodeURIComponent).join('/');
+            const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${encodedApiPath}`;
             const headers = {
                 'Accept': 'application/vnd.github+json',
-                'Authorization': `Bearer ${config.token}`,
                 'X-GitHub-Api-Version': '2022-11-28'
             };
+            if (auth) {
+                if (!token) throw new Error('需要管理员登录');
+                headers['Authorization'] = `Bearer ${token}`;
+            }
             const opts = { method, headers };
             if (body) {
                 headers['Content-Type'] = 'application/json';
@@ -250,6 +350,11 @@
             }
             const res = await fetch(url, opts);
             if (res.status === 404) return { __notFound: true };
+            if (res.status === 401) {
+                saveToken('');
+                throw new Error('Token 无效或已过期，已自动退出登录');
+            }
+            if (res.status === 403) throw new Error('Token 权限不足');
             if (!res.ok) {
                 let msg = res.statusText;
                 try { const j = await res.json(); msg = j.message || msg; } catch {}
@@ -259,20 +364,21 @@
         }
 
         async function listFolder(apiPath) {
-            const data = await gh('GET', `${apiPath}?ref=${encodeURIComponent(config.branch)}`);
+            const data = await gh('GET', `${apiPath}?ref=${encodeURIComponent(REPO.branch)}`);
             if (data.__notFound) return { notFound: true, entries: [] };
             if (!Array.isArray(data)) return { notFound: false, entries: [data] };
             return { notFound: false, entries: data };
         }
 
-        async function listFolderAfterWrite(apiPath, expectName) {
+        async function listFolderAfterWrite(apiPath, { expectName, absentName } = {}) {
             const MAX_TRIES = 8;
             let last = null;
             for (let i = 0; i < MAX_TRIES; i++) {
                 const res = await listFolder(apiPath);
                 last = res;
-                if (!expectName) return res;
-                if (res.entries.some(e => e.name === expectName)) return res;
+                if (absentName && !res.entries.some(e => e.name === absentName)) return res;
+                if (expectName && res.entries.some(e => e.name === expectName)) return res;
+                if (!expectName && !absentName) return res;
                 await new Promise(r => setTimeout(r, 300 + i * 250));
             }
             return last;
@@ -290,46 +396,75 @@
             });
         }
 
-        async function testConnection() {
-            if (!config.owner || !config.repo || !config.token) return false;
-            try {
-                const res = await fetch(`https://api.github.com/repos/${config.owner}/${config.repo}`, {
-                    headers: {
-                        'Authorization': `Bearer ${config.token}`,
-                        'Accept': 'application/vnd.github+json'
+        // ---------- 登录对话框 ----------
+        function openLoginModal() {
+            return new Promise((resolve, reject) => {
+                loginTokenInput.value = '';
+                loginModal.classList.add('show');
+                loginTokenInput.focus();
+
+                const cleanup = () => {
+                    loginModal.classList.remove('show');
+                    loginConfirmBtn.removeEventListener('click', onConfirm);
+                    loginCancelBtn.removeEventListener('click', onCancel);
+                    loginTokenInput.removeEventListener('keydown', onKey);
+                };
+                const onConfirm = async () => {
+                    const v = loginTokenInput.value.trim();
+                    if (!v) { toast('Token 不能为空', true); return; }
+                    try {
+                        const res = await fetch(`https://api.github.com/repos/${REPO.owner}/${REPO.repo}`, {
+                            headers: {
+                                'Authorization': `Bearer ${v}`,
+                                'Accept': 'application/vnd.github+json'
+                            }
+                        });
+                        if (!res.ok) {
+                            const j = await res.json().catch(() => ({}));
+                            throw new Error(j.message || res.statusText);
+                        }
+                    } catch (e) {
+                        toast('登录失败：' + e.message, true);
+                        return;
                     }
-                });
-                if (!res.ok) {
-                    const j = await res.json().catch(() => ({}));
-                    throw new Error(j.message || res.statusText);
-                }
+                    saveToken(v);
+                    cleanup();
+                    toast('👑 已登录为管理员');
+                    resolve();
+                };
+                const onCancel = () => { cleanup(); reject(new Error('cancelled')); };
+                const onKey = (e) => {
+                    if (e.key === 'Enter') onConfirm();
+                    if (e.key === 'Escape') onCancel();
+                };
+
+                loginConfirmBtn.addEventListener('click', onConfirm);
+                loginCancelBtn.addEventListener('click', onCancel);
+                loginTokenInput.addEventListener('keydown', onKey);
+            });
+        }
+
+        async function ensureAdmin() {
+            if (isAdmin()) return true;
+            try {
+                await openLoginModal();
                 return true;
-            } catch (e) {
-                toast('连接失败：' + e.message, true);
+            } catch {
                 return false;
             }
         }
 
+        // ---------- 下载 ----------
         async function downloadFile(entry) {
             try {
                 toast(`⬇️ 正在下载 ${entry.name}…`);
-                let blob;
-                try {
-                    const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(config.branch)}`);
-                    if (data.__notFound || !data.content) throw new Error('内容不可用');
-                    const cleanBase64 = data.content.replace(/\n/g, '');
-                    const binary = atob(cleanBase64);
-                    const bytes = new Uint8Array(binary.length);
-                    for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
-                    blob = new Blob([bytes], { type: 'application/octet-stream' });
-                } catch (apiErr) {
-                    console.warn('API 下载失败，改用 download_url', apiErr);
-                    const url = entry.download_url ||
-                        `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${config.branch}/${entry.path}`;
-                    const res = await fetch(url, { headers: { 'Authorization': `Bearer ${config.token}` } });
-                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-                    blob = await res.blob();
-                }
+                const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(REPO.branch)}`);
+                if (data.__notFound || !data.content) throw new Error('内容不可用');
+                const cleanBase64 = data.content.replace(/\n/g, '');
+                const binary = atob(cleanBase64);
+                const bytes = new Uint8Array(binary.length);
+                for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+                const blob = new Blob([bytes], { type: 'application/octet-stream' });
 
                 const blobUrl = URL.createObjectURL(blob);
                 const a = document.createElement('a');
@@ -346,15 +481,14 @@
             }
         }
 
+        // ---------- 渲染 ----------
         async function render(opts = {}) {
-            if (!config.token) { renderSettings('first-time'); return; }
-
-            fileListEl.innerHTML = `<div class="loading-state">正在加载 ${esc(SRC_ROOT)}…</div>`;
+            fileListEl.innerHTML = `<div class="loading-state">正在加载 ${esc(TARGET_ROOT)}…</div>`;
 
             try {
                 let result;
-                if (opts.expectName) {
-                    result = await listFolderAfterWrite(fullPath(currentPath), opts.expectName);
+                if (opts.expectName || opts.absentName) {
+                    result = await listFolderAfterWrite(fullPath(currentPath), opts);
                 } else {
                     result = await listFolder(fullPath(currentPath));
                 }
@@ -365,11 +499,11 @@
                     if (currentPath.length === 0) {
                         fileListEl.innerHTML = `
             <div class="panel">
-              <h2>📂 未找到 <code>${SRC_ROOT}</code> 文件夹</h2>
-              <p>你的仓库在 <code>${esc(config.branch)}</code> 分支上还没有 <code>${esc(SRC_ROOT)}</code> 文件夹。</p>
-              <button class="btn btn-primary" id="createSrcBtn">➕ 创建 src 文件夹</button>
+              <h2>📂 未找到 <code>${TARGET_ROOT}</code> 文件夹</h2>
+              <p>仓库在 <code>${esc(REPO.branch)}</code> 分支上还没有 <code>${esc(TARGET_ROOT)}</code> 文件夹。</p>
+              <button class="btn btn-primary" id="createRootBtn">➕ 创建 ${esc(TARGET_ROOT)} 文件夹</button>
             </div>`;
-                        $('createSrcBtn').addEventListener('click', createSrcFolder);
+                        $('createRootBtn').addEventListener('click', createRootFolder);
                         return;
                     }
                     fileListEl.innerHTML = `<div class="empty-state">⚠️ 未找到文件夹</div>`;
@@ -397,7 +531,6 @@
                     let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
 
                     if (!isFolder && isImageName(entry.name)) {
-                        // ← 使用带 sha 的缓存破除 URL
                         const imgUrl = rawImageUrl(entry);
                         thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy"
                     onerror="this.outerHTML='<span class=\\'item-icon\\' title=\\'图片加载失败\\'>🖼️</span>'; console.warn('图片加载失败:', '${esc(imgUrl)}');">`;
@@ -410,8 +543,8 @@
             ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
             <div class="item-actions">
               ${isFolder ? `<button class="icon-btn open-folder" data-folder="${esc(entry.name)}" title="打开">📂</button>` : ''}
-              ${!isFolder ? `<button class="icon-btn download-btn" data-name="${esc(entry.name)}" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}" data-url="${esc(entry.download_url || '')}" title="下载">⬇️</button>` : ''}
-              <button class="icon-btn delete-item" data-path="${esc(entry.path)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" title="删除">🗑️</button>
+              ${!isFolder ? `<button class="icon-btn download-btn" data-name="${esc(entry.name)}" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}" title="下载">⬇️</button>` : ''}
+              <button class="icon-btn delete-item admin-only" data-path="${esc(entry.path)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" title="删除（需管理员）">🗑️</button>
             </div>
           </div>`;
                 }
@@ -426,8 +559,7 @@
                         downloadFile({
                             name: b.dataset.name,
                             path: b.dataset.path,
-                            sha: b.dataset.sha,
-                            download_url: b.dataset.url
+                            sha: b.dataset.sha
                         });
                     }));
 
@@ -445,7 +577,7 @@
         }
 
         function renderBreadcrumb() {
-            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(SRC_ROOT)}</span>`;
+            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(TARGET_ROOT)}</span>`;
             currentPath.forEach((seg, i) => {
                 html += `<span>/</span>`;
                 const last = i === currentPath.length - 1;
@@ -456,87 +588,28 @@
                 c.addEventListener('click', () => navigateToIndex(+c.dataset.pathIndex)));
         }
 
-        function renderSettings(mode) {
-            const isEdit = mode === 'edit';
-            fileListEl.innerHTML = `
-      <div class="panel">
-        <h2>${isEdit ? '⚙️ 设置' : '🔗 连接到你的 GitHub 仓库'}</h2>
-        <p>${isEdit
-                ? '更新仓库信息或 Token。'
-                : '输入仓库信息，以及具有 <strong>Contents: Read &amp; Write</strong> 权限的细粒度 Personal Access Token。'}</p>
-        <div class="field">
-          <label>GitHub 用户名 / 组织</label>
-          <input type="text" id="cfgOwner" placeholder="octocat" value="${esc(config.owner)}">
-        </div>
-        <div class="field">
-          <label>仓库名称</label>
-          <input type="text" id="cfgRepo" placeholder="my-repo" value="${esc(config.repo)}">
-        </div>
-        <div class="field">
-          <label>分支</label>
-          <input type="text" id="cfgBranch" placeholder="main" value="${esc(config.branch || 'main')}">
-        </div>
-        <div class="field">
-          <label>Personal Access Token</label>
-          <input type="password" id="cfgToken" placeholder="github_pat_..." value="${esc(config.token)}">
-          <div class="hint">
-            前往
-            <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens</a>
-            创建 Token —— 只授权本仓库，权限选择 <code>Contents: Read and write</code>。
-          </div>
-        </div>
-        <div class="row">
-          <button class="btn btn-primary" id="saveCfgBtn">${isEdit ? '💾 保存' : '✅ 连接'}</button>
-          ${isEdit ? `<button class="btn" id="cancelCfgBtn">取消</button>` : ''}
-          ${isEdit ? `<button class="btn" id="disconnectBtn">🚪 断开连接</button>` : ''}
-        </div>
-      </div>`;
-
-            $('saveCfgBtn').addEventListener('click', async () => {
-                const owner = $('cfgOwner').value.trim();
-                const repo = $('cfgRepo').value.trim();
-                const branch = $('cfgBranch').value.trim() || 'main';
-                const token = $('cfgToken').value.trim();
-                if (!owner || !repo || !token) { toast('所有字段均为必填', true); return; }
-                config = { owner, repo, branch, token };
-                const ok = await testConnection();
-                if (!ok) return;
-                saveConfig();
-                setConnected(true);
-                toast('✅ 连接成功');
-                await render();
-            });
-
-            if (isEdit) {
-                $('cancelCfgBtn').addEventListener('click', () => render());
-                $('disconnectBtn').addEventListener('click', () => {
-                    if (!confirm('忘记 Token 并断开连接？')) return;
-                    clearConfig();
-                    setConnected(false);
-                    renderSettings('first-time');
-                });
-            }
-        }
-
         function openFolder(name) { currentPath.push(name); render(); }
         function navigateToIndex(idx) {
             currentPath = idx < 0 ? [] : currentPath.slice(0, idx + 1);
             render();
         }
 
-        async function createSrcFolder() {
+        // ---------- 写操作 ----------
+        async function createRootFolder() {
+            if (!await ensureAdmin()) return;
             try {
-                await gh('PUT', `${SRC_ROOT}/.gitkeep`, {
-                    message: `创建 ${SRC_ROOT} 文件夹`,
+                await gh('PUT', `${TARGET_ROOT}/.gitkeep`, {
+                    message: `创建 ${TARGET_ROOT} 文件夹`,
                     content: btoa(''),
-                    branch: config.branch
-                });
-                toast(`📁 已创建 ${SRC_ROOT}/`);
-                await render({ expectName: SRC_ROOT });
+                    branch: REPO.branch
+                }, { auth: true });
+                toast(`📁 已创建 ${TARGET_ROOT}/`);
+                await render({ expectName: TARGET_ROOT });
             } catch (e) { toast('失败：' + e.message, true); }
         }
 
         async function createNewFolder() {
+            if (!await ensureAdmin()) return;
             const name = prompt('新文件夹名称：', '新文件夹');
             if (!name || !name.trim()) return;
             const n = name.trim();
@@ -548,33 +621,38 @@
                 await gh('PUT', apiPath, {
                     message: `创建文件夹 ${[...currentPath, n].join('/')}`,
                     content: btoa(''),
-                    branch: config.branch
-                });
+                    branch: REPO.branch
+                }, { auth: true });
                 toast(`📁 已创建 ${n}/`);
                 await render({ expectName: n });
             } catch (e) { toast('失败：' + e.message, true); }
         }
 
         async function deleteEntry(path, type, sha) {
+            if (!await ensureAdmin()) return;
+            const fileName = path.split('/').pop();
+
             if (type === 'dir') {
-                if (!confirm(`删除文件夹 "${path.split('/').pop()}" 及其所有内容？`)) return;
+                if (!confirm(`删除文件夹 "${fileName}" 及其所有内容？`)) return;
                 try {
                     await deleteFolderRecursive(path);
                     toast('🗑️ 文件夹已删除');
-                    await render();
+                    await render({ absentName: fileName });
                 } catch (e) { toast('失败：' + e.message, true); }
                 return;
             }
+
             if (!sha) { toast('缺少 SHA', true); return; }
-            if (!confirm(`删除 "${path.split('/').pop()}"？`)) return;
+            if (!confirm(`删除 "${fileName}"？`)) return;
+
             try {
                 await gh('DELETE', path, {
                     message: `删除 ${path}`,
                     sha,
-                    branch: config.branch
-                });
+                    branch: REPO.branch
+                }, { auth: true });
                 toast('🗑️ 已删除');
-                await render();
+                await render({ absentName: fileName });
             } catch (e) { toast('删除失败：' + e.message, true); }
         }
 
@@ -587,13 +665,15 @@
                     await gh('DELETE', entry.path, {
                         message: `删除 ${entry.path}`,
                         sha: entry.sha,
-                        branch: config.branch
-                    });
+                        branch: REPO.branch
+                    }, { auth: true });
                 }
             }
         }
 
         async function uploadFiles(files, kind) {
+            if (!await ensureAdmin()) return;
+
             const wanted = Array.from(files).filter(f =>
                 kind === 'image' ? f.type.startsWith('image/') : (f.type === 'text/plain' || /\.txt$/i.test(f.name))
             );
@@ -616,10 +696,10 @@
                     const body = {
                         message: existingSha ? `更新 ${file.name}` : `添加 ${file.name}`,
                         content: base64,
-                        branch: config.branch
+                        branch: REPO.branch
                     };
                     if (existingSha) body.sha = existingSha;
-                    await gh('PUT', apiPath, body);
+                    await gh('PUT', apiPath, body, { auth: true });
                     added++;
                     lastName = file.name;
                 } catch (e) {
@@ -635,10 +715,16 @@
             if (errors.length) toast(`⚠️ ${errors.length} 个失败：${errors[0]}`, true);
         }
 
+        // ---------- 事件 ----------
         newFolderBtn.addEventListener('click', createNewFolder);
         uploadImgBtn.addEventListener('click', () => imageInput.click());
         uploadTxtBtn.addEventListener('click', () => txtInput.click());
-        settingsBtn.addEventListener('click', () => renderSettings('edit'));
+        loginBtn.addEventListener('click', () => ensureAdmin());
+        logoutBtn.addEventListener('click', () => {
+            if (!confirm('退出管理员登录？')) return;
+            saveToken('');
+            toast('已退出登录');
+        });
 
         imageInput.addEventListener('change', async e => {
             if (e.target.files?.length) await uploadFiles(e.target.files, 'image');
@@ -651,7 +737,7 @@
 
         fileListEl.addEventListener('dragover', e => {
             e.preventDefault();
-            if (config.token) fileListEl.classList.add('drag-over');
+            if (isAdmin()) fileListEl.classList.add('drag-over');
         });
         fileListEl.addEventListener('dragleave', e => {
             if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
@@ -659,7 +745,7 @@
         fileListEl.addEventListener('drop', async e => {
             e.preventDefault();
             fileListEl.classList.remove('drag-over');
-            if (!config.token) return;
+            if (!isAdmin()) { toast('请先以管理员身份登录', true); return; }
             const files = e.dataTransfer.files;
             if (!files?.length) return;
             const arr = Array.from(files);
@@ -671,21 +757,11 @@
             if (other > 0) toast(`${other} 个不支持的文件已跳过`, true);
         });
 
+        // ---------- 启动 ----------
         (async function init() {
-            loadConfig();
-            if (!config.token) {
-                setConnected(false);
-                renderSettings('first-time');
-                return;
-            }
-            const ok = await testConnection();
-            if (ok) {
-                setConnected(true);
-                await render();
-            } else {
-                setConnected(false);
-                renderSettings('first-time');
-            }
+            loadToken();
+            updateAuthUI();
+            await render();
         })();
     })();
 </script>
