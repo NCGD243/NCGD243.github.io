@@ -293,8 +293,8 @@
         //   - 图片   → 新标签页打开原图
         //   - 文本   → 弹出预览框显示内容
         //
-        // ZIP 备份：使用 GitHub 官方 zipball 端点，一次请求下载整个仓库
-        //          （一次 API 调用，不会触发限流）
+        // ZIP 备份：使用 codeload.github.com 导航式下载，
+        //          绕过 CORS 限制，任何人可用。
         // ================================================================
 
         const TARGET_ROOT = '主页';
@@ -674,59 +674,32 @@
             }
         }
 
-        // ---------- ZIP 备份（使用 GitHub 官方 zipball 端点）----------
-        // 一次请求下载整个仓库分支的 ZIP。不会触发限流。
-        async function downloadRepoZip() {
+        // ---------- ZIP 备份（codeload.github.com 导航式下载）----------
+        // 使用 <a> 触发浏览器原生下载，绕过 CORS 限制。
+        // 不需要 token，任何人（包括访客）都可以使用。
+        function downloadRepoZip() {
             if (zipInProgress) return;
             zipInProgress = true;
-            downloadZipBtn.disabled = true;
+
             const originalText = downloadZipBtn.innerHTML;
-            downloadZipBtn.innerHTML = '<span>⏳</span> 打包中…';
-            toast('🗜️ 正在请求 GitHub 生成 ZIP…');
+            downloadZipBtn.disabled = true;
+            downloadZipBtn.innerHTML = '<span>⏳</span> 下载中…';
 
-            try {
-                // GitHub 官方 zipball 端点 —— 重定向到真正的 ZIP 文件
-                // 注意：浏览器会自动跟随重定向
-                const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/zipball/${encodeURIComponent(REPO.branch)}`;
+            const url = `https://codeload.github.com/${REPO.owner}/${REPO.repo}/zip/refs/heads/${encodeURIComponent(REPO.branch)}`;
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${REPO.repo}.zip`;
+            a.rel = 'noopener';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
 
-                const headers = {};
-                // 如果登录了，带上 token —— 私有仓库也能下载，而且提高限流额度
-                if (isAdmin()) headers['Authorization'] = `Bearer ${token}`;
-
-                const res = await fetch(url, { headers });
-
-                if (!res.ok) {
-                    let msg = res.statusText;
-                    try {
-                        const j = await res.json();
-                        msg = j.message || msg;
-                    } catch {}
-                    throw new Error(`GitHub ${res.status}: ${msg}`);
-                }
-
-                // 从 Content-Disposition 里读文件名（GitHub 会返回类似 NCGD243-NCGD243.github.io-<sha>.zip）
-                // 我们统一改名为 <仓库名>.zip
-                const blob = await res.blob();
-                const filename = `${REPO.repo}.zip`;
-
-                const blobUrl = URL.createObjectURL(blob);
-                const a = document.createElement('a');
-                a.href = blobUrl;
-                a.download = filename;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-                setTimeout(() => URL.revokeObjectURL(blobUrl), 3000);
-
-                toast(`✅ 已下载 ${filename}`);
-            } catch (e) {
-                console.error(e);
-                toast('ZIP 下载失败：' + e.message, true);
-            } finally {
+            setTimeout(() => {
                 zipInProgress = false;
                 downloadZipBtn.disabled = false;
                 downloadZipBtn.innerHTML = originalText;
-            }
+                toast('✅ 已开始下载 ZIP');
+            }, 1000);
         }
 
         // ---------- 渲染 ----------
