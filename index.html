@@ -55,10 +55,6 @@
             background: #fee2e2; color: #991b1b; border-color: #fecaca;
         }
         .btn-logout:hover { background: #fecaca; }
-        .btn-zip {
-            background: #ede9fe; color: #5b21b6; border-color: #ddd6fe;
-        }
-        .btn-zip:hover { background: #ddd6fe; }
 
         .app:not(.is-admin) .admin-only { display: none !important; }
 
@@ -209,27 +205,6 @@
         .text-modal-body .error {
             color: #b91c1c;
         }
-
-        /* zip 进度条 */
-        .progress-badge {
-            position: fixed; bottom: 24px; right: 24px;
-            background: #1e293b; color: white;
-            padding: 0.75rem 1.25rem; border-radius: 14px;
-            font-size: 0.85rem; font-weight: 500;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.25);
-            display: none; z-index: 350;
-            min-width: 220px;
-        }
-        .progress-badge.show { display: block; }
-        .progress-badge .bar {
-            margin-top: 0.5rem; height: 4px;
-            background: rgba(255,255,255,0.2); border-radius: 4px; overflow: hidden;
-        }
-        .progress-badge .bar > div {
-            height: 100%; width: 0%;
-            background: #22c55e; border-radius: 4px;
-            transition: width 0.15s;
-        }
     </style>
 </head>
 <body>
@@ -244,7 +219,6 @@
             <button class="btn admin-only" id="newFolderBtn"><span>📁+</span> 新建文件夹</button>
             <button class="btn admin-only" id="uploadTxtBtn"><span>📄</span> 上传文本</button>
             <button class="btn btn-primary admin-only" id="uploadImgBtn"><span>🖼️</span> 上传图片</button>
-            <button class="btn btn-zip admin-only" id="downloadZipBtn"><span>🗜️</span> 下载 ZIP</button>
             <button class="btn btn-login" id="loginBtn"><span>🔑</span> 管理员登录</button>
             <button class="btn btn-logout admin-only" id="logoutBtn"><span>🚪</span> 退出登录</button>
         </div>
@@ -265,12 +239,6 @@
 <input type="file" id="imageInput" multiple accept="image/*">
 <input type="file" id="txtInput" multiple accept=".txt,text/plain">
 <div class="toast" id="toast"></div>
-
-<!-- zip 进度条 -->
-<div class="progress-badge" id="zipProgress">
-    <div id="zipProgressText">正在打包…</div>
-    <div class="bar"><div id="zipProgressBar"></div></div>
-</div>
 
 <!-- 登录对话框 -->
 <div class="modal-backdrop" id="loginModal">
@@ -305,9 +273,6 @@
     </div>
 </div>
 
-<!-- JSZip（用于打包 zip） -->
-<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
-
 <script>
     (function() {
         // ================================================================
@@ -322,8 +287,6 @@
         //   - 文件夹 → 进入文件夹
         //   - 图片   → 新标签页打开原图
         //   - 文本   → 弹出预览框显示内容
-        // 管理员额外功能：
-        //   - 🗜️ 下载 ZIP —— 把整个"主页"文件夹打包成 主页.zip 下载
         // ================================================================
 
         const TARGET_ROOT = '主页';
@@ -346,7 +309,6 @@
         const newFolderBtn = $('newFolderBtn');
         const uploadTxtBtn = $('uploadTxtBtn');
         const uploadImgBtn = $('uploadImgBtn');
-        const downloadZipBtn = $('downloadZipBtn');
         const loginBtn = $('loginBtn');
         const logoutBtn = $('logoutBtn');
         const imageInput = $('imageInput');
@@ -366,10 +328,6 @@
         const textModalBody = $('textModalBody');
         const textModalCloseBtn = $('textModalCloseBtn');
         const textModalDownloadBtn = $('textModalDownloadBtn');
-
-        const zipProgress = $('zipProgress');
-        const zipProgressText = $('zipProgressText');
-        const zipProgressBar = $('zipProgressBar');
 
         let currentTextEntry = null;
 
@@ -683,7 +641,7 @@
             downloadFile(entry);
         }
 
-        // ---------- 下载单个文件 ----------
+        // ---------- 下载 ----------
         async function downloadFile(entry) {
             try {
                 toast(`⬇️ 正在下载 ${entry.name}…`);
@@ -706,57 +664,312 @@
             }
         }
 
-        // ---------- 下载整个 "主页" 文件夹为 ZIP ----------
-        async function downloadWholeZip() {
-            if (!await ensureAdmin()) return;
-
-            if (typeof JSZip === 'undefined') {
-                toast('JSZip 未加载，请检查网络后重试', true);
-                return;
-            }
-
-            downloadZipBtn.disabled = true;
-            zipProgressBar.style.width = '0%';
-            zipProgressText.textContent = '正在读取文件列表…';
-            zipProgress.classList.add('show');
+        // ---------- 渲染 ----------
+        async function render(opts = {}) {
+            fileListEl.innerHTML = `<div class="loading-state">正在加载 ${esc(TARGET_ROOT)}…</div>`;
 
             try {
-                const zip = new JSZip();
-
-                // 递归遍历整个 "主页" 文件夹
-                // 使用列表 API 拉取每个子文件夹，通过 "主页" 相对路径还原目录结构
-                let filesToDownload = []; // { path, name, relPath }
-
-                async function walk(apiPath, relPrefix) {
-                    const { notFound, entries } = await listFolder(apiPath);
-                    if (notFound) return;
-                    for (const entry of entries) {
-                        // 跳过 .gitkeep 之类的隐藏文件
-                        if (entry.name.startsWith('.')) continue;
-                        const rel = relPrefix ? `${relPrefix}/${entry.name}` : entry.name;
-                        if (entry.type === 'dir') {
-                            await walk(entry.path, rel);
-                        } else {
-                            filesToDownload.push({
-                                path: entry.path,
-                                name: entry.name,
-                                relPath: rel
-                            });
-                        }
-                    }
+                let result;
+                if (opts.expectName || opts.absentName) {
+                    result = await listFolderAfterWrite(fullPath(currentPath), opts);
+                } else {
+                    result = await listFolder(fullPath(currentPath));
                 }
 
-                zipProgressText.textContent = '正在扫描文件夹…';
-                await walk(TARGET_ROOT, '');
+                const { notFound, entries } = result;
 
-                if (filesToDownload.length === 0) {
-                    zipProgressText.textContent = '文件夹为空';
-                    setTimeout(() => zipProgress.classList.remove('show'), 1200);
-                    downloadZipBtn.disabled = false;
+                if (notFound) {
+                    if (currentPath.length === 0) {
+                        fileListEl.innerHTML = `
+            <div class="panel">
+              <h2>📂 未找到 <code>${TARGET_ROOT}</code> 文件夹</h2>
+              <p>仓库在 <code>${esc(REPO.branch)}</code> 分支上还没有 <code>${esc(TARGET_ROOT)}</code> 文件夹。</p>
+              <button class="btn btn-primary" id="createRootBtn">➕ 创建 ${esc(TARGET_ROOT)} 文件夹</button>
+            </div>`;
+                        $('createRootBtn').addEventListener('click', createRootFolder);
+                        return;
+                    }
+                    fileListEl.innerHTML = `<div class="empty-state">⚠️ 未找到文件夹</div>`;
                     return;
                 }
 
-                // 逐个下载并加入 zip
-                let done = 0;
-                for (const f of filesToDownload) {
-                    zipProgressText.text
+                entriesCache = entries;
+                const visibleEntries = entries.filter(e => !isHiddenFile(e.name));
+
+                visibleEntries.sort((a, b) => {
+                    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+                    return a.name.localeCompare(b.name);
+                });
+
+                renderBreadcrumb();
+
+                if (!visibleEntries.length) {
+                    fileListEl.innerHTML = `<div class="empty-state">📭 此文件夹为空</div>`;
+                    return;
+                }
+
+                let html = '';
+                for (const entry of visibleEntries) {
+                    const isFolder = entry.type === 'dir';
+                    const isImage = !isFolder && isImageName(entry.name);
+                    const isText = !isFolder && isTextName(entry.name);
+                    const openable = isFolder || isImage || isText;
+
+                    let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
+
+                    if (isImage) {
+                        const imgUrl = rawImageUrl(entry);
+                        thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy"
+                    onerror="this.outerHTML='<span class=\\'item-icon\\' title=\\'图片加载失败\\'>🖼️</span>'; console.warn('图片加载失败:', '${esc(imgUrl)}');">`;
+                    }
+
+                    html += `
+          <div class="item ${openable ? 'openable' : ''}" data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
+            ${thumb}
+            <span class="item-name ${isFolder ? 'folder' : ''}">${esc(entry.name)}</span>
+            ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
+            <div class="item-actions">
+              ${isFolder ? `<button class="icon-btn open-folder" data-folder="${esc(entry.name)}" title="打开">📂</button>` : ''}
+              ${!isFolder ? `<button class="icon-btn download-btn" data-name="${esc(entry.name)}" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}" title="下载">⬇️</button>` : ''}
+              <button class="icon-btn delete-item admin-only" data-path="${esc(entry.path)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" title="删除（需管理员）">🗑️</button>
+            </div>
+          </div>`;
+                }
+                fileListEl.innerHTML = html;
+
+                fileListEl.querySelectorAll('.open-folder').forEach(b =>
+                    b.addEventListener('click', e => { e.stopPropagation(); openFolder(b.dataset.folder); }));
+
+                fileListEl.querySelectorAll('.download-btn').forEach(b =>
+                    b.addEventListener('click', e => {
+                        e.stopPropagation();
+                        downloadFile({
+                            name: b.dataset.name,
+                            path: b.dataset.path,
+                            sha: b.dataset.sha
+                        });
+                    }));
+
+                fileListEl.querySelectorAll('.delete-item').forEach(b =>
+                    b.addEventListener('click', e => { e.stopPropagation(); deleteEntry(b.dataset.path, b.dataset.type, b.dataset.sha); }));
+
+                fileListEl.querySelectorAll('.item').forEach(el =>
+                    el.addEventListener('dblclick', e => {
+                        if (e.target.closest('.icon-btn')) return;
+                        const entry = {
+                            name: el.dataset.name,
+                            type: el.dataset.type,
+                            sha: el.dataset.sha,
+                            path: el.dataset.path
+                        };
+                        const full = entriesCache.find(x => x.path === el.dataset.path) || entry;
+                        handleDoubleClick(full);
+                    }));
+            } catch (err) {
+                fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
+            }
+        }
+
+        function renderBreadcrumb() {
+            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(TARGET_ROOT)}</span>`;
+            currentPath.forEach((seg, i) => {
+                html += `<span>/</span>`;
+                const last = i === currentPath.length - 1;
+                html += `<span class="crumb ${last ? 'current' : ''}" data-path-index="${i}">📁 ${esc(seg)}</span>`;
+            });
+            pathBar.innerHTML = html;
+            pathBar.querySelectorAll('.crumb[data-path-index]').forEach(c =>
+                c.addEventListener('click', () => navigateToIndex(+c.dataset.pathIndex)));
+        }
+
+        function openFolder(name) { currentPath.push(name); render(); }
+        function navigateToIndex(idx) {
+            currentPath = idx < 0 ? [] : currentPath.slice(0, idx + 1);
+            render();
+        }
+
+        // ---------- 写操作 ----------
+        async function createRootFolder() {
+            if (!await ensureAdmin()) return;
+            try {
+                await gh('PUT', `${TARGET_ROOT}/.gitkeep`, {
+                    message: `创建 ${TARGET_ROOT} 文件夹`,
+                    content: btoa(''),
+                    branch: REPO.branch
+                }, { auth: true });
+                toast(`📁 已创建 ${TARGET_ROOT}/`);
+                await render({ expectName: TARGET_ROOT });
+            } catch (e) { toast('失败：' + e.message, true); }
+        }
+
+        async function createNewFolder() {
+            if (!await ensureAdmin()) return;
+            const name = prompt('新文件夹名称：', '新文件夹');
+            if (!name || !name.trim()) return;
+            const n = name.trim();
+            if (n.includes('/') || n.includes('\\')) { alert('名称不能包含斜杠。'); return; }
+            if (entriesCache.some(e => e.name === n)) { alert(`"${n}" 已存在。`); return; }
+
+            const apiPath = fullPath([...currentPath, n]) + '/.gitkeep';
+            try {
+                await gh('PUT', apiPath, {
+                    message: `创建文件夹 ${[...currentPath, n].join('/')}`,
+                    content: btoa(''),
+                    branch: REPO.branch
+                }, { auth: true });
+                toast(`📁 已创建 ${n}/`);
+                await render({ expectName: n });
+            } catch (e) { toast('失败：' + e.message, true); }
+        }
+
+        async function deleteEntry(path, type, sha) {
+            if (!await ensureAdmin()) return;
+            const fileName = path.split('/').pop();
+
+            if (type === 'dir') {
+                if (!confirm(`删除文件夹 "${fileName}" 及其所有内容？`)) return;
+                try {
+                    await deleteFolderRecursive(path);
+                    toast('🗑️ 文件夹已删除');
+                    await render({ absentName: fileName });
+                } catch (e) { toast('失败：' + e.message, true); }
+                return;
+            }
+
+            if (!sha) { toast('缺少 SHA', true); return; }
+            if (!confirm(`删除 "${fileName}"？`)) return;
+
+            try {
+                await gh('DELETE', path, {
+                    message: `删除 ${path}`,
+                    sha,
+                    branch: REPO.branch
+                }, { auth: true });
+                toast('🗑️ 已删除');
+                await render({ absentName: fileName });
+            } catch (e) { toast('删除失败：' + e.message, true); }
+        }
+
+        async function deleteFolderRecursive(path) {
+            const { entries } = await listFolder(path);
+            for (const entry of entries) {
+                if (entry.type === 'dir') {
+                    await deleteFolderRecursive(entry.path);
+                } else {
+                    await gh('DELETE', entry.path, {
+                        message: `删除 ${entry.path}`,
+                        sha: entry.sha,
+                        branch: REPO.branch
+                    }, { auth: true });
+                }
+            }
+        }
+
+        async function uploadFiles(files, kind) {
+            if (!await ensureAdmin()) return;
+
+            const wanted = Array.from(files).filter(f =>
+                kind === 'image' ? f.type.startsWith('image/') : (f.type === 'text/plain' || /\.txt$/i.test(f.name))
+            );
+
+            if (!wanted.length) { toast('未选择匹配的文件', true); return; }
+            if (wanted.length < files.length) toast(`已跳过 ${files.length - wanted.length} 个文件`, true);
+
+            let added = 0;
+            let errors = [];
+            let lastName = null;
+
+            for (const file of wanted) {
+                try {
+                    let existingSha = null;
+                    for (const e of entriesCache) {
+                        if (e.name === file.name && e.type === 'file') { existingSha = e.sha; break; }
+                    }
+                    const apiPath = fullPath([...currentPath, file.name]);
+                    const base64 = await fileToBase64(file);
+                    const body = {
+                        message: existingSha ? `更新 ${file.name}` : `添加 ${file.name}`,
+                        content: base64,
+                        branch: REPO.branch
+                    };
+                    if (existingSha) body.sha = existingSha;
+                    await gh('PUT', apiPath, body, { auth: true });
+                    added++;
+                    lastName = file.name;
+                } catch (e) {
+                    console.error(e);
+                    errors.push(`${file.name}: ${e.message}`);
+                }
+            }
+
+            if (added > 0) {
+                toast(`⬆️ 已上传 ${added} 个文件`);
+                await render({ expectName: lastName });
+            }
+            if (errors.length) toast(`⚠️ ${errors.length} 个失败：${errors[0]}`, true);
+        }
+
+        // ---------- 事件 ----------
+        newFolderBtn.addEventListener('click', createNewFolder);
+        uploadImgBtn.addEventListener('click', () => imageInput.click());
+        uploadTxtBtn.addEventListener('click', () => txtInput.click());
+        loginBtn.addEventListener('click', () => ensureAdmin());
+        logoutBtn.addEventListener('click', () => {
+            if (!confirm('退出管理员登录？')) return;
+            saveToken('');
+            toast('已退出登录');
+        });
+
+        imageInput.addEventListener('change', async e => {
+            if (e.target.files?.length) await uploadFiles(e.target.files, 'image');
+            imageInput.value = '';
+        });
+        txtInput.addEventListener('change', async e => {
+            if (e.target.files?.length) await uploadFiles(e.target.files, 'txt');
+            txtInput.value = '';
+        });
+
+        fileListEl.addEventListener('dragover', e => {
+            e.preventDefault();
+            if (isAdmin()) fileListEl.classList.add('drag-over');
+        });
+        fileListEl.addEventListener('dragleave', e => {
+            if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
+        });
+        fileListEl.addEventListener('drop', async e => {
+            e.preventDefault();
+            fileListEl.classList.remove('drag-over');
+            if (!isAdmin()) { toast('请先以管理员身份登录', true); return; }
+            const files = e.dataTransfer.files;
+            if (!files?.length) return;
+            const arr = Array.from(files);
+            const imgs = arr.filter(f => f.type.startsWith('image/'));
+            const txts = arr.filter(f => f.type === 'text/plain' || /\.txt$/i.test(f.name));
+            if (imgs.length) await uploadFiles(imgs, 'image');
+            if (txts.length) await uploadFiles(txts, 'txt');
+            const other = arr.length - imgs.length - txts.length;
+            if (other > 0) toast(`${other} 个不支持的文件已跳过`, true);
+        });
+
+        // 文本模态框事件
+        textModalCloseBtn.addEventListener('click', closeTextModal);
+        textModal.addEventListener('click', e => {
+            if (e.target === textModal) closeTextModal();
+        });
+        textModalDownloadBtn.addEventListener('click', downloadCurrentText);
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape' && textModal.classList.contains('show')) {
+                closeTextModal();
+            }
+        });
+
+        // ---------- 启动 ----------
+        (async function init() {
+            loadToken();
+            updateAuthUI();
+            await render();
+        })();
+    })();
+</script>
+</body>
+</html>
