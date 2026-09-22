@@ -16,8 +16,7 @@
         .app {
             width: 100%;
             flex: 1;
-            display: flex;
-            flex-direction: column;
+            display: flex; flex-direction: column;
             background: white;
             overflow: hidden;
         }
@@ -106,7 +105,7 @@
         }
         .icon-btn:hover { background: #e2e8f0; color: #0f172a; }
         .empty-state { text-align: center; padding: 3rem 1rem; color: #94a3b8; font-style: italic; }
-        #imageInput, #txtInput { display: none; }
+        #anyInput { display: none; }
         .toast {
             position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
             background: #1e293b; color: white; padding: 0.7rem 1.5rem;
@@ -221,11 +220,10 @@
         </div>
         <div class="actions">
             <button class="btn admin-only" id="newFolderBtn"><span>📁+</span> 新建文件夹</button>
-            <button class="btn admin-only" id="uploadTxtBtn"><span>📄</span> 上传文本</button>
-            <button class="btn btn-primary admin-only" id="uploadImgBtn"><span>🖼️</span> 上传图片</button>
+            <button class="btn btn-primary admin-only" id="uploadBtn"><span>📎</span> 上传文件</button>
             <button class="btn btn-zip" id="downloadZipBtn"><span>📦</span> 下载备份 ZIP</button>
             <button class="btn btn-login" id="loginBtn"><span>🔑</span> 管理员登录</button>
-            <button class="btn btn-logout admin-only" id="logoutBtn"><span>⚠️</span> 退出登录</button>
+            <button class="btn btn-logout admin-only" id="logoutBtn"><span>🚪</span> 退出登录</button>
         </div>
     </div>
 
@@ -241,8 +239,7 @@
     </div>
 </div>
 
-<input type="file" id="imageInput" multiple accept="image/*">
-<input type="file" id="txtInput" multiple accept=".txt,text/plain">
+<input type="file" id="anyInput" multiple>
 <div class="toast" id="toast"></div>
 
 <!-- 登录对话框 -->
@@ -283,15 +280,18 @@
         // ================================================================
         // 主页 文件管理器 —— 混合模式
         //
-        // - 只读：无需登录。任何访客都能浏览、下载、双击预览。
+        // - 只读：无需登录。任何访客都能浏览、下载、双击打开。
         // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
         //   Token 存在 localStorage，之后打开此浏览器自动保持登录。
         //
         // 目标文件夹：仓库根目录下的 "主页" 文件夹
+        // 支持所有文件类型（图片、文本、PDF、音频、视频、压缩包...）
+        //
         // 双击行为：
-        //   - 文件夹 → 进入文件夹
-        //   - 图片   → 新标签页打开原图
-        //   - 文本   → 弹出预览框显示内容
+        //   - 文件夹        → 进入文件夹
+        //   - 图片/PDF/音视频 → 新标签页打开（浏览器原生渲染）
+        //   - 文本类文件    → 弹出预览框显示内容
+        //   - 其他          → 下载
         //
         // ZIP 备份：使用 codeload.github.com 导航式下载，
         //          绕过 CORS 限制，任何人可用。
@@ -306,6 +306,9 @@
             branch: 'main'
         };
 
+        // GitHub Contents API 单文件上限约 100 MB（base64 后）
+        const MAX_FILE_SIZE = 90 * 1024 * 1024;
+
         let token = '';
         let currentPath = [];
         let entriesCache = [];
@@ -316,13 +319,11 @@
         const fileListEl = $('fileList');
         const pathBar = $('pathBar');
         const newFolderBtn = $('newFolderBtn');
-        const uploadTxtBtn = $('uploadTxtBtn');
-        const uploadImgBtn = $('uploadImgBtn');
+        const uploadBtn = $('uploadBtn');
         const downloadZipBtn = $('downloadZipBtn');
         const loginBtn = $('loginBtn');
         const logoutBtn = $('logoutBtn');
-        const imageInput = $('imageInput');
-        const txtInput = $('txtInput');
+        const anyInput = $('anyInput');
         const toastEl = $('toast');
         const statusDot = $('statusDot');
         const statusText = $('statusText');
@@ -392,9 +393,42 @@
             if (b < 1048576) return (b / 1024).toFixed(1) + ' KB';
             return (b / 1048576).toFixed(2) + ' MB';
         }
-        function isImageName(n) { return /\.(jpe?g|png|gif|webp|svg|bmp|ico|avif)$/i.test(n); }
-        function isTextName(n) { return /\.(txt|md|json|js|css|html|htm|xml|yml|yaml|log|csv|tsv|ini|conf)$/i.test(n); }
+
+        // ---------- 文件类型判断 ----------
+        function getExt(n) {
+            const m = n.match(/\.([^.]+)$/);
+            return m ? m[1].toLowerCase() : '';
+        }
+        function isImageName(n) {
+            return /\.(jpe?g|png|gif|webp|svg|bmp|ico|avif|tiff?|heic|heif)$/i.test(n);
+        }
+        function isTextName(n) {
+            return /\.(txt|md|markdown|json|json5|js|mjs|cjs|jsx|ts|tsx|css|scss|sass|less|html?|xml|svg|yml|yaml|toml|ini|conf|cfg|log|csv|tsv|env|sh|bash|zsh|bat|ps1|py|rb|go|rs|java|c|cc|cpp|h|hpp|cs|php|sql|graphql|gql|vue|svelte|astro)$/i.test(n);
+        }
+        // 浏览器能原生渲染的文件（图片、PDF、音视频、文本） → 新标签页打开
+        function isBrowserViewableName(n) {
+            return isImageName(n)
+                || /\.pdf$/i.test(n)
+                || /\.(mp3|wav|ogg|oga|m4a|aac|flac|opus)$/i.test(n)
+                || /\.(mp4|webm|ogv|mov|m4v|mkv)$/i.test(n)
+                || /\.(txt|md|json|xml|html?|css|js|csv|log|yml|yaml)$/i.test(n);
+        }
         function isHiddenFile(n) { return n.startsWith('.'); }
+
+        // 文件图标（按扩展名给个直观的 emoji）
+        function fileEmoji(n) {
+            const e = getExt(n);
+            if (isImageName(n)) return '🖼️';
+            if (e === 'pdf') return '📕';
+            if (['mp3','wav','ogg','oga','m4a','aac','flac','opus'].includes(e)) return '🎵';
+            if (['mp4','webm','ogv','mov','m4v','mkv'].includes(e)) return '🎬';
+            if (['zip','rar','7z','tar','gz','bz2','xz'].includes(e)) return '🗜️';
+            if (['doc','docx'].includes(e)) return '📘';
+            if (['xls','xlsx','csv','tsv'].includes(e)) return '📊';
+            if (['ppt','pptx'].includes(e)) return '📙';
+            if (isTextName(n)) return '📄';
+            return '📎';
+        }
 
         function fullPath(relParts) {
             return [TARGET_ROOT, ...relParts].join('/');
@@ -585,11 +619,13 @@
         }
 
         // ---------- 打开文件 ----------
-        function openImageInNewTab(entry) {
+        // 在浏览器新标签页打开（图片 / PDF / 音视频等浏览器能渲染的）
+        function openFileInNewTab(entry) {
             const url = rawImageUrlNoCache(entry);
             window.open(url, '_blank', 'noopener');
         }
 
+        // 文本预览
         async function openTextPreview(entry) {
             currentTextEntry = entry;
             textModalTitle.textContent = entry.name;
@@ -635,19 +671,23 @@
             }
         }
 
+        // 双击行为分发
         function handleDoubleClick(entry) {
             if (entry.type === 'dir') {
                 openFolder(entry.name);
                 return;
             }
-            if (isImageName(entry.name)) {
-                openImageInNewTab(entry);
+            // 浏览器可渲染（图片/PDF/音视频）→ 新标签页
+            if (isBrowserViewableName(entry.name) && !isTextName(entry.name)) {
+                openFileInNewTab(entry);
                 return;
             }
+            // 文本类 → 预览
             if (isTextName(entry.name)) {
                 openTextPreview(entry);
                 return;
             }
+            // 其他（zip、docx、未知）→ 下载
             downloadFile(entry);
         }
 
@@ -675,8 +715,6 @@
         }
 
         // ---------- ZIP 备份（codeload.github.com 导航式下载）----------
-        // 使用 <a> 触发浏览器原生下载，绕过 CORS 限制。
-        // 不需要 token，任何人（包括访客）都可以使用。
         function downloadRepoZip() {
             if (zipInProgress) return;
             zipInProgress = true;
@@ -751,14 +789,19 @@
                     const isFolder = entry.type === 'dir';
                     const isImage = !isFolder && isImageName(entry.name);
                     const isText = !isFolder && isTextName(entry.name);
-                    const openable = isFolder || isImage || isText;
+                    const viewable = !isFolder && isBrowserViewableName(entry.name);
+                    const openable = isFolder || viewable || isText;
 
-                    let thumb = `<span class="item-icon">${isFolder ? '📁' : '📄'}</span>`;
-
+                    // 缩略图：只有图片直接显示；其他给 emoji 图标
+                    let thumb;
                     if (isImage) {
                         const imgUrl = rawImageUrl(entry);
                         thumb = `<img class="item-thumb" src="${imgUrl}" loading="lazy"
                     onerror="this.outerHTML='<span class=\\'item-icon\\' title=\\'图片加载失败\\'>🖼️</span>'; console.warn('图片加载失败:', '${esc(imgUrl)}');">`;
+                    } else if (isFolder) {
+                        thumb = `<span class="item-icon">📁</span>`;
+                    } else {
+                        thumb = `<span class="item-icon" title="${esc(getExt(entry.name) || 'file')}">${fileEmoji(entry.name)}</span>`;
                     }
 
                     html += `
@@ -903,21 +946,25 @@
             }
         }
 
-        async function uploadFiles(files, kind) {
+        // 上传所有类型文件
+        async function uploadFiles(files) {
             if (!await ensureAdmin()) return;
 
-            const wanted = Array.from(files).filter(f =>
-                kind === 'image' ? f.type.startsWith('image/') : (f.type === 'text/plain' || /\.txt$/i.test(f.name))
-            );
-
-            if (!wanted.length) { toast('未选择匹配的文件', true); return; }
-            if (wanted.length < files.length) toast(`已跳过 ${files.length - wanted.length} 个文件`, true);
+            const arr = Array.from(files);
+            if (!arr.length) { toast('未选择文件', true); return; }
 
             let added = 0;
+            let skipped = [];
             let errors = [];
             let lastName = null;
 
-            for (const file of wanted) {
+            for (const file of arr) {
+                // GitHub Contents API 对单文件大小有限制
+                if (file.size > MAX_FILE_SIZE) {
+                    skipped.push(`${file.name} (超过 ${formatSize(MAX_FILE_SIZE)})`);
+                    continue;
+                }
+
                 try {
                     let existingSha = null;
                     for (const e of entriesCache) {
@@ -944,13 +991,13 @@
                 toast(`⬆️ 已上传 ${added} 个文件`);
                 await render({ expectName: lastName });
             }
+            if (skipped.length) toast(`⚠️ 跳过 ${skipped.length} 个过大文件：${skipped[0]}`, true);
             if (errors.length) toast(`⚠️ ${errors.length} 个失败：${errors[0]}`, true);
         }
 
         // ---------- 事件 ----------
         newFolderBtn.addEventListener('click', createNewFolder);
-        uploadImgBtn.addEventListener('click', () => imageInput.click());
-        uploadTxtBtn.addEventListener('click', () => txtInput.click());
+        uploadBtn.addEventListener('click', () => anyInput.click());
         downloadZipBtn.addEventListener('click', downloadRepoZip);
         loginBtn.addEventListener('click', () => ensureAdmin());
         logoutBtn.addEventListener('click', () => {
@@ -959,13 +1006,9 @@
             toast('已退出登录');
         });
 
-        imageInput.addEventListener('change', async e => {
-            if (e.target.files?.length) await uploadFiles(e.target.files, 'image');
-            imageInput.value = '';
-        });
-        txtInput.addEventListener('change', async e => {
-            if (e.target.files?.length) await uploadFiles(e.target.files, 'txt');
-            txtInput.value = '';
+        anyInput.addEventListener('change', async e => {
+            if (e.target.files?.length) await uploadFiles(e.target.files);
+            anyInput.value = '';
         });
 
         fileListEl.addEventListener('dragover', e => {
@@ -981,13 +1024,7 @@
             if (!isAdmin()) { toast('请先以管理员身份登录', true); return; }
             const files = e.dataTransfer.files;
             if (!files?.length) return;
-            const arr = Array.from(files);
-            const imgs = arr.filter(f => f.type.startsWith('image/'));
-            const txts = arr.filter(f => f.type === 'text/plain' || /\.txt$/i.test(f.name));
-            if (imgs.length) await uploadFiles(imgs, 'image');
-            if (txts.length) await uploadFiles(txts, 'txt');
-            const other = arr.length - imgs.length - txts.length;
-            if (other > 0) toast(`${other} 个不支持的文件已跳过`, true);
+            await uploadFiles(files);
         });
 
         // 文本模态框事件
