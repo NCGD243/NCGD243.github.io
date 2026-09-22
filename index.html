@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <title>主页  管理员</title>
+    <title>主页 👑 管理员</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         html, body { height: 100%; }
@@ -91,6 +91,16 @@
         }
         .item:hover { background: #f8fafd; border-color: #e2e8f0; }
         .item.openable { cursor: pointer; }
+        /* 拖拽中的源条目 */
+        .item.dragging {
+            opacity: 0.4;
+        }
+        /* 文件夹作为放置目标时高亮 */
+        .item.drop-target {
+            background: #dbeafe;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3);
+        }
         .item-icon { font-size: 1.4rem; margin-right: 0.9rem; width: 1.8rem; text-align: center; }
         .item-name { flex: 1; font-weight: 500; color: #0f172a; word-break: break-word; }
         .item-name.folder { color: #0f3b7a; font-weight: 600; }
@@ -208,6 +218,17 @@
         .text-modal-body .error {
             color: #b91c1c;
         }
+
+        /* 拖拽移动提示 */
+        .drag-hint {
+            position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+            background: #1e40af; color: white; padding: 0.6rem 1.25rem;
+            border-radius: 40px; font-size: 0.85rem; font-weight: 500;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+            pointer-events: none; opacity: 0; transition: opacity 0.15s;
+            z-index: 400;
+        }
+        .drag-hint.show { opacity: 1; }
     </style>
 </head>
 <body>
@@ -241,12 +262,13 @@
 
 <input type="file" id="anyInput" multiple>
 <div class="toast" id="toast"></div>
+<div class="drag-hint" id="dragHint">拖动文件到目标文件夹以移动</div>
 
 <!-- 登录对话框 -->
 <div class="modal-backdrop" id="loginModal">
     <div class="modal">
         <h3>🔑 管理员登录</h3>
-        <p>输入 GitHub Personal Access Token 以解锁写入权限（上传、删除、新建文件夹）。
+        <p>输入 GitHub Personal Access Token 以解锁写入权限（上传、删除、新建文件夹、移动文件）。
             登录状态会保存在此浏览器中，之后打开无需再次输入。</p>
         <div class="field">
             <label>Personal Access Token</label>
@@ -282,7 +304,6 @@
         //
         // - 只读：无需登录。任何访客都能浏览、下载、双击打开。
         // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
-        //   Token 存在 localStorage，之后打开此浏览器自动保持登录。
         //
         // 目标文件夹：仓库根目录下的 "主页" 文件夹
         // 支持所有文件类型（图片、文本、PDF、音频、视频、压缩包...）
@@ -293,8 +314,10 @@
         //   - 文本类文件    → 弹出预览框显示内容
         //   - 其他          → 下载
         //
-        // ZIP 备份：使用 codeload.github.com 导航式下载，
-        //          绕过 CORS 限制，任何人可用。
+        // 拖拽移动（管理员）：
+        //   把文件行拖到文件夹行上 → 文件移动到该文件夹里
+        //
+        // ZIP 备份：使用 codeload.github.com 导航式下载。
         // ================================================================
 
         const TARGET_ROOT = '主页';
@@ -306,7 +329,6 @@
             branch: 'main'
         };
 
-        // GitHub Contents API 单文件上限约 100 MB（base64 后）
         const MAX_FILE_SIZE = 90 * 1024 * 1024;
 
         let token = '';
@@ -325,6 +347,7 @@
         const logoutBtn = $('logoutBtn');
         const anyInput = $('anyInput');
         const toastEl = $('toast');
+        const dragHint = $('dragHint');
         const statusDot = $('statusDot');
         const statusText = $('statusText');
         const repoTitle = $('repoTitle');
@@ -393,8 +416,6 @@
             if (b < 1048576) return (b / 1024).toFixed(1) + ' KB';
             return (b / 1048576).toFixed(2) + ' MB';
         }
-
-        // ---------- 文件类型判断 ----------
         function getExt(n) {
             const m = n.match(/\.([^.]+)$/);
             return m ? m[1].toLowerCase() : '';
@@ -405,7 +426,6 @@
         function isTextName(n) {
             return /\.(txt|md|markdown|json|json5|js|mjs|cjs|jsx|ts|tsx|css|scss|sass|less|html?|xml|svg|yml|yaml|toml|ini|conf|cfg|log|csv|tsv|env|sh|bash|zsh|bat|ps1|py|rb|go|rs|java|c|cc|cpp|h|hpp|cs|php|sql|graphql|gql|vue|svelte|astro)$/i.test(n);
         }
-        // 浏览器能原生渲染的文件（图片、PDF、音视频、文本） → 新标签页打开
         function isBrowserViewableName(n) {
             return isImageName(n)
                 || /\.pdf$/i.test(n)
@@ -414,8 +434,6 @@
                 || /\.(txt|md|json|xml|html?|css|js|csv|log|yml|yaml)$/i.test(n);
         }
         function isHiddenFile(n) { return n.startsWith('.'); }
-
-        // 文件图标（按扩展名给个直观的 emoji）
         function fileEmoji(n) {
             const e = getExt(n);
             if (isImageName(n)) return '🖼️';
@@ -619,13 +637,11 @@
         }
 
         // ---------- 打开文件 ----------
-        // 在浏览器新标签页打开（图片 / PDF / 音视频等浏览器能渲染的）
         function openFileInNewTab(entry) {
             const url = rawImageUrlNoCache(entry);
             window.open(url, '_blank', 'noopener');
         }
 
-        // 文本预览
         async function openTextPreview(entry) {
             currentTextEntry = entry;
             textModalTitle.textContent = entry.name;
@@ -671,23 +687,19 @@
             }
         }
 
-        // 双击行为分发
         function handleDoubleClick(entry) {
             if (entry.type === 'dir') {
                 openFolder(entry.name);
                 return;
             }
-            // 浏览器可渲染（图片/PDF/音视频）→ 新标签页
             if (isBrowserViewableName(entry.name) && !isTextName(entry.name)) {
                 openFileInNewTab(entry);
                 return;
             }
-            // 文本类 → 预览
             if (isTextName(entry.name)) {
                 openTextPreview(entry);
                 return;
             }
-            // 其他（zip、docx、未知）→ 下载
             downloadFile(entry);
         }
 
@@ -714,7 +726,72 @@
             }
         }
 
-        // ---------- ZIP 备份（codeload.github.com 导航式下载）----------
+        // ---------- 移动文件到目标文件夹 ----------
+        async function moveEntry(sourceEntry, targetFolderName) {
+            // sourceEntry 是 entriesCache 中的完整条目；targetFolderName 是同级文件夹名
+            if (!await ensureAdmin()) return;
+
+            if (sourceEntry.type !== 'file') {
+                toast('目前只支持移动文件（不支持移动文件夹）', true);
+                return;
+            }
+
+            const sourcePath = sourceEntry.path;
+            const fileName = sourceEntry.name;
+            const targetFolderPath = [...currentPath, targetFolderName].join('/');
+            const targetFullPath = fullPath([...currentPath, targetFolderName]);
+            const destPath = `${targetFullPath}/${fileName}`;
+
+            if (sourcePath === destPath) return;
+
+            // 检查目标文件夹里是否已有同名文件
+            try {
+                const { entries: targetEntries } = await listFolder(targetFullPath);
+                if (targetEntries.some(e => e.name === fileName)) {
+                    if (!confirm(`目标文件夹 "${targetFolderName}" 中已存在 "${fileName}"，要覆盖吗？`)) return;
+                }
+            } catch (e) {
+                console.warn('检查目标文件夹失败（继续尝试移动）：', e.message);
+            }
+
+            toast(`📦 正在移动 ${fileName} → ${targetFolderName}/…`);
+
+            try {
+                // 1. 读取源文件内容
+                const srcData = await gh('GET', `${sourcePath}?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
+                if (srcData.__notFound || !srcData.content) throw new Error('读取源文件失败');
+
+                // 2. 在目标位置创建文件
+                const destExists = await gh('GET', `${destPath}?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
+                const destBody = {
+                    message: `移动 ${fileName} 到 ${targetFolderPath}`,
+                    content: srcData.content.replace(/\n/g, ''),
+                    branch: REPO.branch
+                };
+                if (!destExists.__notFound && destExists.sha) {
+                    destBody.sha = destExists.sha;
+                }
+                await gh('PUT', destPath, destBody, { auth: true });
+
+                // 3. 删除源文件（需要源文件的 SHA）
+                if (!sourceEntry.sha) throw new Error('缺少源文件 SHA');
+                await gh('DELETE', sourcePath, {
+                    message: `移动 ${fileName} 到 ${targetFolderPath}（删除源文件）`,
+                    sha: sourceEntry.sha,
+                    branch: REPO.branch
+                }, { auth: true });
+
+                toast(`✅ 已移动 ${fileName} → ${targetFolderName}/`);
+                await render({ absentName: fileName });
+            } catch (e) {
+                console.error(e);
+                toast('移动失败：' + e.message, true);
+                // 刷新一下以显示真实状态
+                await render();
+            }
+        }
+
+        // ---------- ZIP 备份 ----------
         function downloadRepoZip() {
             if (zipInProgress) return;
             zipInProgress = true;
@@ -792,7 +869,9 @@
                     const viewable = !isFolder && isBrowserViewableName(entry.name);
                     const openable = isFolder || viewable || isText;
 
-                    // 缩略图：只有图片直接显示；其他给 emoji 图标
+                    // 只有管理员且是文件时，才可拖拽
+                    const draggable = isAdmin() && !isFolder;
+
                     let thumb;
                     if (isImage) {
                         const imgUrl = rawImageUrl(entry);
@@ -805,7 +884,7 @@
                     }
 
                     html += `
-          <div class="item ${openable ? 'openable' : ''}" data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
+          <div class="item ${openable ? 'openable' : ''}" ${draggable ? 'draggable="true"' : ''} data-name="${esc(entry.name)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" data-path="${esc(entry.path)}">
             ${thumb}
             <span class="item-name ${isFolder ? 'folder' : ''}">${esc(entry.name)}</span>
             ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
@@ -818,9 +897,11 @@
                 }
                 fileListEl.innerHTML = html;
 
+                // 打开文件夹按钮
                 fileListEl.querySelectorAll('.open-folder').forEach(b =>
                     b.addEventListener('click', e => { e.stopPropagation(); openFolder(b.dataset.folder); }));
 
+                // 下载按钮
                 fileListEl.querySelectorAll('.download-btn').forEach(b =>
                     b.addEventListener('click', e => {
                         e.stopPropagation();
@@ -831,9 +912,11 @@
                         });
                     }));
 
+                // 删除按钮
                 fileListEl.querySelectorAll('.delete-item').forEach(b =>
                     b.addEventListener('click', e => { e.stopPropagation(); deleteEntry(b.dataset.path, b.dataset.type, b.dataset.sha); }));
 
+                // 双击
                 fileListEl.querySelectorAll('.item').forEach(el =>
                     el.addEventListener('dblclick', e => {
                         if (e.target.closest('.icon-btn')) return;
@@ -846,9 +929,115 @@
                         const full = entriesCache.find(x => x.path === el.dataset.path) || entry;
                         handleDoubleClick(full);
                     }));
+
+                // ---------- 拖拽移动 ----------
+                attachDragHandlers();
             } catch (err) {
                 fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
             }
+        }
+
+        // ---------- 拖拽移动处理 ----------
+        function attachDragHandlers() {
+            if (!isAdmin()) return;
+
+            const items = fileListEl.querySelectorAll('.item');
+
+            items.forEach(el => {
+                const isFolder = el.dataset.type === 'dir';
+                const isFile = !isFolder;
+
+                // 文件行：作为拖拽源
+                if (isFile) {
+                    el.addEventListener('dragstart', e => {
+                        // 只拖拽文件
+                        const path = el.dataset.path;
+                        if (!path) return;
+
+                        e.dataTransfer.effectAllowed = 'move';
+                        e.dataTransfer.setData('text/plain', path);
+                        el.classList.add('dragging');
+                        dragHint.textContent = `拖动到目标文件夹以移动「${el.dataset.name}」`;
+                        dragHint.classList.add('show');
+                    });
+
+                    el.addEventListener('dragend', () => {
+                        el.classList.remove('dragging');
+                        dragHint.classList.remove('show');
+                        // 清除所有高亮
+                        fileListEl.querySelectorAll('.item.drop-target').forEach(x => x.classList.remove('drop-target'));
+                    });
+                }
+
+                // 文件夹行：作为放置目标
+                if (isFolder) {
+                    el.addEventListener('dragover', e => {
+                        // 只有当有人拖拽东西时才有 dataTransfer
+                        // 检查是不是内部文件拖拽
+                        const isDragging = fileListEl.querySelector('.item.dragging');
+                        if (!isDragging) return;
+
+                        // 不能拖到自己
+                        if (isDragging === el) return;
+
+                        e.preventDefault();
+                        e.dataTransfer.dropEffect = 'move';
+                        el.classList.add('drop-target');
+                    });
+
+                    el.addEventListener('dragleave', e => {
+                        if (!el.contains(e.relatedTarget)) {
+                            el.classList.remove('drop-target');
+                        }
+                    });
+
+                    el.addEventListener('drop', async e => {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        el.classList.remove('drop-target');
+                        dragHint.classList.remove('show');
+
+                        const dragging = fileListEl.querySelector('.item.dragging');
+                        if (!dragging) return;
+
+                        const sourcePath = dragging.dataset.path;
+                        const targetFolderName = el.dataset.name;
+
+                        // 从缓存中找到完整的源条目
+                        const sourceEntry = entriesCache.find(x => x.path === sourcePath);
+                        if (!sourceEntry) {
+                            toast('找不到源文件', true);
+                            return;
+                        }
+
+                        // 从拖拽状态恢复
+                        dragging.classList.remove('dragging');
+
+                        await moveEntry(sourceEntry, targetFolderName);
+                    });
+                }
+            });
+
+            // 允许拖到 file-list 空白区域 = 取消
+            fileListEl.addEventListener('dragover', e => {
+                const isDragging = fileListEl.querySelector('.item.dragging');
+                if (isDragging) {
+                    e.preventDefault();
+                    e.dataTransfer.dropEffect = 'move';
+                }
+            });
+
+            fileListEl.addEventListener('drop', e => {
+                // 如果 drop 目标不是文件夹（冒泡到这里），取消操作
+                const isDragging = fileListEl.querySelector('.item.dragging');
+                if (isDragging) {
+                    // 只有真正落在文件夹行上才会被上面的 handler 处理并 stopPropagation
+                    // 走到这里说明是落在空白处
+                    isDragging.classList.remove('dragging');
+                    dragHint.classList.remove('show');
+                    fileListEl.querySelectorAll('.item.drop-target').forEach(x => x.classList.remove('drop-target'));
+                }
+            });
         }
 
         function renderBreadcrumb() {
@@ -946,7 +1135,6 @@
             }
         }
 
-        // 上传所有类型文件
         async function uploadFiles(files) {
             if (!await ensureAdmin()) return;
 
@@ -959,7 +1147,6 @@
             let lastName = null;
 
             for (const file of arr) {
-                // GitHub Contents API 对单文件大小有限制
                 if (file.size > MAX_FILE_SIZE) {
                     skipped.push(`${file.name} (超过 ${formatSize(MAX_FILE_SIZE)})`);
                     continue;
@@ -1011,7 +1198,12 @@
             anyInput.value = '';
         });
 
+        // 从系统拖入文件到当前文件夹（上传）
         fileListEl.addEventListener('dragover', e => {
+            // 只有当拖的是系统文件（不是内部文件拖拽）时，才高亮
+            const isInternalDrag = fileListEl.querySelector('.item.dragging');
+            if (isInternalDrag) return;
+
             e.preventDefault();
             if (isAdmin()) fileListEl.classList.add('drag-over');
         });
@@ -1019,6 +1211,10 @@
             if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
         });
         fileListEl.addEventListener('drop', async e => {
+            // 内部拖拽已经由文件夹行的 handler 处理了；这里只处理系统文件拖入
+            const isInternalDrag = fileListEl.querySelector('.item.dragging');
+            if (isInternalDrag) return;
+
             e.preventDefault();
             fileListEl.classList.remove('drag-over');
             if (!isAdmin()) { toast('请先以管理员身份登录', true); return; }
