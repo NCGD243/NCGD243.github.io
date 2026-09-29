@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="/ChineseCharacters/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <title>主页</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -91,11 +91,9 @@
         }
         .item:hover { background: #f8fafd; border-color: #e2e8f0; }
         .item.openable { cursor: pointer; }
-        /* 拖拽中的源条目 */
         .item.dragging {
             opacity: 0.4;
         }
-        /* 文件夹作为放置目标时高亮 */
         .item.drop-target {
             background: #dbeafe;
             border-color: #3b82f6;
@@ -219,7 +217,6 @@
             color: #b91c1c;
         }
 
-        /* 拖拽移动提示 */
         .drag-hint {
             position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
             background: #1e40af; color: white; padding: 0.6rem 1.25rem;
@@ -235,9 +232,9 @@
 <div class="app" id="app">
     <div class="toolbar">
         <div class="repo-info">
-            <img class="repo-icon-img" src="/ChineseCharacters/favicon.png" alt="">
+            <img class="repo-icon-img" src="/favicon.png" alt="">
             <h1 id="repoTitle">主页</h1>
-            <span class="admin-badge admin-only"><span>👑</span>管理员</span>
+            <span class="admin-badge admin-only"><span>👑</span> 管理员</span>
         </div>
         <div class="actions">
             <button class="btn admin-only" id="newFolderBtn"><span>📁+</span> 新建文件夹</button>
@@ -305,7 +302,7 @@
         // - 只读：无需登录。任何访客都能浏览、下载、双击打开。
         // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
         //
-        // 目标文件夹：仓库根目录下的 "主页" 文件夹
+        // 目标文件夹：仓库根目录下的 "ChineseCharacters/主页" 文件夹
         // 支持所有文件类型（图片、文本、PDF、音频、视频、压缩包...）
         //
         // 双击行为：
@@ -320,7 +317,11 @@
         // ZIP 备份：使用 codeload.github.com 导航式下载。
         // ================================================================
 
+        // 目标路径：ChineseCharacters/主页
+        // TARGET_ROOT 用于显示在面包屑根上
+        // TARGET_PATH 是真实 API 路径（多级）
         const TARGET_ROOT = '主页';
+        const TARGET_PATH = ['ChineseCharacters', '主页'];
         const LS_TOKEN = 'gh-explorer-token-v1';
 
         const REPO = {
@@ -448,8 +449,9 @@
             return '📎';
         }
 
+        // 完整路径：ChineseCharacters/主页/<当前相对路径...>
         function fullPath(relParts) {
-            return [TARGET_ROOT, ...relParts].join('/');
+            return [...TARGET_PATH, ...relParts].join('/');
         }
 
         function rawImageUrl(entry) {
@@ -728,7 +730,6 @@
 
         // ---------- 移动文件到目标文件夹 ----------
         async function moveEntry(sourceEntry, targetFolderName) {
-            // sourceEntry 是 entriesCache 中的完整条目；targetFolderName 是同级文件夹名
             if (!await ensureAdmin()) return;
 
             if (sourceEntry.type !== 'file') {
@@ -744,7 +745,6 @@
 
             if (sourcePath === destPath) return;
 
-            // 检查目标文件夹里是否已有同名文件
             try {
                 const { entries: targetEntries } = await listFolder(targetFullPath);
                 if (targetEntries.some(e => e.name === fileName)) {
@@ -757,11 +757,9 @@
             toast(`📦 正在移动 ${fileName} → ${targetFolderName}/…`);
 
             try {
-                // 1. 读取源文件内容
                 const srcData = await gh('GET', `${sourcePath}?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
                 if (srcData.__notFound || !srcData.content) throw new Error('读取源文件失败');
 
-                // 2. 在目标位置创建文件
                 const destExists = await gh('GET', `${destPath}?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
                 const destBody = {
                     message: `移动 ${fileName} 到 ${targetFolderPath}`,
@@ -773,7 +771,6 @@
                 }
                 await gh('PUT', destPath, destBody, { auth: true });
 
-                // 3. 删除源文件（需要源文件的 SHA）
                 if (!sourceEntry.sha) throw new Error('缺少源文件 SHA');
                 await gh('DELETE', sourcePath, {
                     message: `移动 ${fileName} 到 ${targetFolderPath}（删除源文件）`,
@@ -786,7 +783,6 @@
             } catch (e) {
                 console.error(e);
                 toast('移动失败：' + e.message, true);
-                // 刷新一下以显示真实状态
                 await render();
             }
         }
@@ -836,8 +832,8 @@
                         fileListEl.innerHTML = `
             <div class="panel">
               <h2>📂 未找到 <code>${TARGET_ROOT}</code> 文件夹</h2>
-              <p>仓库在 <code>${esc(REPO.branch)}</code> 分支上还没有 <code>${esc(TARGET_ROOT)}</code> 文件夹。</p>
-              <button class="btn btn-primary" id="createRootBtn">➕ 创建 ${esc(TARGET_ROOT)} 文件夹</button>
+              <p>仓库在 <code>${esc(REPO.branch)}</code> 分支上还没有 <code>ChineseCharacters/主页</code> 文件夹。</p>
+              <button class="btn btn-primary" id="createRootBtn">➕ 创建 ChineseCharacters/主页 文件夹</button>
             </div>`;
                         $('createRootBtn').addEventListener('click', createRootFolder);
                         return;
@@ -869,7 +865,6 @@
                     const viewable = !isFolder && isBrowserViewableName(entry.name);
                     const openable = isFolder || viewable || isText;
 
-                    // 只有管理员且是文件时，才可拖拽
                     const draggable = isAdmin() && !isFolder;
 
                     let thumb;
@@ -897,11 +892,9 @@
                 }
                 fileListEl.innerHTML = html;
 
-                // 打开文件夹按钮
                 fileListEl.querySelectorAll('.open-folder').forEach(b =>
                     b.addEventListener('click', e => { e.stopPropagation(); openFolder(b.dataset.folder); }));
 
-                // 下载按钮
                 fileListEl.querySelectorAll('.download-btn').forEach(b =>
                     b.addEventListener('click', e => {
                         e.stopPropagation();
@@ -912,11 +905,9 @@
                         });
                     }));
 
-                // 删除按钮
                 fileListEl.querySelectorAll('.delete-item').forEach(b =>
                     b.addEventListener('click', e => { e.stopPropagation(); deleteEntry(b.dataset.path, b.dataset.type, b.dataset.sha); }));
 
-                // 双击
                 fileListEl.querySelectorAll('.item').forEach(el =>
                     el.addEventListener('dblclick', e => {
                         if (e.target.closest('.icon-btn')) return;
@@ -930,7 +921,6 @@
                         handleDoubleClick(full);
                     }));
 
-                // ---------- 拖拽移动 ----------
                 attachDragHandlers();
             } catch (err) {
                 fileListEl.innerHTML = `<div class="empty-state">⚠️ ${esc(err.message)}</div>`;
@@ -947,10 +937,8 @@
                 const isFolder = el.dataset.type === 'dir';
                 const isFile = !isFolder;
 
-                // 文件行：作为拖拽源
                 if (isFile) {
                     el.addEventListener('dragstart', e => {
-                        // 只拖拽文件
                         const path = el.dataset.path;
                         if (!path) return;
 
@@ -964,20 +952,14 @@
                     el.addEventListener('dragend', () => {
                         el.classList.remove('dragging');
                         dragHint.classList.remove('show');
-                        // 清除所有高亮
                         fileListEl.querySelectorAll('.item.drop-target').forEach(x => x.classList.remove('drop-target'));
                     });
                 }
 
-                // 文件夹行：作为放置目标
                 if (isFolder) {
                     el.addEventListener('dragover', e => {
-                        // 只有当有人拖拽东西时才有 dataTransfer
-                        // 检查是不是内部文件拖拽
                         const isDragging = fileListEl.querySelector('.item.dragging');
                         if (!isDragging) return;
-
-                        // 不能拖到自己
                         if (isDragging === el) return;
 
                         e.preventDefault();
@@ -1003,14 +985,12 @@
                         const sourcePath = dragging.dataset.path;
                         const targetFolderName = el.dataset.name;
 
-                        // 从缓存中找到完整的源条目
                         const sourceEntry = entriesCache.find(x => x.path === sourcePath);
                         if (!sourceEntry) {
                             toast('找不到源文件', true);
                             return;
                         }
 
-                        // 从拖拽状态恢复
                         dragging.classList.remove('dragging');
 
                         await moveEntry(sourceEntry, targetFolderName);
@@ -1018,7 +998,6 @@
                 }
             });
 
-            // 允许拖到 file-list 空白区域 = 取消
             fileListEl.addEventListener('dragover', e => {
                 const isDragging = fileListEl.querySelector('.item.dragging');
                 if (isDragging) {
@@ -1028,11 +1007,8 @@
             });
 
             fileListEl.addEventListener('drop', e => {
-                // 如果 drop 目标不是文件夹（冒泡到这里），取消操作
                 const isDragging = fileListEl.querySelector('.item.dragging');
                 if (isDragging) {
-                    // 只有真正落在文件夹行上才会被上面的 handler 处理并 stopPropagation
-                    // 走到这里说明是落在空白处
                     isDragging.classList.remove('dragging');
                     dragHint.classList.remove('show');
                     fileListEl.querySelectorAll('.item.drop-target').forEach(x => x.classList.remove('drop-target'));
@@ -1041,7 +1017,8 @@
         }
 
         function renderBreadcrumb() {
-            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(TARGET_ROOT)}</span>`;
+            // 根显示为 "📁 ChineseCharacters/主页"，让用户知道完整路径
+            let html = `<span class="crumb" data-path-index="-1">📁 ${esc(TARGET_PATH.join('/'))}</span>`;
             currentPath.forEach((seg, i) => {
                 html += `<span>/</span>`;
                 const last = i === currentPath.length - 1;
@@ -1059,16 +1036,26 @@
         }
 
         // ---------- 写操作 ----------
+        // 创建 ChineseCharacters/主页 文件夹（两级）
         async function createRootFolder() {
             if (!await ensureAdmin()) return;
             try {
-                await gh('PUT', `${TARGET_ROOT}/.gitkeep`, {
-                    message: `创建 ${TARGET_ROOT} 文件夹`,
+                // 先确保 ChineseCharacters 存在（用一个 .gitkeep）
+                try {
+                    await gh('GET', `ChineseCharacters?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
+                } catch (e) {
+                    // 不存在则创建
+                }
+                // 直接创建 ChineseCharacters/主页/.gitkeep
+                // GitHub API 会自动创建缺失的中间目录（在同一个 PUT 中）
+                const apiPath = fullPath([]) + '/.gitkeep'; // ChineseCharacters/主页/.gitkeep
+                await gh('PUT', apiPath, {
+                    message: `创建 ChineseCharacters/主页 文件夹`,
                     content: btoa(''),
                     branch: REPO.branch
                 }, { auth: true });
-                toast(`📁 已创建 ${TARGET_ROOT}/`);
-                await render({ expectName: TARGET_ROOT });
+                toast(`📁 已创建 ChineseCharacters/主页/`);
+                await render({ expectName: '主页' });
             } catch (e) { toast('失败：' + e.message, true); }
         }
 
@@ -1198,9 +1185,7 @@
             anyInput.value = '';
         });
 
-        // 从系统拖入文件到当前文件夹（上传）
         fileListEl.addEventListener('dragover', e => {
-            // 只有当拖的是系统文件（不是内部文件拖拽）时，才高亮
             const isInternalDrag = fileListEl.querySelector('.item.dragging');
             if (isInternalDrag) return;
 
@@ -1211,7 +1196,6 @@
             if (!fileListEl.contains(e.relatedTarget)) fileListEl.classList.remove('drag-over');
         });
         fileListEl.addEventListener('drop', async e => {
-            // 内部拖拽已经由文件夹行的 handler 处理了；这里只处理系统文件拖入
             const isInternalDrag = fileListEl.querySelector('.item.dragging');
             if (isInternalDrag) return;
 
@@ -1223,7 +1207,6 @@
             await uploadFiles(files);
         });
 
-        // 文本模态框事件
         textModalCloseBtn.addEventListener('click', closeTextModal);
         textModal.addEventListener('click', e => {
             if (e.target === textModal) closeTextModal();
