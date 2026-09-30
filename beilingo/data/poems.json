@@ -4,11 +4,25 @@
     "title": "静夜思",
     "author": "李白",
     "dynasty": "唐",
+    "length": "short",
     "lines": [
-      { "text": "床前明月光", "next": "疑是地上霜", "translation": "明亮的月光洒在床前" },
-      { "text": "疑是地上霜", "next": "举头望明月", "translation": "好像地上泛起了白霜" },
-      { "text": "举头望明月", "next": "低头思故乡", "translation": "我抬起头望着天上的明月" },
-      { "text": "低头思故乡", "next": null,         "translation": "低下头思念起故乡" }
+      { "text": "床前明月光", "translation": "明亮的月光洒在床前" },
+      { "text": "疑是地上霜", "translation": "好像地上泛起了白霜" },
+      { "text": "举头望明月", "translation": "我抬起头望着天上的明月" },
+      { "text": "低头思故乡", "translation": "低下头思念起故乡" }
+    ]
+  },
+  {
+    "id": "chunxiao",
+    "title": "春晓",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "length": "short",
+    "lines": [
+      { "text": "春眠不觉晓", "translation": "春天睡得香甜，不知不觉天亮了" },
+      { "text": "处处闻啼鸟", "translation": "到处听见鸟儿的啼叫" },
+      { "text": "夜来风雨声", "translation": "夜里传来风雨的声音" },
+      { "text": "花落知多少", "translation": "不知花儿落了多少" }
     ]
   }
 ]

@@ -3,63 +3,96 @@ body {
     max-width: 500px;
     margin: 40px auto;
     padding: 0 16px;
+    color: #222;
 }
 
 h1 { font-size: 20px; }
 
-.question { font-size: 22px; margin: 24px 0; }
-
-.option {
+/* 主页 */
+.poem-card {
     display: block;
     width: 100%;
-    padding: 14px;
-    margin: 10px 0;
-    font-size: 18px;
-    background: #f5f5f5;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    cursor: pointer;
+    padding: 16px;
+    margin: 12px 0;
+    background: #f7f7f7;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
     text-align: left;
+}
+.poem-card .title { font-size: 20px; font-weight: bold; }
+.poem-card .meta { font-size: 13px; color: #888; margin-top: 4px; }
+
+.level-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+.level-btn {
+    flex: 1;
+    padding: 10px 0;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    background: #fff;
+    cursor: pointer;
+}
+.level-btn.locked { color: #bbb; border-color: #eee; background: #fafafa; cursor: not-allowed; }
+.level-btn.open   { color: #333; border-color: #4caf50; }
+.level-btn.done   { background: #4caf50; border-color: #4caf50; color: #fff; }
+
+/* 练习页 */
+.back {
+    background: none; border: none; color: #888;
+    cursor: pointer; font-size: 14px; padding: 0; margin-bottom: 16px;
+}
+.progress { color: #888; font-size: 14px; }
+.question { font-size: 22px; margin: 20px 0; }
+
+.option {
+    display: block; width: 100%; padding: 14px; margin: 10px 0;
+    font-size: 18px; background: #f5f5f5; border: 2px solid #ddd;
+    border-radius: 10px; cursor: pointer; text-align: left;
 }
 .option:hover { background: #eee; }
 .option.correct { background: #d4f8d4; border-color: #4caf50; }
 .option.wrong { background: #ffd6d6; border-color: #f44336; }
 
-.explain {
-    margin-top: 16px;
-    padding: 14px;
-    background: #fffbe6;
-    border-left: 4px solid #f0c000;
-    border-radius: 6px;
-    display: none;
+/* 排序题：点选块 */
+.tokens-pool, .tokens-answer {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    min-height: 48px; padding: 8px;
+    border: 2px dashed #ccc; border-radius: 10px;
+    margin: 12px 0;
+}
+.tokens-answer { border-style: solid; background: #fafafa; }
+.token {
+    padding: 8px 14px; font-size: 18px;
+    background: #fff; border: 2px solid #bbb; border-radius: 8px;
+    cursor: pointer;
+}
+.token:hover { background: #eee; }
+
+/* 填空输入 */
+input[type="text"].fill-input {
+    width: 100%; padding: 12px; font-size: 20px;
+    border: 2px solid #bbb; border-radius: 10px;
+    box-sizing: border-box;
 }
 
-.progress { color: #888; font-size: 14px; }
+/* 讲解 */
+.explain {
+    margin-top: 16px; padding: 14px;
+    background: #fffbe6; border-left: 4px solid #f0c000;
+    border-radius: 6px; display: none;
+}
 
+/* 完成 */
 .done { font-size: 24px; text-align: center; margin-top: 60px; }
 
-/* 主页诗歌列表 */
-.poem-card {
-    display: block;
-    width: 100%;
-    padding: 18px;
-    margin: 12px 0;
-    background: #f5f5f5;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    cursor: pointer;
-    text-align: left;
+/* 通用按钮 */
+.btn {
+    display: block; width: 100%; padding: 14px; margin: 10px 0;
+    font-size: 18px; background: #f0f0f0; border: 2px solid #ccc;
+    border-radius: 10px; cursor: pointer; text-align: center;
 }
-.poem-card:hover { background: #eee; }
-.poem-card .title { font-size: 20px; font-weight: bold; }
-.poem-card .meta { font-size: 14px; color: #888; margin-top: 4px; }
-
-.back {
-    background: none;
-    border: none;
-    color: #888;
-    cursor: pointer;
-    font-size: 14px;
-    padding: 0;
-    margin-bottom: 16px;
-}
+.btn.primary { background: #4caf50; border-color: #4caf50; color: #fff; }
