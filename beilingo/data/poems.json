@@ -1,0 +1,14 @@
+[
+  {
+    "id": "jingyesi",
+    "title": "静夜思",
+    "author": "李白",
+    "dynasty": "唐",
+    "lines": [
+      { "text": "床前明月光", "next": "疑是地上霜", "translation": "明亮的月光洒在床前" },
+      { "text": "疑是地上霜", "next": "举头望明月", "translation": "好像地上泛起了白霜" },
+      { "text": "举头望明月", "next": "低头思故乡", "translation": "我抬起头望着天上的明月" },
+      { "text": "低头思故乡", "next": null,         "translation": "低下头思念起故乡" }
+    ]
+  }
+]
