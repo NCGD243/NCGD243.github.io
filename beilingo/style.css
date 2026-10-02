@@ -8,7 +8,7 @@ body {
 
 h1 { font-size: 20px; }
 
-/* 主页 */
+/* ---------- 主页 ---------- */
 .poem-card {
     display: block;
     width: 100%;
@@ -18,6 +18,7 @@ h1 { font-size: 20px; }
     border: 2px solid #e0e0e0;
     border-radius: 12px;
     text-align: left;
+    box-sizing: border-box;
 }
 .poem-card .title { font-size: 20px; font-weight: bold; }
 .poem-card .meta { font-size: 13px; color: #888; margin-top: 4px; }
@@ -40,7 +41,7 @@ h1 { font-size: 20px; }
 .level-btn.open   { color: #333; border-color: #4caf50; }
 .level-btn.done   { background: #4caf50; border-color: #4caf50; color: #fff; }
 
-/* 练习页 */
+/* ---------- 练习页 ---------- */
 .back {
     background: none; border: none; color: #888;
     cursor: pointer; font-size: 14px; padding: 0; margin-bottom: 16px;
@@ -52,47 +53,63 @@ h1 { font-size: 20px; }
     display: block; width: 100%; padding: 14px; margin: 10px 0;
     font-size: 18px; background: #f5f5f5; border: 2px solid #ddd;
     border-radius: 10px; cursor: pointer; text-align: left;
+    box-sizing: border-box;
 }
 .option:hover { background: #eee; }
 .option.correct { background: #d4f8d4; border-color: #4caf50; }
 .option.wrong { background: #ffd6d6; border-color: #f44336; }
 
-/* 排序题：点选块 */
-.tokens-pool, .tokens-answer {
+/* ---------- 点选字库 ---------- */
+.answer-area, .pool-area {
     display: flex; flex-wrap: wrap; gap: 8px;
-    min-height: 48px; padding: 8px;
-    border: 2px dashed #ccc; border-radius: 10px;
+    min-height: 52px; padding: 8px;
+    border-radius: 10px;
     margin: 12px 0;
+    box-sizing: border-box;
 }
-.tokens-answer { border-style: solid; background: #fafafa; }
+.answer-area { border: 2px solid #4caf50; background: #f6fff6; }
+.pool-area   { border: 2px dashed #ccc; background: #fafafa; }
+
 .token {
-    padding: 8px 14px; font-size: 18px;
+    padding: 8px 14px; font-size: 20px;
     background: #fff; border: 2px solid #bbb; border-radius: 8px;
-    cursor: pointer;
+    cursor: pointer; min-width: 36px; text-align: center;
+    box-sizing: border-box;
 }
 .token:hover { background: #eee; }
 
-/* 填空输入 */
-input[type="text"].fill-input {
-    width: 100%; padding: 12px; font-size: 20px;
-    border: 2px solid #bbb; border-radius: 10px;
+/* ---------- 整诗排序（句块） ---------- */
+.line-token {
+    display: block; width: 100%;
+    padding: 10px 14px; margin: 6px 0;
+    font-size: 18px; background: #fff;
+    border: 2px solid #bbb; border-radius: 8px;
+    cursor: pointer; text-align: left;
     box-sizing: border-box;
 }
+.line-token:hover { background: #eee; }
 
-/* 讲解 */
+/* ---------- 讲解 ---------- */
 .explain {
     margin-top: 16px; padding: 14px;
     background: #fffbe6; border-left: 4px solid #f0c000;
     border-radius: 6px; display: none;
 }
 
-/* 完成 */
+/* ---------- 完成 ---------- */
 .done { font-size: 24px; text-align: center; margin-top: 60px; }
 
-/* 通用按钮 */
+/* ---------- 通用按钮 ---------- */
 .btn {
     display: block; width: 100%; padding: 14px; margin: 10px 0;
     font-size: 18px; background: #f0f0f0; border: 2px solid #ccc;
     border-radius: 10px; cursor: pointer; text-align: center;
+    box-sizing: border-box;
 }
 .btn.primary { background: #4caf50; border-color: #4caf50; color: #fff; }
+
+.hint {
+    color: #888;
+    font-size: 15px;
+    margin: -8px 0 12px;
+}

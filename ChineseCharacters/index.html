@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="ChineseCharacters/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <title>主页</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -226,13 +226,25 @@
             z-index: 400;
         }
         .drag-hint.show { opacity: 1; }
+
+        /* 移动端优化 */
+        @media (max-width: 640px) {
+            .toolbar { padding: 0.75rem 1rem; }
+            .path-bar { padding: 0.55rem 1rem; }
+            .file-list { padding: 0.5rem 0.75rem 1rem; }
+            .item { padding: 0.6rem 0.75rem; }
+            .btn { padding: 0.5rem 0.85rem; font-size: 0.85rem; }
+            .repo-info h1 { font-size: 1rem; }
+            .item-actions { gap: 0.5rem; }
+            .icon-btn { font-size: 1.3rem; padding: 0.35rem 0.5rem; }
+        }
     </style>
 </head>
 <body>
 <div class="app" id="app">
     <div class="toolbar">
         <div class="repo-info">
-            <img class="repo-icon-img" src="/ChineseCharacters/favicon.png" alt="">
+            <img class="repo-icon-img" src="/favicon.png" alt="">
             <h1 id="repoTitle">主页</h1>
             <span class="admin-badge admin-only"><span>👑</span> 管理员</span>
         </div>
@@ -245,7 +257,7 @@
         </div>
     </div>
 
-    <div class="path-bar" id="pathBar"><span class="crumb">📁 主页</span></div>
+    <div class="path-bar" id="pathBar"><span class="crumb">📁 ChineseCharacters/主页</span></div>
     <div class="file-list" id="fileList"></div>
 
     <div class="footnote">
@@ -299,27 +311,19 @@
         // ================================================================
         // 主页 文件管理器 —— 混合模式
         //
-        // - 只读：无需登录。任何访客都能浏览、下载、双击打开。
-        // - 写入：需要以管理员身份登录（输入 GitHub Token 一次）。
+        // 目标文件夹：ChineseCharacters/主页
         //
-        // 目标文件夹：仓库根目录下的 "ChineseCharacters/主页" 文件夹
-        // 支持所有文件类型（图片、文本、PDF、音频、视频、压缩包...）
+        // 下载按钮的智能行为：
+        //   - 桌面端（Windows/Mac/Linux）：下载到"下载"文件夹
+        //   - 移动端（iPad/iPhone/Android）：图片保存到相册，
+        //     其他文件保存到"文件"App
         //
-        // 双击行为：
-        //   - 文件夹        → 进入文件夹
-        //   - 图片/PDF/音视频 → 新标签页打开（浏览器原生渲染）
-        //   - 文本类文件    → 弹出预览框显示内容
-        //   - 其他          → 下载
-        //
-        // 拖拽移动（管理员）：
-        //   把文件行拖到文件夹行上 → 文件移动到该文件夹里
-        //
-        // ZIP 备份：使用 codeload.github.com 导航式下载。
+        // 实现方式：优先使用 Web Share API (navigator.share)，
+        // 移动端 Safari/Chrome 会弹出系统分享菜单，
+        // 用户可以选"保存图像"（图片）或"存储到文件"（其他）。
+        // 如果 share 不可用或不支持文件，回退到普通下载。
         // ================================================================
 
-        // 目标路径：ChineseCharacters/主页
-        // TARGET_ROOT 用于显示在面包屑根上
-        // TARGET_PATH 是真实 API 路径（多级）
         const TARGET_ROOT = '主页';
         const TARGET_PATH = ['ChineseCharacters', '主页'];
         const LS_TOKEN = 'gh-explorer-token-v1';
@@ -365,6 +369,26 @@
         const textModalDownloadBtn = $('textModalDownloadBtn');
 
         let currentTextEntry = null;
+
+        // ---------- 设备检测 ----------
+        const isMobile = (() => {
+            const ua = navigator.userAgent || '';
+            const isIPad = /iPad/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+            const isIPhone = /iPhone|iPod/.test(ua);
+            const isAndroid = /Android/.test(ua);
+            return isIPad || isIPhone || isAndroid || /Mobi|Tablet/.test(ua);
+        })();
+
+        // Web Share API 是否可用（并且能分享文件）
+        const canShareFiles = (() => {
+            if (!navigator.canShare) return false;
+            try {
+                const testFile = new File(['x'], 'test.txt', { type: 'text/plain' });
+                return navigator.canShare({ files: [testFile] });
+            } catch (e) {
+                return false;
+            }
+        })();
 
         // ---------- 登录状态 ----------
         function isAdmin() { return !!token; }
@@ -449,7 +473,26 @@
             return '📎';
         }
 
-        // 完整路径：ChineseCharacters/主页/<当前相对路径...>
+        // 根据文件名猜 MIME type
+        function guessMimeType(name) {
+            const e = getExt(name);
+            const map = {
+                jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png',
+                gif: 'image/gif', webp: 'image/webp', svg: 'image/svg+xml',
+                bmp: 'image/bmp', ico: 'image/x-icon', avif: 'image/avif',
+                heic: 'image/heic', heif: 'image/heif',
+                tif: 'image/tiff', tiff: 'image/tiff',
+                pdf: 'application/pdf',
+                mp3: 'audio/mpeg', wav: 'audio/wav', ogg: 'audio/ogg',
+                m4a: 'audio/mp4', aac: 'audio/aac', flac: 'audio/flac',
+                mp4: 'video/mp4', webm: 'video/webm', mov: 'video/quicktime',
+                txt: 'text/plain', md: 'text/markdown',
+                json: 'application/json', xml: 'application/xml',
+                zip: 'application/zip'
+            };
+            return map[e] || 'application/octet-stream';
+        }
+
         function fullPath(relParts) {
             return [...TARGET_PATH, ...relParts].join('/');
         }
@@ -572,12 +615,13 @@
             }
         }
 
-        function base64ToBlob(b64) {
+        // base64 → Blob（带 MIME type）
+        function base64ToBlob(b64, mime) {
             const clean = b64.replace(/\n/g, '');
             const binary = atob(clean);
             const bytes = new Uint8Array(binary.length);
             for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
-            return new Blob([bytes], { type: 'application/octet-stream' });
+            return new Blob([bytes], { type: mime || 'application/octet-stream' });
         }
 
         // ---------- 登录对话框 ----------
@@ -638,6 +682,69 @@
             }
         }
 
+        // ---------- 智能保存/下载 ----------
+        // 桌面：触发浏览器下载
+        // 移动：调用系统分享菜单（可以"保存到相册"/"存储到文件"）
+        async function saveOrDownload(entry, { blobOverride, mimeOverride } = {}) {
+            try {
+                // 显示正在处理
+                const isImage = isImageName(entry.name);
+                const actionWord = isMobile
+                    ? (isImage ? '保存到相册' : '存储')
+                    : '下载';
+                toast(`⏳ 正在准备${actionWord} ${entry.name}…`);
+
+                // 获取文件内容
+                let blob = blobOverride;
+                let mime = mimeOverride || guessMimeType(entry.name);
+
+                if (!blob) {
+                    const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(REPO.branch)}`);
+                    if (data.__notFound || !data.content) throw new Error('内容不可用');
+                    blob = base64ToBlob(data.content, mime);
+                }
+
+                const file = new File([blob], entry.name, { type: mime });
+
+                // 移动端 + 支持 Web Share API → 弹出系统分享菜单
+                if (isMobile && canShareFiles) {
+                    try {
+                        await navigator.share({
+                            files: [file],
+                            title: entry.name,
+                            text: entry.name
+                        });
+                        toast(`✅ 已分享 ${entry.name}`);
+                        return;
+                    } catch (shareErr) {
+                        // 用户取消分享不算错误
+                        if (shareErr.name === 'AbortError') {
+                            toast('已取消');
+                            return;
+                        }
+                        // 其他错误：回退到下载
+                        console.warn('Share 失败，回退到下载：', shareErr);
+                    }
+                }
+
+                // 桌面端 / Share 不可用 → 普通下载
+                const blobUrl = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = blobUrl;
+                a.download = entry.name;
+                // iOS Safari 会提示"存储到文件"，用户体验尚可
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                setTimeout(() => URL.revokeObjectURL(blobUrl), 3000);
+
+                toast(`✅ ${actionWord} ${entry.name}`);
+            } catch (e) {
+                console.error(e);
+                toast('失败：' + e.message, true);
+            }
+        }
+
         // ---------- 打开文件 ----------
         function openFileInNewTab(entry) {
             const url = rawImageUrlNoCache(entry);
@@ -675,23 +782,28 @@
             try {
                 const data = await gh('GET', `${currentTextEntry.path}?ref=${encodeURIComponent(REPO.branch)}`);
                 if (data.__notFound || !data.content) throw new Error('内容不可用');
-                const blob = base64ToBlob(data.content);
-                const blobUrl = URL.createObjectURL(blob);
-                const a = document.createElement('a');
-                a.href = blobUrl;
-                a.download = currentTextEntry.name;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-                setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
+                const mime = guessMimeType(currentTextEntry.name);
+                const blob = base64ToBlob(data.content, mime);
+                await saveOrDownload(currentTextEntry, { blobOverride: blob, mimeOverride: mime });
             } catch (e) {
-                toast('下载失败：' + e.message, true);
+                toast('失败：' + e.message, true);
             }
         }
 
         function handleDoubleClick(entry) {
             if (entry.type === 'dir') {
                 openFolder(entry.name);
+                return;
+            }
+            // 图片：移动端 → 直接保存到相册；桌面端 → 新标签页打开
+            if (isImageName(entry.name)) {
+                if (isMobile) {
+                    // 移动端：直接弹出保存
+                    saveOrDownload(entry);
+                } else {
+                    // 桌面：新标签页打开大图
+                    openFileInNewTab(entry);
+                }
                 return;
             }
             if (isBrowserViewableName(entry.name) && !isTextName(entry.name)) {
@@ -702,30 +814,12 @@
                 openTextPreview(entry);
                 return;
             }
-            downloadFile(entry);
+            saveOrDownload(entry);
         }
 
-        // ---------- 下载单个文件 ----------
+        // ---------- 下载按钮 ----------
         async function downloadFile(entry) {
-            try {
-                toast(`⬇️ 正在下载 ${entry.name}…`);
-                const data = await gh('GET', `${entry.path}?ref=${encodeURIComponent(REPO.branch)}`);
-                if (data.__notFound || !data.content) throw new Error('内容不可用');
-                const blob = base64ToBlob(data.content);
-
-                const blobUrl = URL.createObjectURL(blob);
-                const a = document.createElement('a');
-                a.href = blobUrl;
-                a.download = entry.name;
-                document.body.appendChild(a);
-                a.click();
-                document.body.removeChild(a);
-                setTimeout(() => URL.revokeObjectURL(blobUrl), 1000);
-                toast(`✅ 已下载 ${entry.name}`);
-            } catch (e) {
-                console.error(e);
-                toast('下载失败：' + e.message, true);
-            }
+            await saveOrDownload(entry);
         }
 
         // ---------- 移动文件到目标文件夹 ----------
@@ -857,6 +951,9 @@
                     return;
                 }
 
+                // 下载按钮的 tooltip 根据设备变化
+                const downloadTitle = isMobile ? '保存' : '下载';
+
                 let html = '';
                 for (const entry of visibleEntries) {
                     const isFolder = entry.type === 'dir';
@@ -885,7 +982,7 @@
             ${!isFolder ? `<span class="item-meta">${formatSize(entry.size)}</span>` : ''}
             <div class="item-actions">
               ${isFolder ? `<button class="icon-btn open-folder" data-folder="${esc(entry.name)}" title="打开">📂</button>` : ''}
-              ${!isFolder ? `<button class="icon-btn download-btn" data-name="${esc(entry.name)}" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}" title="下载">⬇️</button>` : ''}
+              ${!isFolder ? `<button class="icon-btn download-btn" data-name="${esc(entry.name)}" data-path="${esc(entry.path)}" data-sha="${esc(entry.sha || '')}" title="${downloadTitle}">⬇️</button>` : ''}
               <button class="icon-btn delete-item admin-only" data-path="${esc(entry.path)}" data-type="${entry.type}" data-sha="${esc(entry.sha || '')}" title="删除（需管理员）">🗑️</button>
             </div>
           </div>`;
@@ -1017,7 +1114,6 @@
         }
 
         function renderBreadcrumb() {
-            // 根显示为 "📁 ChineseCharacters/主页"，让用户知道完整路径
             let html = `<span class="crumb" data-path-index="-1">📁 ${esc(TARGET_PATH.join('/'))}</span>`;
             currentPath.forEach((seg, i) => {
                 html += `<span>/</span>`;
@@ -1036,19 +1132,10 @@
         }
 
         // ---------- 写操作 ----------
-        // 创建 ChineseCharacters/主页 文件夹（两级）
         async function createRootFolder() {
             if (!await ensureAdmin()) return;
             try {
-                // 先确保 ChineseCharacters 存在（用一个 .gitkeep）
-                try {
-                    await gh('GET', `ChineseCharacters?ref=${encodeURIComponent(REPO.branch)}`, null, { auth: true });
-                } catch (e) {
-                    // 不存在则创建
-                }
-                // 直接创建 ChineseCharacters/主页/.gitkeep
-                // GitHub API 会自动创建缺失的中间目录（在同一个 PUT 中）
-                const apiPath = fullPath([]) + '/.gitkeep'; // ChineseCharacters/主页/.gitkeep
+                const apiPath = fullPath([]) + '/.gitkeep';
                 await gh('PUT', apiPath, {
                     message: `创建 ChineseCharacters/主页 文件夹`,
                     content: btoa(''),

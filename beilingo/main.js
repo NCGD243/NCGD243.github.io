@@ -1,8 +1,9 @@
 // ========== 全局状态 ==========
 let poems = [];
+let commonChars = [];
 let currentPoem = null;
 let currentLevel = 0;
-let queue = [];        // 待答题目
+let queue = [];
 let total = 0;
 let done = 0;
 
@@ -11,11 +12,8 @@ const STORAGE_KEY = 'beilingo.progress';
 
 // ========== 进度存取 ==========
 function loadProgress() {
-    try {
-        return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
-    } catch {
-        return {};
-    }
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+    catch { return {}; }
 }
 function saveProgress(p) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
@@ -30,9 +28,6 @@ function markLevelPassed(poemId, level) {
     p[poemId]['level' + level] = true;
     saveProgress(p);
 }
-
-// ========== 等级解锁状态 ==========
-// 返回 'done' | 'open' | 'locked'
 function getLevelStatus(poem, level) {
     if (isLevelPassed(poem.id, level)) return 'done';
     if (level === 1) return 'open';
@@ -40,10 +35,16 @@ function getLevelStatus(poem, level) {
 }
 
 // ========== 加载数据 ==========
-async function loadPoems() {
-    const res = await fetch('data/poems.json');
-    if (!res.ok) throw new Error('加载 poems.json 失败: ' + res.status);
-    poems = await res.json();
+async function loadData() {
+    const [poemsRes, charsRes] = await Promise.all([
+        fetch('data/poems.json'),
+        fetch('data/common_chars.txt')
+    ]);
+    if (!poemsRes.ok) throw new Error('poems.json 加载失败: ' + poemsRes.status);
+    if (!charsRes.ok) throw new Error('common_chars.txt 加载失败: ' + charsRes.status);
+    poems = await poemsRes.json();
+    const txt = await charsRes.text();
+    commonChars = [...new Set(txt.replace(/\s/g, '').split(''))];
 }
 
 // ========== 主页 ==========
@@ -75,26 +76,24 @@ function renderHome() {
         if (btn.classList.contains('locked')) return;
         btn.onclick = () => {
             const poem = poems.find(p => p.id === btn.dataset.poem);
-            const lv = parseInt(btn.dataset.level);
-            startLevel(poem, lv);
+            startLevel(poem, parseInt(btn.dataset.level));
         };
     });
 }
 
-// ========== 开始某等级练习 ==========
+// ========== 开始某等级 ==========
 function startLevel(poem, level) {
     currentPoem = poem;
     currentLevel = level;
-    queue = generateQuestions(poem, level);
+    queue = generateQuestions(poem, level, commonChars);
 
     if (queue.length === 0) {
         app.innerHTML = `
       <button class="back" onclick="renderHome()">← 返回</button>
-      <p>本等级暂无题目（Level ${level} 即将上线）</p>
+      <p>Lv${level} 即将上线</p>
     `;
         return;
     }
-
     total = queue.length;
     done = 0;
     renderQuestion();
@@ -107,26 +106,27 @@ function renderQuestion() {
     const q = queue[0];
     let body = '';
 
-    if (q.type === 'chooseNext' || q.type === 'choosePrev'
-        || q.type === 'translationToLine' || q.type === 'coupletCard') {
+    if (q.type === 'choice') {
         body = `
       <div class="question">${q.prompt}</div>
       <div id="options">
         ${q.options.map(o => `<button class="option" data-val="${o}">${o}</button>`).join('')}
       </div>
     `;
-    } else if (q.type === 'sortLine' || q.type === 'sortPoem') {
+    } else if (q.type === 'pickFill') {
+        body = `
+    <div class="question">${q.prompt}</div>
+    ${q.hint ? `<div class="hint">${q.hint}</div>` : ''}
+    <div class="answer-area" id="answerArea"></div>
+    <div class="pool-area" id="poolArea"></div>
+    <button class="btn primary" id="submitPick" style="margin-top:12px">提交</button>
+  `;
+    } else if (q.type === 'sortPoem') {
         body = `
       <div class="question">${q.prompt}</div>
-      <div class="tokens-answer" id="answerArea"></div>
-      <div class="tokens-pool" id="poolArea"></div>
+      <div class="answer-area" id="answerArea"></div>
+      <div class="pool-area" id="poolArea"></div>
       <button class="btn primary" id="submitSort" style="margin-top:12px">提交</button>
-    `;
-    } else if (q.type === 'fillBlank') {
-        body = `
-      <div class="question">${q.prompt}</div>
-      <input type="text" class="fill-input" id="fillInput" placeholder="输入缺失的词" autocomplete="off">
-      <button class="btn primary" id="submitFill" style="margin-top:12px">提交</button>
     `;
     }
 
@@ -137,23 +137,20 @@ function renderQuestion() {
     <div class="explain" id="explain"></div>
   `;
 
-    // 绑定事件
-    if (q.type === 'sortLine' || q.type === 'sortPoem') {
-        setupSort(q);
-    } else if (q.type === 'fillBlank') {
-        setupFill(q);
-    } else {
+    if (q.type === 'choice') {
         document.querySelectorAll('.option').forEach(btn => {
             btn.onclick = () => checkChoice(btn, q);
         });
+    } else if (q.type === 'pickFill') {
+        setupPickFill(q);
+    } else if (q.type === 'sortPoem') {
+        setupSortPoem(q);
     }
 }
 
-// ---------- 选择题判分 ----------
+// ---------- 选择题 ----------
 function checkChoice(btn, q) {
-    const chosen = btn.dataset.val;
-    const correct = chosen === q.answer;
-
+    const correct = btn.dataset.val === q.answer;
     document.querySelectorAll('.option').forEach(b => {
         b.onclick = null;
         if (b.dataset.val === q.answer) b.classList.add('correct');
@@ -168,84 +165,138 @@ function checkChoice(btn, q) {
     }
 }
 
-// ---------- 排序题 ----------
-function setupSort(q) {
+// ---------- 点选填空（pickFill） ----------
+function setupPickFill(q) {
     const answerArea = document.getElementById('answerArea');
     const poolArea = document.getElementById('poolArea');
+    const need = q.answerChars.length;
 
-    // 把 tokens 渲染到 pool
-    function renderPool(tokens) {
-        poolArea.innerHTML = tokens.map((t, i) =>
-            `<button class="token" data-idx="${i}">${t}</button>`
-        ).join('');
-        poolArea.querySelectorAll('.token').forEach(btn => {
+    // 渲染答案区占位
+    function renderAnswerPlaceholder() {
+        answerArea.innerHTML = '';
+        for (let i = 0; i < need; i++) {
+            const slot = document.createElement('div');
+            slot.className = 'token';
+            slot.style.borderStyle = 'dashed';
+            slot.style.color = '#ccc';
+            slot.textContent = '＿';
+            slot.dataset.slot = i;
+            slot.dataset.filled = '';
+            answerArea.appendChild(slot);
+        }
+    }
+
+    // 填字到答案区
+    function fillChar(ch) {
+        const slot = [...answerArea.querySelectorAll('.token')]
+            .find(s => !s.dataset.filled);
+        if (!slot) return false;
+        slot.textContent = ch;
+        slot.dataset.filled = ch;
+        slot.style.borderStyle = 'solid';
+        slot.style.color = '#222';
+        return true;
+    }
+
+    // 点答案区的字，退回字库
+    function bindSlotClick(slot) {
+        slot.onclick = () => {
+            if (!slot.dataset.filled) return;
+            const ch = slot.dataset.filled;
+            slot.dataset.filled = '';
+            slot.textContent = '＿';
+            slot.style.borderStyle = 'dashed';
+            slot.style.color = '#ccc';
+            // 恢复字库中的该字按钮
+            const poolBtn = [...poolArea.querySelectorAll('.token')]
+                .find(b => b.dataset.char === ch && b.disabled);
+            if (poolBtn) poolBtn.disabled = false;
+        };
+    }
+
+    // 渲染字库
+    function renderPool() {
+        poolArea.innerHTML = '';
+        q.pool.forEach(ch => {
+            const btn = document.createElement('button');
+            btn.className = 'token';
+            btn.textContent = ch;
+            btn.dataset.char = ch;
             btn.onclick = () => {
-                const t = btn.textContent;
-                poolArea.removeChild(btn);
-                addToAnswer(t);
+                if (btn.disabled) return;
+                if (fillChar(ch)) btn.disabled = true;
             };
+            poolArea.appendChild(btn);
         });
     }
 
-    function addToAnswer(t) {
-        const el = document.createElement('button');
-        el.className = 'token';
-        el.textContent = t;
-        el.onclick = () => {
-            answerArea.removeChild(el);
-            const btn = document.createElement('button');
-            btn.className = 'token';
-            btn.textContent = t;
-            btn.onclick = () => {
-                poolArea.removeChild(btn);
-                addToAnswer(t);
-            };
-            poolArea.appendChild(btn);
-        };
-        answerArea.appendChild(el);
-    }
+    renderAnswerPlaceholder();
+    answerArea.querySelectorAll('.token').forEach(bindSlotClick);
+    renderPool();
 
-    renderPool(q.tokens);
-
-    document.getElementById('submitSort').onclick = () => {
-        const userTokens = [...answerArea.querySelectorAll('.token')].map(e => e.textContent);
-        const correct = userTokens.length === q.answerTokens.length &&
-            userTokens.every((t, i) => t === q.answerTokens[i]);
+    document.getElementById('submitPick').onclick = () => {
+        const userChars = [...answerArea.querySelectorAll('.token')].map(s => s.dataset.filled || '');
+        const correct = userChars.every((c, i) => c === q.answerChars[i]);
         if (correct) {
             done++;
-            setTimeout(() => { queue.shift(); renderQuestion(); }, 600);
-            // 视觉反馈
             answerArea.style.background = '#d4f8d4';
+            setTimeout(() => { queue.shift(); renderQuestion(); }, 600);
         } else {
             answerArea.style.background = '#ffd6d6';
-            showExplain(q, `正确顺序：${q.answerTokens.join('')}`);
+            showExplain(q, `正确顺序：${q.answerChars.join('')}`);
         }
     };
 }
 
-// ---------- 填空题 ----------
-function setupFill(q) {
-    const input = document.getElementById('fillInput');
-    input.focus();
-    const submit = () => {
-        const val = input.value.trim();
-        if (!val) return;
-        const correct = isAnswerCorrect(val, q.blankAnswer);
+// ---------- 整诗排序（sortPoem，句块） ----------
+function setupSortPoem(q) {
+    const answerArea = document.getElementById('answerArea');
+    const poolArea = document.getElementById('poolArea');
+
+    function renderPool() {
+        poolArea.innerHTML = '';
+        q.lines.forEach(text => {
+            const btn = document.createElement('button');
+            btn.className = 'line-token';
+            btn.textContent = text;
+            btn.onclick = () => {
+                poolArea.removeChild(btn);
+                const el = document.createElement('button');
+                el.className = 'line-token';
+                el.textContent = text;
+                el.onclick = () => {
+                    answerArea.removeChild(el);
+                    // 放回 pool
+                    const back = document.createElement('button');
+                    back.className = 'line-token';
+                    back.textContent = text;
+                    back.onclick = () => { poolArea.removeChild(back); answerArea.appendChild(el); el.onclick = arguments.callee; };
+                    poolArea.appendChild(back);
+                };
+                answerArea.appendChild(el);
+            };
+            poolArea.appendChild(btn);
+        });
+    }
+
+    renderPool();
+
+    document.getElementById('submitSort').onclick = () => {
+        const userLines = [...answerArea.querySelectorAll('.line-token')].map(e => e.textContent);
+        const correct = userLines.length === q.answerLines.length &&
+            userLines.every((t, i) => t === q.answerLines[i]);
         if (correct) {
             done++;
-            input.style.borderColor = '#4caf50';
+            answerArea.style.background = '#d4f8d4';
             setTimeout(() => { queue.shift(); renderQuestion(); }, 600);
         } else {
-            input.style.borderColor = '#f44336';
-            input.disabled = true;
-            showExplain(q, `正确答案：${q.blankAnswer}`);
+            answerArea.style.background = '#ffd6d6';
+            showExplain(q, `正确顺序：${q.answerLines.join('，')}`);
         }
     };
-    document.getElementById('submitFill').onclick = submit;
-    input.onkeydown = (e) => { if (e.key === 'Enter') submit(); };
 }
 
-// ---------- 讲解 + 重考 ----------
+// ---------- 讲解 ----------
 function showExplain(q, correctText) {
     const ex = document.getElementById('explain');
     ex.style.display = 'block';
@@ -277,10 +328,10 @@ function renderDone() {
 // ========== 启动 ==========
 (async function init() {
     try {
-        await loadPoems();
+        await loadData();
         renderHome();
     } catch (e) {
         app.innerHTML = `<p style="color:red">加载失败：${e.message}</p>
-      <p style="color:#888">本地请用服务器打开（WebStorm 内置服务器或 python3 -m http.server）。</p>`;
+      <p style="color:#888">本地请用服务器打开。</p>`;
     }
 })();
