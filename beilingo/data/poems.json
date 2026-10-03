@@ -1,28 +1,55 @@
-[
-  {
-    "id": "jingyesi",
-    "title": "静夜思",
-    "author": "李白",
-    "dynasty": "唐",
-    "length": "short",
-    "lines": [
-      { "text": "床前明月光", "translation": "明亮的月光洒在床前" },
-      { "text": "疑是地上霜", "translation": "好像地上泛起了白霜" },
-      { "text": "举头望明月", "translation": "我抬起头望着天上的明月" },
-      { "text": "低头思故乡", "translation": "低下头思念起故乡" }
-    ]
-  },
-  {
-    "id": "chunxiao",
-    "title": "春晓",
-    "author": "孟浩然",
-    "dynasty": "唐",
-    "length": "short",
-    "lines": [
-      { "text": "春眠不觉晓", "translation": "春天睡得香甜，不知不觉天亮了" },
-      { "text": "处处闻啼鸟", "translation": "到处听见鸟儿的啼叫" },
-      { "text": "夜来风雨声", "translation": "夜里传来风雨的声音" },
-      { "text": "花落知多少", "translation": "不知花儿落了多少" }
-    ]
-  }
-]
+{
+  "poems": [
+    {
+      "id": "jys",
+      "title": "静夜思",
+      "author": "李白",
+      "lines": ["床前明月光", "疑是地上霜", "举头望明月", "低头思故乡"],
+      "sections": [
+        {
+          "id": "s1",
+          "name": "感知",
+          "lessonsTotal": 6,
+          "exercisesPerLesson": 10,
+          "exercises": [
+            { "id":"e1",  "type":"listen", "knowledge":"S2", "line":"床前明月光" },
+            { "id":"e2",  "type":"listen", "knowledge":"S3", "line":"疑是地上霜" },
+            { "id":"e3",  "type":"listen", "knowledge":"S4", "line":"举头望明月" },
+            { "id":"e4",  "type":"listen", "knowledge":"S5", "line":"低头思故乡" },
+
+            { "id":"e5",  "type":"rhythm", "knowledge":"S2", "line":"床前明月光",
+              "options":["床前/明月/光","床/前明/月/光","床前明/月/光","床前/明月光"], "answer":0 },
+            { "id":"e6",  "type":"rhythm", "knowledge":"S3", "line":"疑是地上霜",
+              "options":["疑是/地上/霜","疑/是地/上霜","疑是地/上/霜","疑是/地/上霜"], "answer":0 },
+            { "id":"e7",  "type":"rhythm", "knowledge":"S4", "line":"举头望明月",
+              "options":["举头/望/明月","举/头望/明月","举头望/明月","举头/望明/月"], "answer":0 },
+            { "id":"e8",  "type":"rhythm", "knowledge":"S5", "line":"低头思故乡",
+              "options":["低头/思/故乡","低/头思/故乡","低头思/故乡","低头/思故/乡"], "answer":0 },
+
+            { "id":"e9",  "type":"image", "knowledge":"S2",
+              "prompt":"夜晚，月光洒在床前，地上像铺了一层白霜。",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":0 },
+            { "id":"e10", "type":"image", "knowledge":"S3",
+              "prompt":"地上那一片白，好像是霜。",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":1 },
+            { "id":"e11", "type":"image", "knowledge":"S4",
+              "prompt":"抬起头，看着天上的月亮。",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":2 },
+            { "id":"e12", "type":"image", "knowledge":"S5",
+              "prompt":"低下头，想起了远方的家。",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":3 },
+
+            { "id":"e13", "type":"audio", "knowledge":"S2", "line":"床前明月光",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":0 },
+            { "id":"e14", "type":"audio", "knowledge":"S3", "line":"疑是地上霜",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":1 },
+            { "id":"e15", "type":"audio", "knowledge":"S4", "line":"举头望明月",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":2 },
+            { "id":"e16", "type":"audio", "knowledge":"S5", "line":"低头思故乡",
+              "options":["床前明月光","疑是地上霜","举头望明月","低头思故乡"], "answer":3 }
+          ]
+        }
+      ]
+    }
+  ]
+}

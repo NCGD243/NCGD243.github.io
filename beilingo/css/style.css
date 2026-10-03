@@ -1,0 +1,208 @@
+/* ========== 全局 ========== */
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body {
+    margin: 0; padding: 0;
+    font-family: "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", sans-serif;
+    background: linear-gradient(160deg, #f7f3e9 0%, #e8dfc9 100%);
+    color: #3a3226;
+    min-height: 100vh;
+}
+body { display: flex; justify-content: center; padding: 24px 16px 48px; }
+#app { width: 100%; max-width: 720px; }
+
+.hidden { display: none !important; }
+
+/* ========== 加载 / 错误 ========== */
+.loading {
+    text-align: center; padding: 60px 20px;
+    font-size: 20px; color: #8a7d63;
+}
+.load-error { text-align: center; padding: 40px 20px; }
+.load-error .emoji { font-size: 60px; margin-bottom: 16px; }
+.load-error h2 { font-size: 24px; margin: 0 0 12px; color: #4a3f2c; }
+.load-error p { font-size: 17px; color: #8a7d63; line-height: 1.7; }
+.load-error code {
+    background: #f0e8d6; padding: 2px 6px; border-radius: 4px;
+    font-size: 15px; color: #6b5e45;
+}
+
+/* ========== 通用按钮 ========== */
+button {
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+    border-radius: 14px;
+    font-size: 20px;
+    padding: 16px 24px;
+    transition: transform .08s ease, box-shadow .15s ease, background .15s ease;
+    user-select: none;
+}
+button:active { transform: scale(.97); }
+
+/* ========== 顶部标题 ========== */
+.header { text-align: center; margin-bottom: 28px; }
+.header h1 {
+    font-size: 34px; margin: 0 0 6px;
+    letter-spacing: 4px; color: #4a3f2c;
+}
+.header .sub { font-size: 18px; color: #8a7d63; letter-spacing: 2px; }
+
+/* ========== 课次地图 ========== */
+.lesson-map {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin-bottom: 24px;
+}
+.lesson-btn {
+    background: #fffdf7;
+    border: 2px solid #d8ccae;
+    border-radius: 18px;
+    padding: 20px 8px;
+    font-size: 20px;
+    color: #4a3f2c;
+    display: flex; flex-direction: column;
+    align-items: center; gap: 6px;
+    box-shadow: 0 2px 6px rgba(120,100,60,.08);
+}
+.lesson-btn .icon { font-size: 24px; }
+.lesson-btn.unlocked { background: #fff8e0; border-color: #e0c268; }
+.lesson-btn.locked {
+    background: #efe9db; color: #b3a98f;
+    cursor: not-allowed; opacity: .7;
+}
+.lesson-btn.done {
+    background: #e7f3df; border-color: #9cc47a; color: #4d7a2a;
+}
+
+/* ========== 卡片 ========== */
+.card {
+    background: #fffdf7;
+    border-radius: 22px;
+    padding: 28px 24px;
+    box-shadow: 0 6px 24px rgba(120,100,60,.12);
+    border: 1px solid #ece3cd;
+}
+
+/* ========== 顶部状态栏 ========== */
+.topbar {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 18px;
+}
+.topbar .lesson-info { font-size: 18px; color: #8a7d63; }
+.topbar .close-btn {
+    background: #f0e8d6; color: #8a7d63;
+    width: 42px; height: 42px; padding: 0;
+    border-radius: 50%; font-size: 22px; line-height: 1;
+}
+
+/* ========== 进度条 ========== */
+.progress-wrap { margin-bottom: 26px; }
+.progress-text {
+    font-size: 16px; color: #8a7d63; margin-bottom: 8px;
+    display: flex; justify-content: space-between;
+}
+.progress-bar {
+    height: 14px; background: #efe8d5; border-radius: 7px; overflow: hidden;
+}
+.progress-fill {
+    height: 100%; width: 0%;
+    background: linear-gradient(90deg, #f0c95a, #e8a93b);
+    border-radius: 7px;
+    transition: width .35s ease;
+}
+
+/* ========== 题目区 ========== */
+.q-line {
+    font-size: 34px; letter-spacing: 6px; text-align: center;
+    margin: 8px 0 22px; color: #4a3f2c; line-height: 1.4;
+}
+.q-prompt {
+    font-size: 22px; text-align: center; color: #6b5e45;
+    margin: 8px 0 22px; line-height: 1.6;
+}
+.q-hint {
+    font-size: 17px; text-align: center; color: #a3977c;
+    margin-bottom: 18px;
+}
+
+/* ========== 选项 ========== */
+.options { display: flex; flex-direction: column; gap: 14px; }
+.option {
+    background: #faf6ea;
+    border: 2px solid #e3d9c0;
+    border-radius: 16px;
+    padding: 20px 22px;
+    font-size: 22px;
+    letter-spacing: 3px;
+    text-align: left;
+    color: #4a3f2c;
+    box-shadow: 0 2px 4px rgba(120,100,60,.06);
+}
+.option:hover:not(:disabled) { background: #fff6dc; border-color: #e0c268; }
+.option:disabled { cursor: default; }
+.option.correct {
+    background: #e2f3d6; border-color: #7eb85a; color: #38651c;
+}
+.option.wrong {
+    background: #fbe0dd; border-color: #d97b70; color: #8a2f24;
+}
+
+/* ========== 播放按钮 ========== */
+.play-btn {
+    display: block; margin: 0 auto 24px;
+    background: linear-gradient(135deg, #f4c95d, #e8a93b);
+    color: #4a3f2c; font-size: 22px;
+    padding: 18px 40px; border-radius: 40px;
+    box-shadow: 0 4px 14px rgba(232,169,59,.4);
+}
+.play-btn.playing { background: linear-gradient(135deg, #c9d8a8, #9cc47a); }
+
+/* ========== 反馈条 ========== */
+.feedback {
+    margin-top: 22px; padding: 18px;
+    border-radius: 14px; font-size: 20px;
+    text-align: center; line-height: 1.6;
+    display: none;
+}
+.feedback.show { display: block; animation: fadeIn .2s ease; }
+.feedback.ok { background: #e2f3d6; color: #38651c; }
+.feedback.no { background: #fbe0dd; color: #8a2f24; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+/* ========== 主行动按钮 ========== */
+.primary-btn {
+    display: block; width: 100%; margin-top: 22px;
+    background: linear-gradient(135deg, #f4c95d, #e8a93b);
+    color: #4a3f2c; font-size: 22px;
+    padding: 20px; border-radius: 16px;
+    box-shadow: 0 4px 14px rgba(232,169,59,.35);
+}
+.primary-btn:disabled { opacity: .5; cursor: default; }
+
+/* ========== 弹窗 ========== */
+.overlay {
+    position: fixed; inset: 0;
+    background: rgba(58,50,38,.45);
+    display: none; align-items: center; justify-content: center;
+    padding: 24px; z-index: 50;
+}
+.overlay.show { display: flex; }
+.modal {
+    background: #fffdf7; border-radius: 22px;
+    padding: 32px 26px; max-width: 420px; width: 100%;
+    text-align: center;
+    box-shadow: 0 12px 40px rgba(58,50,38,.25);
+}
+.modal .emoji { font-size: 56px; margin-bottom: 12px; }
+.modal .msg { font-size: 20px; line-height: 1.7; color: #4a3f2c; margin-bottom: 26px; }
+.modal .btns { display: flex; flex-direction: column; gap: 12px; }
+.modal .btns button { font-size: 20px; padding: 16px; border-radius: 14px; }
+.btn-continue { background: linear-gradient(135deg, #f4c95d, #e8a93b); color: #4a3f2c; }
+.btn-abandon { background: #f0e8d6; color: #8a7d63; }
+
+/* ========== 完成页 ========== */
+.finish { text-align: center; padding: 40px 20px; }
+.finish .big { font-size: 60px; margin-bottom: 16px; }
+.finish h2 { font-size: 28px; margin: 0 0 12px; color: #4a3f2c; }
+.finish p { font-size: 20px; color: #8a7d63; margin: 0 0 28px; line-height: 1.7; }
