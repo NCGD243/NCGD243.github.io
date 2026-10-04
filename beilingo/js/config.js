@@ -1,0 +1,19 @@
+// Change this value to tune the delay before the next section unlocks.
+export const SECTION_UNLOCK_DELAY_MS = 60 * 1000;
+export const LESSONS_PER_SECTION = 4;
+export const EXERCISES_PER_LESSON = 10;
+export const AUTO_PLAY_DELAY_MS = 300;
+export const POEM_BLOCK_MOVE_DURATION_MS = 700;
+export const MAX_RETRY_PER_LESSON = 3;
+export const INTERVAL = [3, 6, 12, 25, 50, 100];
+export const W_WEAK = 0.30;
+export const W_DUE = 0.25;
+export const W_UNCOVERED = 0.20;
+export const W_WRONG = 0.15;
+export const W_MASTERED = 0.10;
+export const W_RANDOM = 0.05;
+export const QUOTA_WRONG = 4;
+export const QUOTA_DUE = 3;
+export const QUOTA_WEAK = 2;
+export const QUOTA_UNCOVERED = 1;
+export const STORAGE_KEY = "poem_app_state_gsz";
