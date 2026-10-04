@@ -1,42 +1,17 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>古诗背诵 · 静夜思</title>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f2e8">
+  <title>龟虽寿 · 背诗</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div id="app">
-    <!-- 加载中 -->
-    <div id="loading" class="loading">正在加载题库…</div>
-
-    <!-- 错误提示 -->
-    <div id="loadError" class="load-error hidden">
-        <div class="emoji">😵</div>
-        <h2>题库加载失败</h2>
-        <p>请通过本地服务器打开（例如 WebStorm 的 "Open in Browser" 或 <code>python -m http.server</code>），<br>
-            不要直接双击 <code>index.html</code>。</p>
-    </div>
-</div>
-
-<!-- 挽留弹窗 -->
-<div class="overlay" id="quitOverlay">
-    <div class="modal">
-        <div class="emoji">😢</div>
-        <div class="msg">别走呀，这首还没背完呢～</div>
-        <div class="btns">
-            <button class="btn-continue" onclick="closeQuitModal()">继续做题</button>
-            <button class="btn-abandon" onclick="abandonLesson()">放弃（本课进度清零）</button>
-        </div>
-    </div>
-</div>
-
-<!-- 按顺序引入，全局变量共享 -->
-<script src="js/data.js"></script>
-<script src="js/state.js"></script>
-<script src="js/algorithm.js"></script>
-<script src="js/ui.js"></script>
-<script src="js/main.js"></script>
+  <div class="learning-layout">
+    <aside class="poem-panel" aria-labelledby="poem-panel-title"></aside>
+    <main id="app" class="app-shell"></main>
+  </div>
+  <script type="module" src="js/main.js"></script>
 </body>
 </html>
