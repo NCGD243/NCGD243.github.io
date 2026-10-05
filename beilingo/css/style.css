@@ -126,6 +126,8 @@ h1, h2, p { margin-top: 0; }
 .question-area { min-height: 360px; padding: 26px 0 4px; }
 .question { text-align: center; }
 .question-instruction { margin: 6px 0 20px; color: var(--muted); font-size: 17px; }
+.sequence-progress { margin: 0; color: var(--muted); font-size: 14px; }
+.sequence-next { width: 100%; margin-top: 14px; }
 .poem-line { margin: 22px 0; font-family: "Songti SC", "SimSun", serif; font-size: clamp(30px, 7vw, 42px); letter-spacing: .15em; }
 .play-button { margin: 6px auto; border: 1px solid var(--line); color: var(--ink); background: #f5efe2; }
 .question-prompt { margin: 16px auto 24px; font-family: "Songti SC", "SimSun", serif; font-size: clamp(24px, 5vw, 34px); line-height: 1.7; }

@@ -10,16 +10,18 @@ export class Picker {
   }
 
   pick(lessonIndex) {
-    const required = this.exercises.filter(exercise => exercise.type === "order");
+    const required = this.exercises.filter(exercise =>
+      exercise.type === "order" || exercise.type === "listenSequence");
+    const requiredIds = new Set(required.map(exercise => exercise.id));
     if (lessonIndex === 0) {
-      const optional = shuffle(this.exercises.filter(exercise => exercise.type !== "order"));
+      const optional = shuffle(this.exercises.filter(exercise => !requiredIds.has(exercise.id)));
       return [...required, ...optional.slice(0, Math.max(0, EXERCISES_PER_LESSON - required.length))];
     }
 
     const scorer = new Scorer(this.user, this.exercises);
     const score = exercise => scorer.computeScore(exercise);
     const selected = [...required];
-    const selectedIds = new Set(required.map(exercise => exercise.id));
+    const selectedIds = new Set(requiredIds);
     const addFrom = (pool, limit, sort = (a, b) => score(b) - score(a)) => {
       pool.filter(exercise => !selectedIds.has(exercise.id))
         .sort(sort)

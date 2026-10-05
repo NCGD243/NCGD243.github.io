@@ -45,6 +45,13 @@ export const SECTION1_EXERCISES = POEM_LINES.map((line, index) => ({
   line
 }));
 
+export const SECTION1_SEQUENCE_EXERCISES = [{
+  id: "s1-follow-poem",
+  type: "listenSequence",
+  knowledge: KNOWLEDGE_IDS[0],
+  lines: POEM_LINES
+}];
+
 export const SECTION2_EXERCISES = POEM_LINES.map((line, index) => {
   const [word, meaning, options] = meanings[index];
   return {
@@ -58,8 +65,8 @@ export const SECTION2_EXERCISES = POEM_LINES.map((line, index) => {
   };
 });
 
-export const SECTION2_ORDER_EXERCISES = [{
-  id: "s2-order-poem",
+export const SECTION4_ORDER_EXERCISES = [{
+  id: "s4-order-poem",
   type: "order",
   knowledge: KNOWLEDGE_IDS[0],
   prompt: "将《龟虽寿》的诗句按正确顺序排列",
@@ -92,10 +99,10 @@ export const SECTION4_EXERCISES = POEM_LINES.map((line, index) => ({
 }));
 
 export const SECTION_EXERCISES = {
-  s1: SECTION1_EXERCISES,
-  s2: [...SECTION2_EXERCISES, ...SECTION2_ORDER_EXERCISES],
+  s1: [...SECTION1_EXERCISES, ...SECTION1_SEQUENCE_EXERCISES],
+  s2: SECTION2_EXERCISES,
   s3: SECTION3_EXERCISES,
-  s4: SECTION4_EXERCISES
+  s4: [...SECTION4_EXERCISES, ...SECTION4_ORDER_EXERCISES]
 };
 
 export const SECTIONS = SECTION_NAMES.map(([id, name]) => ({ id, name }));

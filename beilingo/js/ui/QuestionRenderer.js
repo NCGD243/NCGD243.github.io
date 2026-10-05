@@ -13,6 +13,7 @@ export class QuestionRenderer {
     const content = document.createElement("section");
     content.className = "question";
     if (exercise.type === "listen") this.renderListen(content, exercise, onAnswer);
+    else if (exercise.type === "listenSequence") this.renderListenSequence(content, exercise, onAnswer);
     else if (exercise.type === "meaning") this.renderMeaning(content, exercise, onAnswer);
     else if (exercise.type === "order") this.renderOrder(content, exercise, onAnswer);
     else if (exercise.type === "pinyin") this.renderPinyin(content, exercise, onAnswer);
@@ -26,8 +27,15 @@ export class QuestionRenderer {
     lines.forEach(line => {
       line.classList.toggle(
         "is-highlighted",
-        exercise.type === "order" || line.dataset.lineIndex === String(Number(exercise.knowledge.slice(1)) - 1)
+        exercise.type === "order" ||
+          line.dataset.lineIndex === String(Number(exercise.knowledge.slice(1)) - 1)
       );
+    });
+  }
+
+  highlightSequenceLine(lineIndex) {
+    document.querySelectorAll(".poem-panel-line").forEach(line => {
+      line.classList.toggle("is-highlighted", line.dataset.lineIndex === String(lineIndex));
     });
   }
 
@@ -86,6 +94,39 @@ export class QuestionRenderer {
     container.querySelector(".play-button").addEventListener("click", () => speak(exercise.line));
     container.querySelector(".answer-button").addEventListener("click", () => onAnswer(true));
     window.setTimeout(() => speak(exercise.line), AUTO_PLAY_DELAY_MS);
+  }
+
+  renderListenSequence(container, exercise, onAnswer) {
+    let lineIndex = 0;
+    container.innerHTML = `
+      <p class="question-instruction">听读整首诗，跟读后点击下一句</p>
+      <p class="sequence-progress"></p>
+      <p class="poem-line sequence-line"></p>
+      <button class="primary-button sequence-next" type="button">下一句</button>
+    `;
+
+    const progress = container.querySelector(".sequence-progress");
+    const poemLine = container.querySelector(".sequence-line");
+    const nextButton = container.querySelector(".sequence-next");
+    const showCurrentLine = () => {
+      const line = exercise.lines[lineIndex];
+      progress.textContent = `${lineIndex + 1} / ${exercise.lines.length}`;
+      poemLine.textContent = line;
+      nextButton.textContent = lineIndex === exercise.lines.length - 1 ? "完成跟读" : "下一句";
+      this.highlightSequenceLine(Number(exercise.knowledge.slice(1)) - 1 + lineIndex);
+      speak(line);
+    };
+
+    nextButton.addEventListener("click", () => {
+      if (lineIndex === exercise.lines.length - 1) {
+        nextButton.disabled = true;
+        onAnswer(true);
+        return;
+      }
+      lineIndex += 1;
+      showCurrentLine();
+    });
+    window.setTimeout(showCurrentLine, AUTO_PLAY_DELAY_MS);
   }
 
   renderMeaning(container, exercise, onAnswer) {
