@@ -5,69 +5,51 @@ import { getCharacterSea } from "../data/characterLibrary.js";
 const correctAnswerAudio = new Audio(new URL("../data/soundeffects/correct.wav", import.meta.url));
 
 export class QuestionRenderer {
-  render(container, exercise, onAnswer) {
+  render(container, exercise, onAnswer, isLast = false, userState = null) {
     this.restorePoemPanel();
     this.highlightPoem(exercise);
-    if (exercise.type === "pinyin") this.maskPoemCharacter(exercise);
-    if (exercise.type === "recite") this.maskPoemLine(exercise);
     const content = document.createElement("section");
     content.className = "question";
-    if (exercise.type === "listen") this.renderListen(content, exercise, onAnswer);
-    else if (exercise.type === "listenSequence") this.renderListenSequence(content, exercise, onAnswer);
-    else if (exercise.type === "meaning") this.renderMeaning(content, exercise, onAnswer);
-    else if (exercise.type === "order") this.renderOrder(content, exercise, onAnswer);
-    else if (exercise.type === "pinyin") this.renderPinyin(content, exercise, onAnswer);
-    else if (exercise.type === "recite") this.renderRecite(content, exercise, onAnswer);
-    else throw new Error(`Unsupported exercise type: ${exercise.type}`);
+    const stat = userState?.exerciseStats?.[exercise.id];
+    switch (exercise.type) {
+      case "read":
+        this.renderRead(content, exercise, onAnswer, isLast);
+        break;
+      case "option":
+        this.renderOption(content, exercise, onAnswer);
+        break;
+      case "order":
+        this.renderOrder(content, exercise, onAnswer);
+        break;
+      case "spell":
+        this.renderSpell(content, exercise, onAnswer);
+        break;
+      default:
+        throw new Error(`Unsupported exercise type: ${exercise.type}`);
+    }
+    if (stat?.wrongFlag) {
+      const flag = document.createElement("p");
+      flag.className = "mistake-badge";
+      flag.textContent = "错题";
+      content.prepend(flag);
+    }
     container.replaceChildren(content);
   }
 
   highlightPoem(exercise) {
     const lines = document.querySelectorAll(".poem-panel-line");
+    const targetLine = exercise.type === "read"
+      ? exercise.line
+      : exercise.knowledge
+        ? lines[Number(exercise.knowledge.slice(1)) - 1]?.textContent
+        : null;
     lines.forEach(line => {
       line.classList.toggle(
         "is-highlighted",
         exercise.type === "order" ||
-          line.dataset.lineIndex === String(Number(exercise.knowledge.slice(1)) - 1)
+          (targetLine !== null && targetLine !== undefined && line.textContent === targetLine)
       );
     });
-  }
-
-  highlightSequenceLine(lineIndex) {
-    document.querySelectorAll(".poem-panel-line").forEach(line => {
-      line.classList.toggle("is-highlighted", line.dataset.lineIndex === String(lineIndex));
-    });
-  }
-
-  maskPoemCharacter(exercise) {
-    const lineIndex = Number(exercise.knowledge.slice(1)) - 1;
-    const line = document.querySelector(`.poem-panel-line[data-line-index="${lineIndex}"]`);
-    const target = exercise.options[exercise.answer];
-    if (!line || !target) return;
-
-    const text = line.textContent;
-    const targetIndex = text.indexOf(target);
-    if (targetIndex < 0) return;
-
-    const blank = document.createElement("span");
-    blank.className = "poem-character-blank";
-    blank.setAttribute("aria-label", "空缺");
-    line.replaceChildren(
-      document.createTextNode(text.slice(0, targetIndex)),
-      blank,
-      document.createTextNode(text.slice(targetIndex + target.length))
-    );
-  }
-
-  maskPoemLine(exercise) {
-    const lineIndex = Number(exercise.knowledge.slice(1)) - 1;
-    const line = document.querySelector(`.poem-panel-line[data-line-index="${lineIndex}"]`);
-    if (!line) return;
-
-    const blank = document.createElement("span");
-    blank.className = "poem-line-blank";
-    blank.setAttribute("aria-label", "本句默写中");
-    line.replaceChildren(blank);
   }
 
   clearPoemHighlight() {
@@ -84,57 +66,35 @@ export class QuestionRenderer {
     poemLines.innerHTML = poemLines.dataset.originalMarkup;
   }
 
-  renderListen(container, exercise, onAnswer) {
+  renderRead(container, exercise, onAnswer, isLast) {
+    const characters = Array.from(exercise.line);
+    const syllables = exercise.showPinyin ? exercise.pinyin.trim().split(/\s+/) : [];
+    if (exercise.showPinyin && characters.length !== syllables.length) {
+      throw new Error(`Pinyin count does not match line length for ${exercise.id}`);
+    }
     container.innerHTML = `
-      <p class="question-instruction">先听一遍，再大声跟读。</p>
-      <button class="play-button" type="button">🔊 播放诗句</button>
-      <p class="poem-line">${escapeHtml(exercise.line)}</p>
-      <button class="primary-button answer-button" type="button">我读完了</button>
+      <p class="question-instruction">${escapeHtml(exercise.prompt)}</p>
+      <div class="listen-character-grid" aria-label="诗句及拼音">
+        ${characters.map((character, index) => `
+          <span class="listen-character-cell">
+            ${exercise.showPinyin ? `<span class="listen-pinyin">${escapeHtml(syllables[index])}</span>` : ""}
+            <span class="tianzi-cell"><span class="tianzi-character">${escapeHtml(character)}</span></span>
+          </span>
+        `).join("")}
+      </div>
+      <button class="play-button" type="button">🔊 朗读诗句</button>
+      <button class="primary-button answer-button" type="button">${isLast ? "完成跟读" : "下一句"}</button>
     `;
     container.querySelector(".play-button").addEventListener("click", () => speak(exercise.line));
     container.querySelector(".answer-button").addEventListener("click", () => onAnswer(true));
     window.setTimeout(() => speak(exercise.line), AUTO_PLAY_DELAY_MS);
   }
 
-  renderListenSequence(container, exercise, onAnswer) {
-    let lineIndex = 0;
-    container.innerHTML = `
-      <p class="question-instruction">听读整首诗，跟读后点击下一句</p>
-      <p class="sequence-progress"></p>
-      <p class="poem-line sequence-line"></p>
-      <button class="primary-button sequence-next" type="button">下一句</button>
-    `;
-
-    const progress = container.querySelector(".sequence-progress");
-    const poemLine = container.querySelector(".sequence-line");
-    const nextButton = container.querySelector(".sequence-next");
-    const showCurrentLine = () => {
-      const line = exercise.lines[lineIndex];
-      progress.textContent = `${lineIndex + 1} / ${exercise.lines.length}`;
-      poemLine.textContent = line;
-      nextButton.textContent = lineIndex === exercise.lines.length - 1 ? "完成跟读" : "下一句";
-      this.highlightSequenceLine(Number(exercise.knowledge.slice(1)) - 1 + lineIndex);
-      speak(line);
-    };
-
-    nextButton.addEventListener("click", () => {
-      if (lineIndex === exercise.lines.length - 1) {
-        nextButton.disabled = true;
-        onAnswer(true);
-        return;
-      }
-      lineIndex += 1;
-      showCurrentLine();
-    });
-    window.setTimeout(showCurrentLine, AUTO_PLAY_DELAY_MS);
-  }
-
-  renderMeaning(container, exercise, onAnswer) {
+  renderOption(container, exercise, onAnswer) {
     const choices = shuffleOptions(exercise);
     container.innerHTML = `
-      <p class="question-instruction">选择词语的正确解释</p>
-      <p class="question-prompt">${escapeHtml(exercise.word)}</p>
-      <p class="context-line">${escapeHtml(exercise.line)}</p>
+      <p class="question-instruction">请选择正确答案</p>
+      <p class="question-prompt">${escapeHtml(exercise.prompt)}</p>
       ${optionsMarkup(choices.options)}
     `;
     this.bindOptions(container, choices, onAnswer);
@@ -142,27 +102,24 @@ export class QuestionRenderer {
 
   renderOrder(container, exercise, onAnswer) {
     const lines = shuffleItems(exercise.lines.map((line, index) => ({ line, index })));
-    const poemTarget = document.querySelector(".poem-lines");
     let submitted = false;
-
-    if (!poemTarget) throw new Error("Missing poem panel ordering target");
-    poemTarget.classList.add("poem-order-target");
-    poemTarget.innerHTML = Array.from({ length: Math.ceil(exercise.lines.length / 2) }, (_, coupletIndex) => `
-      <li>
-        <span class="poem-order-slot" data-slot="${coupletIndex * 2}"></span>，
-        <span class="poem-order-slot" data-slot="${coupletIndex * 2 + 1}"></span>。
-      </li>
-    `).join("");
     container.innerHTML = `
       <p class="question-prompt">${escapeHtml(exercise.prompt)}</p>
       <ul class="order-source" aria-label="待排序诗句">
         ${lines.map(({ line, index }) => this.orderItemMarkup(line, index)).join("")}
       </ul>
+      <p class="question-instruction">按顺序点击上方诗句，点击已选诗句可撤回</p>
+      <ul class="order-answer" aria-label="已选诗句顺序">
+        ${Array.from({ length: exercise.lines.length }, (_, index) =>
+          `<li class="poem-order-slot" data-slot="${index}"></li>`
+        ).join("")}
+      </ul>
       <button class="primary-button order-submit" type="button">提交排序</button>
     `;
 
     const source = container.querySelector(".order-source");
-    const slots = [...poemTarget.querySelectorAll(".poem-order-slot")];
+    const target = container.querySelector(".order-answer");
+    const slots = [...target.querySelectorAll(".poem-order-slot")];
     const sourceSlots = new WeakMap();
 
     const updateLists = () => {
@@ -182,7 +139,7 @@ export class QuestionRenderer {
       animateMove(item, startRect);
       updateLists();
     });
-    poemTarget.addEventListener("click", event => {
+    target.addEventListener("click", event => {
       if (submitted) return;
       const item = event.target.closest(".order-item");
       if (!item) return;
@@ -197,7 +154,7 @@ export class QuestionRenderer {
     container.querySelector(".order-submit").addEventListener("click", event => {
       const correct = slots.every((slot, index) => Number(slot.querySelector(".order-item")?.dataset.line) === index);
       submitted = true;
-      [source, poemTarget].forEach(list => list.querySelectorAll(".order-item").forEach(item => {
+      [source, target].forEach(list => list.querySelectorAll(".order-item").forEach(item => {
         item.disabled = true;
       }));
       event.currentTarget.disabled = true;
@@ -206,21 +163,12 @@ export class QuestionRenderer {
     updateLists();
   }
 
-  renderPinyin(container, exercise, onAnswer) {
-    const choices = shuffleOptions(exercise);
-    container.innerHTML = `
-      <p class="question-instruction">根据拼音选择正确的字</p>
-      <p class="pinyin">${escapeHtml(exercise.pinyin)}</p>
-      <p class="question-prompt">${escapeHtml(exercise.hint)}</p>
-      ${optionsMarkup(choices.options)}
-    `;
-    this.bindOptions(container, choices, onAnswer);
-  }
-
-  async renderRecite(container, exercise, onAnswer) {
+  async renderSpell(container, exercise, onAnswer) {
     const answerCharacters = Array.from(normalize(exercise.answer));
     container.innerHTML = `
-      <p class="question-prompt">${escapeHtml(exercise.prompt)}</p>
+      ${exercise.showPinyin ? `<p class="pinyin">${escapeHtml(exercise.pinyin)}</p>` : ""}
+      <p class="question-instruction">${escapeHtml(exercise.prompt)}</p>
+      <p class="question-prompt">${escapeHtml(exercise.content)}</p>
       <p class="question-instruction">点击下方字块组成诗句</p>
       <p class="recite-answer" aria-live="polite"></p>
       <div class="character-sea" aria-label="可选汉字"></div>
@@ -297,17 +245,56 @@ export class QuestionRenderer {
   }
 
   bindOptions(container, exercise, onAnswer) {
-    container.querySelectorAll(".option-button").forEach((button, index) => {
-      button.addEventListener("click", () => {
-        const correct = index === exercise.answer;
-        container.querySelectorAll(".option-button").forEach((option, optionIndex) => {
-          option.disabled = true;
-          if (optionIndex === exercise.answer) option.classList.add("is-correct");
-          else if (optionIndex === index) option.classList.add("is-wrong");
+    const correctIndexes = Array.isArray(exercise.answer) ? exercise.answer : [exercise.answer];
+    if (correctIndexes.length === 0 || correctIndexes.some(index =>
+      !Number.isInteger(index) || index < 0 || index >= exercise.options.length)) {
+      throw new RangeError(`Invalid answer indexes for ${exercise.id}`);
+    }
+    const buttons = [...container.querySelectorAll(".option-button")];
+    const expectedText = correctIndexes.map(index => exercise.options[index]).join("、");
+    if (correctIndexes.length === 1) {
+      buttons.forEach((button, index) => {
+        button.addEventListener("click", () => {
+          const correct = index === correctIndexes[0];
+          buttons.forEach((option, optionIndex) => {
+            option.disabled = true;
+            if (optionIndex === correctIndexes[0]) option.classList.add("is-correct");
+            else if (optionIndex === index) option.classList.add("is-wrong");
+          });
+          this.showAnswerFeedback(container, correct, `正确答案：${expectedText}`, onAnswer);
         });
-        this.showAnswerFeedback(container, correct, `正确答案：${exercise.options[exercise.answer]}`, onAnswer);
+      });
+      return;
+    }
+
+    const selected = new Set();
+    buttons.forEach((button, index) => {
+      button.addEventListener("click", () => {
+        if (selected.has(index)) {
+          selected.delete(index);
+          button.classList.remove("is-selected");
+        } else {
+          selected.add(index);
+          button.classList.add("is-selected");
+        }
       });
     });
+    const submit = document.createElement("button");
+    submit.className = "primary-button answer-button";
+    submit.type = "button";
+    submit.textContent = "提交答案";
+    submit.addEventListener("click", () => {
+      const correct = selected.size === correctIndexes.length &&
+        correctIndexes.every(index => selected.has(index));
+      buttons.forEach((button, index) => {
+        button.disabled = true;
+        if (correctIndexes.includes(index)) button.classList.add("is-correct");
+        else if (selected.has(index)) button.classList.add("is-wrong");
+      });
+      submit.disabled = true;
+      this.showAnswerFeedback(container, correct, `正确答案：${expectedText}`, onAnswer);
+    });
+    container.append(submit);
   }
 
   showAnswerFeedback(container, correct, wrongMessage, onAnswer) {
@@ -369,10 +356,13 @@ function shuffleItems(items) {
 
 function shuffleOptions(exercise) {
   const indexedOptions = shuffleItems(exercise.options.map((option, index) => ({ option, index })));
+  const originalAnswers = Array.isArray(exercise.answer) ? exercise.answer : [exercise.answer];
+  const shuffledAnswers = originalAnswers.map(answer =>
+    indexedOptions.findIndex(({ index }) => index === answer));
   return {
     ...exercise,
     options: indexedOptions.map(({ option }) => option),
-    answer: indexedOptions.findIndex(({ index }) => index === exercise.answer)
+    answer: Array.isArray(exercise.answer) ? shuffledAnswers : shuffledAnswers[0]
   };
 }
 

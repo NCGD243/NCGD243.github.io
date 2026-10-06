@@ -1,6 +1,5 @@
-import { SECTIONS } from "../data/exercises.js";
+import { SECTION_EXERCISES, SECTION_LESSONS, SECTIONS } from "../data/exercises.js";
 import { POEM } from "../data/poem.js";
-import { EXERCISES_PER_LESSON, LESSONS_PER_SECTION } from "../config.js";
 import { SectionUnlocker } from "../core/SectionUnlocker.js";
 import { CountdownTimer } from "./CountdownTimer.js";
 
@@ -25,6 +24,7 @@ export class HomeView {
       </header>
       <section class="section-grid" aria-label="学习阶段">
         ${SECTIONS.map((section, index) => {
+          const lessonCount = SECTION_LESSONS[section.id].length;
           const progress = this.user.sections[section.id];
           const unlocked = unlocker.isUnlocked(section.id);
           const complete = progress.allCompleted;
@@ -37,11 +37,13 @@ export class HomeView {
             ${unlocked
               ? `<button class="primary-button enter-section" data-section="${section.id}">${complete ? "复习课程" : "进入阶段"}</button>`
               : `<p class="countdown" data-countdown="${section.id}"></p>`}
-            <p class="lesson-summary">${progress.lessons.filter(lesson => lesson.completed).length} / ${LESSONS_PER_SECTION} 课完成</p>
+            <p class="lesson-summary">${progress.lessons.filter(lesson => lesson.completed).length} / ${lessonCount} 课完成</p>
           </article>`;
         }).join("")}
       </section>
-      <footer class="site-footer">每阶段 ${LESSONS_PER_SECTION} 课 · 每课 ${EXERCISES_PER_LESSON} 题 · 学习进度保存在本设备</footer>
+      <footer class="site-footer">各阶段题库题数（${SECTIONS.map(section =>
+        `${section.name} ${SECTION_EXERCISES[section.id].length} 题`
+      ).join(" · ")}）；学习进度保存在本设备</footer>
     `;
     this.root.querySelectorAll(".enter-section").forEach(button => {
       button.addEventListener("click", () => this.onOpenSection(button.dataset.section));

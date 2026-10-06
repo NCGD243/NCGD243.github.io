@@ -1,10 +1,14 @@
-import { LESSONS_PER_SECTION } from "../config.js";
+import { SECTION_LESSONS } from "../data/exercises.js";
 import { LessonProgress } from "./LessonProgress.js";
 
 export class SectionProgress {
   constructor(sectionId) {
     this.sectionId = sectionId;
-    this.lessons = Array.from({ length: LESSONS_PER_SECTION }, (_, index) => new LessonProgress(index));
+    const lessons = SECTION_LESSONS[sectionId];
+    if (!Array.isArray(lessons) || lessons.length < 1) {
+      throw new RangeError(`Invalid section data: ${sectionId}`);
+    }
+    this.lessons = lessons.map((_, index) => new LessonProgress(index));
     this.completedAt = null;
   }
 

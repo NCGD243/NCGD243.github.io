@@ -11,7 +11,7 @@ export class CountdownTimer {
     if (this.wasLocked) {
       this.intervalId = window.setInterval(
         () => this.refresh(),
-        Math.max(1000, Math.min(30000, SECTION_UNLOCK_DELAY_MS))
+        Math.max(1000, Math.min(1000, SECTION_UNLOCK_DELAY_MS))
       );
     }
   }

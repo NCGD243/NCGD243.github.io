@@ -1,5 +1,4 @@
-import { EXERCISES_PER_LESSON, LESSONS_PER_SECTION } from "../config.js";
-import { SECTIONS } from "../data/exercises.js";
+import { SECTION_EXERCISES, SECTION_LESSONS, SECTIONS } from "../data/exercises.js";
 
 export class SectionView {
   constructor(root, userState, sectionId, onOpenLesson, onHome) {
@@ -14,15 +13,22 @@ export class SectionView {
     const sectionIndex = SECTIONS.findIndex(section => section.id === this.sectionId);
     const section = SECTIONS[sectionIndex];
     const progress = this.user.sections[this.sectionId];
+    const lessonCount = SECTION_LESSONS[this.sectionId].length;
+    const lessonExerciseCounts = SECTION_LESSONS[this.sectionId].map((_, lessonIndex) =>
+      SECTION_EXERCISES[this.sectionId].filter(exercise =>
+        exercise.lessonIndex === lessonIndex).length);
+    const exercisesPerLesson = new Set(lessonExerciseCounts).size === 1
+      ? `每课 ${lessonExerciseCounts[0]} 题`
+      : `各课题数：${lessonExerciseCounts.join("、")}`;
     this.root.innerHTML = `
       <button class="text-button back-button" type="button">← 返回阶段</button>
       <header class="page-heading">
         <p class="eyebrow">阶段 ${sectionIndex + 1}</p>
         <h1>${escapeHtml(section.name)}</h1>
-        <p>按顺序完成 ${LESSONS_PER_SECTION} 课，每课 ${EXERCISES_PER_LESSON} 题。</p>
+        <p>按顺序完成 ${lessonCount} 课，${exercisesPerLesson}。</p>
       </header>
       <section class="lesson-grid" aria-label="${escapeHtml(section.name)}课程">
-        ${Array.from({ length: LESSONS_PER_SECTION }, (_, index) => {
+        ${Array.from({ length: lessonCount }, (_, index) => {
           const done = progress.lessons[index].completed;
           const unlocked = done || index === 0 || progress.lessons[index - 1].completed;
           return `<button class="lesson-card ${done ? "is-complete" : unlocked ? "is-unlocked" : "is-locked"}"

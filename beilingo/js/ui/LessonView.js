@@ -1,5 +1,4 @@
-import { EXERCISES_PER_LESSON, LESSONS_PER_SECTION } from "../config.js";
-import { SECTION_EXERCISES, SECTIONS } from "../data/exercises.js";
+import { SECTION_EXERCISES, SECTION_LESSONS, SECTIONS } from "../data/exercises.js";
 import { Session } from "../core/Session.js";
 import { Storage } from "../storage/Storage.js";
 import { QuestionRenderer } from "./QuestionRenderer.js";
@@ -28,14 +27,15 @@ export class LessonView {
       return;
     }
     const exercise = this.session.next();
+    const lessonCount = SECTION_LESSONS[this.sectionId].length;
     const count = this.session.answeredCount + 1;
-    const total = Math.max(EXERCISES_PER_LESSON, this.session.totalCount);
+    const total = Math.max(count, this.session.totalCount);
     this.root.innerHTML = `
       <section class="lesson-panel">
         <div class="lesson-topbar">
           <div>
             <p class="eyebrow">${escapeHtml(sectionName(this.sectionId))}</p>
-            <h1>第 ${this.lessonIndex + 1} 课 <span>/ 共 ${LESSONS_PER_SECTION} 课</span></h1>
+            <h1>第 ${this.lessonIndex + 1} 课 <span>/ 共 ${lessonCount} 课</span></h1>
           </div>
           <button class="close-button" type="button" aria-label="退出本课">×</button>
         </div>
@@ -53,7 +53,7 @@ export class LessonView {
       this.session.answer(correct);
       Storage.save(this.user);
       this.renderNext();
-    });
+    }, this.session.queue.length === 0, this.user);
   }
 
   showQuitDialog() {

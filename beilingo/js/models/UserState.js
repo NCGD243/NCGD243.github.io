@@ -4,7 +4,6 @@ import { ExerciseStat } from "./ExerciseStat.js";
 import { KnowledgeState } from "./KnowledgeState.js";
 import { SectionProgress } from "./SectionProgress.js";
 import { LessonProgress } from "./LessonProgress.js";
-import { LESSONS_PER_SECTION } from "../config.js";
 
 export class UserState {
   constructor() {
@@ -49,7 +48,7 @@ export class UserState {
     for (const [id, section] of Object.entries(state.sections)) {
       const saved = obj.sections?.[id];
       if (!saved || !Array.isArray(saved.lessons)) continue;
-      section.lessons = Array.from({ length: LESSONS_PER_SECTION }, (_, index) => {
+      section.lessons = Array.from({ length: section.lessons.length }, (_, index) => {
         const lesson = new LessonProgress(index);
         lesson.completed = Boolean(saved.lessons[index]?.completed);
         return lesson;
