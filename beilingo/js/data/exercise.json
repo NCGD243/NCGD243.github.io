@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "第1课",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            { "id": "s1l1q1",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "shén guī suī shòu" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "神龟虽寿" } },
+            { "id": "s1l1q2",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "yóu yǒu jìng shí" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "犹有竟时" } },
+            { "id": "s1l1q3",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "téng shé chéng wù" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "螣蛇乘雾" } },
+            { "id": "s1l1q4",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "zhōng wéi tǔ huī" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "终为土灰" } },
+            { "id": "s1l1q5",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "lǎo jì fú lì" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "老骥伏枥" } },
+            { "id": "s1l1q6",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "zhì zài qiān lǐ" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "志在千里" } },
+            { "id": "s1l1q7",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "liè shì mù nián" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "烈士暮年" } },
+            { "id": "s1l1q8",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "zhuàng xīn bù yǐ" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "壮心不已" } },
+            { "id": "s1l1q9",  "type": "read", "pinyinInfo": { "show": true, "pinyin": "yíng suō zhī qī" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "盈缩之期" } },
+            { "id": "s1l1q10", "type": "read", "pinyinInfo": { "show": true, "pinyin": "bù dàn zài tiān" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "不但在天" } },
+            { "id": "s1l1q11", "type": "read", "pinyinInfo": { "show": true, "pinyin": "yǎng yí zhī fú" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "养怡之福" } },
+            { "id": "s1l1q12", "type": "read", "pinyinInfo": { "show": true, "pinyin": "kě dé yǒng nián" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "可得永年" } },
+            { "id": "s1l1q13", "type": "read", "pinyinInfo": { "show": true, "pinyin": "xìng shèn zhì zāi" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "幸甚至哉" } },
+            { "id": "s1l1q14", "type": "read", "pinyinInfo": { "show": true, "pinyin": "gē yǐ yǒng zhì" }, "prompt": "听录音，跟读这一句", "otherInfo": { "line": "歌以咏志" } }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "第1课",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            { "id": "s2l1q1",  "type": "option", "prompt": "“神龟”的意思是？", "otherInfo": { "content": "“神龟”的意思是？", "options": ["传说中寿命很长的灵龟", "神奇的乌龟雕像", "能乘雾飞行的龟", "古代的一种乐器"], "answer": [0] } },
+            { "id": "s2l1q2",  "type": "option", "prompt": "“竟时”的意思是？", "otherInfo": { "content": "“竟时”的意思是？", "options": ["终结的时候", "开始的时刻", "最好的时节", "竞争的时期"], "answer": [0] } },
+            { "id": "s2l1q3",  "type": "option", "prompt": "“螣蛇”的意思是？", "otherInfo": { "content": "“螣蛇”的意思是？", "options": ["传说中能乘雾飞行的蛇", "一种水生动物", "盘绕的树根", "古代的兵器"], "answer": [0] } },
+            { "id": "s2l1q4",  "type": "option", "prompt": "“土灰”的意思是？", "otherInfo": { "content": "“土灰”的意思是？", "options": ["泥土和灰尘，比喻消亡", "肥沃的土壤", "烧制的陶土", "尘土飞扬"], "answer": [0] } },
+            { "id": "s2l1q5",  "type": "option", "prompt": "“老骥”的意思是？", "otherInfo": { "content": "“老骥”的意思是？", "options": ["年老的千里马", "年幼的小马", "奔驰的骏马", "退役的战马"], "answer": [0] } },
+            { "id": "s2l1q6",  "type": "option", "prompt": "“志”的意思是？", "otherInfo": { "content": "“志”的意思是？", "options": ["心愿、志向", "记载文字", "做事的标记", "记忆力"], "answer": [0] } },
+            { "id": "s2l1q7",  "type": "option", "prompt": "“烈士”的意思是？", "otherInfo": { "content": "“烈士”的意思是？", "options": ["有雄心壮志的人", "为国牺牲的人", "勇敢的士兵", "古代的官员"], "answer": [0] } },
+            { "id": "s2l1q8",  "type": "option", "prompt": "“不已”的意思是？", "otherInfo": { "content": "“不已”的意思是？", "options": ["不停止", "已经结束", "不能完成", "不曾开始"], "answer": [0] } },
+            { "id": "s2l1q9",  "type": "option", "prompt": "“盈缩”的意思是？", "otherInfo": { "content": "“盈缩”的意思是？", "options": ["寿命的长短", "月亮的圆缺", "粮食的多少", "进退的快慢"], "answer": [0] } },
+            { "id": "s2l1q10", "type": "option", "prompt": "“但”的意思是？", "otherInfo": { "content": "“但”的意思是？", "options": ["仅，只", "但是", "不应该", "不可能"], "answer": [0] } },
+            { "id": "s2l1q11", "type": "option", "prompt": "“养怡”的意思是？", "otherInfo": { "content": "“养怡”的意思是？", "options": ["调养身心，使之和乐", "休养生息", "种植庄稼", "供养家人"], "answer": [0] } },
+            { "id": "s2l1q12", "type": "option", "prompt": "“永年”的意思是？", "otherInfo": { "content": "“永年”的意思是？", "options": ["长寿", "永远的年份", "美好的年景", "年轻的时候"], "answer": [0] } },
+            { "id": "s2l1q13", "type": "option", "prompt": "“幸甚至哉”的意思是？", "otherInfo": { "content": "“幸甚至哉”的意思是？", "options": ["非常庆幸", "幸运降临", "人生艰难", "高兴歌唱"], "answer": [0] } },
+            { "id": "s2l1q14", "type": "option", "prompt": "“咏志”的意思是？", "otherInfo": { "content": "“咏志”的意思是？", "options": ["歌咏心志", "吟诵诗句", "表达思乡", "赞美自然"], "answer": [0] } }
+          ]
+        },
+        {
+          "name": "第2课",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            { "id": "s2l2q1",  "type": "option", "prompt": "有一种长寿的灵龟，即使活得再久，也终究有生命结束的时候。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["神龟虽寿，犹有竟时", "螣蛇乘雾，终为土灰", "老骥伏枥，志在千里", "幸甚至哉，歌以咏志"], "answer": [0] } },
+            { "id": "s2l2q2",  "type": "option", "prompt": "“神龟虽寿，犹有竟时”的意思是？", "otherInfo": { "content": "“神龟虽寿，犹有竟时”的意思是？", "options": ["长寿的灵龟也有生命终结之时", "神龟能活很久很久", "神龟是神仙养的宠物", "神龟寿命没有尽头"], "answer": [0] } },
+            { "id": "s2l2q3",  "type": "option", "prompt": "传说中有一种蛇能腾云驾雾地飞行，但它最终也会化为泥土和灰尘。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["老骥伏枥，志在千里", "螣蛇乘雾，终为土灰", "养怡之福，可得永年", "盈缩之期，不但在天"], "answer": [1] } },
+            { "id": "s2l2q4",  "type": "option", "prompt": "“螣蛇乘雾，终为土灰”的意思是？", "otherInfo": { "content": "“螣蛇乘雾，终为土灰”的意思是？", "options": ["能腾云驾雾的蛇，最终也化为泥土灰尘", "蛇乘着雾飞走了", "蛇变成了土和灰", "蛇在雾中消失了"], "answer": [0] } },
+            { "id": "s2l2q5",  "type": "option", "prompt": "一匹年老的千里马，虽然待在马槽边，心里仍想着奔驰千里。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["烈士暮年，壮心不已", "老骥伏枥，志在千里", "神龟虽寿，犹有竟时", "幸甚至哉，歌以咏志"], "answer": [1] } },
+            { "id": "s2l2q6",  "type": "option", "prompt": "“老骥伏枥，志在千里”的意思是？", "otherInfo": { "content": "“老骥伏枥，志在千里”的意思是？", "options": ["年老的千里马虽在马槽边，仍想着奔驰千里", "老马趴在马槽边休息", "千里马跑了千里路", "老马想回到千里之外的家"], "answer": [0] } },
+            { "id": "s2l2q7",  "type": "option", "prompt": "有雄心壮志的人，即使到了晚年，那颗奋发的心也不会停止。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["老骥伏枥，志在千里", "烈士暮年，壮心不已", "盈缩之期，不但在天", "养怡之福，可得永年"], "answer": [1] } },
+            { "id": "s2l2q8",  "type": "option", "prompt": "“烈士暮年，壮心不已”的意思是？", "otherInfo": { "content": "“烈士暮年，壮心不已”的意思是？", "options": ["有雄心壮志的人到了晚年，奋发之心也不停止", "战士到了晚年就放弃了", "烈士在晚年牺牲了", "壮士到了晚年心就冷了"], "answer": [0] } },
+            { "id": "s2l2q9",  "type": "option", "prompt": "人寿命的长短，是有一定期限的，不只是由上天决定的。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["养怡之福，可得永年", "盈缩之期，不但在天", "神龟虽寿，犹有竟时", "幸甚至哉，歌以咏志"], "answer": [1] } },
+            { "id": "s2l2q10", "type": "option", "prompt": "“盈缩之期，不但在天”的意思是？", "otherInfo": { "content": "“盈缩之期，不但在天”的意思是？", "options": ["寿命的长短，不只是由上天决定", "寿命的长短由上天决定", "寿命没有期限", "寿命可以无限延长"], "answer": [0] } },
+            { "id": "s2l2q11", "type": "option", "prompt": "调养身心，保持和乐，就可以获得长寿。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["盈缩之期，不但在天", "养怡之福，可得永年", "烈士暮年，壮心不已", "老骥伏枥，志在千里"], "answer": [1] } },
+            { "id": "s2l2q12", "type": "option", "prompt": "“养怡之福，可得永年”的意思是？", "otherInfo": { "content": "“养怡之福，可得永年”的意思是？", "options": ["调养身心保持和乐，就能获得长寿", "养生是一种福气", "养花可以长寿", "快乐的人能活很久"], "answer": [0] } },
+            { "id": "s2l2q13", "type": "option", "prompt": "诗人感到非常庆幸，于是用歌唱来表达心中的志向。哪句诗写了这个意思？", "otherInfo": { "content": "哪句诗？", "options": ["养怡之福，可得永年", "幸甚至哉，歌以咏志", "神龟虽寿，犹有竟时", "烈士暮年，壮心不已"], "answer": [1] } },
+            { "id": "s2l2q14", "type": "option", "prompt": "“幸甚至哉，歌以咏志”的意思是？", "otherInfo": { "content": "“幸甚至哉，歌以咏志”的意思是？", "options": ["非常庆幸，用歌唱来抒发心志", "幸运地唱了一首歌", "高兴得唱起歌来", "庆幸自己写出了这首诗"], "answer": [0] } }
+          ]
+        },
+        {
+          "name": "第3课",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            { "id": "s2l3q1",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时"] } },
+            { "id": "s2l3q2",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["螣蛇乘雾", "终为土灰"] } },
+            { "id": "s2l3q3",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["老骥伏枥", "志在千里"] } },
+            { "id": "s2l3q4",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["烈士暮年", "壮心不已"] } },
+            { "id": "s2l3q5",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["盈缩之期", "不但在天"] } },
+            { "id": "s2l3q6",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["养怡之福", "可得永年"] } },
+            { "id": "s2l3q7",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["幸甚至哉", "歌以咏志"] } },
+            { "id": "s2l3q8",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰"] } },
+            { "id": "s2l3q9",  "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里"] } },
+            { "id": "s2l3q10", "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["老骥伏枥", "志在千里", "烈士暮年", "壮心不已"] } },
+            { "id": "s2l3q11", "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["烈士暮年", "壮心不已", "盈缩之期", "不但在天"] } },
+            { "id": "s2l3q12", "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["盈缩之期", "不但在天", "养怡之福", "可得永年"] } },
+            { "id": "s2l3q13", "type": "order", "prompt": "将下列诗句排列。", "otherInfo": { "lines": ["养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "第1课",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            { "id": "s3l1q1",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "shén" }, "otherInfo": { "content": "__龟虽寿", "answer": "神" } },
+            { "id": "s3l1q2",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "jìng" }, "otherInfo": { "content": "犹有__时", "answer": "竟" } },
+            { "id": "s3l1q3",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "téng" }, "otherInfo": { "content": "__蛇乘雾", "answer": "螣" } },
+            { "id": "s3l1q4",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "huī" }, "otherInfo": { "content": "终为土__", "answer": "灰" } },
+            { "id": "s3l1q5",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "jì" }, "otherInfo": { "content": "老__伏枥", "answer": "骥" } },
+            { "id": "s3l1q6",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "lǐ" }, "otherInfo": { "content": "志在千__", "answer": "里" } },
+            { "id": "s3l1q7",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "liè" }, "otherInfo": { "content": "__士暮年", "answer": "烈" } },
+            { "id": "s3l1q8",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "yǐ" }, "otherInfo": { "content": "壮心不__", "answer": "已" } },
+            { "id": "s3l1q9",  "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "yíng" }, "otherInfo": { "content": "__缩之期", "answer": "盈" } },
+            { "id": "s3l1q10", "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "dàn" }, "otherInfo": { "content": "不__在天", "answer": "但" } },
+            { "id": "s3l1q11", "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "yí" }, "otherInfo": { "content": "养__之福", "answer": "怡" } },
+            { "id": "s3l1q12", "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "yǒng" }, "otherInfo": { "content": "可得__年", "answer": "永" } },
+            { "id": "s3l1q13", "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "shèn" }, "otherInfo": { "content": "幸__至哉", "answer": "甚" } },
+            { "id": "s3l1q14", "type": "spell", "prompt": "填入正确的字。", "pinyinInfo": { "show": true, "pinyin": "yǒng" }, "otherInfo": { "content": "歌以__志", "answer": "咏" } }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "第1课",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            { "id": "s4l1q1",  "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "神龟虽寿，______", "answer": "犹有竟时" } },
+            { "id": "s4l1q2",  "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，犹有竟时", "answer": "神龟虽寿" } },
+            { "id": "s4l1q3",  "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "螣蛇乘雾，______", "answer": "终为土灰" } },
+            { "id": "s4l1q4",  "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，终为土灰", "answer": "螣蛇乘雾" } },
+            { "id": "s4l1q5",  "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "老骥伏枥，______", "answer": "志在千里" } },
+            { "id": "s4l1q6",  "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，志在千里", "answer": "老骥伏枥" } },
+            { "id": "s4l1q7",  "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "烈士暮年，______", "answer": "壮心不已" } },
+            { "id": "s4l1q8",  "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，壮心不已", "answer": "烈士暮年" } },
+            { "id": "s4l1q9",  "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "盈缩之期，______", "answer": "不但在天" } },
+            { "id": "s4l1q10", "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，不但在天", "answer": "盈缩之期" } },
+            { "id": "s4l1q11", "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "养怡之福，______", "answer": "可得永年" } },
+            { "id": "s4l1q12", "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，可得永年", "answer": "养怡之福" } },
+            { "id": "s4l1q13", "type": "spell", "prompt": "填入下句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "幸甚至哉，______", "answer": "歌以咏志" } },
+            { "id": "s4l1q14", "type": "spell", "prompt": "填入上句。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______，歌以咏志", "answer": "幸甚至哉" } }
+          ]
+        },
+        {
+          "name": "第2课",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            { "id": "s4l2q1",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "神龟虽寿，犹有竟时。______", "answer": "螣蛇乘雾，终为土灰" } },
+            { "id": "s4l2q2",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "螣蛇乘雾，终为土灰。______", "answer": "老骥伏枥，志在千里" } },
+            { "id": "s4l2q3",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "老骥伏枥，志在千里。______", "answer": "烈士暮年，壮心不已" } },
+            { "id": "s4l2q4",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "烈士暮年，壮心不已。______", "answer": "盈缩之期，不但在天" } },
+            { "id": "s4l2q5",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "盈缩之期，不但在天。______", "answer": "养怡之福，可得永年" } },
+            { "id": "s4l2q6",  "type": "spell", "prompt": "根据上一联，填入下一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "养怡之福，可得永年。______", "answer": "幸甚至哉，歌以咏志" } },
+            { "id": "s4l2q7",  "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。螣蛇乘雾，终为土灰", "answer": "神龟虽寿，犹有竟时" } },
+            { "id": "s4l2q8",  "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。老骥伏枥，志在千里", "answer": "螣蛇乘雾，终为土灰" } },
+            { "id": "s4l2q9",  "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。烈士暮年，壮心不已", "answer": "老骥伏枥，志在千里" } },
+            { "id": "s4l2q10", "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。盈缩之期，不但在天", "answer": "烈士暮年，壮心不已" } },
+            { "id": "s4l2q11", "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。养怡之福，可得永年", "answer": "盈缩之期，不但在天" } },
+            { "id": "s4l2q12", "type": "spell", "prompt": "根据下一联，填入上一联。", "pinyinInfo": { "show": false }, "otherInfo": { "content": "______。幸甚至哉，歌以咏志", "answer": "养怡之福，可得永年" } }
+          ]
+        },
+        {
+          "name": "第3课",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            { "id": "s4l3q1", "type": "order", "prompt": "将下列诗句按正确顺序排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里", "烈士暮年", "壮心不已", "盈缩之期", "不但在天", "养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } },
+            { "id": "s4l3q2", "type": "order", "prompt": "将下列诗句按正确顺序排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里", "烈士暮年", "壮心不已", "盈缩之期", "不但在天", "养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } },
+            { "id": "s4l3q3", "type": "order", "prompt": "将下列诗句按正确顺序排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里", "烈士暮年", "壮心不已", "盈缩之期", "不但在天", "养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } },
+            { "id": "s4l3q4", "type": "order", "prompt": "将下列诗句按正确顺序排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里", "烈士暮年", "壮心不已", "盈缩之期", "不但在天", "养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } },
+            { "id": "s4l3q5", "type": "order", "prompt": "将下列诗句按正确顺序排列。", "otherInfo": { "lines": ["神龟虽寿", "犹有竟时", "螣蛇乘雾", "终为土灰", "老骥伏枥", "志在千里", "烈士暮年", "壮心不已", "盈缩之期", "不但在天", "养怡之福", "可得永年", "幸甚至哉", "歌以咏志"] } }
+          ]
+        }
+      ]
+    }
+  }
+}
