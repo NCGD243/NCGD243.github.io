@@ -1,0 +1,2143 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fū jūn zǐ zhī xíng"
+              },
+              "otherInfo": {
+                "line": "夫君子之行"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng yǐ xiū shēn"
+              },
+              "otherInfo": {
+                "line": "静以修身"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn yǐ yǎng dé"
+              },
+              "otherInfo": {
+                "line": "俭以养德"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi dàn bó wú yǐ míng zhì"
+              },
+              "otherInfo": {
+                "line": "非淡泊无以明志"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi níng jìng wú yǐ zhì yuǎn"
+              },
+              "otherInfo": {
+                "line": "非宁静无以致远"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fū xué xū jìng yě"
+              },
+              "otherInfo": {
+                "line": "夫学须静也"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cái xū xué yě"
+              },
+              "otherInfo": {
+                "line": "才须学也"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi xué wú yǐ guǎng cái"
+              },
+              "otherInfo": {
+                "line": "非学无以广才"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi zhì wú yǐ chéng xué"
+              },
+              "otherInfo": {
+                "line": "非志无以成学"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín màn zé bù néng lì jīng"
+              },
+              "otherInfo": {
+                "line": "淫慢则不能励精"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎn zào zé bù néng zhì xìng"
+              },
+              "otherInfo": {
+                "line": "险躁则不能治性"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nián yǔ shí chí"
+              },
+              "otherInfo": {
+                "line": "年与时驰"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì yǔ rì qù"
+              },
+              "otherInfo": {
+                "line": "意与日去"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì chéng kū luò"
+              },
+              "otherInfo": {
+                "line": "遂成枯落"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duō bù jiē shì"
+              },
+              "otherInfo": {
+                "line": "多不接世"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bēi shǒu qióng lú"
+              },
+              "otherInfo": {
+                "line": "悲守穷庐"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng fù hé jí"
+              },
+              "otherInfo": {
+                "line": "将复何及"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“静以修身”中“静”的意思是？",
+                "options": [
+                  "宁静专一",
+                  "安静无声",
+                  "静止不动",
+                  "冷静沉着"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“俭以养德”中“俭”的意思是？",
+                "options": [
+                  "节俭",
+                  "俭朴",
+                  "俭省",
+                  "俭约"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“非淡泊无以明志”中“明”的意思是？",
+                "options": [
+                  "明确",
+                  "明亮",
+                  "明白",
+                  "显明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“非宁静无以致远”中“致”的意思是？",
+                "options": [
+                  "达到",
+                  "招致",
+                  "给予",
+                  "集中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“非学无以广才”中“广”的意思是？",
+                "options": [
+                  "增长",
+                  "宽广",
+                  "扩大",
+                  "广泛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“淫慢则不能励精”中“励”的意思是？",
+                "options": [
+                  "振奋",
+                  "激励",
+                  "勉励",
+                  "鼓励"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“险躁则不能治性”中“治”的意思是？",
+                "options": [
+                  "修养",
+                  "治理",
+                  "治疗",
+                  "整治"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“年与时驰”中“驰”的意思是？",
+                "options": [
+                  "疾行",
+                  "奔驰",
+                  "传播",
+                  "向往"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“意与日去”中“去”的意思是？",
+                "options": [
+                  "消失",
+                  "离开",
+                  "前往",
+                  "除掉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“悲守穷庐”中“穷”的意思是？",
+                "options": [
+                  "破旧",
+                  "贫穷",
+                  "穷尽",
+                  "困厄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "君子的品行，靠宁静专一来修养身心。",
+                "options": [
+                  "夫君子之行，静以修身",
+                  "非淡泊无以明志，非宁静无以致远",
+                  "夫学须静也，才须学也",
+                  "年与时驰，意与日去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“俭以养德”的意思是？",
+                "options": [
+                  "用节俭来培养品德",
+                  "用俭朴来积累财富",
+                  "用俭省来约束行为",
+                  "用俭约来保全名声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不淡泊名利就无法明确志向，不宁静专一就无法达到远大目标。",
+                "options": [
+                  "非淡泊无以明志，非宁静无以致远",
+                  "静以修身，俭以养德",
+                  "非学无以广才，非志无以成学",
+                  "淫慢则不能励精，险躁则不能治性"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“非宁静无以致远”的意思是？",
+                "options": [
+                  "不宁静专一就无法达到远大目标",
+                  "不安静无声就无法走得很远",
+                  "不冷静沉着就无法送到远方",
+                  "不静止不动就无法到达远处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "学习必须宁静专一，才干来自学习。",
+                "options": [
+                  "夫学须静也，才须学也",
+                  "非学无以广才，非志无以成学",
+                  "非淡泊无以明志，非宁静无以致远",
+                  "年与时驰，意与日去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“非学无以广才”的意思是？",
+                "options": [
+                  "不学习就无法增长才干",
+                  "不学习就无法拓宽视野",
+                  "不学习就无法扩大名声",
+                  "不学习就无法广泛交友"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不学习就无法增长才干，没有志向就无法成就学业。",
+                "options": [
+                  "非学无以广才，非志无以成学",
+                  "夫学须静也，才须学也",
+                  "静以修身，俭以养德",
+                  "悲守穷庐，将复何及"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“非志无以成学”的意思是？",
+                "options": [
+                  "没有志向就无法成就学业",
+                  "没有意志就无法完成学习",
+                  "没有志气就无法学有所成",
+                  "没有目标就无法坚持读书"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "放纵懈怠就不能振奋精神，轻薄浮躁就不能修养性情。",
+                "options": [
+                  "淫慢则不能励精，险躁则不能治性",
+                  "非淡泊无以明志，非宁静无以致远",
+                  "年与时驰，意与日去",
+                  "遂成枯落，多不接世"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“淫慢则不能励精”的意思是？",
+                "options": [
+                  "放纵懈怠就不能振奋精神",
+                  "过度缓慢就不能激励精神",
+                  "沉迷享乐就不能集中精力",
+                  "懒散拖沓就不能磨砺意志"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "轻薄浮躁就不能修养性情。",
+                "options": [
+                  "险躁则不能治性",
+                  "淫慢则不能励精",
+                  "非宁静无以致远",
+                  "悲守穷庐，将复何及"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“险躁则不能治性”的意思是？",
+                "options": [
+                  "轻薄浮躁就不能修养性情",
+                  "危险急躁就不能治理本性",
+                  "冒险躁动就不能治疗性格",
+                  "阴险暴躁就不能整治性情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "年纪随同时光疾行，意志随同岁月消逝。",
+                "options": [
+                  "年与时驰，意与日去",
+                  "遂成枯落，多不接世",
+                  "悲守穷庐，将复何及",
+                  "非学无以广才，非志无以成学"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“年与时驰”的意思是？",
+                "options": [
+                  "年纪随同时光疾行",
+                  "年华与时代一起奔驰",
+                  "年岁同时间赛跑",
+                  "年龄跟着时令飞驰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "最终枯败零落，大多不接触世事。",
+                "options": [
+                  "遂成枯落，多不接世",
+                  "年与时驰，意与日去",
+                  "淫慢则不能励精，险躁则不能治性",
+                  "夫君子之行，静以修身"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“意与日去”的意思是？",
+                "options": [
+                  "意志随同岁月消逝",
+                  "心意随着日子离去",
+                  "意愿与太阳一同落下",
+                  "意气因时光而远去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "悲哀地守着破旧的房屋，又怎么来得及呢！",
+                "options": [
+                  "悲守穷庐，将复何及",
+                  "遂成枯落，多不接世",
+                  "年与时驰，意与日去",
+                  "非淡泊无以明志，非宁静无以致远"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“将复何及”的意思是？",
+                "options": [
+                  "又怎么来得及",
+                  "又将到哪里去",
+                  "还能再做什么",
+                  "将要如何达到"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "静以修身",
+                  "夫君子之行"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "俭以养德",
+                  "静以修身"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非宁静无以致远",
+                  "非淡泊无以明志"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "才须学也",
+                  "夫学须静也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非志无以成学",
+                  "非学无以广才"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "险躁则不能治性",
+                  "淫慢则不能励精"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "意与日去",
+                  "年与时驰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多不接世",
+                  "遂成枯落"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将复何及",
+                  "悲守穷庐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "俭以养德",
+                  "静以修身",
+                  "夫君子之行"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非宁静无以致远",
+                  "非淡泊无以明志",
+                  "俭以养德",
+                  "静以修身"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "才须学也",
+                  "非宁静无以致远",
+                  "夫学须静也",
+                  "非淡泊无以明志"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非志无以成学",
+                  "才须学也",
+                  "非学无以广才",
+                  "夫学须静也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "险躁则不能治性",
+                  "非志无以成学",
+                  "淫慢则不能励精",
+                  "非学无以广才"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "意与日去",
+                  "险躁则不能治性",
+                  "年与时驰",
+                  "淫慢则不能励精"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多不接世",
+                  "意与日去",
+                  "遂成枯落",
+                  "年与时驰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将复何及",
+                  "多不接世",
+                  "悲守穷庐",
+                  "遂成枯落"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "险躁则不能治性",
+                  "非宁静无以致远",
+                  "夫君子之行",
+                  "年与时驰",
+                  "静以修身",
+                  "非淡泊无以明志",
+                  "淫慢则不能励精",
+                  "俭以养德",
+                  "意与日去",
+                  "夫学须静也",
+                  "遂成枯落",
+                  "才须学也",
+                  "多不接世",
+                  "非学无以广才",
+                  "悲守穷庐",
+                  "非志无以成学",
+                  "将复何及"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "夫君子之行，__以修身",
+                "answer": "静"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "__以养德",
+                "answer": "俭"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn"
+              },
+              "otherInfo": {
+                "content": "非__泊无以明志",
+                "answer": "淡"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "níng"
+              },
+              "otherInfo": {
+                "content": "非__静无以致远",
+                "answer": "宁"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xū"
+              },
+              "otherInfo": {
+                "content": "夫学__静也",
+                "answer": "须"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cái"
+              },
+              "otherInfo": {
+                "content": "__须学也",
+                "answer": "才"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guǎng"
+              },
+              "otherInfo": {
+                "content": "非学无以__才",
+                "answer": "广"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "非__无以成学",
+                "answer": "志"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "__慢则不能励精",
+                "answer": "淫"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎn"
+              },
+              "otherInfo": {
+                "content": "__躁则不能治性",
+                "answer": "险"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夫君子之行，______",
+                "answer": "静以修身"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，俭以养德",
+                "answer": "静以修身"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "非淡泊无以明志，______",
+                "answer": "非宁静无以致远"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，非宁静无以致远",
+                "answer": "非淡泊无以明志"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夫学须静也，______",
+                "answer": "才须学也"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，才须学也",
+                "answer": "夫学须静也"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "非学无以广才，______",
+                "answer": "非志无以成学"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，非志无以成学",
+                "answer": "非学无以广才"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "淫慢则不能励精，______",
+                "answer": "险躁则不能治性"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，险躁则不能治性",
+                "answer": "淫慢则不能励精"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "年与时驰，______",
+                "answer": "意与日去"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，意与日去",
+                "answer": "年与时驰"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂成枯落，______",
+                "answer": "多不接世"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，多不接世",
+                "answer": "遂成枯落"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "悲守穷庐，______",
+                "answer": "将复何及"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，将复何及",
+                "answer": "悲守穷庐"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夫君子之行，静以修身，俭以养德。______，______",
+                "answer": "非淡泊无以明志，非宁静无以致远"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "非淡泊无以明志，非宁静无以致远。______，______",
+                "answer": "夫学须静也，才须学也"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夫学须静也，才须学也。______，______",
+                "answer": "非学无以广才，非志无以成学"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "非学无以广才，非志无以成学。______，______",
+                "answer": "淫慢则不能励精，险躁则不能治性"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "淫慢则不能励精，险躁则不能治性。______，______",
+                "answer": "年与时驰，意与日去"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "年与时驰，意与日去。______，______",
+                "answer": "遂成枯落，多不接世"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂成枯落，多不接世。______，______",
+                "answer": "悲守穷庐，将复何及"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非宁静无以致远",
+                  "夫君子之行",
+                  "淫慢则不能励精",
+                  "静以修身",
+                  "多不接世",
+                  "非淡泊无以明志",
+                  "才须学也",
+                  "年与时驰",
+                  "险躁则不能治性",
+                  "俭以养德",
+                  "将复何及",
+                  "夫学须静也",
+                  "遂成枯落",
+                  "非学无以广才",
+                  "意与日去",
+                  "非志无以成学",
+                  "悲守穷庐"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "俭以养德",
+                  "非学无以广才",
+                  "意与日去",
+                  "夫君子之行",
+                  "险躁则不能治性",
+                  "才须学也",
+                  "悲守穷庐",
+                  "非宁静无以致远",
+                  "静以修身",
+                  "遂成枯落",
+                  "非淡泊无以明志",
+                  "年与时驰",
+                  "夫学须静也",
+                  "多不接世",
+                  "淫慢则不能励精",
+                  "将复何及",
+                  "非志无以成学"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "非志无以成学",
+                  "静以修身",
+                  "多不接世",
+                  "非淡泊无以明志",
+                  "夫学须静也",
+                  "将复何及",
+                  "淫慢则不能励精",
+                  "俭以养德",
+                  "年与时驰",
+                  "才须学也",
+                  "悲守穷庐",
+                  "非宁静无以致远",
+                  "夫君子之行",
+                  "险躁则不能治性",
+                  "遂成枯落",
+                  "非学无以广才",
+                  "意与日去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夫学须静也",
+                  "遂成枯落",
+                  "非宁静无以致远",
+                  "俭以养德",
+                  "意与日去",
+                  "非志无以成学",
+                  "静以修身",
+                  "多不接世",
+                  "淫慢则不能励精",
+                  "才须学也",
+                  "将复何及",
+                  "非淡泊无以明志",
+                  "年与时驰",
+                  "夫君子之行",
+                  "险躁则不能治性",
+                  "悲守穷庐",
+                  "非学无以广才"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "悲守穷庐",
+                  "非学无以广才",
+                  "静以修身",
+                  "险躁则不能治性",
+                  "夫君子之行",
+                  "年与时驰",
+                  "非淡泊无以明志",
+                  "才须学也",
+                  "遂成枯落",
+                  "俭以养德",
+                  "将复何及",
+                  "非宁静无以致远",
+                  "淫慢则不能励精",
+                  "夫学须静也",
+                  "多不接世",
+                  "非志无以成学",
+                  "意与日去"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

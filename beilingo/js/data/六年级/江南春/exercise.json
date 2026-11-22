@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān lǐ yīng tí lǜ yìng hóng"
+              },
+              "otherInfo": {
+                "line": "千里莺啼绿映红"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ cūn shān guō jiǔ qí fēng"
+              },
+              "otherInfo": {
+                "line": "水村山郭酒旗风"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán cháo sì bǎi bā shí sì"
+              },
+              "otherInfo": {
+                "line": "南朝四百八十寺"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duō shǎo lóu tái yān yǔ zhōng"
+              },
+              "otherInfo": {
+                "line": "多少楼台烟雨中"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千里莺啼绿映红”中“映”的意思是？",
+                "options": [
+                  "映衬",
+                  "遮蔽",
+                  "倒映",
+                  "照耀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“水村山郭酒旗风”中“郭”的意思是？",
+                "options": [
+                  "外城",
+                  "姓氏",
+                  "城郭的墙",
+                  "村落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“水村山郭酒旗风”中“酒旗”的意思是？",
+                "options": [
+                  "酒家的招牌旗帜",
+                  "酒坛上的封布",
+                  "酿酒用的器具",
+                  "酒宴上的旗子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南朝四百八十寺”中“南朝”指的是？",
+                "options": [
+                  "宋齐梁陈四个朝代",
+                  "唐朝以前的南方政权",
+                  "南宋朝廷",
+                  "南方的朝堂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“多少楼台烟雨中”中“楼台”的意思是？",
+                "options": [
+                  "楼阁亭台",
+                  "高楼和台阶",
+                  "城楼和月台",
+                  "楼房和阳台"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“多少楼台烟雨中”中“烟雨”的意思是？",
+                "options": [
+                  "如烟似雾的细雨",
+                  "炊烟和雨水",
+                  "浓烟和大雨",
+                  "烟雾弥漫的雨天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千里莺啼绿映红”中“莺啼”的意思是？",
+                "options": [
+                  "黄莺啼叫",
+                  "黄莺啼哭",
+                  "莺鸟栖息",
+                  "莺鸟飞翔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“水村山郭酒旗风”中“水村”的意思是？",
+                "options": [
+                  "临水的村庄",
+                  "水上的村落",
+                  "水边的乡村",
+                  "水中的村子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南朝四百八十寺”中“四百八十”的意思是？",
+                "options": [
+                  "形容寺庙很多",
+                  "确指四百八十座",
+                  "约指四百八十里",
+                  "形容年代久远"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“多少楼台烟雨中”中“多少”的意思是？",
+                "options": [
+                  "多少（表示疑问）",
+                  "许多",
+                  "少数",
+                  "不多不少"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "辽阔的江南大地上，黄莺啼叫，绿树映衬着红花。",
+                "options": [
+                  "千里莺啼绿映红",
+                  "水村山郭酒旗风",
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千里莺啼绿映红”的意思是？",
+                "options": [
+                  "江南大地黄莺啼叫，绿树映着红花",
+                  "江南千里之外传来莺啼，绿叶映着红日",
+                  "千里路上莺鸟啼哭，绿草映着红霞",
+                  "江南千里莺鸟齐飞，绿水和红花相映"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "临水的村庄、依山的城郭，酒家的旗帜在风中飘扬。",
+                "options": [
+                  "水村山郭酒旗风",
+                  "千里莺啼绿映红",
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水村山郭酒旗风”的意思是？",
+                "options": [
+                  "水边村庄和山边城郭，酒旗在风中飘动",
+                  "水村和山郭里，酒旗被风吹倒",
+                  "水村山郭中，酒旗迎风招展如画",
+                  "水村山郭间，风吹酒旗猎猎作响"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "南朝遗留下来的众多寺庙。",
+                "options": [
+                  "南朝四百八十寺",
+                  "千里莺啼绿映红",
+                  "水村山郭酒旗风",
+                  "多少楼台烟雨中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“南朝四百八十寺”的意思是？",
+                "options": [
+                  "南朝留下的四百八十座寺庙",
+                  "南朝修建了四百八十座寺庙",
+                  "南朝有四百八十个寺庙",
+                  "南朝四百八十里的寺庙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "多少楼阁亭台笼罩在如烟似雾的细雨之中。",
+                "options": [
+                  "多少楼台烟雨中",
+                  "千里莺啼绿映红",
+                  "水村山郭酒旗风",
+                  "南朝四百八十寺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“多少楼台烟雨中”的意思是？",
+                "options": [
+                  "多少楼台笼罩在烟雨之中",
+                  "多少楼台在烟雨中倒塌",
+                  "多少楼台被烟雨遮住看不见",
+                  "多少楼台在烟雨中若隐若现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绿映红千里莺啼",
+                  "水村山郭酒旗风"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水村山郭酒旗风",
+                  "千里莺啼绿映红",
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多少楼台烟雨中",
+                  "南朝四百八十寺",
+                  "千里莺啼绿映红",
+                  "水村山郭酒旗风"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "千里__啼绿映红",
+                "answer": "莺"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guō"
+              },
+              "otherInfo": {
+                "content": "水村山__酒旗风",
+                "answer": "郭"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì"
+              },
+              "otherInfo": {
+                "content": "南朝四百八十__",
+                "answer": "寺"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tái"
+              },
+              "otherInfo": {
+                "content": "多少楼__烟雨中",
+                "answer": "台"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "千里莺__绿映红",
+                "answer": "啼"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "水村山郭酒__风",
+                "answer": "旗"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháo"
+              },
+              "otherInfo": {
+                "content": "南__四百八十寺",
+                "answer": "朝"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān"
+              },
+              "otherInfo": {
+                "content": "多少楼台__雨中",
+                "answer": "烟"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ"
+              },
+              "otherInfo": {
+                "content": "千里莺啼__映红",
+                "answer": "绿"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ"
+              },
+              "otherInfo": {
+                "content": "多少楼台烟__中",
+                "answer": "雨"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千里莺啼绿映红，______",
+                "answer": "水村山郭酒旗风"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，水村山郭酒旗风",
+                "answer": "千里莺啼绿映红"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南朝四百八十寺，______",
+                "answer": "多少楼台烟雨中"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，多少楼台烟雨中",
+                "answer": "南朝四百八十寺"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千里莺啼绿映红，水村山郭酒旗风。______，______",
+                "answer": "南朝四百八十寺，多少楼台烟雨中"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南朝四百八十寺，多少楼台烟雨中。______，______",
+                "answer": "南朝四百八十寺，多少楼台烟雨中"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多少楼台烟雨中",
+                  "千里莺啼绿映红",
+                  "南朝四百八十寺",
+                  "水村山郭酒旗风"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水村山郭酒旗风",
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中",
+                  "千里莺啼绿映红"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南朝四百八十寺",
+                  "多少楼台烟雨中",
+                  "千里莺啼绿映红",
+                  "水村山郭酒旗风"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千里莺啼绿映红",
+                  "多少楼台烟雨中",
+                  "水村山郭酒旗风",
+                  "南朝四百八十寺"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多少楼台烟雨中",
+                  "水村山郭酒旗风",
+                  "南朝四百八十寺",
+                  "千里莺啼绿映红"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

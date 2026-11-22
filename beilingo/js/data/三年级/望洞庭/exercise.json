@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú guāng qiū yuè liǎng xiāng hé"
+              },
+              "otherInfo": {
+                "line": "湖光秋月两相和"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tán miàn wú fēng jìng wèi mó"
+              },
+              "otherInfo": {
+                "line": "潭面无风镜未磨"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo wàng dòng tíng shān shuǐ cuì"
+              },
+              "otherInfo": {
+                "line": "遥望洞庭山水翠"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái yín pán lǐ yī qīng luó"
+              },
+              "otherInfo": {
+                "line": "白银盘里一青螺"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“湖光秋月两相和”中“和”的意思是？",
+                "options": [
+                  "和谐，协调",
+                  "温和，暖和",
+                  "应和，跟着唱",
+                  "混合，掺杂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“潭面无风镜未磨”中“潭面”的意思是？",
+                "options": [
+                  "洞庭湖的湖面",
+                  "深水池的水面",
+                  "山间溪流的水面",
+                  "庭院中的池塘水面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“潭面无风镜未磨”中“镜未磨”的意思是？",
+                "options": [
+                  "铜镜没有打磨，模糊不清",
+                  "镜子还没有磨制出来",
+                  "镜面被磨得光亮照人",
+                  "用镜子照见未磨的铜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥望洞庭山水翠”中“遥望”的意思是？",
+                "options": [
+                  "远远地看",
+                  "抬头仰望",
+                  "低头俯视",
+                  "回头张望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥望洞庭山水翠”中“翠”的意思是？",
+                "options": [
+                  "青绿色",
+                  "翠鸟",
+                  "翡翠",
+                  "清脆"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白银盘里一青螺”中“白银盘”比喻的是？",
+                "options": [
+                  "月光下银白色的洞庭湖面",
+                  "盛放白银的盘子",
+                  "白色的玉盘",
+                  "银制的托盘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白银盘里一青螺”中“青螺”比喻的是？",
+                "options": [
+                  "洞庭湖中的君山",
+                  "青色的螺壳",
+                  "螺形的发髻",
+                  "青色的田螺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“湖光秋月两相和”中“湖光”指的是？",
+                "options": [
+                  "湖面反射的月光",
+                  "湖边的灯光",
+                  "湖中的鱼光",
+                  "湖上的雾气"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“潭面无风镜未磨”中“未”的意思是？",
+                "options": [
+                  "没有",
+                  "未来",
+                  "未必",
+                  "未知"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白银盘里一青螺”中“一”的意思是？",
+                "options": [
+                  "数量词，一个",
+                  "统一",
+                  "一旦",
+                  "专一"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "月光与湖光交相融和，一片和谐。",
+                "options": [
+                  "湖光秋月两相和",
+                  "潭面无风镜未磨",
+                  "遥望洞庭山水翠",
+                  "白银盘里一青螺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“湖光秋月两相和”的意思是？",
+                "options": [
+                  "湖面的波光与秋夜的月光交融在一起，十分和谐",
+                  "湖水和秋月互相应和着唱歌",
+                  "湖光与秋月分别照在两地，彼此相望",
+                  "秋月映在湖中，湖光却照不到月亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "湖面平静无风，像一面没有打磨过的铜镜。",
+                "options": [
+                  "潭面无风镜未磨",
+                  "湖光秋月两相和",
+                  "遥望洞庭山水翠",
+                  "白银盘里一青螺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“潭面无风镜未磨”的意思是？",
+                "options": [
+                  "湖面没有风，平静得像一面未经打磨的铜镜",
+                  "湖面没有风，铜镜也还没有磨好",
+                  "潭水被风吹起，镜子却未磨光",
+                  "无风的潭面像磨过的镜子一样明亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "远远望去，洞庭湖的山水一片青翠。",
+                "options": [
+                  "遥望洞庭山水翠",
+                  "湖光秋月两相和",
+                  "潭面无风镜未磨",
+                  "白银盘里一青螺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“遥望洞庭山水翠”的意思是？",
+                "options": [
+                  "远远望去，洞庭湖的山水一片青翠",
+                  "遥望洞庭湖，山和水都显得苍翠欲滴",
+                  "站在远处看洞庭湖，山水颜色青翠可人",
+                  "从远处眺望，洞庭湖的山光水色都很翠绿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "洞庭湖像白银盘，湖中的君山像一只青螺。",
+                "options": [
+                  "白银盘里一青螺",
+                  "湖光秋月两相和",
+                  "潭面无风镜未磨",
+                  "遥望洞庭山水翠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白银盘里一青螺”的意思是？",
+                "options": [
+                  "洞庭湖像白银盘，湖中的君山像一只青螺",
+                  "白银盘里放着一只青色的螺",
+                  "白银做的盘子里盛着一枚青螺",
+                  "月光如白银盘，君山如青螺在盘中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "潭面无风镜未磨",
+                  "湖光秋月两相和"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白银盘里一青螺",
+                  "遥望洞庭山水翠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥望洞庭山水翠",
+                  "潭面无风镜未磨",
+                  "湖光秋月两相和",
+                  "白银盘里一青螺"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白银盘里一青螺",
+                  "湖光秋月两相和",
+                  "遥望洞庭山水翠",
+                  "潭面无风镜未磨"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé"
+              },
+              "otherInfo": {
+                "content": "湖光秋月两相__",
+                "answer": "和"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "潭面无风__未磨",
+                "answer": "镜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo"
+              },
+              "otherInfo": {
+                "content": "__望洞庭山水翠",
+                "answer": "遥"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luó"
+              },
+              "otherInfo": {
+                "content": "白银盘里一青__",
+                "answer": "螺"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú"
+              },
+              "otherInfo": {
+                "content": "__光秋月两相和",
+                "answer": "湖"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tán"
+              },
+              "otherInfo": {
+                "content": "__面无风镜未磨",
+                "answer": "潭"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "遥望洞__山水翠",
+                "answer": "庭"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "白__盘里一青螺",
+                "answer": "银"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū"
+              },
+              "otherInfo": {
+                "content": "湖光__月两相和",
+                "answer": "秋"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pán"
+              },
+              "otherInfo": {
+                "content": "白银__里一青螺",
+                "answer": "盘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "湖光秋月两相和，______。",
+                "answer": "潭面无风镜未磨"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，潭面无风镜未磨。",
+                "answer": "湖光秋月两相和"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遥望洞庭山水翠，______。",
+                "answer": "白银盘里一青螺"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白银盘里一青螺。",
+                "answer": "遥望洞庭山水翠"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "湖光秋月两相和，潭面无风镜未磨。______，______。",
+                "answer": "遥望洞庭山水翠，白银盘里一青螺"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遥望洞庭山水翠，白银盘里一青螺。______，______。",
+                "answer": "遥望洞庭山水翠，白银盘里一青螺"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "潭面无风镜未磨",
+                  "白银盘里一青螺",
+                  "湖光秋月两相和",
+                  "遥望洞庭山水翠"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥望洞庭山水翠",
+                  "湖光秋月两相和",
+                  "白银盘里一青螺",
+                  "潭面无风镜未磨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白银盘里一青螺",
+                  "潭面无风镜未磨",
+                  "遥望洞庭山水翠",
+                  "湖光秋月两相和"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "湖光秋月两相和",
+                  "遥望洞庭山水翠",
+                  "潭面无风镜未磨",
+                  "白银盘里一青螺"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "潭面无风镜未磨",
+                  "遥望洞庭山水翠",
+                  "白银盘里一青螺",
+                  "湖光秋月两相和"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

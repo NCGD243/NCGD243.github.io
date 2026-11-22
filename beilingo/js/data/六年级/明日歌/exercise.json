@@ -1,0 +1,1671 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng rì fù míng rì"
+              },
+              "otherInfo": {
+                "line": "明日复明日"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng rì hé qí duō"
+              },
+              "otherInfo": {
+                "line": "明日何其多"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǒ shēng dài míng rì"
+              },
+              "otherInfo": {
+                "line": "我生待明日"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn shì chéng cuō tuó"
+              },
+              "otherInfo": {
+                "line": "万事成蹉跎"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì rén kǔ bèi míng rì lèi"
+              },
+              "otherInfo": {
+                "line": "世人苦被明日累"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn qù qiū lái lǎo jiāng zhì"
+              },
+              "otherInfo": {
+                "line": "春去秋来老将至"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo kàn shuǐ dōng liú"
+              },
+              "otherInfo": {
+                "line": "朝看水东流"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù kàn rì xī zhuì"
+              },
+              "otherInfo": {
+                "line": "暮看日西坠"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǎi nián míng rì néng jǐ hé"
+              },
+              "otherInfo": {
+                "line": "百年明日能几何"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐng jūn tīng wǒ míng rì gē"
+              },
+              "otherInfo": {
+                "line": "请君听我明日歌"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“明日复明日”中“复”的意思是？",
+                "options": [
+                  "又、再",
+                  "恢复",
+                  "回答",
+                  "重复一遍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“明日何其多”中“何其”的意思是？",
+                "options": [
+                  "多么",
+                  "为什么",
+                  "哪里",
+                  "什么时候"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我生待明日”中“待”的意思是？",
+                "options": [
+                  "等待",
+                  "对待",
+                  "招待",
+                  "期待"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万事成蹉跎”中“蹉跎”的意思是？",
+                "options": [
+                  "光阴白白流逝、事情无成",
+                  "道路崎岖难行",
+                  "身体衰老虚弱",
+                  "反复跌倒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“世人苦被明日累”中“累”的意思是？",
+                "options": [
+                  "拖累、牵累",
+                  "劳累",
+                  "积累",
+                  "连累家人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春去秋来老将至”中“将”的意思是？",
+                "options": [
+                  "将要",
+                  "将军",
+                  "带领",
+                  "将来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“朝看水东流”中“朝”的意思是？",
+                "options": [
+                  "早晨",
+                  "朝廷",
+                  "朝向",
+                  "朝代"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“暮看日西坠”中“坠”的意思是？",
+                "options": [
+                  "落下",
+                  "坠落受伤",
+                  "丢失",
+                  "下垂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“百年明日能几何”中“几何”的意思是？",
+                "options": [
+                  "多少",
+                  "几何学",
+                  "若干",
+                  "多久"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“请君听我明日歌”中“君”的意思是？",
+                "options": [
+                  "对对方的尊称，您",
+                  "君主",
+                  "君子",
+                  "夫君"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "明天又一个明天，明天是何等的多啊。",
+                "options": [
+                  "明日复明日",
+                  "明日何其多",
+                  "我生待明日",
+                  "万事成蹉跎"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“明日复明日”的意思是？",
+                "options": [
+                  "一个明天过去了，又一个明天到来，强调明天接连不断",
+                  "明天恢复原样，强调重新开始",
+                  "明天回答明天的问题，强调推诿",
+                  "明天重复今天的事，强调模仿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我一生都在等待明天，结果所有事情都荒废了。",
+                "options": [
+                  "明日何其多",
+                  "我生待明日",
+                  "万事成蹉跎",
+                  "世人苦被明日累"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我生待明日”的意思是？",
+                "options": [
+                  "我一生都在等待明天，把事推到明天",
+                  "我出生在明天，强调出生时辰",
+                  "我活着就是为了明天，强调希望",
+                  "我生来就明白明天的重要，强调觉悟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "世上的人苦苦地被“明日”拖累。",
+                "options": [
+                  "万事成蹉跎",
+                  "世人苦被明日累",
+                  "春去秋来老将至",
+                  "朝看水东流"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“万事成蹉跎”的意思是？",
+                "options": [
+                  "所有事情都因虚度光阴而荒废",
+                  "所有事情都顺利完成",
+                  "所有事情都反复出错",
+                  "所有事情都变得崎岖难行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春天过去秋天到来，老年将要来临。",
+                "options": [
+                  "世人苦被明日累",
+                  "春去秋来老将至",
+                  "朝看水东流",
+                  "暮看日西坠"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“世人苦被明日累”的意思是？",
+                "options": [
+                  "世人被“明日”拖累而受苦",
+                  "世人辛苦地等待明天到来",
+                  "世人把明天当作苦日子",
+                  "世人因明天而劳累身体"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "早晨看河水向东流去。",
+                "options": [
+                  "春去秋来老将至",
+                  "朝看水东流",
+                  "暮看日西坠",
+                  "百年明日能几何"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春去秋来老将至”的意思是？",
+                "options": [
+                  "时光流逝，衰老将要到来",
+                  "春天离去秋天回来，老人将至",
+                  "春去秋来，老人才会到来",
+                  "春天秋天都过去了，老年已过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚看太阳向西坠落。",
+                "options": [
+                  "朝看水东流",
+                  "暮看日西坠",
+                  "百年明日能几何",
+                  "请君听我明日歌"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“朝看水东流”的意思是？",
+                "options": [
+                  "早晨看河水向东流去，感叹时光流逝",
+                  "早晨看水向东流，说明水流方向",
+                  "早晨看水向东流，描写景色优美",
+                  "早晨看水向东流，表现心情愉快"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一百年的明天能有多少呢？",
+                "options": [
+                  "暮看日西坠",
+                  "百年明日能几何",
+                  "请君听我明日歌",
+                  "明日复明日"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“暮看日西坠”的意思是？",
+                "options": [
+                  "傍晚看太阳向西坠落，感叹时光流逝",
+                  "傍晚看太阳西坠，描写日落美景",
+                  "傍晚看太阳西坠，说明方向",
+                  "傍晚看太阳西坠，表现困倦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "请您听我唱这首《明日歌》。",
+                "options": [
+                  "百年明日能几何",
+                  "请君听我明日歌",
+                  "明日何其多",
+                  "我生待明日"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“百年明日能几何”的意思是？",
+                "options": [
+                  "人生百年，能有多少个明天，感叹明日有限",
+                  "一百年的明天能用几何方法计算",
+                  "一百年的明天能有多少距离",
+                  "一百年的明天能有多少人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "明天又一个明天，明天是何等的多啊。",
+                "options": [
+                  "明日复明日",
+                  "明日何其多",
+                  "我生待明日",
+                  "万事成蹉跎"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“请君听我明日歌”的意思是？",
+                "options": [
+                  "请您听我唱这首《明日歌》，劝人珍惜今日",
+                  "请您听我唱《明日歌》，请君为我鼓掌",
+                  "请您听我唱《明日歌》，请君为我伴奏",
+                  "请您听我唱《明日歌》，请君记住歌词"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我一生都在等待明天，结果所有事情都荒废了。",
+                "options": [
+                  "明日何其多",
+                  "我生待明日",
+                  "万事成蹉跎",
+                  "世人苦被明日累"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“明日何其多”的意思是？",
+                "options": [
+                  "明天是多么多啊，强调明天似乎无穷无尽",
+                  "明天为什么这么多，追问原因",
+                  "明天哪里算多，否定明天多",
+                  "明天什么时候多，询问时间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "明日何其多",
+                  "明日复明日"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万事成蹉跎",
+                  "我生待明日"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春去秋来老将至",
+                  "世人苦被明日累"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "暮看日西坠",
+                  "朝看水东流"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请君听我明日歌",
+                  "百年明日能几何"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我生待明日",
+                  "明日复明日",
+                  "明日何其多",
+                  "万事成蹉跎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春去秋来老将至",
+                  "世人苦被明日累",
+                  "万事成蹉跎",
+                  "我生待明日"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "朝看水东流",
+                  "春去秋来老将至",
+                  "暮看日西坠",
+                  "世人苦被明日累"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百年明日能几何",
+                  "朝看水东流",
+                  "请君听我明日歌",
+                  "暮看日西坠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请君听我明日歌",
+                  "明日复明日",
+                  "暮看日西坠",
+                  "我生待明日",
+                  "百年明日能几何",
+                  "明日何其多",
+                  "朝看水东流",
+                  "春去秋来老将至",
+                  "万事成蹉跎",
+                  "世人苦被明日累"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù"
+              },
+              "otherInfo": {
+                "content": "明日__明日",
+                "answer": "复"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "明日何__多",
+                "answer": "其"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài"
+              },
+              "otherInfo": {
+                "content": "我生__明日",
+                "answer": "待"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuō"
+              },
+              "otherInfo": {
+                "content": "万事成__跎",
+                "answer": "蹉"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lèi"
+              },
+              "otherInfo": {
+                "content": "世人苦被明日__",
+                "answer": "累"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "春去秋来老将__",
+                "answer": "至"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo"
+              },
+              "otherInfo": {
+                "content": "__看水东流",
+                "answer": "朝"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuì"
+              },
+              "otherInfo": {
+                "content": "暮看日西__",
+                "answer": "坠"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé"
+              },
+              "otherInfo": {
+                "content": "百年明日能__何",
+                "answer": "几"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐng"
+              },
+              "otherInfo": {
+                "content": "__君听我明日歌",
+                "answer": "请"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "明日复明日，______",
+                "answer": "明日何其多"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，明日何其多",
+                "answer": "明日复明日"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我生待明日，______",
+                "answer": "万事成蹉跎"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万事成蹉跎",
+                "answer": "我生待明日"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "世人苦被明日累，______",
+                "answer": "春去秋来老将至"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，春去秋来老将至",
+                "answer": "世人苦被明日累"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朝看水东流，______",
+                "answer": "暮看日西坠"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，暮看日西坠",
+                "answer": "朝看水东流"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "百年明日能几何，______",
+                "answer": "请君听我明日歌"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，请君听我明日歌",
+                "answer": "百年明日能几何"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "明日复明日，明日何其多。______，______",
+                "answer": "我生待明日，万事成蹉跎"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我生待明日，万事成蹉跎。______，______",
+                "answer": "世人苦被明日累，春去秋来老将至"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "世人苦被明日累，春去秋来老将至。______，______",
+                "answer": "朝看水东流，暮看日西坠"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朝看水东流，暮看日西坠。______，______",
+                "answer": "百年明日能几何，请君听我明日歌"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朝看水东流，暮看日西坠。______，______",
+                "answer": "百年明日能几何，请君听我明日歌"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请君听我明日歌",
+                  "明日复明日",
+                  "暮看日西坠",
+                  "我生待明日",
+                  "百年明日能几何",
+                  "明日何其多",
+                  "朝看水东流",
+                  "春去秋来老将至",
+                  "万事成蹉跎",
+                  "世人苦被明日累"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "明日何其多",
+                  "朝看水东流",
+                  "万事成蹉跎",
+                  "请君听我明日歌",
+                  "世人苦被明日累",
+                  "明日复明日",
+                  "春去秋来老将至",
+                  "我生待明日",
+                  "百年明日能几何",
+                  "暮看日西坠"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春去秋来老将至",
+                  "百年明日能几何",
+                  "明日复明日",
+                  "暮看日西坠",
+                  "我生待明日",
+                  "请君听我明日歌",
+                  "明日何其多",
+                  "朝看水东流",
+                  "世人苦被明日累",
+                  "万事成蹉跎"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "暮看日西坠",
+                  "明日复明日",
+                  "请君听我明日歌",
+                  "春去秋来老将至",
+                  "明日何其多",
+                  "我生待明日",
+                  "百年明日能几何",
+                  "万事成蹉跎",
+                  "朝看水东流",
+                  "世人苦被明日累"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我生待明日",
+                  "朝看水东流",
+                  "明日何其多",
+                  "请君听我明日歌",
+                  "万事成蹉跎",
+                  "春去秋来老将至",
+                  "明日复明日",
+                  "百年明日能几何",
+                  "世人苦被明日累",
+                  "暮看日西坠"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

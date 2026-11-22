@@ -1,0 +1,1203 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng jì xī tíng rì mù"
+              },
+              "otherInfo": {
+                "line": "常记溪亭日暮"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chén zuì bù zhī guī lù"
+              },
+              "otherInfo": {
+                "line": "沉醉不知归路"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng jìn wǎn huí zhōu"
+              },
+              "otherInfo": {
+                "line": "兴尽晚回舟"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wù rù ǒu huā shēn chù"
+              },
+              "otherInfo": {
+                "line": "误入藕花深处"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng dù zhēng dù"
+              },
+              "otherInfo": {
+                "line": "争渡争渡"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng qǐ yī tān ōu lù"
+              },
+              "otherInfo": {
+                "line": "惊起一滩鸥鹭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“常记”的意思是？",
+                "options": [
+                  "经常记起",
+                  "曾经记得",
+                  "平常记录",
+                  "长久记忆"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“溪亭”的意思是？",
+                "options": [
+                  "溪边的亭子",
+                  "溪水边的驿站",
+                  "溪流上的桥",
+                  "溪口的小屋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“日暮”的意思是？",
+                "options": [
+                  "太阳落山的时候",
+                  "白天结束的钟声",
+                  "日子过得很快",
+                  "天色刚亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沉醉”的意思是？",
+                "options": [
+                  "深深地陶醉",
+                  "喝得大醉",
+                  "沉迷于酒色",
+                  "沉睡不醒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“归路”的意思是？",
+                "options": [
+                  "回去的路",
+                  "归顺的途径",
+                  "归隐的道路",
+                  "归还的路线"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“兴尽”的意思是？",
+                "options": [
+                  "游兴得到满足",
+                  "兴致完全消失",
+                  "兴趣刚刚开始",
+                  "高兴到了极点"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晚回舟”的意思是？",
+                "options": [
+                  "天色晚了才划船回去",
+                  "晚上回到船上",
+                  "很晚才乘船回来",
+                  "傍晚把船划回来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“误入”的意思是？",
+                "options": [
+                  "不小心进入",
+                  "错误地理解",
+                  "迷失了方向",
+                  "耽误了进入"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“争渡”的意思是？",
+                "options": [
+                  "抢着划船",
+                  "争论渡口",
+                  "争夺渡船",
+                  "争相过河"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鸥鹭”在词中指的是？",
+                "options": [
+                  "水鸟",
+                  "渔船",
+                  "荷花",
+                  "芦苇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "经常记起在溪边亭子游玩到日暮时分。",
+                "options": [
+                  "常记溪亭日暮",
+                  "沉醉不知归路",
+                  "兴尽晚回舟",
+                  "误入藕花深处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“常记溪亭日暮”的意思是？",
+                "options": [
+                  "经常回忆起在溪边亭子游玩到日暮的情景",
+                  "常常在溪边亭子里从早坐到晚",
+                  "曾经在溪边亭子记下日落的时间",
+                  "平常总在傍晚到溪边亭子休息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "深深地陶醉其中，连回去的路都辨认不出了。",
+                "options": [
+                  "沉醉不知归路",
+                  "常记溪亭日暮",
+                  "争渡争渡",
+                  "惊起一滩鸥鹭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“沉醉不知归路”的意思是？",
+                "options": [
+                  "陶醉于美景而忘了回去的路",
+                  "喝醉了酒找不到回家的方向",
+                  "沉迷于游乐而不愿踏上归途",
+                  "沉醉中误把别处当作归路"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "游兴满足了，天色已晚才划船往回走。",
+                "options": [
+                  "兴尽晚回舟",
+                  "沉醉不知归路",
+                  "常记溪亭日暮",
+                  "误入藕花深处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“兴尽晚回舟”的意思是？",
+                "options": [
+                  "游兴尽了才在傍晚划船返回",
+                  "兴致来了很晚才划船出游",
+                  "高兴到极点忘了把船划回",
+                  "游兴正浓时天色已晚仍不回船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不小心划进了荷花丛的深处。",
+                "options": [
+                  "误入藕花深处",
+                  "兴尽晚回舟",
+                  "争渡争渡",
+                  "惊起一滩鸥鹭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“误入藕花深处”的意思是？",
+                "options": [
+                  "不小心进入了荷花丛的深处",
+                  "错误地理解了荷花深处的路",
+                  "迷失方向后误把藕花当路标",
+                  "耽误了时间才进入荷花深处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "抢着划呀，抢着划呀。",
+                "options": [
+                  "争渡争渡",
+                  "沉醉不知归路",
+                  "常记溪亭日暮",
+                  "兴尽晚回舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“争渡争渡”的意思是？",
+                "options": [
+                  "抢着划船，抢着划船",
+                  "争论该从哪个渡口过河",
+                  "争夺渡船，互不相让",
+                  "争相渡过河去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "惊动了满滩的水鸟。",
+                "options": [
+                  "惊起一滩鸥鹭",
+                  "争渡争渡",
+                  "误入藕花深处",
+                  "兴尽晚回舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“惊起一滩鸥鹭”的意思是？",
+                "options": [
+                  "惊动了满滩的鸥鹭飞起来",
+                  "惊吓得鸥鹭落满整个滩头",
+                  "惊喜地发现一滩鸥鹭",
+                  "惊动了一只滩边的鸥鹭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沉醉不知归路",
+                  "常记溪亭日暮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "误入藕花深处",
+                  "兴尽晚回舟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊起一滩鸥鹭",
+                  "争渡争渡"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沉醉不知归路",
+                  "常记溪亭日暮",
+                  "误入藕花深处",
+                  "兴尽晚回舟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "误入藕花深处",
+                  "兴尽晚回舟",
+                  "惊起一滩鸥鹭",
+                  "争渡争渡"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊起一滩鸥鹭",
+                  "常记溪亭日暮",
+                  "争渡争渡",
+                  "沉醉不知归路",
+                  "兴尽晚回舟",
+                  "误入藕花深处"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng"
+              },
+              "otherInfo": {
+                "content": "__记溪亭日暮",
+                "answer": "常"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "沉__不知归路",
+                "answer": "醉"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng"
+              },
+              "otherInfo": {
+                "content": "__尽晚回舟",
+                "answer": "兴"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ǒu"
+              },
+              "otherInfo": {
+                "content": "误入__花深处",
+                "answer": "藕"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng"
+              },
+              "otherInfo": {
+                "content": "__渡争渡",
+                "answer": "争"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tān"
+              },
+              "otherInfo": {
+                "content": "惊起一__鸥鹭",
+                "answer": "滩"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "常记溪__日暮",
+                "answer": "亭"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guī"
+              },
+              "otherInfo": {
+                "content": "沉醉不知__路",
+                "answer": "归"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎn"
+              },
+              "otherInfo": {
+                "content": "兴尽__回舟",
+                "answer": "晚"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ōu"
+              },
+              "otherInfo": {
+                "content": "惊起一滩__鹭",
+                "answer": "鸥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "常记溪亭日暮，______。",
+                "answer": "沉醉不知归路"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，沉醉不知归路。",
+                "answer": "常记溪亭日暮"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "兴尽晚回舟，______。",
+                "answer": "误入藕花深处"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，误入藕花深处。",
+                "answer": "兴尽晚回舟"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "争渡争渡，______。",
+                "answer": "惊起一滩鸥鹭"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，惊起一滩鸥鹭。",
+                "answer": "争渡争渡"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "常记溪亭日暮，沉醉不知归路。______，______。",
+                "answer": "兴尽晚回舟，误入藕花深处"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "兴尽晚回舟，误入藕花深处。______，______。",
+                "answer": "争渡争渡，惊起一滩鸥鹭"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "兴尽晚回舟，误入藕花深处。______，______。",
+                "answer": "争渡争渡，惊起一滩鸥鹭"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊起一滩鸥鹭",
+                  "常记溪亭日暮",
+                  "争渡争渡",
+                  "沉醉不知归路",
+                  "兴尽晚回舟",
+                  "误入藕花深处"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "误入藕花深处",
+                  "沉醉不知归路",
+                  "惊起一滩鸥鹭",
+                  "常记溪亭日暮",
+                  "争渡争渡",
+                  "兴尽晚回舟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "兴尽晚回舟",
+                  "争渡争渡",
+                  "常记溪亭日暮",
+                  "惊起一滩鸥鹭",
+                  "沉醉不知归路",
+                  "误入藕花深处"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "争渡争渡",
+                  "误入藕花深处",
+                  "沉醉不知归路",
+                  "兴尽晚回舟",
+                  "常记溪亭日暮",
+                  "惊起一滩鸥鹭"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沉醉不知归路",
+                  "惊起一滩鸥鹭",
+                  "兴尽晚回舟",
+                  "常记溪亭日暮",
+                  "误入藕花深处",
+                  "争渡争渡"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng míng shí jié yǔ fēn fēn"
+              },
+              "otherInfo": {
+                "line": "清明时节雨纷纷"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù shàng xíng rén yù duàn hún"
+              },
+              "otherInfo": {
+                "line": "路上行人欲断魂"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiè wèn jiǔ jiā hé chù yǒu"
+              },
+              "otherInfo": {
+                "line": "借问酒家何处有"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù tóng yáo zhǐ xìng huā cūn"
+              },
+              "otherInfo": {
+                "line": "牧童遥指杏花村"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“清明”的意思是？",
+                "options": [
+                  "节气名称，在春分之后",
+                  "朝代名称，指清朝和明朝",
+                  "形容天气晴朗明净",
+                  "形容人的神志清醒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“纷纷”的意思是？",
+                "options": [
+                  "接连不断的样子",
+                  "杂乱无章的样子",
+                  "意见分歧的样子",
+                  "雪花飘落的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“行人”的意思是？",
+                "options": [
+                  "在路上行走的人，这里指扫墓的旅人",
+                  "赶路的商贩",
+                  "送信的人",
+                  "巡逻的士兵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲断魂”的意思是？",
+                "options": [
+                  "形容极度悲伤，好像灵魂要离开身体",
+                  "形容身体虚弱，快要昏倒",
+                  "形容魂魄被鬼神勾走",
+                  "形容思念亲人，魂不守舍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“借问”的意思是？",
+                "options": [
+                  "请问，向别人打听",
+                  "借东西时询问",
+                  "借机询问",
+                  "替别人问"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“酒家”的意思是？",
+                "options": [
+                  "卖酒的人家，指酒店",
+                  "酿酒的人家",
+                  "喝酒的人家",
+                  "送酒的人家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥指”的意思是？",
+                "options": [
+                  "远远地指着",
+                  "摇着手指示",
+                  "远远地招手",
+                  "指向遥远的地方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“牧童”的意思是？",
+                "options": [
+                  "放牧牛羊的儿童",
+                  "吹笛子的儿童",
+                  "赶车的儿童",
+                  "采花的儿童"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杏花村”在诗中的意思是？",
+                "options": [
+                  "杏花深处的村庄，指酒家所在之处",
+                  "专门卖杏花的村子",
+                  "盛产杏子的村庄",
+                  "名叫杏花村的城镇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时节”的意思是？",
+                "options": [
+                  "季节，时候",
+                  "节日和节气",
+                  "时令和礼节",
+                  "时间和节奏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "清明时节，细雨连绵不断。",
+                "options": [
+                  "清明时节雨纷纷",
+                  "路上行人欲断魂",
+                  "借问酒家何处有",
+                  "牧童遥指杏花村"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“路上行人欲断魂”的意思是？",
+                "options": [
+                  "路上扫墓的旅人悲伤得好像灵魂要离体",
+                  "路上行人走得疲惫，精神恍惚",
+                  "路上行人被雨淋得浑身发抖",
+                  "路上行人思念家乡，归心似箭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "请问哪里有卖酒的人家。",
+                "options": [
+                  "借问酒家何处有",
+                  "清明时节雨纷纷",
+                  "路上行人欲断魂",
+                  "牧童遥指杏花村"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“借问酒家何处有”的意思是？",
+                "options": [
+                  "请问哪里有酒店可以歇脚饮酒",
+                  "向人借问酒家是否还有酒",
+                  "借问酒家为何不开门",
+                  "问酒家借酒消愁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "放牧的儿童远远地指向杏花深处的村庄。",
+                "options": [
+                  "牧童遥指杏花村",
+                  "借问酒家何处有",
+                  "清明时节雨纷纷",
+                  "路上行人欲断魂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“牧童遥指杏花村”的意思是？",
+                "options": [
+                  "牧童远远地指向杏花深处的村庄",
+                  "牧童远远地招手叫杏花村的同伴",
+                  "牧童摇着手拒绝回答杏花村的方向",
+                  "牧童指着远处的杏花树不说话"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "路上扫墓的旅人悲伤得好像灵魂要离体。",
+                "options": [
+                  "路上行人欲断魂",
+                  "清明时节雨纷纷",
+                  "借问酒家何处有",
+                  "牧童遥指杏花村"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“清明时节雨纷纷”的意思是？",
+                "options": [
+                  "清明时节细雨连绵不断",
+                  "清明时节大雨倾盆而下",
+                  "清明时节雨后天晴",
+                  "清明时节时雨时停"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "路上行人欲断魂",
+                  "清明时节雨纷纷"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牧童遥指杏花村",
+                  "借问酒家何处有"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "借问酒家何处有",
+                  "路上行人欲断魂",
+                  "清明时节雨纷纷",
+                  "牧童遥指杏花村"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牧童遥指杏花村",
+                  "清明时节雨纷纷",
+                  "借问酒家何处有",
+                  "路上行人欲断魂"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēn"
+              },
+              "otherInfo": {
+                "content": "清明时节雨__",
+                "answer": "纷"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hún"
+              },
+              "otherInfo": {
+                "content": "路上行人欲断__",
+                "answer": "魂"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiè"
+              },
+              "otherInfo": {
+                "content": "__问酒家何处有",
+                "answer": "借"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "__童遥指杏花村",
+                "answer": "牧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo"
+              },
+              "otherInfo": {
+                "content": "牧童__指杏花村",
+                "answer": "遥"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng"
+              },
+              "otherInfo": {
+                "content": "牧童遥指__花村",
+                "answer": "杏"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "__明时节雨纷纷",
+                "answer": "清"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù"
+              },
+              "otherInfo": {
+                "content": "__上行人欲断魂",
+                "answer": "路"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǔ"
+              },
+              "otherInfo": {
+                "content": "借问__家何处有",
+                "answer": "酒"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cūn"
+              },
+              "otherInfo": {
+                "content": "牧童遥指杏花__",
+                "answer": "村"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "清明时节雨纷纷，______",
+                "answer": "路上行人欲断魂"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，路上行人欲断魂",
+                "answer": "清明时节雨纷纷"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "借问酒家何处有，______",
+                "answer": "牧童遥指杏花村"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，牧童遥指杏花村",
+                "answer": "借问酒家何处有"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "清明时节雨纷纷，路上行人欲断魂。______，______",
+                "answer": "借问酒家何处有，牧童遥指杏花村"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "借问酒家何处有，牧童遥指杏花村。______，______",
+                "answer": "借问酒家何处有，牧童遥指杏花村"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "路上行人欲断魂",
+                  "牧童遥指杏花村",
+                  "清明时节雨纷纷",
+                  "借问酒家何处有"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "借问酒家何处有",
+                  "清明时节雨纷纷",
+                  "牧童遥指杏花村",
+                  "路上行人欲断魂"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牧童遥指杏花村",
+                  "路上行人欲断魂",
+                  "借问酒家何处有",
+                  "清明时节雨纷纷"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "清明时节雨纷纷",
+                  "借问酒家何处有",
+                  "路上行人欲断魂",
+                  "牧童遥指杏花村"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "路上行人欲断魂",
+                  "借问酒家何处有",
+                  "牧童遥指杏花村",
+                  "清明时节雨纷纷"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

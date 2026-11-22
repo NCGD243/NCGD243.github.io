@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo zhǎng yīng fēi èr yuè tiān"
+              },
+              "otherInfo": {
+                "line": "草长莺飞二月天"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú dī yáng liǔ zuì chūn yān"
+              },
+              "otherInfo": {
+                "line": "拂堤杨柳醉春烟"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér tóng sàn xué guī lái zǎo"
+              },
+              "otherInfo": {
+                "line": "儿童散学归来早"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "máng chèn dōng fēng fàng zhǐ yuān"
+              },
+              "otherInfo": {
+                "line": "忙趁东风放纸鸢"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草长莺飞”中“长”的意思是？",
+                "options": [
+                  "生长",
+                  "长久",
+                  "长处",
+                  "增长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“拂堤杨柳”中“拂”的意思是？",
+                "options": [
+                  "轻轻擦过",
+                  "违背",
+                  "甩动",
+                  "整理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“醉春烟”中“醉”的意思是？",
+                "options": [
+                  "沉醉",
+                  "喝醉",
+                  "陶醉",
+                  "迷醉"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“散学”的意思是？",
+                "options": [
+                  "放学",
+                  "散开学习",
+                  "分散学校",
+                  "课余学习"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“归来早”中“归来”的意思是？",
+                "options": [
+                  "回来",
+                  "归还",
+                  "归顺",
+                  "归去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忙趁东风”中“趁”的意思是？",
+                "options": [
+                  "趁着",
+                  "追逐",
+                  "赶超",
+                  "乘机"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“纸鸢”指的是？",
+                "options": [
+                  "风筝",
+                  "纸船",
+                  "纸鹤",
+                  "纸灯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春烟”在诗中指的是？",
+                "options": [
+                  "春天的雾气",
+                  "炊烟",
+                  "烟雾",
+                  "烟柳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“二月天”指的是？",
+                "options": [
+                  "农历二月",
+                  "公历二月",
+                  "二月天气",
+                  "两个月"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东风”在诗中指的是？",
+                "options": [
+                  "春风",
+                  "东边的风",
+                  "东风汽车",
+                  "东风导弹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "农历二月，青草生长，黄莺飞舞。",
+                "options": [
+                  "草长莺飞二月天",
+                  "拂堤杨柳醉春烟",
+                  "儿童散学归来早",
+                  "忙趁东风放纸鸢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“草长莺飞二月天”的意思是？",
+                "options": [
+                  "农历二月，青草生长，黄莺飞舞",
+                  "二月里草长得很高，黄莺飞走了",
+                  "二月的天空下，草和莺都在生长",
+                  "二月天里，草和莺都飞起来了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "杨柳轻拂堤岸，沉醉在春天的雾气中。",
+                "options": [
+                  "拂堤杨柳醉春烟",
+                  "草长莺飞二月天",
+                  "儿童散学归来早",
+                  "忙趁东风放纸鸢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“拂堤杨柳醉春烟”的意思是？",
+                "options": [
+                  "杨柳轻拂堤岸，沉醉在春天的雾气中",
+                  "杨柳拂过堤岸，被春烟熏醉了",
+                  "堤岸上的杨柳在春烟中摇摆",
+                  "春烟中的杨柳拂过堤岸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孩子们放学回来得很早。",
+                "options": [
+                  "儿童散学归来早",
+                  "草长莺飞二月天",
+                  "拂堤杨柳醉春烟",
+                  "忙趁东风放纸鸢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“儿童散学归来早”的意思是？",
+                "options": [
+                  "孩子们放学回来得很早",
+                  "孩子们散开学习，回来得很早",
+                  "儿童们放学后早早归来",
+                  "孩子们放学后很早就回家了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "急忙趁着春风放风筝。",
+                "options": [
+                  "忙趁东风放纸鸢",
+                  "草长莺飞二月天",
+                  "拂堤杨柳醉春烟",
+                  "儿童散学归来早"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“忙趁东风放纸鸢”的意思是？",
+                "options": [
+                  "急忙趁着春风放风筝",
+                  "忙着趁东风放纸鸢",
+                  "赶忙趁着东风放风筝",
+                  "急忙趁着东风放纸鸢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拂堤杨柳醉春烟",
+                  "草长莺飞二月天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忙趁东风放纸鸢",
+                  "儿童散学归来早"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿童散学归来早",
+                  "拂堤杨柳醉春烟",
+                  "草长莺飞二月天",
+                  "忙趁东风放纸鸢"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忙趁东风放纸鸢",
+                  "草长莺飞二月天",
+                  "儿童散学归来早",
+                  "拂堤杨柳醉春烟"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǎng"
+              },
+              "otherInfo": {
+                "content": "草__莺飞二月天",
+                "answer": "长"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dī"
+              },
+              "otherInfo": {
+                "content": "拂__杨柳醉春烟",
+                "answer": "堤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sàn"
+              },
+              "otherInfo": {
+                "content": "儿童__学归来早",
+                "answer": "散"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuān"
+              },
+              "otherInfo": {
+                "content": "忙趁东风放纸__",
+                "answer": "鸢"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "草长__飞二月天",
+                "answer": "莺"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "拂堤杨柳__春烟",
+                "answer": "醉"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guī"
+              },
+              "otherInfo": {
+                "content": "儿童散学__来早",
+                "answer": "归"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chèn"
+              },
+              "otherInfo": {
+                "content": "忙__东风放纸鸢",
+                "answer": "趁"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo"
+              },
+              "otherInfo": {
+                "content": "__长莺飞二月天",
+                "answer": "草"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng"
+              },
+              "otherInfo": {
+                "content": "忙趁__风放纸鸢",
+                "answer": "东"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草长莺飞二月天，______",
+                "answer": "拂堤杨柳醉春烟"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，拂堤杨柳醉春烟",
+                "answer": "草长莺飞二月天"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "儿童散学归来早，______",
+                "answer": "忙趁东风放纸鸢"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，忙趁东风放纸鸢",
+                "answer": "儿童散学归来早"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草长莺飞二月天，拂堤杨柳醉春烟。______，______",
+                "answer": "儿童散学归来早，忙趁东风放纸鸢"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草长莺飞二月天，拂堤杨柳醉春烟。______，______",
+                "answer": "儿童散学归来早，忙趁东风放纸鸢"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拂堤杨柳醉春烟",
+                  "忙趁东风放纸鸢",
+                  "草长莺飞二月天",
+                  "儿童散学归来早"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿童散学归来早",
+                  "草长莺飞二月天",
+                  "忙趁东风放纸鸢",
+                  "拂堤杨柳醉春烟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忙趁东风放纸鸢",
+                  "拂堤杨柳醉春烟",
+                  "儿童散学归来早",
+                  "草长莺飞二月天"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草长莺飞二月天",
+                  "儿童散学归来早",
+                  "拂堤杨柳醉春烟",
+                  "忙趁东风放纸鸢"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拂堤杨柳醉春烟",
+                  "儿童散学归来早",
+                  "草长莺飞二月天",
+                  "忙趁东风放纸鸢"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

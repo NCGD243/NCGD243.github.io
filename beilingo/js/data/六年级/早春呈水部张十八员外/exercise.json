@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān jiē xiǎo yǔ rùn rú sū"
+              },
+              "otherInfo": {
+                "line": "天街小雨润如酥"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo sè yáo kàn jìn què wú"
+              },
+              "otherInfo": {
+                "line": "草色遥看近却无"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì shì yī nián chūn hǎo chù"
+              },
+              "otherInfo": {
+                "line": "最是一年春好处"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué shèng yān liǔ mǎn huáng dū"
+              },
+              "otherInfo": {
+                "line": "绝胜烟柳满皇都"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天街小雨润如酥”中“酥”的意思是？",
+                "options": [
+                  "酥油，这里形容春雨的滋润",
+                  "酥脆的食品",
+                  "身体酥软无力",
+                  "酥松的泥土"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草色遥看近却无”中“遥”的意思是？",
+                "options": [
+                  "遥远地",
+                  "摇晃地",
+                  "逍遥地",
+                  "遥望着"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“最是一年春好处”中“处”的意思是？",
+                "options": [
+                  "时候",
+                  "地方",
+                  "处理",
+                  "相处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绝胜烟柳满皇都”中“绝”的意思是？",
+                "options": [
+                  "绝对，远远",
+                  "断绝",
+                  "绝妙",
+                  "绝迹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绝胜烟柳满皇都”中“胜”的意思是？",
+                "options": [
+                  "胜过，超过",
+                  "胜利",
+                  "承受",
+                  "名胜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天街小雨润如酥”中“润”的意思是？",
+                "options": [
+                  "滋润",
+                  "湿润",
+                  "利润",
+                  "红润"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草色遥看近却无”中“却”的意思是？",
+                "options": [
+                  "却，表转折，可是",
+                  "退却",
+                  "推却",
+                  "忘却"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“最是一年春好处”中“最”的意思是？",
+                "options": [
+                  "最，极",
+                  "最多",
+                  "最好",
+                  "最终"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绝胜烟柳满皇都”中“皇都”的意思是？",
+                "options": [
+                  "京城，指长安",
+                  "皇帝的都城遗址",
+                  "皇家的园林",
+                  "皇城根下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天街小雨润如酥”中“天街”的意思是？",
+                "options": [
+                  "京城街道",
+                  "天上的街市",
+                  "皇家御道",
+                  "天边的街道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "京城街道上细密的春雨滋润如酥油。",
+                "options": [
+                  "天街小雨润如酥",
+                  "草色遥看近却无",
+                  "最是一年春好处",
+                  "绝胜烟柳满皇都"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“天街小雨润如酥”的意思是？",
+                "options": [
+                  "京城街道上细密的春雨滋润如酥油",
+                  "天上街市下着小雨，酥油般滑腻",
+                  "京城的街道被小雨淋得酥软塌陷",
+                  "天街的小雨像酥糖一样甜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春草初生，远看一片嫩绿，近看却稀疏难寻。",
+                "options": [
+                  "草色遥看近却无",
+                  "天街小雨润如酥",
+                  "绝胜烟柳满皇都",
+                  "最是一年春好处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“草色遥看近却无”的意思是？",
+                "options": [
+                  "春草远看有嫩绿之色，近看却稀疏难辨",
+                  "草色遥远看不清，走近才发现没有草",
+                  "远处的草色遥不可及，近处却空空如也",
+                  "草色在远处看是绿的，近看却枯萎了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一年之中春景最美的就是这个时候。",
+                "options": [
+                  "最是一年春好处",
+                  "绝胜烟柳满皇都",
+                  "天街小雨润如酥",
+                  "草色遥看近却无"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“最是一年春好处”的意思是？",
+                "options": [
+                  "一年之中春景最美的就是这个时候",
+                  "春天是一年中最容易过去的时候",
+                  "一年之计在于春，要珍惜时光",
+                  "春天最好的去处是一年之始"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "远远胜过暮春时节烟柳满城的京城景色。",
+                "options": [
+                  "绝胜烟柳满皇都",
+                  "最是一年春好处",
+                  "草色遥看近却无",
+                  "天街小雨润如酥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“绝胜烟柳满皇都”的意思是？",
+                "options": [
+                  "远远胜过暮春烟柳满城的京城景色",
+                  "绝对胜过皇都里所有的烟柳",
+                  "绝妙的胜景是皇都的烟柳",
+                  "烟柳满皇都的景色已经绝迹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草色遥看近却无",
+                  "天街小雨润如酥"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝胜烟柳满皇都",
+                  "最是一年春好处"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草色遥看近却无",
+                  "最是一年春好处",
+                  "天街小雨润如酥",
+                  "绝胜烟柳满皇都"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝胜烟柳满皇都",
+                  "草色遥看近却无",
+                  "天街小雨润如酥",
+                  "最是一年春好处"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sū"
+              },
+              "otherInfo": {
+                "content": "天街小雨润如__",
+                "answer": "酥"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo"
+              },
+              "otherInfo": {
+                "content": "草色__看近却无",
+                "answer": "遥"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chù"
+              },
+              "otherInfo": {
+                "content": "最是一年春好__",
+                "answer": "处"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "__胜烟柳满皇都",
+                "answer": "绝"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rùn"
+              },
+              "otherInfo": {
+                "content": "天街小雨__如酥",
+                "answer": "润"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què"
+              },
+              "otherInfo": {
+                "content": "草色遥看近__无",
+                "answer": "却"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "__是一年春好处",
+                "answer": "最"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèng"
+              },
+              "otherInfo": {
+                "content": "绝__烟柳满皇都",
+                "answer": "胜"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dū"
+              },
+              "otherInfo": {
+                "content": "绝胜烟柳满皇__",
+                "answer": "都"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiē"
+              },
+              "otherInfo": {
+                "content": "天__小雨润如酥",
+                "answer": "街"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "天街小雨润如酥，______",
+                "answer": "草色遥看近却无"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，草色遥看近却无",
+                "answer": "天街小雨润如酥"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "最是一年春好处，______",
+                "answer": "绝胜烟柳满皇都"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，绝胜烟柳满皇都",
+                "answer": "最是一年春好处"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "天街小雨润如酥，草色遥看近却无。______，______",
+                "answer": "最是一年春好处，绝胜烟柳满皇都"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "天街小雨润如酥，草色遥看近却无。______，______",
+                "answer": "最是一年春好处，绝胜烟柳满皇都"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草色遥看近却无",
+                  "绝胜烟柳满皇都",
+                  "天街小雨润如酥",
+                  "最是一年春好处"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最是一年春好处",
+                  "天街小雨润如酥",
+                  "绝胜烟柳满皇都",
+                  "草色遥看近却无"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝胜烟柳满皇都",
+                  "草色遥看近却无",
+                  "最是一年春好处",
+                  "天街小雨润如酥"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天街小雨润如酥",
+                  "最是一年春好处",
+                  "草色遥看近却无",
+                  "绝胜烟柳满皇都"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草色遥看近却无",
+                  "最是一年春好处",
+                  "绝胜烟柳满皇都",
+                  "天街小雨润如酥"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

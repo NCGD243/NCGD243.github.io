@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé jìn yǐ wú qíng yǔ gài"
+              },
+              "otherInfo": {
+                "line": "荷尽已无擎雨盖"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jú cán yóu yǒu ào shuāng zhī"
+              },
+              "otherInfo": {
+                "line": "菊残犹有傲霜枝"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī nián hǎo jǐng jūn xū jì"
+              },
+              "otherInfo": {
+                "line": "一年好景君须记"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì shì chéng huáng jú lǜ shí"
+              },
+              "otherInfo": {
+                "line": "最是橙黄橘绿时"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“荷尽”的意思是？",
+                "options": [
+                  "荷花凋谢",
+                  "荷叶枯萎",
+                  "荷花盛开",
+                  "荷塘干涸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“擎雨盖”的意思是？",
+                "options": [
+                  "遮雨的伞盖",
+                  "举起的酒杯",
+                  "挡风的屏风",
+                  "盛雨的器皿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“菊残”的意思是？",
+                "options": [
+                  "菊花凋残",
+                  "菊花枯萎",
+                  "菊花盛开",
+                  "菊花飘落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“傲霜枝”的意思是？",
+                "options": [
+                  "傲然挺立、不怕霜冻的枝条",
+                  "被霜打过的枯枝",
+                  "高傲地伸向天空的树枝",
+                  "在霜中凋落的枝叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“君须记”的意思是？",
+                "options": [
+                  "您一定要记住",
+                  "您必须忘记",
+                  "您需要记录",
+                  "您应该铭记"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“最是”的意思是？",
+                "options": [
+                  "最是",
+                  "正是",
+                  "尤其是",
+                  "最好是"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“橙黄橘绿”在诗中指？",
+                "options": [
+                  "橙子黄、橘子绿的时节",
+                  "橙黄和橘绿两种颜色",
+                  "橙子与橘子的颜色",
+                  "橙黄橘绿相间的景色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“好景”的意思是？",
+                "options": [
+                  "美好的景色",
+                  "良好的前景",
+                  "友好的情景",
+                  "好看的风景"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“犹有”的意思是？",
+                "options": [
+                  "仍然有",
+                  "犹豫有",
+                  "尤其有",
+                  "犹如"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“已无”的意思是？",
+                "options": [
+                  "已经没有",
+                  "已经无用",
+                  "已经无趣",
+                  "已经无力"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "荷花凋谢，连那擎雨的荷叶也枯萎了。",
+                "options": [
+                  "荷尽已无擎雨盖",
+                  "菊残犹有傲霜枝",
+                  "一年好景君须记",
+                  "最是橙黄橘绿时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“荷尽已无擎雨盖”的意思是？",
+                "options": [
+                  "荷花凋谢，连那擎雨的荷叶也枯萎了",
+                  "荷花凋谢，但荷叶依然挺立如盖",
+                  "荷花盛开，荷叶像伞盖一样遮雨",
+                  "荷花落尽，雨点打在枯荷上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "菊花凋残，仍有傲霜挺立的枝条。",
+                "options": [
+                  "菊残犹有傲霜枝",
+                  "荷尽已无擎雨盖",
+                  "一年好景君须记",
+                  "最是橙黄橘绿时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“菊残犹有傲霜枝”的意思是？",
+                "options": [
+                  "菊花凋残，仍有傲霜挺立的枝条",
+                  "菊花凋残，枝条被霜雪压弯",
+                  "菊花盛开，枝条在霜中傲然挺立",
+                  "菊花落尽，只剩空枝在霜中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一年中最美好的景致，您一定要记住。",
+                "options": [
+                  "一年好景君须记",
+                  "最是橙黄橘绿时",
+                  "荷尽已无擎雨盖",
+                  "菊残犹有傲霜枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一年好景君须记”的意思是？",
+                "options": [
+                  "一年中最美好的景致，您一定要记住",
+                  "一年中最好的景色，您必须忘记",
+                  "一年中美好的时光，您需要记录",
+                  "一年中最好的风景，您应该铭记"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "正是橙子金黄、橘子青绿的时节。",
+                "options": [
+                  "最是橙黄橘绿时",
+                  "一年好景君须记",
+                  "荷尽已无擎雨盖",
+                  "菊残犹有傲霜枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“最是橙黄橘绿时”的意思是？",
+                "options": [
+                  "正是橙子金黄、橘子青绿的时节",
+                  "最是橙黄和橘绿两种颜色的时候",
+                  "橙子黄了、橘子绿了的季节",
+                  "橙黄橘绿相间的美好景色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "菊残犹有傲霜枝",
+                  "荷尽已无擎雨盖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最是橙黄橘绿时",
+                  "一年好景君须记"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "菊残犹有傲霜枝",
+                  "荷尽已无擎雨盖",
+                  "最是橙黄橘绿时",
+                  "一年好景君须记"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最是橙黄橘绿时",
+                  "荷尽已无擎雨盖",
+                  "一年好景君须记",
+                  "菊残犹有傲霜枝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn"
+              },
+              "otherInfo": {
+                "content": "荷__已无擎雨盖",
+                "answer": "尽"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ào"
+              },
+              "otherInfo": {
+                "content": "菊残犹有__霜枝",
+                "answer": "傲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐng"
+              },
+              "otherInfo": {
+                "content": "一年好__君须记",
+                "answer": "景"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "最是__黄橘绿时",
+                "answer": "橙"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qíng"
+              },
+              "otherInfo": {
+                "content": "荷尽已无__雨盖",
+                "answer": "擎"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cán"
+              },
+              "otherInfo": {
+                "content": "菊__犹有傲霜枝",
+                "answer": "残"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xū"
+              },
+              "otherInfo": {
+                "content": "一年好景君__记",
+                "answer": "须"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jú"
+              },
+              "otherInfo": {
+                "content": "最是橙黄__绿时",
+                "answer": "橘"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gài"
+              },
+              "otherInfo": {
+                "content": "荷尽已无擎雨__",
+                "answer": "盖"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ"
+              },
+              "otherInfo": {
+                "content": "最是橙黄橘__时",
+                "answer": "绿"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荷尽已无擎雨盖，______。",
+                "answer": "菊残犹有傲霜枝"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，菊残犹有傲霜枝。",
+                "answer": "荷尽已无擎雨盖"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一年好景君须记，______。",
+                "answer": "最是橙黄橘绿时"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，最是橙黄橘绿时。",
+                "answer": "一年好景君须记"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荷尽已无擎雨盖，菊残犹有傲霜枝。______，______。",
+                "answer": "一年好景君须记，最是橙黄橘绿时"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荷尽已无擎雨盖，菊残犹有傲霜枝。______，______。",
+                "answer": "一年好景君须记，最是橙黄橘绿时"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "菊残犹有傲霜枝",
+                  "最是橙黄橘绿时",
+                  "荷尽已无擎雨盖",
+                  "一年好景君须记"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一年好景君须记",
+                  "荷尽已无擎雨盖",
+                  "最是橙黄橘绿时",
+                  "菊残犹有傲霜枝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最是橙黄橘绿时",
+                  "菊残犹有傲霜枝",
+                  "一年好景君须记",
+                  "荷尽已无擎雨盖"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "荷尽已无擎雨盖",
+                  "一年好景君须记",
+                  "菊残犹有傲霜枝",
+                  "最是橙黄橘绿时"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "菊残犹有傲霜枝",
+                  "荷尽已无擎雨盖",
+                  "最是橙黄橘绿时",
+                  "一年好景君须记"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

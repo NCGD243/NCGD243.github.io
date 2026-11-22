@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù rén xī cí huáng hè lóu"
+              },
+              "otherInfo": {
+                "line": "故人西辞黄鹤楼"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān huā sān yuè xià yáng zhōu"
+              },
+              "otherInfo": {
+                "line": "烟花三月下扬州"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū fān yuǎn yǐng bì kōng jìn"
+              },
+              "otherInfo": {
+                "line": "孤帆远影碧空尽"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi jiàn cháng jiāng tiān jì liú"
+              },
+              "otherInfo": {
+                "line": "唯见长江天际流"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故人”的意思是？",
+                "options": [
+                  "老朋友",
+                  "已故的人",
+                  "故乡的人",
+                  "陌生的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“西辞”的意思是？",
+                "options": [
+                  "向西告别",
+                  "从西边辞别",
+                  "辞别西去的友人",
+                  "在西边辞官"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烟花”的意思是？",
+                "options": [
+                  "柳絮如烟、繁花似锦的春景",
+                  "燃放的烟火",
+                  "烟雾和花朵",
+                  "指代扬州城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“下”的意思是？",
+                "options": [
+                  "顺流而下",
+                  "下降",
+                  "下面",
+                  "攻下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤帆”的意思是？",
+                "options": [
+                  "一只帆船",
+                  "孤独的船夫",
+                  "孤单的帆布",
+                  "一片孤叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“远影”的意思是？",
+                "options": [
+                  "远去的帆影",
+                  "远处的影子",
+                  "远方的倒影",
+                  "遥远的影像"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“碧空”的意思是？",
+                "options": [
+                  "碧蓝的天空",
+                  "碧绿的江水",
+                  "青碧的山色",
+                  "碧玉般的空明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尽”的意思是？",
+                "options": [
+                  "消失",
+                  "尽头",
+                  "完毕",
+                  "竭尽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“唯见”的意思是？",
+                "options": [
+                  "只看见",
+                  "唯独见面",
+                  "只有见解",
+                  "只是显现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天际”的意思是？",
+                "options": [
+                  "天边",
+                  "天空",
+                  "天气",
+                  "天意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "老朋友在黄鹤楼与我辞别。",
+                "options": [
+                  "故人西辞黄鹤楼",
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "唯见长江天际流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“故人西辞黄鹤楼”的意思是？",
+                "options": [
+                  "老朋友在黄鹤楼与我辞别",
+                  "老朋友向西辞别了黄鹤楼",
+                  "故去的人在西边辞别黄鹤楼",
+                  "故乡的人从西边离开黄鹤楼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在柳絮如烟、繁花似锦的三月顺流而下到扬州。",
+                "options": [
+                  "故人西辞黄鹤楼",
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "唯见长江天际流"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“烟花三月下扬州”的意思是？",
+                "options": [
+                  "在烟花三月顺流而下到扬州",
+                  "在三月燃放烟花后去扬州",
+                  "在烟雾弥漫的三月攻下扬州",
+                  "在繁花似锦的三月从扬州下来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孤帆的远影消失在碧蓝的天空尽头。",
+                "options": [
+                  "故人西辞黄鹤楼",
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "唯见长江天际流"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孤帆远影碧空尽”的意思是？",
+                "options": [
+                  "孤帆的远影消失在碧蓝的天空尽头",
+                  "孤帆远影在碧空中尽情飘荡",
+                  "孤独的帆影把碧空看尽了",
+                  "孤帆远影在碧空下走到尽头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只看见长江向天边奔流。",
+                "options": [
+                  "故人西辞黄鹤楼",
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "唯见长江天际流"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“唯见长江天际流”的意思是？",
+                "options": [
+                  "只看见长江向天边奔流",
+                  "只看见长江在天边断流",
+                  "唯独见到长江从天际流来",
+                  "只见长江在天边停留"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烟花三月下扬州",
+                  "故人西辞黄鹤楼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "唯见长江天际流",
+                  "孤帆远影碧空尽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤帆远影碧空尽",
+                  "烟花三月下扬州",
+                  "故人西辞黄鹤楼",
+                  "唯见长江天际流"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "唯见长江天际流",
+                  "故人西辞黄鹤楼",
+                  "孤帆远影碧空尽",
+                  "烟花三月下扬州"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "__人西辞黄鹤楼",
+                "answer": "故"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hè"
+              },
+              "otherInfo": {
+                "content": "故人西辞黄__楼",
+                "answer": "鹤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān"
+              },
+              "otherInfo": {
+                "content": "__花三月下扬州",
+                "answer": "烟"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng"
+              },
+              "otherInfo": {
+                "content": "烟花三月下__州",
+                "answer": "扬"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū"
+              },
+              "otherInfo": {
+                "content": "__帆远影碧空尽",
+                "answer": "孤"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "孤帆远影__空尽",
+                "answer": "碧"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "__见长江天际流",
+                "answer": "唯"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "唯见长江天__流",
+                "answer": "际"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "烟花三__下扬州",
+                "answer": "月"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn"
+              },
+              "otherInfo": {
+                "content": "孤帆远影碧空__",
+                "answer": "尽"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故人西辞黄鹤楼，______",
+                "answer": "烟花三月下扬州"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，烟花三月下扬州",
+                "answer": "故人西辞黄鹤楼"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孤帆远影碧空尽，______",
+                "answer": "唯见长江天际流"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，唯见长江天际流",
+                "answer": "孤帆远影碧空尽"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故人西辞黄鹤楼，烟花三月下扬州。______，______",
+                "answer": "孤帆远影碧空尽，唯见长江天际流"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孤帆远影碧空尽，唯见长江天际流。______，______",
+                "answer": "孤帆远影碧空尽，唯见长江天际流"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烟花三月下扬州",
+                  "唯见长江天际流",
+                  "故人西辞黄鹤楼",
+                  "孤帆远影碧空尽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤帆远影碧空尽",
+                  "故人西辞黄鹤楼",
+                  "唯见长江天际流",
+                  "烟花三月下扬州"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "唯见长江天际流",
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "故人西辞黄鹤楼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故人西辞黄鹤楼",
+                  "孤帆远影碧空尽",
+                  "烟花三月下扬州",
+                  "唯见长江天际流"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烟花三月下扬州",
+                  "孤帆远影碧空尽",
+                  "故人西辞黄鹤楼",
+                  "唯见长江天际流"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

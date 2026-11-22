@@ -1,0 +1,1635 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì qiū tōng guó zhī shàn yì zhě yě"
+              },
+              "otherInfo": {
+                "line": "弈秋，通国之善弈者也"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǐ yì qiū huì èr rén yì"
+              },
+              "otherInfo": {
+                "line": "使弈秋诲二人弈"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí yī rén zhuān xīn zhì zhì"
+              },
+              "otherInfo": {
+                "line": "其一人专心致志"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi yì qiū zhī wéi tīng"
+              },
+              "otherInfo": {
+                "line": "惟弈秋之为听"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī rén suī tīng zhī"
+              },
+              "otherInfo": {
+                "line": "一人虽听之"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī xīn yǐ wéi yǒu hóng hú jiāng zhì"
+              },
+              "otherInfo": {
+                "line": "一心以为有鸿鹄将至"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī yuán gōng zhuó ér shè zhī"
+              },
+              "otherInfo": {
+                "line": "思援弓缴而射之"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī yǔ zhī jù xué"
+              },
+              "otherInfo": {
+                "line": "虽与之俱学"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú ruò zhī yǐ"
+              },
+              "otherInfo": {
+                "line": "弗若之矣"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi shì qí zhì fú ruò yǔ"
+              },
+              "otherInfo": {
+                "line": "为是其智弗若与"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuē fēi rán yě"
+              },
+              "otherInfo": {
+                "line": "曰：非然也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“通国”的意思是？",
+                "options": [
+                  "全国",
+                  "通往国都",
+                  "通达国家",
+                  "通晓国事"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“诲”的意思是？",
+                "options": [
+                  "教导",
+                  "后悔",
+                  "教诲别人下棋",
+                  "隐瞒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“专心致志”的意思是？",
+                "options": [
+                  "一心一意，集中精神",
+                  "专门研究志向",
+                  "专心到达目的地",
+                  "集中精力做大事"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惟”的意思是？",
+                "options": [
+                  "只",
+                  "思考",
+                  "唯一",
+                  "但是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鸿鹄”的意思是？",
+                "options": [
+                  "天鹅",
+                  "大雁",
+                  "老鹰",
+                  "仙鹤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“援”的意思是？",
+                "options": [
+                  "拉，引",
+                  "援助",
+                  "引用",
+                  "攀援"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“缴”的意思是？",
+                "options": [
+                  "系在箭上的丝绳",
+                  "缴纳",
+                  "交出",
+                  "缠绕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“俱”的意思是？",
+                "options": [
+                  "一起",
+                  "具备",
+                  "全部",
+                  "恐惧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“弗若”的意思是？",
+                "options": [
+                  "不如",
+                  "不相似",
+                  "不服从",
+                  "不顺利"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“非然”的意思是？",
+                "options": [
+                  "不是这样",
+                  "非常自然",
+                  "并非偶然",
+                  "不以为然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "弈秋是全国最擅长下棋的人。",
+                "options": [
+                  "弈秋，通国之善弈者也",
+                  "使弈秋诲二人弈",
+                  "其一人专心致志",
+                  "一人虽听之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“使弈秋诲二人弈”的意思是？",
+                "options": [
+                  "让弈秋教导两个人下棋",
+                  "派弈秋和两个人下棋",
+                  "假如弈秋教两个人下棋",
+                  "命令弈秋向两个人学下棋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "其中一个人一心一意，集中精神。",
+                "options": [
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“惟弈秋之为听”的意思是？",
+                "options": [
+                  "只听弈秋的教导",
+                  "只有弈秋在听",
+                  "认为弈秋说得对",
+                  "唯独弈秋听见了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "另一个人虽然也在听，却一心以为有天鹅将要飞来。",
+                "options": [
+                  "一人虽听之，一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学，弗若之矣",
+                  "为是其智弗若与"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“思援弓缴而射之”的意思是？",
+                "options": [
+                  "想着拉弓搭箭去射它",
+                  "想要拿起弓箭去射鸟",
+                  "思考如何用弓箭射中",
+                  "打算借弓箭来射箭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "虽然他和前一个人一起学习，成绩却不如前一个人。",
+                "options": [
+                  "虽与之俱学，弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "使弈秋诲二人弈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“为是其智弗若与”的意思是？",
+                "options": [
+                  "是因为他的智力不如前一个人吗",
+                  "是因为他的智慧不能相比吗",
+                  "难道是他的智力不如别人吗",
+                  "是因为他的智慧比不上吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "说：不是这样的。",
+                "options": [
+                  "曰：非然也",
+                  "弗若之矣",
+                  "惟弈秋之为听",
+                  "通国之善弈者也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“曰：非然也”的意思是？",
+                "options": [
+                  "说：不是这样的",
+                  "说：不是自然形成的",
+                  "说：并非偶然",
+                  "说：不认为对"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "让他教导两个人下棋。",
+                "options": [
+                  "使弈秋诲二人弈",
+                  "弈秋，通国之善弈者也",
+                  "其一人专心致志",
+                  "思援弓缴而射之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“其一人专心致志”的意思是？",
+                "options": [
+                  "其中一个人一心一意，集中精神",
+                  "其中一个人专门研究下棋",
+                  "第一个人专心到达志向",
+                  "有一个人集中精力做大事"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "使弈秋诲二人弈",
+                  "弈秋，通国之善弈者也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟弈秋之为听",
+                  "其一人专心致志"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一心以为有鸿鹄将至",
+                  "一人虽听之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "思援弓缴而射之",
+                  "虽与之俱学"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "弗若之矣",
+                  "为是其智弗若与"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曰：非然也",
+                  "使弈秋诲二人弈",
+                  "弈秋，通国之善弈者也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "使弈秋诲二人弈"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "使弈秋诲二人弈",
+                  "弈秋，通国之善弈者也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "__秋，通国之善弈者也",
+                "answer": "弈"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huì"
+              },
+              "otherInfo": {
+                "content": "使弈秋__二人弈",
+                "answer": "诲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "其一人专心__志",
+                "answer": "致"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "__弈秋之为听",
+                "answer": "惟"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī"
+              },
+              "otherInfo": {
+                "content": "一人__听之",
+                "answer": "虽"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "一心以为有__鹄将至",
+                "answer": "鸿"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó"
+              },
+              "otherInfo": {
+                "content": "思援弓__而射之",
+                "answer": "缴"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù"
+              },
+              "otherInfo": {
+                "content": "虽与之__学",
+                "answer": "俱"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú"
+              },
+              "otherInfo": {
+                "content": "__若之矣",
+                "answer": "弗"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi"
+              },
+              "otherInfo": {
+                "content": "__是其智弗若与",
+                "answer": "为"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "弈秋，通国之善弈者也。______",
+                "answer": "使弈秋诲二人弈"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，使弈秋诲二人弈",
+                "answer": "弈秋，通国之善弈者也"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其一人专心致志，______",
+                "answer": "惟弈秋之为听"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，惟弈秋之为听",
+                "answer": "其一人专心致志"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一人虽听之，______",
+                "answer": "一心以为有鸿鹄将至"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一心以为有鸿鹄将至",
+                "answer": "一人虽听之"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "思援弓缴而射之，______",
+                "answer": "虽与之俱学"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，虽与之俱学",
+                "answer": "思援弓缴而射之"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "弗若之矣，______",
+                "answer": "为是其智弗若与"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，为是其智弗若与",
+                "answer": "弗若之矣"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "为是其智弗若与？______",
+                "answer": "曰：非然也"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______？曰：非然也",
+                "answer": "为是其智弗若与"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "弈秋，通国之善弈者也。使弈秋诲二人弈。______，______",
+                "answer": "其一人专心致志，惟弈秋之为听"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其一人专心致志，惟弈秋之为听。______，______",
+                "answer": "一人虽听之，一心以为有鸿鹄将至"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一人虽听之，一心以为有鸿鹄将至。______，______",
+                "answer": "思援弓缴而射之，虽与之俱学"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "思援弓缴而射之，虽与之俱学。______，______",
+                "answer": "弗若之矣，为是其智弗若与"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "弗若之矣，为是其智弗若与？______，______",
+                "answer": "曰：非然也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "使弈秋诲二人弈",
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "弈秋，通国之善弈者也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其一人专心致志",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "弈秋，通国之善弈者也",
+                  "使弈秋诲二人弈",
+                  "惟弈秋之为听"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "弈秋，通国之善弈者也",
+                  "使弈秋诲二人弈",
+                  "其一人专心致志"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一心以为有鸿鹄将至",
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "弈秋，通国之善弈者也",
+                  "使弈秋诲二人弈",
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "思援弓缴而射之",
+                  "虽与之俱学",
+                  "弗若之矣",
+                  "为是其智弗若与",
+                  "曰：非然也",
+                  "弈秋，通国之善弈者也",
+                  "使弈秋诲二人弈",
+                  "其一人专心致志",
+                  "惟弈秋之为听",
+                  "一人虽听之",
+                  "一心以为有鸿鹄将至"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

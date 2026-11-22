@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng wò gū cūn bù zì āi"
+              },
+              "otherInfo": {
+                "line": "僵卧孤村不自哀"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shàng sī wèi guó shù lún tái"
+              },
+              "otherInfo": {
+                "line": "尚思为国戍轮台"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè lán wò tīng fēng chuī yǔ"
+              },
+              "otherInfo": {
+                "line": "夜阑卧听风吹雨"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiě mǎ bīng hé rù mèng lái"
+              },
+              "otherInfo": {
+                "line": "铁马冰河入梦来"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“僵卧”的意思是？",
+                "options": [
+                  "直挺挺地躺着",
+                  "僵硬地趴着",
+                  "孤独地坐着",
+                  "病重地靠着"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不自哀”的意思是？",
+                "options": [
+                  "不为自己感到悲哀",
+                  "不哀叹自己的处境",
+                  "不理会别人的哀伤",
+                  "不发出哀怨的声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尚思”的意思是？",
+                "options": [
+                  "还想着",
+                  "崇尚思考",
+                  "尚且思念",
+                  "仍然反思"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“戍轮台”的意思是？",
+                "options": [
+                  "驻守边疆",
+                  "轮换守台",
+                  "戍守城楼",
+                  "远征轮台"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜阑”的意思是？",
+                "options": [
+                  "夜深",
+                  "夜短",
+                  "夜黑",
+                  "夜静"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“卧听”的意思是？",
+                "options": [
+                  "躺着听",
+                  "卧倒倾听",
+                  "睡中听闻",
+                  "侧耳细听"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“铁马”的意思是？",
+                "options": [
+                  "披着铁甲的战马",
+                  "铁铸的马像",
+                  "铁蹄骏马",
+                  "铁骑战车"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“冰河”的意思是？",
+                "options": [
+                  "冰冻的河流",
+                  "冰凉的河水",
+                  "冰川之河",
+                  "冰雪覆盖的河岸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“入梦来”的意思是？",
+                "options": [
+                  "进入梦境中来",
+                  "进入梦中醒来",
+                  "入夜做梦归来",
+                  "梦醒之后到来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“风吹雨”的意思是？",
+                "options": [
+                  "风雨交加",
+                  "风吹雨打",
+                  "风吹着雨",
+                  "风停雨住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我直挺挺躺在孤寂的乡村里，并不为自己的处境感到悲哀。",
+                "options": [
+                  "僵卧孤村不自哀",
+                  "尚思为国戍轮台",
+                  "夜阑卧听风吹雨",
+                  "铁马冰河入梦来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“僵卧孤村不自哀”的意思是？",
+                "options": [
+                  "年老力衰闲居孤村，却不为自己悲哀",
+                  "身体僵硬躺在荒村，心中充满哀伤",
+                  "孤独地卧病在床，哀叹命运不公",
+                  "僵直地躺在村中，无人前来安慰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我还想着为国家去驻守边疆。",
+                "options": [
+                  "尚思为国戍轮台",
+                  "僵卧孤村不自哀",
+                  "夜阑卧听风吹雨",
+                  "铁马冰河入梦来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尚思为国戍轮台”的意思是？",
+                "options": [
+                  "仍然想着替国家戍守边疆",
+                  "尚且思念国家的轮台古城",
+                  "还打算为国轮换守边将士",
+                  "仍旧思考国家戍边的策略"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夜深了，我躺在床上听着风吹雨打的声音。",
+                "options": [
+                  "夜阑卧听风吹雨",
+                  "僵卧孤村不自哀",
+                  "尚思为国戍轮台",
+                  "铁马冰河入梦来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜阑卧听风吹雨”的意思是？",
+                "options": [
+                  "深夜躺着听风雨之声",
+                  "夜里侧卧听风吹雨停",
+                  "夜将尽时卧看风雨",
+                  "夜深人静卧闻雨声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "披着铁甲的战马和冰封的河流闯入了我的梦中。",
+                "options": [
+                  "铁马冰河入梦来",
+                  "僵卧孤村不自哀",
+                  "尚思为国戍轮台",
+                  "夜阑卧听风吹雨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“铁马冰河入梦来”的意思是？",
+                "options": [
+                  "梦中出现铁骑跨过冰河的征战场景",
+                  "铁马和冰河在梦中缓缓浮现",
+                  "梦到铁马冰河后从梦中醒来",
+                  "铁马冰河的景象进入梦境又消失"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尚思为国戍轮台",
+                  "僵卧孤村不自哀"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铁马冰河入梦来",
+                  "夜阑卧听风吹雨"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜阑卧听风吹雨",
+                  "尚思为国戍轮台",
+                  "僵卧孤村不自哀",
+                  "铁马冰河入梦来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铁马冰河入梦来",
+                  "僵卧孤村不自哀",
+                  "夜阑卧听风吹雨",
+                  "尚思为国戍轮台"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng"
+              },
+              "otherInfo": {
+                "content": "__卧孤村不自哀",
+                "answer": "僵"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū"
+              },
+              "otherInfo": {
+                "content": "僵卧__村不自哀",
+                "answer": "孤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù"
+              },
+              "otherInfo": {
+                "content": "尚思为国__轮台",
+                "answer": "戍"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lún"
+              },
+              "otherInfo": {
+                "content": "尚思为国戍__台",
+                "answer": "轮"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lán"
+              },
+              "otherInfo": {
+                "content": "夜__卧听风吹雨",
+                "answer": "阑"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wò"
+              },
+              "otherInfo": {
+                "content": "夜阑__听风吹雨",
+                "answer": "卧"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiě"
+              },
+              "otherInfo": {
+                "content": "__马冰河入梦来",
+                "answer": "铁"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bīng"
+              },
+              "otherInfo": {
+                "content": "铁马__河入梦来",
+                "answer": "冰"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mèng"
+              },
+              "otherInfo": {
+                "content": "铁马冰河入__来",
+                "answer": "梦"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "āi"
+              },
+              "otherInfo": {
+                "content": "僵卧孤村不自__",
+                "answer": "哀"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "僵卧孤村不自哀，______",
+                "answer": "尚思为国戍轮台"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，尚思为国戍轮台",
+                "answer": "僵卧孤村不自哀"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜阑卧听风吹雨，______",
+                "answer": "铁马冰河入梦来"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，铁马冰河入梦来",
+                "answer": "夜阑卧听风吹雨"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "僵卧孤村不自哀，尚思为国戍轮台。______，______",
+                "answer": "夜阑卧听风吹雨，铁马冰河入梦来"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜阑卧听风吹雨，铁马冰河入梦来。______，______",
+                "answer": "夜阑卧听风吹雨，铁马冰河入梦来"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尚思为国戍轮台",
+                  "铁马冰河入梦来",
+                  "僵卧孤村不自哀",
+                  "夜阑卧听风吹雨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜阑卧听风吹雨",
+                  "僵卧孤村不自哀",
+                  "铁马冰河入梦来",
+                  "尚思为国戍轮台"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铁马冰河入梦来",
+                  "尚思为国戍轮台",
+                  "夜阑卧听风吹雨",
+                  "僵卧孤村不自哀"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "僵卧孤村不自哀",
+                  "夜阑卧听风吹雨",
+                  "尚思为国戍轮台",
+                  "铁马冰河入梦来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尚思为国戍轮台",
+                  "夜阑卧听风吹雨",
+                  "僵卧孤村不自哀",
+                  "铁马冰河入梦来"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

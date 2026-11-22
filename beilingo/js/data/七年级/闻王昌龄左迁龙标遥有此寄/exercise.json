@@ -1,0 +1,995 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng huā luò jìn zǐ guī tí"
+              },
+              "otherInfo": {
+                "line": "杨花落尽子规啼"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wén dào lóng biāo guò wǔ xī"
+              },
+              "otherInfo": {
+                "line": "闻道龙标过五溪"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǒ jì chóu xīn yǔ míng yuè"
+              },
+              "otherInfo": {
+                "line": "我寄愁心与明月"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suí fēng zhí dào yè láng xī"
+              },
+              "otherInfo": {
+                "line": "随风直到夜郎西"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杨花落尽子规啼”中“子规”的意思是？",
+                "options": [
+                  "杜鹃鸟",
+                  "大雁",
+                  "黄鹂",
+                  "喜鹊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杨花落尽子规啼”中“杨花”的意思是？",
+                "options": [
+                  "柳絮",
+                  "杨树的花",
+                  "白杨叶",
+                  "芦苇花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“闻道龙标过五溪”中“闻道”的意思是？",
+                "options": [
+                  "听说",
+                  "闻到味道",
+                  "询问道路",
+                  "懂得道理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“闻道龙标过五溪”中“龙标”的意思是？",
+                "options": [
+                  "指王昌龄",
+                  "一种官职",
+                  "地名龙标县",
+                  "皇帝的诏书"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我寄愁心与明月”中“寄”的意思是？",
+                "options": [
+                  "寄托",
+                  "邮寄",
+                  "寄居",
+                  "寄存"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我寄愁心与明月”中“与”的意思是？",
+                "options": [
+                  "给",
+                  "和",
+                  "参与",
+                  "赞许"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“随风直到夜郎西”中“夜郎”的意思是？",
+                "options": [
+                  "地名",
+                  "人名",
+                  "官职名",
+                  "朝代名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“随风直到夜郎西”中“直到”的意思是？",
+                "options": [
+                  "一直到达",
+                  "径直前往",
+                  "直到现在",
+                  "直接面对"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“闻道龙标过五溪”中“过”的意思是？",
+                "options": [
+                  "经过",
+                  "超过",
+                  "过错",
+                  "拜访"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我寄愁心与明月”中“愁心”的意思是？",
+                "options": [
+                  "忧愁的心",
+                  "愁苦的面容",
+                  "发愁的念头",
+                  "忧愁的歌声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "柳絮飘落已尽，杜鹃鸟声声啼叫。",
+                "options": [
+                  "杨花落尽子规啼",
+                  "闻道龙标过五溪",
+                  "我寄愁心与明月",
+                  "随风直到夜郎西"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“杨花落尽子规啼”的意思是？",
+                "options": [
+                  "写暮春时节杨花飘落、杜鹃啼鸣的景象",
+                  "写初夏时节杨花盛开、杜鹃飞舞的景象",
+                  "写深秋时节杨花凋零、杜鹃归巢的景象",
+                  "写早春时节杨花初绽、杜鹃报春的景象"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "听说你被贬为龙标尉，要经过五溪。",
+                "options": [
+                  "杨花落尽子规啼",
+                  "闻道龙标过五溪",
+                  "我寄愁心与明月",
+                  "随风直到夜郎西"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“闻道龙标过五溪”的意思是？",
+                "options": [
+                  "听说王昌龄被贬龙标，要经过五溪",
+                  "听说龙标县已经过了五溪",
+                  "听说龙标尉的官职要经过五溪",
+                  "听说王昌龄到龙标去观赏五溪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我把忧愁的心托付给明月。",
+                "options": [
+                  "杨花落尽子规啼",
+                  "闻道龙标过五溪",
+                  "我寄愁心与明月",
+                  "随风直到夜郎西"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我寄愁心与明月”的意思是？",
+                "options": [
+                  "我把忧愁的心托付给明月",
+                  "我寄信给明月诉说愁苦",
+                  "我和明月一起寄托愁心",
+                  "我把明月寄给忧愁的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "让它随着风一直吹到夜郎以西。",
+                "options": [
+                  "杨花落尽子规啼",
+                  "闻道龙标过五溪",
+                  "我寄愁心与明月",
+                  "随风直到夜郎西"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“随风直到夜郎西”的意思是？",
+                "options": [
+                  "让愁心随着风一直吹到夜郎以西",
+                  "让风一直吹到夜郎的西边",
+                  "让明月随着风一直走到夜郎以西",
+                  "让愁心随着风停在夜郎的西边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子规啼",
+                  "杨花落尽",
+                  "闻道龙标",
+                  "过五溪"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "与明月",
+                  "我寄愁心",
+                  "随风直到",
+                  "夜郎西"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "过五溪",
+                  "闻道龙标",
+                  "杨花落尽",
+                  "子规啼",
+                  "我寄愁心",
+                  "与明月"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "随风直到",
+                  "夜郎西",
+                  "杨花落尽",
+                  "子规啼",
+                  "闻道龙标",
+                  "过五溪"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我寄愁心",
+                  "与明月",
+                  "闻道龙标",
+                  "过五溪",
+                  "杨花落尽",
+                  "子规啼",
+                  "随风直到",
+                  "夜郎西"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng"
+              },
+              "otherInfo": {
+                "content": "__花落尽子规啼",
+                "answer": "杨"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "杨花落尽子规__",
+                "answer": "啼"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wén"
+              },
+              "otherInfo": {
+                "content": "__道龙标过五溪",
+                "answer": "闻"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "闻道龙标过五__",
+                "answer": "溪"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "我__愁心与明月",
+                "answer": "寄"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóu"
+              },
+              "otherInfo": {
+                "content": "我寄__心与明月",
+                "answer": "愁"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "我寄愁心与明__",
+                "answer": "月"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suí"
+              },
+              "otherInfo": {
+                "content": "__风直到夜郎西",
+                "answer": "随"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "láng"
+              },
+              "otherInfo": {
+                "content": "随风直到夜__西",
+                "answer": "郎"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "随风直到夜郎__",
+                "answer": "西"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杨花落尽子规啼，______",
+                "answer": "闻道龙标过五溪"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，闻道龙标过五溪",
+                "answer": "杨花落尽子规啼"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我寄愁心与明月，______",
+                "answer": "随风直到夜郎西"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，随风直到夜郎西",
+                "answer": "我寄愁心与明月"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杨花落尽子规啼，闻道龙标过五溪。______，______",
+                "answer": "我寄愁心与明月，随风直到夜郎西"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我寄愁心与明月，随风直到夜郎西。______，______",
+                "answer": "我寄愁心与明月，随风直到夜郎西"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我寄愁心与明月",
+                  "杨花落尽子规啼",
+                  "随风直到夜郎西",
+                  "闻道龙标过五溪"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闻道龙标过五溪",
+                  "随风直到夜郎西",
+                  "杨花落尽子规啼",
+                  "我寄愁心与明月"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "随风直到夜郎西",
+                  "我寄愁心与明月",
+                  "闻道龙标过五溪",
+                  "杨花落尽子规啼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "杨花落尽子规啼",
+                  "我寄愁心与明月",
+                  "闻道龙标过五溪",
+                  "随风直到夜郎西"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我寄愁心与明月",
+                  "闻道龙标过五溪",
+                  "随风直到夜郎西",
+                  "杨花落尽子规啼"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

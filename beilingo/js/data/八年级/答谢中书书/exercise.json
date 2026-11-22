@@ -1,0 +1,1928 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān chuān zhī měi gǔ lái gòng tán"
+              },
+              "otherInfo": {
+                "line": "山川之美，古来共谈"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo fēng rù yún qīng liú jiàn dǐ"
+              },
+              "otherInfo": {
+                "line": "高峰入云，清流见底"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǎng àn shí bì wǔ sè jiāo huī"
+              },
+              "otherInfo": {
+                "line": "两岸石壁，五色交辉"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng lín cuì zhú sì shí jù bèi"
+              },
+              "otherInfo": {
+                "line": "青林翠竹，四时俱备"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo wù jiāng xiē yuán niǎo luàn míng"
+              },
+              "otherInfo": {
+                "line": "晓雾将歇，猿鸟乱鸣"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī rì yù tuí chén lín jìng yuè"
+              },
+              "otherInfo": {
+                "line": "夕日欲颓，沉鳞竞跃"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí shì yù jiè zhī xiān dū"
+              },
+              "otherInfo": {
+                "line": "实是欲界之仙都"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì kāng lè yǐ lái wèi fù yǒu néng yǔ qí qí zhě"
+              },
+              "otherInfo": {
+                "line": "自康乐以来，未复有能与其奇者"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“古来共谈”中“共”的意思是？",
+                "options": [
+                  "共同",
+                  "总共",
+                  "供给",
+                  "恭敬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高峰入云”中“入”的意思是？",
+                "options": [
+                  "进入",
+                  "收入",
+                  "合乎",
+                  "交纳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“五色交辉”中“交”的意思是？",
+                "options": [
+                  "交相",
+                  "结交",
+                  "交还",
+                  "交叉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“四时俱备”中“俱”的意思是？",
+                "options": [
+                  "都",
+                  "一起",
+                  "具备",
+                  "恐惧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晓雾将歇”中“歇”的意思是？",
+                "options": [
+                  "消散",
+                  "休息",
+                  "停止",
+                  "歇息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夕日欲颓”中“颓”的意思是？",
+                "options": [
+                  "坠落",
+                  "颓废",
+                  "倒塌",
+                  "衰败"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沉鳞竞跃”中“竞”的意思是？",
+                "options": [
+                  "争着",
+                  "竞争",
+                  "竟然",
+                  "究竟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“实是欲界之仙都”中“实”的意思是？",
+                "options": [
+                  "确实",
+                  "充实",
+                  "果实",
+                  "实际"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“未复有能与其奇者”中“与”的意思是？",
+                "options": [
+                  "参与，这里指欣赏",
+                  "和",
+                  "给",
+                  "赞许"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自康乐以来”中“自”的意思是？",
+                "options": [
+                  "从",
+                  "自己",
+                  "自然",
+                  "自从"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "山河的美丽，自古以来就是人们共同谈论的。",
+                "options": [
+                  "山川之美，古来共谈",
+                  "高峰入云，清流见底",
+                  "两岸石壁，五色交辉",
+                  "青林翠竹，四时俱备"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山川之美，古来共谈”的意思是？",
+                "options": [
+                  "山川的美丽，自古以来就是人们共同谈论的",
+                  "山川的壮美，只有古人才能共同欣赏",
+                  "山川的秀美，古往今来无人能够言说",
+                  "山川的优美，是古人交谈时常常提起的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "高高的山峰直插云霄，清澈的溪流可以看见水底。",
+                "options": [
+                  "高峰入云，清流见底",
+                  "两岸石壁，五色交辉",
+                  "晓雾将歇，猿鸟乱鸣",
+                  "夕日欲颓，沉鳞竞跃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“高峰入云，清流见底”的意思是？",
+                "options": [
+                  "高高的山峰直插云霄，清澈的溪流可以看见水底",
+                  "高峻的山峰没入云中，清冷的溪流深不见底",
+                  "高高的山峰耸入云端，清澈的溪流一眼望不到边",
+                  "高耸的山峰与云相接，清浅的溪流清澈见底"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "两岸的石壁，五彩斑斓交相辉映。",
+                "options": [
+                  "两岸石壁，五色交辉",
+                  "青林翠竹，四时俱备",
+                  "高峰入云，清流见底",
+                  "实是欲界之仙都"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“两岸石壁，五色交辉”的意思是？",
+                "options": [
+                  "两岸的石壁，五彩斑斓交相辉映",
+                  "两岸的石壁，五种颜色交替出现",
+                  "江两岸的石头，在阳光下发出五彩光芒",
+                  "两岸的石壁，因水光反射而色彩交错"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "青翠的树林和碧绿的竹子，四季都有。",
+                "options": [
+                  "青林翠竹，四时俱备",
+                  "晓雾将歇，猿鸟乱鸣",
+                  "夕日欲颓，沉鳞竞跃",
+                  "自康乐以来，未复有能与其奇者"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“青林翠竹，四时俱备”的意思是？",
+                "options": [
+                  "青翠的树林和碧绿的竹子，四季都有",
+                  "青色的树林和翠绿的竹子，四时排列整齐",
+                  "青葱的林木和翠绿的竹丛，四季都准备着",
+                  "青翠的树林和碧绿的竹子，四时都很茂盛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "清晨的薄雾将要消散，猿猴和鸟儿此起彼伏地鸣叫。",
+                "options": [
+                  "晓雾将歇，猿鸟乱鸣",
+                  "夕日欲颓，沉鳞竞跃",
+                  "高峰入云，清流见底",
+                  "两岸石壁，五色交辉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“晓雾将歇，猿鸟乱鸣”的意思是？",
+                "options": [
+                  "清晨的薄雾将要消散，猿猴和鸟儿此起彼伏地鸣叫",
+                  "清晨的雾气已经停歇，猿猴和鸟儿杂乱地鸣叫",
+                  "清晨的薄雾将要散去，猿猴和鸟儿被惊得乱叫",
+                  "清晨的雾气渐渐消散，猿猴和鸟儿四处飞鸣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚的太阳快要落山了，潜游在水中的鱼争相跃出水面。",
+                "options": [
+                  "夕日欲颓，沉鳞竞跃",
+                  "晓雾将歇，猿鸟乱鸣",
+                  "青林翠竹，四时俱备",
+                  "实是欲界之仙都"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夕日欲颓，沉鳞竞跃”的意思是？",
+                "options": [
+                  "傍晚的太阳快要落山了，潜游在水中的鱼争相跃出水面",
+                  "傍晚的太阳已经西沉，沉在水底的鱼鳞闪闪发光",
+                  "夕阳将要坠落，沉下去的鱼鳞争着跳跃",
+                  "傍晚的日光渐渐暗淡，水中的鱼儿竞相沉入水底"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这里实在是人间的仙境。",
+                "options": [
+                  "实是欲界之仙都",
+                  "自康乐以来，未复有能与其奇者",
+                  "山川之美，古来共谈",
+                  "高峰入云，清流见底"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“实是欲界之仙都”的意思是？",
+                "options": [
+                  "这里实在是人间的仙境",
+                  "这里确实是欲望世界的都城",
+                  "这里实在是凡人居住的都市",
+                  "这里确实是佛教所说的仙境"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自从谢灵运以来，就再也没有能欣赏这种奇景的人了。",
+                "options": [
+                  "自康乐以来，未复有能与其奇者",
+                  "实是欲界之仙都",
+                  "夕日欲颓，沉鳞竞跃",
+                  "晓雾将歇，猿鸟乱鸣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自康乐以来，未复有能与其奇者”的意思是？",
+                "options": [
+                  "自从谢灵运以来，就再也没有能欣赏这种奇景的人了",
+                  "自从康乐公以来，就再也没有能参与这种奇景的人了",
+                  "从谢灵运以后，不再有人能和他一起欣赏奇景",
+                  "自康乐年间以来，还没有人能写出这样的奇景"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古来共谈",
+                  "山川之美"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "清流见底",
+                  "高峰入云"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "五色交辉",
+                  "两岸石壁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "四时俱备",
+                  "青林翠竹"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猿鸟乱鸣",
+                  "晓雾将歇"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沉鳞竞跃",
+                  "夕日欲颓"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "实是欲界之仙都"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未复有能与其奇者",
+                  "自康乐以来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "清流见底",
+                  "古来共谈",
+                  "高峰入云",
+                  "山川之美"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "五色交辉",
+                  "高峰入云",
+                  "清流见底",
+                  "两岸石壁",
+                  "山川之美",
+                  "古来共谈"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "四时俱备",
+                  "两岸石壁",
+                  "青林翠竹",
+                  "五色交辉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猿鸟乱鸣",
+                  "青林翠竹",
+                  "四时俱备",
+                  "晓雾将歇"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沉鳞竞跃",
+                  "晓雾将歇",
+                  "猿鸟乱鸣",
+                  "夕日欲颓"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "实是欲界之仙都",
+                  "夕日欲颓",
+                  "沉鳞竞跃"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未复有能与其奇者",
+                  "实是欲界之仙都",
+                  "自康乐以来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夕日欲颓",
+                  "青林翠竹",
+                  "晓雾将歇",
+                  "山川之美",
+                  "古来共谈",
+                  "高峰入云",
+                  "清流见底",
+                  "两岸石壁",
+                  "五色交辉",
+                  "四时俱备",
+                  "猿鸟乱鸣",
+                  "沉鳞竞跃",
+                  "实是欲界之仙都",
+                  "自康乐以来",
+                  "未复有能与其奇者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tán"
+              },
+              "otherInfo": {
+                "content": "山川之美，古来共__",
+                "answer": "谈"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "高峰入云，清流__底",
+                "answer": "见"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huī"
+              },
+              "otherInfo": {
+                "content": "两岸石壁，五色交__",
+                "answer": "辉"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù"
+              },
+              "otherInfo": {
+                "content": "青林翠竹，四时__备",
+                "answer": "俱"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiē"
+              },
+              "otherInfo": {
+                "content": "晓雾将__，猿鸟乱鸣",
+                "answer": "歇"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tuí"
+              },
+              "otherInfo": {
+                "content": "夕日欲__，沉鳞竞跃",
+                "answer": "颓"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dū"
+              },
+              "otherInfo": {
+                "content": "实是欲界之仙__",
+                "answer": "都"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "自康乐以来，未复有能与其__者",
+                "answer": "奇"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "两岸石__，五色交辉",
+                "answer": "壁"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "夕日欲颓，沉鳞竞__",
+                "answer": "跃"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山川之美，______",
+                "answer": "古来共谈"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，古来共谈",
+                "answer": "山川之美"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "高峰入云，______",
+                "answer": "清流见底"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，清流见底",
+                "answer": "高峰入云"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "两岸石壁，______",
+                "answer": "五色交辉"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，五色交辉",
+                "answer": "两岸石壁"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青林翠竹，______",
+                "answer": "四时俱备"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，四时俱备",
+                "answer": "青林翠竹"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晓雾将歇，______",
+                "answer": "猿鸟乱鸣"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，猿鸟乱鸣",
+                "answer": "晓雾将歇"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夕日欲颓，______",
+                "answer": "沉鳞竞跃"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，沉鳞竞跃",
+                "answer": "夕日欲颓"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______",
+                "answer": "实是欲界之仙都"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，未复有能与其奇者",
+                "answer": "自康乐以来"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自康乐以来，______",
+                "answer": "未复有能与其奇者"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______",
+                "answer": "实是欲界之仙都"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山川之美，古来共谈。______，______",
+                "answer": "高峰入云，清流见底"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "高峰入云，清流见底。______，______",
+                "answer": "两岸石壁，五色交辉"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "两岸石壁，五色交辉。______，______",
+                "answer": "青林翠竹，四时俱备"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青林翠竹，四时俱备。______，______",
+                "answer": "晓雾将歇，猿鸟乱鸣"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晓雾将歇，猿鸟乱鸣。______，______",
+                "answer": "夕日欲颓，沉鳞竞跃"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夕日欲颓，沉鳞竞跃。______",
+                "answer": "实是欲界之仙都"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "实是欲界之仙都。______，______",
+                "answer": "自康乐以来，未复有能与其奇者"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "清流见底",
+                  "古来共谈",
+                  "五色交辉",
+                  "高峰入云",
+                  "四时俱备",
+                  "山川之美",
+                  "猿鸟乱鸣",
+                  "两岸石壁",
+                  "沉鳞竞跃",
+                  "青林翠竹",
+                  "晓雾将歇",
+                  "夕日欲颓",
+                  "实是欲界之仙都",
+                  "未复有能与其奇者",
+                  "自康乐以来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "高峰入云",
+                  "夕日欲颓",
+                  "青林翠竹",
+                  "古来共谈",
+                  "晓雾将歇",
+                  "五色交辉",
+                  "山川之美",
+                  "沉鳞竞跃",
+                  "两岸石壁",
+                  "清流见底",
+                  "四时俱备",
+                  "猿鸟乱鸣",
+                  "自康乐以来",
+                  "实是欲界之仙都",
+                  "未复有能与其奇者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两岸石壁",
+                  "晓雾将歇",
+                  "山川之美",
+                  "沉鳞竞跃",
+                  "高峰入云",
+                  "四时俱备",
+                  "古来共谈",
+                  "猿鸟乱鸣",
+                  "青林翠竹",
+                  "清流见底",
+                  "五色交辉",
+                  "夕日欲颓",
+                  "未复有能与其奇者",
+                  "自康乐以来",
+                  "实是欲界之仙都"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青林翠竹",
+                  "沉鳞竞跃",
+                  "高峰入云",
+                  "古来共谈",
+                  "夕日欲颓",
+                  "五色交辉",
+                  "晓雾将歇",
+                  "清流见底",
+                  "山川之美",
+                  "猿鸟乱鸣",
+                  "两岸石壁",
+                  "四时俱备",
+                  "实是欲界之仙都",
+                  "未复有能与其奇者",
+                  "自康乐以来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猿鸟乱鸣",
+                  "五色交辉",
+                  "清流见底",
+                  "青林翠竹",
+                  "古来共谈",
+                  "夕日欲颓",
+                  "高峰入云",
+                  "四时俱备",
+                  "晓雾将歇",
+                  "两岸石壁",
+                  "山川之美",
+                  "沉鳞竞跃",
+                  "自康乐以来",
+                  "实是欲界之仙都",
+                  "未复有能与其奇者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quē yuè guà shū tóng"
+              },
+              "otherInfo": {
+                "line": "缺月挂疏桐"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lòu duàn rén chū jìng"
+              },
+              "otherInfo": {
+                "line": "漏断人初静"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuí jiàn yōu rén dú wǎng lái"
+              },
+              "otherInfo": {
+                "line": "谁见幽人独往来"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "piāo miǎo gū hóng yǐng"
+              },
+              "otherInfo": {
+                "line": "缥缈孤鸿影"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng qǐ què huí tóu"
+              },
+              "otherInfo": {
+                "line": "惊起却回头"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu hèn wú rén xǐng"
+              },
+              "otherInfo": {
+                "line": "有恨无人省"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn jìn hán zhī bù kěn qī"
+              },
+              "otherInfo": {
+                "line": "拣尽寒枝不肯栖"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì mò shā zhōu lěng"
+              },
+              "otherInfo": {
+                "line": "寂寞沙洲冷"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“缺月”的意思是？",
+                "options": [
+                  "残月",
+                  "圆月",
+                  "新月",
+                  "明月"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“疏桐”的意思是？",
+                "options": [
+                  "稀疏的梧桐",
+                  "高大的梧桐",
+                  "枯死的梧桐",
+                  "茂密的梧桐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“漏断”的意思是？",
+                "options": [
+                  "漏壶水尽，指夜深",
+                  "漏壶破裂",
+                  "漏雨停止",
+                  "更漏报晓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“幽人”的意思是？",
+                "options": [
+                  "幽居之人，这里指作者自己",
+                  "幽怨的人",
+                  "隐居的高人",
+                  "幽灵般的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“缥缈”的意思是？",
+                "options": [
+                  "隐隐约约，若有若无",
+                  "高远空旷",
+                  "轻盈飘荡",
+                  "虚无荒诞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“省”的意思是？",
+                "options": [
+                  "理解，明白",
+                  "省察",
+                  "节省",
+                  "探望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“拣尽”的意思是？",
+                "options": [
+                  "挑遍，选尽",
+                  "捡拾干净",
+                  "挑选完毕",
+                  "收拾干净"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沙洲”的意思是？",
+                "options": [
+                  "江河湖海中泥沙淤积成的陆地",
+                  "沙漠中的绿洲",
+                  "沙滩上的沙丘",
+                  "水边的沙地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤鸿”的意思是？",
+                "options": [
+                  "孤单的鸿雁",
+                  "孤独的飞鸟",
+                  "失群的大雁",
+                  "孤傲的雄鹰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寒枝”的意思是？",
+                "options": [
+                  "寒冷季节的树枝",
+                  "寒冷的枝条",
+                  "枯寒的枝干",
+                  "凄冷的枝头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一弯残月挂在稀疏的梧桐树上。",
+                "options": [
+                  "缺月挂疏桐",
+                  "漏断人初静",
+                  "谁见幽人独往来",
+                  "缥缈孤鸿影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“漏断人初静”的意思是？",
+                "options": [
+                  "夜深漏尽，人们刚刚安静下来",
+                  "漏壶断了，人心开始平静",
+                  "雨停了，人们才安静",
+                  "更漏声断，人声初起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有谁看见幽居之人独自往来。",
+                "options": [
+                  "谁见幽人独往来",
+                  "缺月挂疏桐",
+                  "惊起却回头",
+                  "拣尽寒枝不肯栖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“缥缈孤鸿影”的意思是？",
+                "options": [
+                  "隐隐约约一只孤雁的身影",
+                  "高飞远去的大雁影子",
+                  "飘忽不定的孤舟帆影",
+                  "虚无缥缈的鸿雁叫声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它受惊飞起却又回过头来。",
+                "options": [
+                  "惊起却回头",
+                  "有恨无人省",
+                  "寂寞沙洲冷",
+                  "漏断人初静"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“有恨无人省”的意思是？",
+                "options": [
+                  "心中有怨恨却无人理解",
+                  "有遗憾却无人省察",
+                  "怀有仇恨却无人知晓",
+                  "有悔恨却无人过问"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它挑遍了寒冷的树枝也不肯栖息。",
+                "options": [
+                  "拣尽寒枝不肯栖",
+                  "缺月挂疏桐",
+                  "谁见幽人独往来",
+                  "惊起却回头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“寂寞沙洲冷”的意思是？",
+                "options": [
+                  "寂寞的沙洲上寒冷凄清",
+                  "孤独的沙洲上人迹罕至",
+                  "寂静的沙洲上冷风刺骨",
+                  "冷落的沙洲上荒无人烟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "漏断人初静",
+                  "缺月挂疏桐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "缥缈孤鸿影",
+                  "谁见幽人独往来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有恨无人省",
+                  "惊起却回头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞沙洲冷",
+                  "拣尽寒枝不肯栖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁见幽人独往来",
+                  "缺月挂疏桐",
+                  "漏断人初静",
+                  "缥缈孤鸿影"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊起却回头",
+                  "缥缈孤鸿影",
+                  "谁见幽人独往来",
+                  "有恨无人省"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞沙洲冷",
+                  "有恨无人省",
+                  "惊起却回头",
+                  "拣尽寒枝不肯栖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞沙洲冷",
+                  "谁见幽人独往来",
+                  "缺月挂疏桐",
+                  "拣尽寒枝不肯栖",
+                  "漏断人初静",
+                  "缥缈孤鸿影",
+                  "惊起却回头",
+                  "有恨无人省"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quē"
+              },
+              "otherInfo": {
+                "content": "__月挂疏桐",
+                "answer": "缺"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "漏断人初__",
+                "answer": "静"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yōu"
+              },
+              "otherInfo": {
+                "content": "谁见__人独往来",
+                "answer": "幽"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "piāo"
+              },
+              "otherInfo": {
+                "content": "__缈孤鸿影",
+                "answer": "缥"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng"
+              },
+              "otherInfo": {
+                "content": "__起却回头",
+                "answer": "惊"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xǐng"
+              },
+              "otherInfo": {
+                "content": "有恨无人__",
+                "answer": "省"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "__尽寒枝不肯栖",
+                "answer": "拣"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "寂__沙洲冷",
+                "answer": "寞"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī"
+              },
+              "otherInfo": {
+                "content": "拣尽寒枝不肯__",
+                "answer": "栖"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lěng"
+              },
+              "otherInfo": {
+                "content": "寂寞沙洲__",
+                "answer": "冷"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "缺月挂疏桐，______",
+                "answer": "漏断人初静"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，漏断人初静",
+                "answer": "缺月挂疏桐"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谁见幽人独往来，______",
+                "answer": "缥缈孤鸿影"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，缥缈孤鸿影",
+                "answer": "谁见幽人独往来"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惊起却回头，______",
+                "answer": "有恨无人省"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，有恨无人省",
+                "answer": "惊起却回头"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "拣尽寒枝不肯栖，______",
+                "answer": "寂寞沙洲冷"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寂寞沙洲冷",
+                "answer": "拣尽寒枝不肯栖"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "缺月挂疏桐，漏断人初静。______，______",
+                "answer": "谁见幽人独往来，缥缈孤鸿影"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谁见幽人独往来，缥缈孤鸿影。______，______",
+                "answer": "惊起却回头，有恨无人省"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惊起却回头，有恨无人省。______，______",
+                "answer": "拣尽寒枝不肯栖，寂寞沙洲冷"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惊起却回头，有恨无人省。______，______",
+                "answer": "拣尽寒枝不肯栖，寂寞沙洲冷"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞沙洲冷",
+                  "谁见幽人独往来",
+                  "惊起却回头",
+                  "缺月挂疏桐",
+                  "拣尽寒枝不肯栖",
+                  "漏断人初静",
+                  "有恨无人省",
+                  "缥缈孤鸿影"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有恨无人省",
+                  "缺月挂疏桐",
+                  "寂寞沙洲冷",
+                  "缥缈孤鸿影",
+                  "惊起却回头",
+                  "拣尽寒枝不肯栖",
+                  "漏断人初静",
+                  "谁见幽人独往来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "缥缈孤鸿影",
+                  "惊起却回头",
+                  "漏断人初静",
+                  "寂寞沙洲冷",
+                  "谁见幽人独往来",
+                  "缺月挂疏桐",
+                  "拣尽寒枝不肯栖",
+                  "有恨无人省"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拣尽寒枝不肯栖",
+                  "有恨无人省",
+                  "缺月挂疏桐",
+                  "谁见幽人独往来",
+                  "寂寞沙洲冷",
+                  "惊起却回头",
+                  "缥缈孤鸿影",
+                  "漏断人初静"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊起却回头",
+                  "寂寞沙洲冷",
+                  "谁见幽人独往来",
+                  "漏断人初静",
+                  "有恨无人省",
+                  "缺月挂疏桐",
+                  "缥缈孤鸿影",
+                  "拣尽寒枝不肯栖"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2287 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ lù cǎo mù zhī huā"
+              },
+              "otherInfo": {
+                "line": "水陆草木之花"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě ài zhě shèn fán"
+              },
+              "otherInfo": {
+                "line": "可爱者甚蕃"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn táo yuān míng dú ài jú"
+              },
+              "otherInfo": {
+                "line": "晋陶渊明独爱菊"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì lǐ táng lái shì rén shèn ài mǔ dān"
+              },
+              "otherInfo": {
+                "line": "自李唐来世人甚爱牡丹"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ dú ài lián zhī chū yū ní ér bù rǎn"
+              },
+              "otherInfo": {
+                "line": "予独爱莲之出淤泥而不染"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó qīng lián ér bù yāo"
+              },
+              "otherInfo": {
+                "line": "濯清涟而不妖"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng tōng wài zhí bù màn bù zhī"
+              },
+              "otherInfo": {
+                "line": "中通外直不蔓不枝"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāng yuǎn yì qīng tíng tíng jìng zhí"
+              },
+              "otherInfo": {
+                "line": "香远益清亭亭净植"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě yuǎn guān ér bù kě xiè wán yān"
+              },
+              "otherInfo": {
+                "line": "可远观而不可亵玩焉"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ wèi jú huā zhī yǐn yì zhě yě"
+              },
+              "otherInfo": {
+                "line": "予谓菊花之隐逸者也"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǔ dān huā zhī fù guì zhě yě"
+              },
+              "otherInfo": {
+                "line": "牡丹花之富贵者也"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián huā zhī jūn zǐ zhě yě"
+              },
+              "otherInfo": {
+                "line": "莲花之君子者也"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī jú zhī ài táo hòu xiǎn yǒu wén"
+              },
+              "otherInfo": {
+                "line": "噫菊之爱陶后鲜有闻"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián zhī ài tóng yǔ zhě hé rén"
+              },
+              "otherInfo": {
+                "line": "莲之爱同予者何人"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǔ dān zhī ài yí hū zhòng yǐ"
+              },
+              "otherInfo": {
+                "line": "牡丹之爱宜乎众矣"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可爱者甚蕃”中“蕃”的意思是？",
+                "options": [
+                  "茂盛",
+                  "繁多",
+                  "繁衍",
+                  "茂密"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“予独爱莲之出淤泥而不染”中“独”的意思是？",
+                "options": [
+                  "唯独",
+                  "孤独",
+                  "独自",
+                  "单独"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“濯清涟而不妖”中“濯”的意思是？",
+                "options": [
+                  "洗涤",
+                  "浸泡",
+                  "浇灌",
+                  "冲刷"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“中通外直”中“通”的意思是？",
+                "options": [
+                  "通达",
+                  "贯通",
+                  "畅通",
+                  "连通"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“香远益清”中“益”的意思是？",
+                "options": [
+                  "增加",
+                  "更加",
+                  "利益",
+                  "益处"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“亭亭净植”中“植”的意思是？",
+                "options": [
+                  "种植",
+                  "栽种",
+                  "竖立",
+                  "生长"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可远观而不可亵玩焉”中“亵”的意思是？",
+                "options": [
+                  "亲近",
+                  "轻慢",
+                  "亵渎",
+                  "玩弄"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“陶后鲜有闻”中“鲜”的意思是？",
+                "options": [
+                  "新鲜",
+                  "鲜艳",
+                  "少",
+                  "鲜美"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“宜乎众矣”中“宜”的意思是？",
+                "options": [
+                  "适宜",
+                  "应该",
+                  "当然",
+                  "合适"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“花之隐逸者也”中“隐逸”的意思是？",
+                "options": [
+                  "隐居避世",
+                  "隐藏逃逸",
+                  "闲适安逸",
+                  "隐没飘逸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "水上、陆地上各种草木的花，值得喜爱的很多。",
+                "options": [
+                  "水陆草木之花，可爱者甚蕃",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水陆草木之花，可爱者甚蕃”的意思是？",
+                "options": [
+                  "水上陆地的花草树木，可爱的很多",
+                  "水上陆地的花草树木，值得喜爱的很多",
+                  "水上陆地的花草树木，可以喜爱的很繁茂",
+                  "水上陆地的花草树木，值得怜爱的很繁多"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "晋代的陶渊明只喜爱菊花。",
+                "options": [
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染",
+                  "予谓菊，花之隐逸者也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“晋陶渊明独爱菊”的意思是？",
+                "options": [
+                  "晋代的陶渊明唯独喜爱菊花",
+                  "晋代的陶渊明独自喜爱菊花",
+                  "晋代的陶渊明孤独地喜爱菊花",
+                  "晋代的陶渊明特别喜爱菊花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从唐朝以来，世上的人很喜爱牡丹。",
+                "options": [
+                  "自李唐来，世人甚爱牡丹",
+                  "晋陶渊明独爱菊",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹，花之富贵者也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自李唐来，世人甚爱牡丹”的意思是？",
+                "options": [
+                  "从唐朝以来，世上的人很喜爱牡丹",
+                  "从李唐以来，世上的人甚至喜爱牡丹",
+                  "自从唐朝以来，世人非常喜爱牡丹",
+                  "从唐朝以来，世上的人很爱种牡丹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我唯独喜爱莲花从淤泥里生长出来却不沾染污秽。",
+                "options": [
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“予独爱莲之出淤泥而不染”的意思是？",
+                "options": [
+                  "我唯独喜爱莲花从淤泥里长出来却不沾染",
+                  "我独自喜爱莲花从淤泥里长出来却不染色",
+                  "我唯独喜爱莲花在淤泥里生长却不污染",
+                  "我特别喜爱莲花从淤泥里长出却不沾污"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "经过清水洗涤但不显得妖艳。",
+                "options": [
+                  "濯清涟而不妖",
+                  "出淤泥而不染",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“濯清涟而不妖”的意思是？",
+                "options": [
+                  "经过清水洗涤但不显得妖艳",
+                  "在清水中洗涤却不妖媚",
+                  "被清波冲洗却不妖冶",
+                  "用清水洗过却不妖怪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它的茎内空外直，不横生藤蔓，不旁生枝茎。",
+                "options": [
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉",
+                  "濯清涟而不妖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“中通外直，不蔓不枝”的意思是？",
+                "options": [
+                  "茎内空外直，不横生藤蔓，不旁生枝茎",
+                  "中间通达外面笔直，不蔓延不枝条",
+                  "里面贯通外面挺直，不蔓生不枝节",
+                  "中间空通外面直挺，不爬蔓不长枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "香气远播更加清芬，洁净地挺立在那里。",
+                "options": [
+                  "香远益清，亭亭净植",
+                  "中通外直，不蔓不枝",
+                  "可远观而不可亵玩焉",
+                  "濯清涟而不妖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“香远益清，亭亭净植”的意思是？",
+                "options": [
+                  "香气远播更加清芬，洁净地挺立在那里",
+                  "香气飘远越发清淡，高高地干净种植",
+                  "香味远传更加清幽，亭亭玉立洁净栽种",
+                  "香气远扬越发清雅，笔直洁净地竖立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "可以远远地观赏却不可以靠近轻慢地玩弄。",
+                "options": [
+                  "可远观而不可亵玩焉",
+                  "香远益清，亭亭净植",
+                  "中通外直，不蔓不枝",
+                  "濯清涟而不妖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可远观而不可亵玩焉”的意思是？",
+                "options": [
+                  "可以远远地观赏却不可以靠近轻慢地玩弄",
+                  "可以远处观看却不可以亲近地赏玩",
+                  "能够远看却不能轻慢地戏弄",
+                  "可以远望却不可亵渎地玩赏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我认为菊花是花中的隐士。",
+                "options": [
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“予谓菊，花之隐逸者也”的意思是？",
+                "options": [
+                  "我认为菊花是花中的隐士",
+                  "我说菊花是花里隐居的人",
+                  "我以为菊花是花中逃避的人",
+                  "我称菊花是花里闲逸的隐者"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "牡丹是花中的富贵者。",
+                "options": [
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹之爱，宜乎众矣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“牡丹，花之富贵者也”的意思是？",
+                "options": [
+                  "牡丹是花中的富贵者",
+                  "牡丹是花里有钱的花",
+                  "牡丹是花中富贵的象征",
+                  "牡丹是花里富丽的花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "莲花是花中的君子。",
+                "options": [
+                  "莲，花之君子者也",
+                  "牡丹，花之富贵者也",
+                  "予谓菊，花之隐逸者也",
+                  "莲之爱，同予者何人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“莲，花之君子者也”的意思是？",
+                "options": [
+                  "莲花是花中的君子",
+                  "莲花是花里品德高尚的人",
+                  "莲是花中君子一样的花",
+                  "莲花是花中君子的代表"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "唉！对于菊花的喜爱，陶渊明以后很少听到了。",
+                "options": [
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "予谓菊，花之隐逸者也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“噫！菊之爱，陶后鲜有闻”的意思是？",
+                "options": [
+                  "唉！对于菊花的喜爱，陶渊明以后很少听到了",
+                  "唉！喜爱菊花的人，陶渊明之后新鲜听闻",
+                  "啊！菊花的爱，陶渊明以后少有新闻",
+                  "唉！爱菊花的人，陶渊明以后很少听说了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q25",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "对于莲花的喜爱，像我一样的还有什么人呢？",
+                "options": [
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "予独爱莲之出淤泥而不染"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q26",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“莲之爱，同予者何人”的意思是？",
+                "options": [
+                  "对于莲花的喜爱，像我一样的还有什么人呢",
+                  "喜爱莲花的人，和我相同的还有谁",
+                  "莲花的爱，同我一样的是什么人",
+                  "爱莲的人，赞同我的还有谁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q27",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "对于牡丹的喜爱，当然人很多了。",
+                "options": [
+                  "牡丹之爱，宜乎众矣",
+                  "莲之爱，同予者何人",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "自李唐来，世人甚爱牡丹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q28",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“牡丹之爱，宜乎众矣”的意思是？",
+                "options": [
+                  "对于牡丹的喜爱，当然人很多了",
+                  "喜爱牡丹的人，适宜于众人了",
+                  "牡丹的爱，应该很多人了",
+                  "爱牡丹的人，当然众多啦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q29",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我唯独喜爱莲花从淤泥里长出来却不沾染。",
+                "options": [
+                  "予独爱莲之出淤泥而不染",
+                  "水陆草木之花，可爱者甚蕃",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q30",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“予独爱莲之出淤泥而不染”的意思是？",
+                "options": [
+                  "我唯独喜爱莲花从淤泥里长出来却不沾染",
+                  "我独自喜爱莲花在淤泥中生长却不染色",
+                  "我特别喜爱莲花出淤泥而不受污染",
+                  "我唯独爱莲从泥里长出却不沾污"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱者甚蕃",
+                  "水陆草木之花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牡丹之爱，宜乎众矣",
+                  "水陆草木之花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱者甚蕃",
+                  "晋陶渊明独爱菊"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "濯清涟而不妖",
+                  "中通外直，不蔓不枝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水陆草木之花",
+                  "可爱者甚蕃",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fán"
+              },
+              "otherInfo": {
+                "content": "水陆草木之花，可爱者甚__",
+                "answer": "蕃"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn"
+              },
+              "otherInfo": {
+                "content": "__陶渊明独爱菊",
+                "answer": "晋"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yū"
+              },
+              "otherInfo": {
+                "content": "予独爱莲之出__泥而不染",
+                "answer": "淤"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó"
+              },
+              "otherInfo": {
+                "content": "__清涟而不妖",
+                "answer": "濯"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "màn"
+              },
+              "otherInfo": {
+                "content": "中通外直，不__不枝",
+                "answer": "蔓"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "香远益清，__亭净植",
+                "answer": "亭"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiè"
+              },
+              "otherInfo": {
+                "content": "可远观而不可__玩焉",
+                "answer": "亵"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "予谓菊，花之隐__者也",
+                "answer": "逸"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎn"
+              },
+              "otherInfo": {
+                "content": "噫！菊之爱，陶后__有闻",
+                "answer": "鲜"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "牡丹之爱，__乎众矣",
+                "answer": "宜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水陆草木之花，______",
+                "answer": "可爱者甚蕃"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，可爱者甚蕃",
+                "answer": "水陆草木之花"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晋陶渊明独爱菊，______",
+                "answer": "自李唐来，世人甚爱牡丹"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，自李唐来，世人甚爱牡丹",
+                "answer": "晋陶渊明独爱菊"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "予独爱莲之出淤泥而不染，______",
+                "answer": "濯清涟而不妖"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，濯清涟而不妖",
+                "answer": "予独爱莲之出淤泥而不染"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "中通外直，不蔓不枝，______",
+                "answer": "香远益清，亭亭净植"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，香远益清，亭亭净植",
+                "answer": "中通外直，不蔓不枝"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可远观而不可亵玩焉，______",
+                "answer": "予谓菊，花之隐逸者也"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，予谓菊，花之隐逸者也",
+                "answer": "可远观而不可亵玩焉"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牡丹，花之富贵者也，______",
+                "answer": "莲，花之君子者也"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，莲，花之君子者也",
+                "answer": "牡丹，花之富贵者也"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "噫！菊之爱，陶后鲜有闻，______",
+                "answer": "莲之爱，同予者何人"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，莲之爱，同予者何人",
+                "answer": "噫！菊之爱，陶后鲜有闻"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牡丹之爱，______",
+                "answer": "宜乎众矣"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，宜乎众矣",
+                "answer": "牡丹之爱"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水陆草木之花，可爱者甚蕃。______，______",
+                "answer": "晋陶渊明独爱菊，自李唐来，世人甚爱牡丹"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晋陶渊明独爱菊，自李唐来，世人甚爱牡丹。______，______",
+                "answer": "予独爱莲之出淤泥而不染，濯清涟而不妖"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "予独爱莲之出淤泥而不染，濯清涟而不妖。______，______",
+                "answer": "中通外直，不蔓不枝，香远益清，亭亭净植"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "中通外直，不蔓不枝，香远益清，亭亭净植。______，______",
+                "answer": "可远观而不可亵玩焉，予谓菊，花之隐逸者也"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可远观而不可亵玩焉，予谓菊，花之隐逸者也。______，______",
+                "answer": "牡丹，花之富贵者也，莲，花之君子者也"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牡丹，花之富贵者也，莲，花之君子者也。______，______",
+                "answer": "噫！菊之爱，陶后鲜有闻，莲之爱，同予者何人"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "噫！菊之爱，陶后鲜有闻，莲之爱，同予者何人。______，______",
+                "answer": "牡丹之爱，宜乎众矣"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱者甚蕃",
+                  "水陆草木之花",
+                  "自李唐来，世人甚爱牡丹",
+                  "晋陶渊明独爱菊",
+                  "濯清涟而不妖",
+                  "予独爱莲之出淤泥而不染",
+                  "香远益清，亭亭净植",
+                  "中通外直，不蔓不枝",
+                  "予谓菊，花之隐逸者也",
+                  "可远观而不可亵玩焉",
+                  "莲，花之君子者也",
+                  "牡丹，花之富贵者也",
+                  "莲之爱，同予者何人",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水陆草木之花",
+                  "可爱者甚蕃",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱者甚蕃",
+                  "水陆草木之花",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "濯清涟而不妖",
+                  "予独爱莲之出淤泥而不染",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水陆草木之花",
+                  "可爱者甚蕃",
+                  "自李唐来，世人甚爱牡丹",
+                  "晋陶渊明独爱菊",
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖",
+                  "香远益清，亭亭净植",
+                  "中通外直，不蔓不枝",
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱者甚蕃",
+                  "水陆草木之花",
+                  "晋陶渊明独爱菊",
+                  "自李唐来，世人甚爱牡丹",
+                  "予独爱莲之出淤泥而不染",
+                  "濯清涟而不妖",
+                  "中通外直，不蔓不枝",
+                  "香远益清，亭亭净植",
+                  "可远观而不可亵玩焉",
+                  "予谓菊，花之隐逸者也",
+                  "牡丹，花之富贵者也",
+                  "莲，花之君子者也",
+                  "噫！菊之爱，陶后鲜有闻",
+                  "莲之爱，同予者何人",
+                  "牡丹之爱，宜乎众矣",
+                  "牡丹之爱，宜乎众矣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

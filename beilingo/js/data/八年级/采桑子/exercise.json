@@ -1,0 +1,1323 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng zhōu duǎn zhào xī hú hǎo"
+              },
+              "otherInfo": {
+                "line": "轻舟短棹西湖好"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ shuǐ wēi yí fāng cǎo cháng dī"
+              },
+              "otherInfo": {
+                "line": "绿水逶迤芳草长堤"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēng gē chù chù suí"
+              },
+              "otherInfo": {
+                "line": "笙歌处处随"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú fēng shuǐ miàn liú lí huá"
+              },
+              "otherInfo": {
+                "line": "无风水面琉璃滑"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù jué chuán yí dòng"
+              },
+              "otherInfo": {
+                "line": "不觉船移动"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēi dòng lián yī jīng qǐ shā qín"
+              },
+              "otherInfo": {
+                "line": "微动涟漪惊起沙禽"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lüè àn fēi qù"
+              },
+              "otherInfo": {
+                "line": "掠岸飞去"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng zhōu duǎn zhào xī hú hǎo"
+              },
+              "otherInfo": {
+                "line": "轻舟短棹西湖好"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻舟短棹西湖好”中“短棹”的意思是？",
+                "options": [
+                  "短小的船桨",
+                  "短暂的停留",
+                  "轻快的歌声",
+                  "稀疏的水草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绿水逶迤芳草长堤”中“逶迤”的意思是？",
+                "options": [
+                  "曲折绵延",
+                  "水势浩大",
+                  "迅速流淌",
+                  "清澈见底"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“笙歌处处随”中“笙歌”的意思是？",
+                "options": [
+                  "奏乐唱歌",
+                  "风吹芦苇",
+                  "船桨划水",
+                  "鸟鸣声声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无风水面琉璃滑”中“琉璃”在句中形容？",
+                "options": [
+                  "水面光滑清澈",
+                  "房屋华美精致",
+                  "天空明净如洗",
+                  "器物晶莹剔透"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不觉船移动”中“觉”的意思是？",
+                "options": [
+                  "感觉到",
+                  "睡醒",
+                  "发觉真相",
+                  "明白道理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“微动涟漪惊起沙禽”中“涟漪”的意思是？",
+                "options": [
+                  "细小的波纹",
+                  "翻涌的浪花",
+                  "飘落的花瓣",
+                  "摇曳的水草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“掠岸飞去”中“掠”的意思是？",
+                "options": [
+                  "轻轻擦过",
+                  "用力拍打",
+                  "迅速躲开",
+                  "高高飞越"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“芳草长堤”中“芳草”的意思是？",
+                "options": [
+                  "香草，泛指花草",
+                  "芬芳的花朵",
+                  "茂密的树林",
+                  "肥沃的田地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“笙歌处处随”中“随”的意思是？",
+                "options": [
+                  "跟随",
+                  "随意",
+                  "随即",
+                  "随从"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“微动涟漪”中“微”的意思是？",
+                "options": [
+                  "轻微地",
+                  "微妙地",
+                  "隐约地",
+                  "渐渐地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "轻快的小船划着短桨，西湖风光多么美好。",
+                "options": [
+                  "轻舟短棹西湖好",
+                  "绿水逶迤芳草长堤",
+                  "无风水面琉璃滑",
+                  "微动涟漪惊起沙禽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“绿水逶迤芳草长堤”的意思是？",
+                "options": [
+                  "碧绿的湖水曲折绵延，长堤上长满芳草",
+                  "碧绿的湖水缓缓流淌，长堤上开满鲜花",
+                  "清澈的湖水一望无际，长堤上绿树成荫",
+                  "碧绿的湖水泛起波纹，长堤上芳草萋萋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "笙歌奏乐的声音处处跟随。",
+                "options": [
+                  "笙歌处处随",
+                  "不觉船移动",
+                  "掠岸飞去",
+                  "轻舟短棹西湖好"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无风水面琉璃滑”的意思是？",
+                "options": [
+                  "没有风，水面像琉璃一样光滑",
+                  "没有风，水面像琉璃一样冰冷",
+                  "风平浪静，水面像琉璃一样明亮",
+                  "没有风，水面像琉璃一样坚硬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不知不觉间船儿已经移动。",
+                "options": [
+                  "不觉船移动",
+                  "微动涟漪惊起沙禽",
+                  "绿水逶迤芳草长堤",
+                  "笙歌处处随"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“微动涟漪惊起沙禽”的意思是？",
+                "options": [
+                  "水面微微泛起波纹，惊起了沙洲上的水鸟",
+                  "水面轻轻荡起涟漪，惊动了岸边的行人",
+                  "水面微微泛起波纹，惊飞了天上的大雁",
+                  "水面轻轻荡起涟漪，惊醒了沉睡的鱼虾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "水鸟掠过岸边飞走了。",
+                "options": [
+                  "掠岸飞去",
+                  "不觉船移动",
+                  "笙歌处处随",
+                  "无风水面琉璃滑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“轻舟短棹西湖好”的意思是？",
+                "options": [
+                  "轻快的小船划着短桨，西湖风光多么美好",
+                  "轻快的小船划着短桨，西湖的水多么清澈",
+                  "轻快的小船划着短桨，西湖的歌声多么动听",
+                  "轻快的小船划着短桨，西湖的堤岸多么漫长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草长堤",
+                  "轻舟短棹西湖好",
+                  "绿水逶迤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "笙歌处处随",
+                  "绿水逶迤芳草长堤",
+                  "轻舟短棹西湖好"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无风水面琉璃滑",
+                  "笙歌处处随",
+                  "绿水逶迤芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不觉船移动",
+                  "无风水面琉璃滑",
+                  "笙歌处处随"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "微动涟漪惊起沙禽",
+                  "不觉船移动",
+                  "无风水面琉璃滑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "掠岸飞去",
+                  "微动涟漪惊起沙禽",
+                  "不觉船移动"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "笙歌处处随",
+                  "轻舟短棹西湖好",
+                  "绿水逶迤芳草长堤",
+                  "芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不觉船移动",
+                  "无风水面琉璃滑",
+                  "笙歌处处随",
+                  "绿水逶迤芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "掠岸飞去",
+                  "微动涟漪惊起沙禽",
+                  "不觉船移动",
+                  "无风水面琉璃滑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "掠岸飞去",
+                  "笙歌处处随",
+                  "不觉船移动",
+                  "轻舟短棹西湖好",
+                  "微动涟漪惊起沙禽",
+                  "无风水面琉璃滑",
+                  "绿水逶迤芳草长堤",
+                  "芳草长堤"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhào"
+              },
+              "otherInfo": {
+                "content": "轻舟短__西湖好",
+                "answer": "棹"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "绿水逶__芳草长堤",
+                "answer": "迤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēng"
+              },
+              "otherInfo": {
+                "content": "__歌处处随",
+                "answer": "笙"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí"
+              },
+              "otherInfo": {
+                "content": "无风水面琉__滑",
+                "answer": "璃"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "不__船移动",
+                "answer": "觉"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "微动__漪惊起沙禽",
+                "answer": "涟"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qín"
+              },
+              "otherInfo": {
+                "content": "微动涟漪惊起沙__",
+                "answer": "禽"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lüè"
+              },
+              "otherInfo": {
+                "content": "__岸飞去",
+                "answer": "掠"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dī"
+              },
+              "otherInfo": {
+                "content": "绿水逶迤芳草长__",
+                "answer": "堤"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suí"
+              },
+              "otherInfo": {
+                "content": "笙歌处处__",
+                "answer": "随"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "轻舟短棹西湖好，______",
+                "answer": "绿水逶迤芳草长堤"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，绿水逶迤芳草长堤",
+                "answer": "轻舟短棹西湖好"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "笙歌处处随，______",
+                "answer": "无风水面琉璃滑"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无风水面琉璃滑",
+                "answer": "笙歌处处随"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不觉船移动，______",
+                "answer": "微动涟漪惊起沙禽"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，微动涟漪惊起沙禽",
+                "answer": "不觉船移动"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "掠岸飞去，______",
+                "answer": "微动涟漪惊起沙禽"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，掠岸飞去",
+                "answer": "微动涟漪惊起沙禽"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "轻舟短棹西湖好，绿水逶迤芳草长堤。______，______",
+                "answer": "笙歌处处随，无风水面琉璃滑"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "笙歌处处随，无风水面琉璃滑。______，______",
+                "answer": "不觉船移动，微动涟漪惊起沙禽"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不觉船移动，微动涟漪惊起沙禽。______，______",
+                "answer": "掠岸飞去，微动涟漪惊起沙禽"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不觉船移动，微动涟漪惊起沙禽。______，______",
+                "answer": "掠岸飞去，微动涟漪惊起沙禽"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "笙歌处处随",
+                  "微动涟漪惊起沙禽",
+                  "轻舟短棹西湖好",
+                  "掠岸飞去",
+                  "无风水面琉璃滑",
+                  "绿水逶迤芳草长堤",
+                  "不觉船移动",
+                  "芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不觉船移动",
+                  "轻舟短棹西湖好",
+                  "掠岸飞去",
+                  "笙歌处处随",
+                  "绿水逶迤芳草长堤",
+                  "微动涟漪惊起沙禽",
+                  "无风水面琉璃滑",
+                  "芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无风水面琉璃滑",
+                  "掠岸飞去",
+                  "轻舟短棹西湖好",
+                  "不觉船移动",
+                  "笙歌处处随",
+                  "绿水逶迤芳草长堤",
+                  "微动涟漪惊起沙禽",
+                  "芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "微动涟漪惊起沙禽",
+                  "笙歌处处随",
+                  "掠岸飞去",
+                  "轻舟短棹西湖好",
+                  "无风水面琉璃滑",
+                  "不觉船移动",
+                  "绿水逶迤芳草长堤",
+                  "芳草长堤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绿水逶迤芳草长堤",
+                  "无风水面琉璃滑",
+                  "微动涟漪惊起沙禽",
+                  "笙歌处处随",
+                  "轻舟短棹西湖好",
+                  "掠岸飞去",
+                  "不觉船移动",
+                  "芳草长堤"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

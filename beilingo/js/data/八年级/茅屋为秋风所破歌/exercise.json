@@ -1,0 +1,2767 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bā yuè qiū gāo fēng nù háo"
+              },
+              "otherInfo": {
+                "line": "八月秋高风怒号"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn wǒ wū shàng sān chóng máo"
+              },
+              "otherInfo": {
+                "line": "卷我屋上三重茅"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "máo fēi dù jiāng sǎ jiāng jiāo"
+              },
+              "otherInfo": {
+                "line": "茅飞渡江洒江郊"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo zhě guà juàn cháng lín shāo"
+              },
+              "otherInfo": {
+                "line": "高者挂罥长林梢"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xià zhě piāo zhuǎn chén táng ào"
+              },
+              "otherInfo": {
+                "line": "下者飘转沉塘坳"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán cūn qún tóng qī wǒ lǎo wú lì"
+              },
+              "otherInfo": {
+                "line": "南村群童欺我老无力"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rěn néng duì miàn wéi dào zéi"
+              },
+              "otherInfo": {
+                "line": "忍能对面为盗贼"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōng rán bào máo rù zhú qù"
+              },
+              "otherInfo": {
+                "line": "公然抱茅入竹去"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chún jiāo kǒu zào hū bù dé"
+              },
+              "otherInfo": {
+                "line": "唇焦口燥呼不得"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guī lái yǐ zhàng zì tàn xī"
+              },
+              "otherInfo": {
+                "line": "归来倚杖自叹息"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "é qǐng fēng dìng yún mò sè"
+              },
+              "otherInfo": {
+                "line": "俄顷风定云墨色"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū tiān mò mò xiàng hūn hēi"
+              },
+              "otherInfo": {
+                "line": "秋天漠漠向昏黑"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù qīn duō nián lěng sì tiě"
+              },
+              "otherInfo": {
+                "line": "布衾多年冷似铁"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāo ér è wò tà lǐ liè"
+              },
+              "otherInfo": {
+                "line": "娇儿恶卧踏里裂"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuáng tóu wū lòu wú gān chù"
+              },
+              "otherInfo": {
+                "line": "床头屋漏无干处"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ jiǎo rú má wèi duàn jué"
+              },
+              "otherInfo": {
+                "line": "雨脚如麻未断绝"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì jīng sāng luàn shǎo shuì mián"
+              },
+              "otherInfo": {
+                "line": "自经丧乱少睡眠"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng yè zhān shī hé yóu chè"
+              },
+              "otherInfo": {
+                "line": "长夜沾湿何由彻"
+              }
+            },
+            {
+              "id": "s1l1q19",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ān dé guǎng shà qiān wàn jiān"
+              },
+              "otherInfo": {
+                "line": "安得广厦千万间"
+              }
+            },
+            {
+              "id": "s1l1q20",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dà bì tiān xià hán shì jù huān yán"
+              },
+              "otherInfo": {
+                "line": "大庇天下寒士俱欢颜"
+              }
+            },
+            {
+              "id": "s1l1q21",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng yǔ bù dòng ān rú shān"
+              },
+              "otherInfo": {
+                "line": "风雨不动安如山"
+              }
+            },
+            {
+              "id": "s1l1q22",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wū hū hé shí yǎn qián tū wù jiàn cǐ wū"
+              },
+              "otherInfo": {
+                "line": "呜呼何时眼前突兀见此屋"
+              }
+            },
+            {
+              "id": "s1l1q23",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú lú dú pò shòu dòng sǐ yì zú"
+              },
+              "otherInfo": {
+                "line": "吾庐独破受冻死亦足"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“八月秋高风怒号”中“号”的意思是？",
+                "options": [
+                  "大声哭叫",
+                  "大声呼啸",
+                  "号令",
+                  "号角"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高者挂罥长林梢”中“罥”的意思是？",
+                "options": [
+                  "缠绕",
+                  "悬挂",
+                  "网住",
+                  "牵挂"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“下者飘转沉塘坳”中“坳”的意思是？",
+                "options": [
+                  "山间平地",
+                  "水边高地",
+                  "低洼积水处",
+                  "池塘堤岸"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忍能对面为盗贼”中“忍”的意思是？",
+                "options": [
+                  "忍耐",
+                  "忍心",
+                  "忍受",
+                  "残忍"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“俄顷风定云墨色”中“俄顷”的意思是？",
+                "options": [
+                  "片刻",
+                  "忽然",
+                  "傍晚",
+                  "不久以前"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋天漠漠向昏黑”中“向”的意思是？",
+                "options": [
+                  "朝向",
+                  "接近",
+                  "过去",
+                  "趋向"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“布衾多年冷似铁”中“衾”的意思是？",
+                "options": [
+                  "被子",
+                  "衣服",
+                  "床褥",
+                  "帐子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自经丧乱少睡眠”中“丧乱”的意思是？",
+                "options": [
+                  "丧事混乱",
+                  "战乱",
+                  "死亡祸乱",
+                  "忧伤烦乱"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“长夜沾湿何由彻”中“彻”的意思是？",
+                "options": [
+                  "彻底",
+                  "通透",
+                  "到头",
+                  "清澈"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“大庇天下寒士俱欢颜”中“庇”的意思是？",
+                "options": [
+                  "遮蔽",
+                  "庇护",
+                  "保护",
+                  "覆盖"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "八月秋深，狂风大声呼啸。",
+                "options": [
+                  "八月秋高风怒号",
+                  "俄顷风定云墨色",
+                  "风雨不动安如山",
+                  "秋天漠漠向昏黑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“卷我屋上三重茅”的意思是？",
+                "options": [
+                  "把我屋顶上好几层茅草卷走了",
+                  "把我屋上三层茅草卷起来收藏",
+                  "卷起我屋上茅草扔了三重",
+                  "我屋上三重茅草被风卷得竖起来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "茅草飞过江去，散落在江边。",
+                "options": [
+                  "茅飞渡江洒江郊",
+                  "下者飘转沉塘坳",
+                  "高者挂罥长林梢",
+                  "公然抱茅入竹去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“高者挂罥长林梢”的意思是？",
+                "options": [
+                  "飞得高的茅草缠绕在高高的树梢上",
+                  "高的茅草挂满了长长的树林",
+                  "高处的茅草被长林梢挂住又落下",
+                  "高的茅草像网一样罩住树林梢头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "飞得低的茅草飘转着沉入池塘水洼。",
+                "options": [
+                  "下者飘转沉塘坳",
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "秋天漠漠向昏黑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“南村群童欺我老无力”的意思是？",
+                "options": [
+                  "南村的一群儿童欺负我年老体弱",
+                  "南村群童欺负我老来没有力气干活",
+                  "南村群童欺侮我老而无用",
+                  "南村群童趁我年老无力来欺负"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "竟然忍心当面做盗贼。",
+                "options": [
+                  "忍能对面为盗贼",
+                  "唇焦口燥呼不得",
+                  "公然抱茅入竹去",
+                  "归来倚杖自叹息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“公然抱茅入竹去”的意思是？",
+                "options": [
+                  "明目张胆地抱着茅草跑进竹林里去",
+                  "公开抱着茅草进入竹林又出来",
+                  "公然把茅草抱进竹丛中藏起来",
+                  "毫无顾忌地抱走茅草钻进竹林中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "嘴唇焦干，喉咙干燥，呼喊也没有用。",
+                "options": [
+                  "唇焦口燥呼不得",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "归来倚杖自叹息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“归来倚杖自叹息”的意思是？",
+                "options": [
+                  "回到家拄着拐杖独自叹息",
+                  "回来靠在手杖上自己叹气",
+                  "归来后倚着门杖独自叹息",
+                  "回到家中倚杖为别人叹息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一会儿风停了，云色像墨一样黑。",
+                "options": [
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“秋天漠漠向昏黑”的意思是？",
+                "options": [
+                  "秋日的天空阴沉迷蒙，渐渐黑下来",
+                  "秋天的沙漠一片昏暗",
+                  "秋天的天色漠然转向黑夜",
+                  "秋空广阔无边，忽然昏黑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "布被子用了多年，冷得像铁一样。",
+                "options": [
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“娇儿恶卧踏里裂”的意思是？",
+                "options": [
+                  "孩子睡相不好，把被里蹬破了",
+                  "娇儿讨厌睡觉，把被子撕裂了",
+                  "娇儿睡在恶卧中，踏裂了里屋",
+                  "爱子不愿躺下，踩裂了被里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "床头屋漏，没有一处干燥的地方。",
+                "options": [
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "长夜沾湿何由彻",
+                  "自经丧乱少睡眠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“雨脚如麻未断绝”的意思是？",
+                "options": [
+                  "雨点像麻线一样密集，下个不停",
+                  "雨脚像乱麻一样，没有断绝来源",
+                  "雨丝像麻一样，未曾断过又接上",
+                  "雨下得像麻绳，始终没有停歇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自从经历战乱以来，睡眠很少。",
+                "options": [
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "归来倚杖自叹息",
+                  "唇焦口燥呼不得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“长夜沾湿何由彻”的意思是？",
+                "options": [
+                  "长夜沾湿，怎么才能熬到天亮",
+                  "长夜沾湿，用什么办法彻底解决",
+                  "长夜漫漫，沾湿了如何彻夜",
+                  "长夜沾湿，何时才能彻底干"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "怎么才能得到千万间宽敞的大屋。",
+                "options": [
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“大庇天下寒士俱欢颜”的意思是？",
+                "options": [
+                  "广泛地庇护天下贫寒的读书人，让他们都喜笑颜开",
+                  "大大地庇护天下受寒的人，使他们一同欢笑",
+                  "大规模地保护天下寒士，让他们都露出欢颜",
+                  "大大庇护天下寒士，使他们全都欢聚一堂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "风雨中不动摇，安稳得像山一样。",
+                "options": [
+                  "风雨不动安如山",
+                  "大庇天下寒士俱欢颜",
+                  "安得广厦千万间",
+                  "吾庐独破受冻死亦足"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“呜呼何时眼前突兀见此屋”的意思是？",
+                "options": [
+                  "唉，什么时候眼前突然出现这样的大屋",
+                  "唉，何时眼前高耸地出现这间屋",
+                  "呜呼，什么时候眼前突兀地看见这房屋",
+                  "唉，何时眼前忽然高耸地建起此屋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使我的茅屋独自破败，我受冻而死也心甘情愿。",
+                "options": [
+                  "吾庐独破受冻死亦足",
+                  "风雨不动安如山",
+                  "大庇天下寒士俱欢颜",
+                  "长夜沾湿何由彻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“吾庐独破受冻死亦足”的意思是？",
+                "options": [
+                  "只有我的茅屋破败，我受冻而死也满足",
+                  "我的茅屋独自破败，受冻而死也值得",
+                  "我的房子唯独破了，受冻而死也足够",
+                  "我屋独破，受冻而死也心满意足"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卷我屋上三重茅",
+                  "八月秋高风怒号"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "高者挂罥长林梢",
+                  "茅飞渡江洒江郊"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公然抱茅入竹去",
+                  "忍能对面为盗贼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "归来倚杖自叹息",
+                  "唇焦口燥呼不得"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋天漠漠向昏黑",
+                  "俄顷风定云墨色"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "娇儿恶卧踏里裂",
+                  "布衾多年冷似铁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "雨脚如麻未断绝",
+                  "床头屋漏无干处"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "长夜沾湿何由彻",
+                  "自经丧乱少睡眠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "大庇天下寒士俱欢颜",
+                  "安得广厦千万间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "呜呼何时眼前突兀见此屋",
+                  "风雨不动安如山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吾庐独破受冻死亦足",
+                  "呜呼何时眼前突兀见此屋"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卷我屋上三重茅",
+                  "八月秋高风怒号",
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息",
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "安得广厦千万间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去",
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息",
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑",
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "八月秋高风怒号",
+                  "卷我屋上三重茅"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "háo"
+              },
+              "otherInfo": {
+                "content": "八月秋高风怒__",
+                "answer": "号"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn"
+              },
+              "otherInfo": {
+                "content": "__我屋上三重茅",
+                "answer": "卷"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǎ"
+              },
+              "otherInfo": {
+                "content": "茅飞渡江__江郊",
+                "answer": "洒"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juàn"
+              },
+              "otherInfo": {
+                "content": "高者挂__长林梢",
+                "answer": "罥"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "piāo"
+              },
+              "otherInfo": {
+                "content": "下者__转沉塘坳",
+                "answer": "飘"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī"
+              },
+              "otherInfo": {
+                "content": "南村群童__我老无力",
+                "answer": "欺"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rěn"
+              },
+              "otherInfo": {
+                "content": "__能对面为盗贼",
+                "answer": "忍"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bào"
+              },
+              "otherInfo": {
+                "content": "公然__茅入竹去",
+                "answer": "抱"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zào"
+              },
+              "otherInfo": {
+                "content": "唇焦口__呼不得",
+                "answer": "燥"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ"
+              },
+              "otherInfo": {
+                "content": "归来__杖自叹息",
+                "answer": "倚"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八月秋高风怒号，______",
+                "answer": "卷我屋上三重茅"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，卷我屋上三重茅",
+                "answer": "八月秋高风怒号"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "茅飞渡江洒江郊，______",
+                "answer": "高者挂罥长林梢"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，高者挂罥长林梢",
+                "answer": "茅飞渡江洒江郊"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "下者飘转沉塘坳，______",
+                "answer": "南村群童欺我老无力"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，南村群童欺我老无力",
+                "answer": "下者飘转沉塘坳"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "忍能对面为盗贼，______",
+                "answer": "公然抱茅入竹去"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，公然抱茅入竹去",
+                "answer": "忍能对面为盗贼"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "唇焦口燥呼不得，______",
+                "answer": "归来倚杖自叹息"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，归来倚杖自叹息",
+                "answer": "唇焦口燥呼不得"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "俄顷风定云墨色，______",
+                "answer": "秋天漠漠向昏黑"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，秋天漠漠向昏黑",
+                "answer": "俄顷风定云墨色"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "布衾多年冷似铁，______",
+                "answer": "娇儿恶卧踏里裂"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，娇儿恶卧踏里裂",
+                "answer": "布衾多年冷似铁"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "床头屋漏无干处，______",
+                "answer": "雨脚如麻未断绝"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，雨脚如麻未断绝",
+                "answer": "床头屋漏无干处"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自经丧乱少睡眠，______",
+                "answer": "长夜沾湿何由彻"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，长夜沾湿何由彻",
+                "answer": "自经丧乱少睡眠"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "安得广厦千万间，______",
+                "answer": "大庇天下寒士俱欢颜"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，大庇天下寒士俱欢颜",
+                "answer": "安得广厦千万间"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "风雨不动安如山，______",
+                "answer": "呜呼何时眼前突兀见此屋"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，呜呼何时眼前突兀见此屋",
+                "answer": "风雨不动安如山"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "呜呼何时眼前突兀见此屋，______",
+                "answer": "吾庐独破受冻死亦足"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，吾庐独破受冻死亦足",
+                "answer": "呜呼何时眼前突兀见此屋"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八月秋高风怒号，卷我屋上三重茅。______，______",
+                "answer": "茅飞渡江洒江郊，高者挂罥长林梢"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "茅飞渡江洒江郊，高者挂罥长林梢。______，______",
+                "answer": "下者飘转沉塘坳，南村群童欺我老无力"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "下者飘转沉塘坳，南村群童欺我老无力。______，______",
+                "answer": "忍能对面为盗贼，公然抱茅入竹去"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "忍能对面为盗贼，公然抱茅入竹去。______，______",
+                "answer": "唇焦口燥呼不得，归来倚杖自叹息"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "唇焦口燥呼不得，归来倚杖自叹息。______，______",
+                "answer": "俄顷风定云墨色，秋天漠漠向昏黑"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "俄顷风定云墨色，秋天漠漠向昏黑。______，______",
+                "answer": "布衾多年冷似铁，娇儿恶卧踏里裂"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "布衾多年冷似铁，娇儿恶卧踏里裂。______，______",
+                "answer": "床头屋漏无干处，雨脚如麻未断绝"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "床头屋漏无干处，雨脚如麻未断绝。______，______",
+                "answer": "自经丧乱少睡眠，长夜沾湿何由彻"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自经丧乱少睡眠，长夜沾湿何由彻。______，______",
+                "answer": "安得广厦千万间，大庇天下寒士俱欢颜"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "安得广厦千万间，大庇天下寒士俱欢颜。______，______",
+                "answer": "风雨不动安如山，呜呼何时眼前突兀见此屋"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "风雨不动安如山，呜呼何时眼前突兀见此屋。______，______",
+                "answer": "呜呼何时眼前突兀见此屋，吾庐独破受冻死亦足"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卷我屋上三重茅",
+                  "八月秋高风怒号",
+                  "高者挂罥长林梢",
+                  "茅飞渡江洒江郊",
+                  "南村群童欺我老无力",
+                  "下者飘转沉塘坳",
+                  "公然抱茅入竹去",
+                  "忍能对面为盗贼",
+                  "归来倚杖自叹息",
+                  "唇焦口燥呼不得",
+                  "秋天漠漠向昏黑",
+                  "俄顷风定云墨色",
+                  "娇儿恶卧踏里裂",
+                  "布衾多年冷似铁",
+                  "雨脚如麻未断绝",
+                  "床头屋漏无干处",
+                  "长夜沾湿何由彻",
+                  "自经丧乱少睡眠",
+                  "大庇天下寒士俱欢颜",
+                  "安得广厦千万间",
+                  "呜呼何时眼前突兀见此屋",
+                  "风雨不动安如山",
+                  "吾庐独破受冻死亦足",
+                  "呜呼何时眼前突兀见此屋"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去",
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息",
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑",
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "八月秋高风怒号",
+                  "卷我屋上三重茅"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑",
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "八月秋高风怒号",
+                  "卷我屋上三重茅",
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去",
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "八月秋高风怒号",
+                  "卷我屋上三重茅",
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去",
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息",
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑",
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "布衾多年冷似铁",
+                  "娇儿恶卧踏里裂",
+                  "床头屋漏无干处",
+                  "雨脚如麻未断绝",
+                  "自经丧乱少睡眠",
+                  "长夜沾湿何由彻",
+                  "安得广厦千万间",
+                  "大庇天下寒士俱欢颜",
+                  "风雨不动安如山",
+                  "呜呼何时眼前突兀见此屋",
+                  "吾庐独破受冻死亦足",
+                  "八月秋高风怒号",
+                  "卷我屋上三重茅",
+                  "茅飞渡江洒江郊",
+                  "高者挂罥长林梢",
+                  "下者飘转沉塘坳",
+                  "南村群童欺我老无力",
+                  "忍能对面为盗贼",
+                  "公然抱茅入竹去",
+                  "唇焦口燥呼不得",
+                  "归来倚杖自叹息",
+                  "俄顷风定云墨色",
+                  "秋天漠漠向昏黑"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

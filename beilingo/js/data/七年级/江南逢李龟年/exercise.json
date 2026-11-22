@@ -1,0 +1,747 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí wáng zhái lǐ xún cháng jiàn"
+              },
+              "otherInfo": {
+                "line": "岐王宅里寻常见"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuī jiǔ táng qián jǐ dù wén"
+              },
+              "otherInfo": {
+                "line": "崔九堂前几度闻"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhèng shì jiāng nán hǎo fēng jǐng"
+              },
+              "otherInfo": {
+                "line": "正是江南好风景"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò huā shí jié yòu féng jūn"
+              },
+              "otherInfo": {
+                "line": "落花时节又逢君"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“岐王宅里寻常见”中“寻常”的意思是？",
+                "options": [
+                  "经常",
+                  "平常",
+                  "寻找",
+                  "寻常百姓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“崔九堂前几度闻”中“度”的意思是？",
+                "options": [
+                  "次",
+                  "度过",
+                  "法度",
+                  "揣度"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“正是江南好风景”中“正是”的意思是？",
+                "options": [
+                  "恰好是",
+                  "正确地是",
+                  "正是这样",
+                  "就是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“落花时节又逢君”中“君”的意思是？",
+                "options": [
+                  "对李龟年的尊称",
+                  "君王",
+                  "君子",
+                  "对人的泛称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "当年在岐王府里常常看到你。",
+                "options": [
+                  "岐王宅里寻常见",
+                  "崔九堂前几度闻",
+                  "正是江南好风景",
+                  "落花时节又逢君"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“岐王宅里寻常见”的意思是？",
+                "options": [
+                  "在岐王府里经常见到你",
+                  "在岐王府里寻找常见之物",
+                  "在岐王府里寻常地遇见",
+                  "在岐王府里寻找平常人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在崔九堂前也曾多次听到你的歌声。",
+                "options": [
+                  "岐王宅里寻常见",
+                  "崔九堂前几度闻",
+                  "正是江南好风景",
+                  "落花时节又逢君"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“崔九堂前几度闻”的意思是？",
+                "options": [
+                  "在崔九堂前多次听到你歌唱",
+                  "在崔九堂前几次闻到香气",
+                  "在崔九堂前几回听说你",
+                  "在崔九堂前几度询问"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "如今正是江南风景美好的时候。",
+                "options": [
+                  "岐王宅里寻常见",
+                  "崔九堂前几度闻",
+                  "正是江南好风景",
+                  "落花时节又逢君"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“正是江南好风景”的意思是？",
+                "options": [
+                  "现在正是江南风景美好的时候",
+                  "正是江南风景好的地方",
+                  "江南风景正好被人称赞",
+                  "江南正是风景好的季节"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在这落花时节又遇见了你。",
+                "options": [
+                  "岐王宅里寻常见",
+                  "崔九堂前几度闻",
+                  "正是江南好风景",
+                  "落花时节又逢君"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“落花时节又逢君”的意思是？",
+                "options": [
+                  "在落花时节再次遇到你",
+                  "在落花时节又送别你",
+                  "在落花时节重逢君王",
+                  "在落花时节又想起你"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "崔九堂前几度闻",
+                  "岐王宅里寻常见"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落花时节又逢君",
+                  "正是江南好风景"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "正是江南好风景",
+                  "崔九堂前几度闻",
+                  "岐王宅里寻常见",
+                  "落花时节又逢君"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落花时节又逢君",
+                  "岐王宅里寻常见",
+                  "正是江南好风景",
+                  "崔九堂前几度闻"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "__王宅里寻常见",
+                "answer": "岐"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuī"
+              },
+              "otherInfo": {
+                "content": "__九堂前几度闻",
+                "answer": "崔"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐng"
+              },
+              "otherInfo": {
+                "content": "正是江南好风__",
+                "answer": "景"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "féng"
+              },
+              "otherInfo": {
+                "content": "落花时节又__君",
+                "answer": "逢"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "岐王宅里寻常见，______。",
+                "answer": "崔九堂前几度闻"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，崔九堂前几度闻。",
+                "answer": "岐王宅里寻常见"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "正是江南好风景，______。",
+                "answer": "落花时节又逢君"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，落花时节又逢君。",
+                "answer": "正是江南好风景"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "岐王宅里寻常见，崔九堂前几度闻。______，______。",
+                "answer": "正是江南好风景，落花时节又逢君"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "岐王宅里寻常见，崔九堂前几度闻。______，______。",
+                "answer": "正是江南好风景，落花时节又逢君"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落花时节又逢君",
+                  "岐王宅里寻常见",
+                  "正是江南好风景",
+                  "崔九堂前几度闻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "正是江南好风景",
+                  "崔九堂前几度闻",
+                  "落花时节又逢君",
+                  "岐王宅里寻常见"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "崔九堂前几度闻",
+                  "落花时节又逢君",
+                  "岐王宅里寻常见",
+                  "正是江南好风景"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "岐王宅里寻常见",
+                  "正是江南好风景",
+                  "崔九堂前几度闻",
+                  "落花时节又逢君"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落花时节又逢君",
+                  "正是江南好风景",
+                  "崔九堂前几度闻",
+                  "岐王宅里寻常见"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

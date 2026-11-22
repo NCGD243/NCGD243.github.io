@@ -1,0 +1,837 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǐ qù yuán zhī wàn shì kōng"
+              },
+              "otherInfo": {
+                "line": "死去元知万事空"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn bēi bú jiàn jiǔ zhōu tóng"
+              },
+              "otherInfo": {
+                "line": "但悲不见九州同"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wáng shī běi dìng zhōng yuán rì"
+              },
+              "otherInfo": {
+                "line": "王师北定中原日"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiā jì wú wàng gào nǎi wēng"
+              },
+              "otherInfo": {
+                "line": "家祭无忘告乃翁"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“元知”的意思是？",
+                "options": [
+                  "本来就知道",
+                  "开始知道",
+                  "元朝的知识",
+                  "首要的智慧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万事空”的意思是？",
+                "options": [
+                  "一切事情都化为乌有",
+                  "万种事务都很空虚",
+                  "各种事情都落空了",
+                  "所有事情都空空如也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“但悲”的意思是？",
+                "options": [
+                  "只感到悲伤",
+                  "但是很悲痛",
+                  "只是悲叹",
+                  "却要悲伤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“九州同”的意思是？",
+                "options": [
+                  "全国统一",
+                  "九州相同",
+                  "九州一同前往",
+                  "九个州共同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“王师”的意思是？",
+                "options": [
+                  "朝廷的军队",
+                  "帝王的老师",
+                  "姓王的军队",
+                  "君王的师傅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“北定”的意思是？",
+                "options": [
+                  "向北方平定",
+                  "在北方安定",
+                  "北方已经平定",
+                  "向北面决定"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“中原”的意思是？",
+                "options": [
+                  "指被金人占领的北方地区",
+                  "黄河中游的平原",
+                  "中国的原野",
+                  "中原一带的百姓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“家祭”的意思是？",
+                "options": [
+                  "家中祭祀祖先",
+                  "家庭祭祀活动",
+                  "祭祀家神",
+                  "祭拜家族"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无忘”的意思是？",
+                "options": [
+                  "不要忘记",
+                  "没有忘记",
+                  "不忘记",
+                  "无须忘记"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乃翁”的意思是？",
+                "options": [
+                  "你们的父亲",
+                  "于是老翁",
+                  "你的老翁",
+                  "那位老人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "本来就知道人死后一切事情都化为乌有。",
+                "options": [
+                  "死去元知万事空",
+                  "但悲不见九州同",
+                  "王师北定中原日",
+                  "家祭无忘告乃翁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“但悲不见九州同”的意思是？",
+                "options": [
+                  "只悲伤看不到全国统一",
+                  "但是悲伤看不见九州相同",
+                  "只是悲叹九州不能一同前往",
+                  "却为看不到九个州而悲伤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只悲伤看不到全国统一。",
+                "options": [
+                  "但悲不见九州同",
+                  "死去元知万事空",
+                  "王师北定中原日",
+                  "家祭无忘告乃翁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“王师北定中原日”的意思是？",
+                "options": [
+                  "朝廷军队向北方平定中原的那一天",
+                  "朝廷军队在北方安定中原的日子",
+                  "君王的军队向北决定中原的日期",
+                  "姓王的军队北上平定中原的时候"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "朝廷军队向北方平定中原的那一天。",
+                "options": [
+                  "王师北定中原日",
+                  "死去元知万事空",
+                  "但悲不见九州同",
+                  "家祭无忘告乃翁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“家祭无忘告乃翁”的意思是？",
+                "options": [
+                  "家中祭祀祖先时不要忘记告诉你们的父亲",
+                  "家庭祭祀时没有忘记祭拜你们的父亲",
+                  "祭祀家神时无须忘记告诉那位老人",
+                  "祭拜家族时不要忘记告知你们的父亲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "家中祭祀祖先时不要忘记告诉你们的父亲。",
+                "options": [
+                  "家祭无忘告乃翁",
+                  "死去元知万事空",
+                  "但悲不见九州同",
+                  "王师北定中原日"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但悲不见九州同",
+                  "死去元知万事空"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "家祭无忘告乃翁",
+                  "王师北定中原日"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但悲不见九州同",
+                  "王师北定中原日",
+                  "死去元知万事空",
+                  "家祭无忘告乃翁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "家祭无忘告乃翁",
+                  "但悲不见九州同",
+                  "王师北定中原日",
+                  "死去元知万事空"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǐ"
+              },
+              "otherInfo": {
+                "content": "__去元知万事空",
+                "answer": "死"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bēi"
+              },
+              "otherInfo": {
+                "content": "但__不见九州同",
+                "answer": "悲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dìng"
+              },
+              "otherInfo": {
+                "content": "王师北__中原日",
+                "answer": "定"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "家__无忘告乃翁",
+                "answer": "祭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "死去元知万事空，______。",
+                "answer": "但悲不见九州同"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，但悲不见九州同。",
+                "answer": "死去元知万事空"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "王师北定中原日，______。",
+                "answer": "家祭无忘告乃翁"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，家祭无忘告乃翁。",
+                "answer": "王师北定中原日"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "死去元知万事空，但悲不见九州同。______，______。",
+                "answer": "王师北定中原日，家祭无忘告乃翁"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "但悲不见九州同。______，______。",
+                "answer": "王师北定中原日，家祭无忘告乃翁"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但悲不见九州同",
+                  "家祭无忘告乃翁",
+                  "死去元知万事空",
+                  "王师北定中原日"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "王师北定中原日",
+                  "死去元知万事空",
+                  "家祭无忘告乃翁",
+                  "但悲不见九州同"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "家祭无忘告乃翁",
+                  "但悲不见九州同",
+                  "王师北定中原日",
+                  "死去元知万事空"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "死去元知万事空",
+                  "王师北定中原日",
+                  "但悲不见九州同",
+                  "家祭无忘告乃翁"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但悲不见九州同",
+                  "王师北定中原日",
+                  "家祭无忘告乃翁",
+                  "死去元知万事空"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

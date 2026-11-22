@@ -1,0 +1,2205 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān bù zài gāo"
+              },
+              "otherInfo": {
+                "line": "山不在高"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu xiān zé míng"
+              },
+              "otherInfo": {
+                "line": "有仙则名"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ bù zài shēn"
+              },
+              "otherInfo": {
+                "line": "水不在深"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu lóng zé líng"
+              },
+              "otherInfo": {
+                "line": "有龙则灵"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī shì lòu shì"
+              },
+              "otherInfo": {
+                "line": "斯是陋室"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi wú dé xīn"
+              },
+              "otherInfo": {
+                "line": "惟吾德馨"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tái hén shàng jiē lǜ"
+              },
+              "otherInfo": {
+                "line": "苔痕上阶绿"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo sè rù lián qīng"
+              },
+              "otherInfo": {
+                "line": "草色入帘青"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tán xiào yǒu hóng rú"
+              },
+              "otherInfo": {
+                "line": "谈笑有鸿儒"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎng lái wú bái dīng"
+              },
+              "otherInfo": {
+                "line": "往来无白丁"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě yǐ tiáo sù qín"
+              },
+              "otherInfo": {
+                "line": "可以调素琴"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè jīn jīng"
+              },
+              "otherInfo": {
+                "line": "阅金经"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú sī zhú zhī luàn ěr"
+              },
+              "otherInfo": {
+                "line": "无丝竹之乱耳"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú àn dú zhī láo xíng"
+              },
+              "otherInfo": {
+                "line": "无案牍之劳形"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán yáng zhū gě lú"
+              },
+              "otherInfo": {
+                "line": "南阳诸葛庐"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī shǔ zǐ yún tíng"
+              },
+              "otherInfo": {
+                "line": "西蜀子云亭"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǒng zǐ yún"
+              },
+              "otherInfo": {
+                "line": "孔子云"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé lòu zhī yǒu"
+              },
+              "otherInfo": {
+                "line": "何陋之有"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“有仙则名”中“名”的意思是？",
+                "options": [
+                  "出名，著名",
+                  "名字，名称",
+                  "命名，取名",
+                  "名声，名望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“有龙则灵”中“灵”的意思是？",
+                "options": [
+                  "灵验，显灵",
+                  "灵活，灵巧",
+                  "灵魂，神灵",
+                  "灵气，机灵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惟吾德馨”中“馨”的意思是？",
+                "options": [
+                  "香气，这里指品德高尚",
+                  "温馨，温暖",
+                  "馨香，芳香",
+                  "声誉，名声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“谈笑有鸿儒”中“鸿儒”的意思是？",
+                "options": [
+                  "博学的人",
+                  "志向远大的人",
+                  "鸿雁般高飞的人",
+                  "年长有德的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“往来无白丁”中“白丁”的意思是？",
+                "options": [
+                  "平民，这里指没有学问的人",
+                  "穿白衣的人",
+                  "年幼的孩童",
+                  "清白之人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可以调素琴”中“调”的意思是？",
+                "options": [
+                  "弹奏",
+                  "调整",
+                  "调和",
+                  "调换"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无丝竹之乱耳”中“丝竹”的意思是？",
+                "options": [
+                  "奏乐的声音",
+                  "丝线和竹子",
+                  "丝绸与竹器",
+                  "乐器制作材料"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无案牍之劳形”中“劳形”的意思是？",
+                "options": [
+                  "使身体劳累",
+                  "劳动身体",
+                  "劳累的形状",
+                  "辛苦的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南阳诸葛庐”中“庐”的意思是？",
+                "options": [
+                  "简陋的房屋",
+                  "帐篷",
+                  "草席",
+                  "田舍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“何陋之有”中“陋”的意思是？",
+                "options": [
+                  "简陋，狭小",
+                  "丑陋，难看",
+                  "浅陋，无知",
+                  "粗劣，低劣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "山不在于高，有仙人居住就出名。",
+                "options": [
+                  "山不在高，有仙则名",
+                  "水不在深，有龙则灵",
+                  "斯是陋室，惟吾德馨",
+                  "南阳诸葛庐，西蜀子云亭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山不在高，有仙则名”的意思是？",
+                "options": [
+                  "山的高低并不重要，有仙人居住就会出名",
+                  "山越高越有名，因为上面住着仙人",
+                  "山不在高处，仙人才会来扬名",
+                  "山不追求高峻，有名字就有仙人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "水不在于深，有龙居住就显灵验。",
+                "options": [
+                  "水不在深，有龙则灵",
+                  "山不在高，有仙则名",
+                  "苔痕上阶绿，草色入帘青",
+                  "可以调素琴，阅金经"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水不在深，有龙则灵”的意思是？",
+                "options": [
+                  "水不追求深，有龙居住就显灵验",
+                  "水越深越灵验，因为龙住在深处",
+                  "水不在深处，龙来了才变深",
+                  "水不深的地方，龙才能显灵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这是简陋的屋舍，只因我品德高尚就不感到简陋了。",
+                "options": [
+                  "斯是陋室，惟吾德馨",
+                  "山不在高，有仙则名",
+                  "谈笑有鸿儒，往来无白丁",
+                  "无丝竹之乱耳，无案牍之劳形"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“斯是陋室，惟吾德馨”的意思是？",
+                "options": [
+                  "这是简陋的屋舍，只因我品德高尚就不感到简陋了",
+                  "这是简陋的屋舍，只有我的香气充满其中",
+                  "这间屋子虽然简陋，但我的名声很好",
+                  "这是简陋的屋舍，唯有我住着才温馨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "苔藓痕迹蔓延到台阶上，一片碧绿；草色映入竹帘，满眼青翠。",
+                "options": [
+                  "苔痕上阶绿，草色入帘青",
+                  "斯是陋室，惟吾德馨",
+                  "南阳诸葛庐，西蜀子云亭",
+                  "孔子云：何陋之有"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“苔痕上阶绿，草色入帘青”的意思是？",
+                "options": [
+                  "苔藓痕迹蔓延到台阶上，一片碧绿；草色映入竹帘，满眼青翠",
+                  "台阶上长满青苔，帘子被草色染青",
+                  "苔藓爬上了绿色的台阶，草色进入了青色的帘子",
+                  "台阶因苔痕而变绿，帘子因草色而发青"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "谈笑的都是博学的人，往来的没有浅薄无学的人。",
+                "options": [
+                  "谈笑有鸿儒，往来无白丁",
+                  "可以调素琴，阅金经",
+                  "无丝竹之乱耳，无案牍之劳形",
+                  "山不在高，有仙则名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“谈笑有鸿儒，往来无白丁”的意思是？",
+                "options": [
+                  "谈笑的都是博学的人，往来的没有浅薄无学的人",
+                  "谈笑时声音洪亮，往来的人都不穿白衣",
+                  "谈笑中有大儒，往来的人没有平民",
+                  "谈笑的人学问渊博，往来的人没有白丁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "可以弹奏不加装饰的琴，阅读佛经。",
+                "options": [
+                  "可以调素琴，阅金经",
+                  "苔痕上阶绿，草色入帘青",
+                  "谈笑有鸿儒，往来无白丁",
+                  "水不在深，有龙则灵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可以调素琴，阅金经”的意思是？",
+                "options": [
+                  "可以弹奏不加装饰的琴，阅读佛经",
+                  "可以调整素雅的琴，阅读金色的经书",
+                  "可以弹奏朴素的琴，批阅金贵的经典",
+                  "可以调和琴音，阅览经书"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "没有世俗的乐曲扰乱心境，没有官府的公文使身体劳累。",
+                "options": [
+                  "无丝竹之乱耳，无案牍之劳形",
+                  "可以调素琴，阅金经",
+                  "斯是陋室，惟吾德馨",
+                  "孔子云：何陋之有"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无丝竹之乱耳，无案牍之劳形”的意思是？",
+                "options": [
+                  "没有世俗的乐曲扰乱心境，没有官府的公文使身体劳累",
+                  "没有丝线和竹子扰乱耳朵，没有案几和木牍劳累身体",
+                  "没有音乐来乱耳，没有案卷来劳神",
+                  "没有丝竹之声入耳，没有案牍之文伤身"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "南阳诸葛亮的草庐，西蜀扬子云的亭子。",
+                "options": [
+                  "南阳诸葛庐，西蜀子云亭",
+                  "山不在高，有仙则名",
+                  "谈笑有鸿儒，往来无白丁",
+                  "无丝竹之乱耳，无案牍之劳形"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“南阳诸葛庐，西蜀子云亭”的意思是？",
+                "options": [
+                  "南阳诸葛亮的草庐，西蜀扬子云的亭子",
+                  "南阳有诸葛亮的草庐，西蜀有子云的亭子",
+                  "南阳诸葛氏住草庐，西蜀子云建亭子",
+                  "南阳的诸葛庐，西蜀的子云亭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孔子说：有什么简陋的呢？",
+                "options": [
+                  "孔子云：何陋之有",
+                  "斯是陋室，惟吾德馨",
+                  "南阳诸葛庐，西蜀子云亭",
+                  "山不在高，有仙则名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孔子云：何陋之有”的意思是？",
+                "options": [
+                  "孔子说：有什么简陋的呢",
+                  "孔子说：哪里还有简陋的屋子",
+                  "孔子说：为什么如此简陋",
+                  "孔子说：有什么可简陋的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有仙则名",
+                  "山不在高"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有龙则灵",
+                  "水不在深"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟吾德馨",
+                  "斯是陋室"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草色入帘青",
+                  "苔痕上阶绿"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "往来无白丁",
+                  "谈笑有鸿儒"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "阅金经",
+                  "可以调素琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无案牍之劳形",
+                  "无丝竹之乱耳"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西蜀子云亭",
+                  "南阳诸葛庐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何陋之有",
+                  "孔子云"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有仙则名",
+                  "山不在高",
+                  "有龙则灵",
+                  "水不在深"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟吾德馨",
+                  "斯是陋室",
+                  "草色入帘青",
+                  "苔痕上阶绿"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "往来无白丁",
+                  "谈笑有鸿儒",
+                  "阅金经",
+                  "可以调素琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无案牍之劳形",
+                  "无丝竹之乱耳",
+                  "西蜀子云亭",
+                  "南阳诸葛庐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何陋之有",
+                  "孔子云",
+                  "有仙则名",
+                  "山不在高",
+                  "有龙则灵",
+                  "水不在深",
+                  "惟吾德馨",
+                  "斯是陋室",
+                  "草色入帘青",
+                  "苔痕上阶绿",
+                  "往来无白丁",
+                  "谈笑有鸿儒",
+                  "阅金经",
+                  "可以调素琴",
+                  "无案牍之劳形",
+                  "无丝竹之乱耳",
+                  "西蜀子云亭",
+                  "南阳诸葛庐"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo"
+              },
+              "otherInfo": {
+                "content": "山不在__",
+                "answer": "高"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "有仙则__",
+                "answer": "名"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēn"
+              },
+              "otherInfo": {
+                "content": "水不在__",
+                "answer": "深"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "líng"
+              },
+              "otherInfo": {
+                "content": "有龙则__",
+                "answer": "灵"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "惟吾德__",
+                "answer": "馨"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tái"
+              },
+              "otherInfo": {
+                "content": "__痕上阶绿",
+                "answer": "苔"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "谈笑有__儒",
+                "answer": "鸿"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiáo"
+              },
+              "otherInfo": {
+                "content": "可以__素琴",
+                "answer": "调"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú"
+              },
+              "otherInfo": {
+                "content": "无案__之劳形",
+                "answer": "牍"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lòu"
+              },
+              "otherInfo": {
+                "content": "何__之有",
+                "answer": "陋"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山不在高，______",
+                "answer": "有仙则名"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，有仙则名",
+                "answer": "山不在高"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水不在深，______",
+                "answer": "有龙则灵"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，有龙则灵",
+                "answer": "水不在深"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "斯是陋室，______",
+                "answer": "惟吾德馨"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，惟吾德馨",
+                "answer": "斯是陋室"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "苔痕上阶绿，______",
+                "answer": "草色入帘青"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，草色入帘青",
+                "answer": "苔痕上阶绿"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谈笑有鸿儒，______",
+                "answer": "往来无白丁"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，往来无白丁",
+                "answer": "谈笑有鸿儒"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可以调素琴，______",
+                "answer": "阅金经"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，阅金经",
+                "answer": "可以调素琴"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无丝竹之乱耳，______",
+                "answer": "无案牍之劳形"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无案牍之劳形",
+                "answer": "无丝竹之乱耳"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南阳诸葛庐，______",
+                "answer": "西蜀子云亭"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，西蜀子云亭",
+                "answer": "南阳诸葛庐"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔子云：______",
+                "answer": "何陋之有"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______：何陋之有",
+                "answer": "孔子云"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山不在高，有仙则名。______，______",
+                "answer": "水不在深，有龙则灵"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水不在深，有龙则灵。______，______",
+                "answer": "斯是陋室，惟吾德馨"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "斯是陋室，惟吾德馨。______，______",
+                "answer": "苔痕上阶绿，草色入帘青"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "苔痕上阶绿，草色入帘青。______，______",
+                "answer": "谈笑有鸿儒，往来无白丁"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谈笑有鸿儒，往来无白丁。______，______",
+                "answer": "可以调素琴，阅金经"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可以调素琴，阅金经。______，______",
+                "answer": "无丝竹之乱耳，无案牍之劳形"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无丝竹之乱耳，无案牍之劳形。______，______",
+                "answer": "南阳诸葛庐，西蜀子云亭"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南阳诸葛庐，西蜀子云亭。______，______",
+                "answer": "孔子云：何陋之有"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有仙则名",
+                  "山不在高",
+                  "有龙则灵",
+                  "水不在深",
+                  "惟吾德馨",
+                  "斯是陋室",
+                  "草色入帘青",
+                  "苔痕上阶绿",
+                  "往来无白丁",
+                  "谈笑有鸿儒",
+                  "阅金经",
+                  "可以调素琴",
+                  "无案牍之劳形",
+                  "无丝竹之乱耳",
+                  "西蜀子云亭",
+                  "南阳诸葛庐",
+                  "何陋之有",
+                  "孔子云"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水不在深",
+                  "有龙则灵",
+                  "山不在高",
+                  "有仙则名",
+                  "斯是陋室",
+                  "惟吾德馨",
+                  "苔痕上阶绿",
+                  "草色入帘青",
+                  "谈笑有鸿儒",
+                  "往来无白丁",
+                  "可以调素琴",
+                  "阅金经",
+                  "无丝竹之乱耳",
+                  "无案牍之劳形",
+                  "南阳诸葛庐",
+                  "西蜀子云亭",
+                  "孔子云",
+                  "何陋之有"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斯是陋室",
+                  "惟吾德馨",
+                  "山不在高",
+                  "有仙则名",
+                  "水不在深",
+                  "有龙则灵",
+                  "草色入帘青",
+                  "苔痕上阶绿",
+                  "往来无白丁",
+                  "谈笑有鸿儒",
+                  "阅金经",
+                  "可以调素琴",
+                  "无案牍之劳形",
+                  "无丝竹之乱耳",
+                  "西蜀子云亭",
+                  "南阳诸葛庐",
+                  "何陋之有",
+                  "孔子云"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "苔痕上阶绿",
+                  "草色入帘青",
+                  "斯是陋室",
+                  "惟吾德馨",
+                  "山不在高",
+                  "有仙则名",
+                  "水不在深",
+                  "有龙则灵",
+                  "谈笑有鸿儒",
+                  "往来无白丁",
+                  "可以调素琴",
+                  "阅金经",
+                  "无丝竹之乱耳",
+                  "无案牍之劳形",
+                  "南阳诸葛庐",
+                  "西蜀子云亭",
+                  "孔子云",
+                  "何陋之有"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谈笑有鸿儒",
+                  "往来无白丁",
+                  "苔痕上阶绿",
+                  "草色入帘青",
+                  "斯是陋室",
+                  "惟吾德馨",
+                  "山不在高",
+                  "有仙则名",
+                  "水不在深",
+                  "有龙则灵",
+                  "可以调素琴",
+                  "阅金经",
+                  "无丝竹之乱耳",
+                  "无案牍之劳形",
+                  "南阳诸葛庐",
+                  "西蜀子云亭",
+                  "孔子云",
+                  "何陋之有"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

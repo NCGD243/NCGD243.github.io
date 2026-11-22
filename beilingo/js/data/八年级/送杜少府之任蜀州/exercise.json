@@ -1,0 +1,1437 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng què fǔ sān qín"
+              },
+              "otherInfo": {
+                "line": "城阙辅三秦"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng yān wàng wǔ jīn"
+              },
+              "otherInfo": {
+                "line": "风烟望五津"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ jūn lí bié yì"
+              },
+              "otherInfo": {
+                "line": "与君离别意"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tóng shì huàn yóu rén"
+              },
+              "otherInfo": {
+                "line": "同是宦游人"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hǎi nèi cún zhī jǐ"
+              },
+              "otherInfo": {
+                "line": "海内存知己"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān yá ruò bǐ lín"
+              },
+              "otherInfo": {
+                "line": "天涯若比邻"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú wéi zài qí lù"
+              },
+              "otherInfo": {
+                "line": "无为在歧路"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér nǚ gòng zhān jīn"
+              },
+              "otherInfo": {
+                "line": "儿女共沾巾"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“城阙辅三秦”中“辅”的意思是？",
+                "options": [
+                  "护卫",
+                  "辅佐",
+                  "辅助",
+                  "靠近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“风烟望五津”中“津”的意思是？",
+                "options": [
+                  "渡口",
+                  "唾液",
+                  "滋润",
+                  "天津"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“与君离别意”中“意”的意思是？",
+                "options": [
+                  "意思",
+                  "情意",
+                  "意料",
+                  "意愿"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“同是宦游人”中“宦游”的意思是？",
+                "options": [
+                  "出游",
+                  "游学",
+                  "做官",
+                  "经商"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“海内存知己”中“存”的意思是？",
+                "options": [
+                  "存在",
+                  "保存",
+                  "思念",
+                  "存有"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天涯若比邻”中“比”的意思是？",
+                "options": [
+                  "比较",
+                  "比喻",
+                  "靠近",
+                  "并列"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无为在歧路”中“无为”的意思是？",
+                "options": [
+                  "不要",
+                  "没有作为",
+                  "无所不为",
+                  "无须"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“儿女共沾巾”中“沾巾”的意思是？",
+                "options": [
+                  "沾湿手巾",
+                  "擦拭头巾",
+                  "赠送巾帕",
+                  "泪湿衣巾"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“城阙辅三秦”中“城阙”的意思是？",
+                "options": [
+                  "城门",
+                  "城楼",
+                  "宫殿",
+                  "京城"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“风烟望五津”中“风烟”的意思是？",
+                "options": [
+                  "风和烟",
+                  "风景",
+                  "烟尘",
+                  "风尘"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "京城长安被三秦之地护卫着。",
+                "options": [
+                  "城阙辅三秦",
+                  "风烟望五津",
+                  "海内存知己",
+                  "天涯若比邻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“城阙辅三秦”的意思是？",
+                "options": [
+                  "京城长安被三秦之地护卫着",
+                  "三秦之地被京城长安护卫着",
+                  "京城长安辅佐三秦之地的君王",
+                  "三秦之地的城阙辅佐京城长安"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "遥望蜀地五个渡口，只见风烟迷蒙。",
+                "options": [
+                  "风烟望五津",
+                  "城阙辅三秦",
+                  "与君离别意",
+                  "同是宦游人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“风烟望五津”的意思是？",
+                "options": [
+                  "遥望蜀地五个渡口，只见风烟迷蒙",
+                  "在风烟中眺望五个渡口所在的京城",
+                  "风烟笼罩着五个渡口，看不清前路",
+                  "从五津渡口遥望京城的风烟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我和你同样有离别的情意。",
+                "options": [
+                  "与君离别意",
+                  "同是宦游人",
+                  "海内存知己",
+                  "儿女共沾巾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“与君离别意”的意思是？",
+                "options": [
+                  "我和你同样有离别的情意",
+                  "我与你分别时心意已决",
+                  "我送别你时心中充满失意",
+                  "你与我离别后情意渐淡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "因为我们都是在外做官的人。",
+                "options": [
+                  "同是宦游人",
+                  "与君离别意",
+                  "无为在歧路",
+                  "天涯若比邻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“同是宦游人”的意思是？",
+                "options": [
+                  "因为我们都是在外做官的人",
+                  "我们同样都是四处游历的人",
+                  "我们曾经一同在外做官",
+                  "我们同样都是宦官的家人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "四海之内只要存有知心朋友。",
+                "options": [
+                  "海内存知己",
+                  "天涯若比邻",
+                  "城阙辅三秦",
+                  "风烟望五津"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“海内存知己”的意思是？",
+                "options": [
+                  "四海之内只要存有知心朋友",
+                  "大海之中存有我的知心朋友",
+                  "四海之内保存着知己的赠物",
+                  "天下之大只有我懂得朋友"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使远在天边也像近邻一样。",
+                "options": [
+                  "天涯若比邻",
+                  "海内存知己",
+                  "儿女共沾巾",
+                  "无为在歧路"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“天涯若比邻”的意思是？",
+                "options": [
+                  "即使远在天边也像近邻一样",
+                  "天边好像比邻国还要遥远",
+                  "天涯海角比不上近邻亲近",
+                  "远在天边的人不如近邻可靠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不要在分手的岔路口。",
+                "options": [
+                  "无为在歧路",
+                  "儿女共沾巾",
+                  "与君离别意",
+                  "同是宦游人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无为在歧路”的意思是？",
+                "options": [
+                  "不要在分手的岔路口",
+                  "不要做那歧路上的无用之事",
+                  "不要因为路有分歧而无所适从",
+                  "无须在岔路口选择方向"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "像小儿女一样让泪水沾湿手巾。",
+                "options": [
+                  "儿女共沾巾",
+                  "无为在歧路",
+                  "天涯若比邻",
+                  "海内存知己"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“儿女共沾巾”的意思是？",
+                "options": [
+                  "像小儿女一样让泪水沾湿手巾",
+                  "儿女们一同沾湿了手巾",
+                  "和儿女一起用手巾擦泪",
+                  "儿女共同赠送沾湿的手巾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风烟望五津",
+                  "城阙辅三秦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "同是宦游人",
+                  "与君离别意"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天涯若比邻",
+                  "海内存知己"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿女共沾巾",
+                  "无为在歧路"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风烟望五津",
+                  "城阙辅三秦",
+                  "同是宦游人",
+                  "与君离别意"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天涯若比邻",
+                  "海内存知己",
+                  "同是宦游人",
+                  "与君离别意"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿女共沾巾",
+                  "无为在歧路",
+                  "天涯若比邻",
+                  "海内存知己"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天涯若比邻",
+                  "风烟望五津",
+                  "儿女共沾巾",
+                  "城阙辅三秦",
+                  "无为在歧路",
+                  "海内存知己",
+                  "同是宦游人",
+                  "与君离别意"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què"
+              },
+              "otherInfo": {
+                "content": "城__辅三秦",
+                "answer": "阙"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīn"
+              },
+              "otherInfo": {
+                "content": "风烟望五__",
+                "answer": "津"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "与君离别__",
+                "answer": "意"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huàn"
+              },
+              "otherInfo": {
+                "content": "同是__游人",
+                "answer": "宦"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cún"
+              },
+              "otherInfo": {
+                "content": "海内__知己",
+                "answer": "存"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yá"
+              },
+              "otherInfo": {
+                "content": "天__若比邻",
+                "answer": "涯"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "无为在__路",
+                "answer": "歧"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhān"
+              },
+              "otherInfo": {
+                "content": "儿女共__巾",
+                "answer": "沾"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǔ"
+              },
+              "otherInfo": {
+                "content": "城阙__三秦",
+                "answer": "辅"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīn"
+              },
+              "otherInfo": {
+                "content": "儿女共沾__",
+                "answer": "巾"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "城阙辅三秦，______",
+                "answer": "风烟望五津"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，风烟望五津",
+                "answer": "城阙辅三秦"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "与君离别意，______",
+                "answer": "同是宦游人"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，同是宦游人",
+                "answer": "与君离别意"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "海内存知己，______",
+                "answer": "天涯若比邻"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，天涯若比邻",
+                "answer": "海内存知己"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无为在歧路，______",
+                "answer": "儿女共沾巾"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，儿女共沾巾",
+                "answer": "无为在歧路"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "城阙辅三秦，风烟望五津。______，______",
+                "answer": "与君离别意，同是宦游人"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "与君离别意，同是宦游人。______，______",
+                "answer": "海内存知己，天涯若比邻"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "海内存知己，天涯若比邻。______，______",
+                "answer": "无为在歧路，儿女共沾巾"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "海内存知己，天涯若比邻。______，______",
+                "answer": "无为在歧路，儿女共沾巾"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天涯若比邻",
+                  "城阙辅三秦",
+                  "儿女共沾巾",
+                  "与君离别意",
+                  "无为在歧路",
+                  "风烟望五津",
+                  "海内存知己",
+                  "同是宦游人"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "同是宦游人",
+                  "海内存知己",
+                  "城阙辅三秦",
+                  "无为在歧路",
+                  "风烟望五津",
+                  "天涯若比邻",
+                  "与君离别意",
+                  "儿女共沾巾"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿女共沾巾",
+                  "与君离别意",
+                  "海内存知己",
+                  "城阙辅三秦",
+                  "天涯若比邻",
+                  "同是宦游人",
+                  "无为在歧路",
+                  "风烟望五津"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风烟望五津",
+                  "无为在歧路",
+                  "同是宦游人",
+                  "天涯若比邻",
+                  "城阙辅三秦",
+                  "儿女共沾巾",
+                  "与君离别意",
+                  "海内存知己"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "海内存知己",
+                  "城阙辅三秦",
+                  "儿女共沾巾",
+                  "同是宦游人",
+                  "天涯若比邻",
+                  "与君离别意",
+                  "风烟望五津",
+                  "无为在歧路"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

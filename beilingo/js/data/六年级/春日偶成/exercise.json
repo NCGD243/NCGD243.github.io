@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yún dàn fēng qīng jìn wǔ tiān"
+              },
+              "otherInfo": {
+                "line": "云淡风轻近午天"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàng huā suí liǔ guò qián chuān"
+              },
+              "otherInfo": {
+                "line": "傍花随柳过前川"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí rén bù shí yú xīn lè"
+              },
+              "otherInfo": {
+                "line": "时人不识余心乐"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng wèi tōu xián xué shào nián"
+              },
+              "otherInfo": {
+                "line": "将谓偷闲学少年"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“云淡风轻”中“淡”的意思是？",
+                "options": [
+                  "颜色浅",
+                  "味道不浓",
+                  "稀薄、轻淡",
+                  "冷淡"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“近午天”中“近”的意思是？",
+                "options": [
+                  "靠近、接近",
+                  "亲近",
+                  "近来",
+                  "浅近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“傍花随柳”中“傍”的意思是？",
+                "options": [
+                  "傍晚",
+                  "依靠、靠近",
+                  "依傍他人",
+                  "比较"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“过前川”中“川”的意思是？",
+                "options": [
+                  "四川",
+                  "河流",
+                  "平野",
+                  "山川"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时人不识”中“识”的意思是？",
+                "options": [
+                  "认识、知道",
+                  "见识",
+                  "记住",
+                  "识别"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“余心乐”中“余”的意思是？",
+                "options": [
+                  "剩余",
+                  "我",
+                  "多余",
+                  "其余"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“将谓”中“谓”的意思是？",
+                "options": [
+                  "所谓",
+                  "告诉",
+                  "认为、说",
+                  "称谓"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“偷闲”中“偷”的意思是？",
+                "options": [
+                  "偷窃",
+                  "抽出、挤出",
+                  "偷偷地",
+                  "苟且"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“学少年”中“学”的意思是？",
+                "options": [
+                  "学习",
+                  "模仿",
+                  "学校",
+                  "学问"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“傍花随柳”中“随”的意思是？",
+                "options": [
+                  "跟随",
+                  "随便",
+                  "顺从",
+                  "随即"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "淡淡云彩、轻轻微风，将近正午的天气。",
+                "options": [
+                  "云淡风轻近午天",
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "将谓偷闲学少年"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“云淡风轻近午天”的意思是？",
+                "options": [
+                  "云色浅淡、微风轻拂，已接近正午时分",
+                  "云层厚重、风声很大，正是午后时光",
+                  "云散天晴、风停树静，太阳快要落山",
+                  "云淡风轻的早晨，天气十分凉爽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "依傍着花、跟随着柳，走过前面的平野。",
+                "options": [
+                  "云淡风轻近午天",
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "将谓偷闲学少年"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“傍花随柳过前川”的意思是？",
+                "options": [
+                  "在花柳之间穿行，走过前面的平野",
+                  "折下花枝、攀着柳条，渡过前面的河",
+                  "靠着花丛、顺着柳树，停在平川上休息",
+                  "赏花看柳之后，回到前面的村庄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "当时的人不了解我内心的快乐。",
+                "options": [
+                  "云淡风轻近午天",
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "将谓偷闲学少年"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“时人不识余心乐”的意思是？",
+                "options": [
+                  "当时的人不知道我内心为什么快乐",
+                  "当时的人不认识我，我心里却很快乐",
+                  "我认不出当时的人，心中感到快乐",
+                  "时光流逝，人们不懂得享受快乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大概会说我偷空玩耍，像少年人一样。",
+                "options": [
+                  "云淡风轻近午天",
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "将谓偷闲学少年"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“将谓偷闲学少年”的意思是？",
+                "options": [
+                  "大概会认为我是偷空玩耍、模仿少年人",
+                  "将会说我偷懒，不肯像少年那样用功",
+                  "将要批评我偷闲，不像个少年样子",
+                  "一定会说我偷了东西，学少年的坏样"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "傍花随柳过前川",
+                  "云淡风轻近午天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将谓偷闲学少年",
+                  "时人不识余心乐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时人不识余心乐",
+                  "云淡风轻近午天",
+                  "傍花随柳过前川",
+                  "将谓偷闲学少年"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将谓偷闲学少年",
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "云淡风轻近午天"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn"
+              },
+              "otherInfo": {
+                "content": "云__风轻近午天",
+                "answer": "淡"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàng"
+              },
+              "otherInfo": {
+                "content": "__花随柳过前川",
+                "answer": "傍"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuān"
+              },
+              "otherInfo": {
+                "content": "傍花随柳过前__",
+                "answer": "川"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí"
+              },
+              "otherInfo": {
+                "content": "__人不识余心乐",
+                "answer": "时"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lè"
+              },
+              "otherInfo": {
+                "content": "时人不识余心__",
+                "answer": "乐"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi"
+              },
+              "otherInfo": {
+                "content": "将__偷闲学少年",
+                "answer": "谓"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tōu"
+              },
+              "otherInfo": {
+                "content": "将谓__闲学少年",
+                "answer": "偷"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shào"
+              },
+              "otherInfo": {
+                "content": "将谓偷闲学__年",
+                "answer": "少"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "云淡风__近午天",
+                "answer": "轻"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǔ"
+              },
+              "otherInfo": {
+                "content": "云淡风轻近__天",
+                "answer": "午"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "云淡风轻近午天，______。",
+                "answer": "傍花随柳过前川"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，傍花随柳过前川。",
+                "answer": "云淡风轻近午天"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "时人不识余心乐，______。",
+                "answer": "将谓偷闲学少年"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，将谓偷闲学少年。",
+                "answer": "时人不识余心乐"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "云淡风轻近午天，傍花随柳过前川。______，______。",
+                "answer": "时人不识余心乐，将谓偷闲学少年"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "时人不识余心乐，将谓偷闲学少年。______，______。",
+                "answer": "时人不识余心乐，将谓偷闲学少年"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将谓偷闲学少年",
+                  "云淡风轻近午天",
+                  "时人不识余心乐",
+                  "傍花随柳过前川"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "傍花随柳过前川",
+                  "时人不识余心乐",
+                  "云淡风轻近午天",
+                  "将谓偷闲学少年"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时人不识余心乐",
+                  "将谓偷闲学少年",
+                  "傍花随柳过前川",
+                  "云淡风轻近午天"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云淡风轻近午天",
+                  "将谓偷闲学少年",
+                  "傍花随柳过前川",
+                  "时人不识余心乐"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "将谓偷闲学少年",
+                  "傍花随柳过前川",
+                  "云淡风轻近午天",
+                  "时人不识余心乐"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

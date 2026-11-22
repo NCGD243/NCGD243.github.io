@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐn chéng sī guǎn rì fēn fēn"
+              },
+              "otherInfo": {
+                "line": "锦城丝管日纷纷"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn rù jiāng fēng bàn rù yún"
+              },
+              "otherInfo": {
+                "line": "半入江风半入云"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ qǔ zhǐ yīng tiān shàng yǒu"
+              },
+              "otherInfo": {
+                "line": "此曲只应天上有"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rén jiān néng dé jǐ huí wén"
+              },
+              "otherInfo": {
+                "line": "人间能得几回闻"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锦城”的意思是？",
+                "options": [
+                  "成都",
+                  "长安",
+                  "洛阳",
+                  "金陵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“丝管”的意思是？",
+                "options": [
+                  "弦乐器和管乐器，泛指音乐",
+                  "丝织品和管状物",
+                  "琴弦和毛笔",
+                  "丝绸和竹管"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“纷纷”的意思是？",
+                "options": [
+                  "繁多而杂乱的样子",
+                  "纷纷扬扬地飘落",
+                  "意见不一致",
+                  "接连不断地到来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“江风”的意思是？",
+                "options": [
+                  "江上的风",
+                  "江边的风俗",
+                  "江南的风光",
+                  "江中的风浪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“只应”的意思是？",
+                "options": [
+                  "只应该",
+                  "只答应",
+                  "只回应",
+                  "只应付"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天上”在诗中的意思是？",
+                "options": [
+                  "天上的仙境，暗指皇宫",
+                  "天空的最高处",
+                  "天气晴朗的高空",
+                  "神仙居住的洞府"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人间”的意思是？",
+                "options": [
+                  "人世间",
+                  "人群中间",
+                  "人间烟火",
+                  "民间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“几回”的意思是？",
+                "options": [
+                  "多少次",
+                  "几趟来回",
+                  "几个回合",
+                  "几遍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“闻”的意思是？",
+                "options": [
+                  "听见",
+                  "闻到气味",
+                  "新闻",
+                  "闻名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半入”的意思是？",
+                "options": [
+                  "一半融入",
+                  "一半进入",
+                  "一半收入",
+                  "一半落入"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "锦官城里管弦乐器声天天纷纷扬扬。",
+                "options": [
+                  "锦城丝管日纷纷",
+                  "半入江风半入云",
+                  "此曲只应天上有",
+                  "人间能得几回闻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“锦城丝管日纷纷”的意思是？",
+                "options": [
+                  "成都城里弦管奏出的乐声每天纷纷扬扬",
+                  "成都城里丝绸和管乐器每天杂乱堆放",
+                  "锦官城的丝织品每天纷纷上市",
+                  "锦城的管弦乐队每天纷纷解散"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "乐声一半随江风飘散，一半飘入云端。",
+                "options": [
+                  "半入江风半入云",
+                  "锦城丝管日纷纷",
+                  "此曲只应天上有",
+                  "人间能得几回闻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“半入江风半入云”的意思是？",
+                "options": [
+                  "乐声一半随江风飘散，一半飘入云端",
+                  "乐声一半被江风吹走，一半被云遮住",
+                  "乐声一半传入江中，一半传入云中",
+                  "乐声一半在江边响起，一半在云间回荡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这样的乐曲只应该天上才有。",
+                "options": [
+                  "此曲只应天上有",
+                  "人间能得几回闻",
+                  "锦城丝管日纷纷",
+                  "半入江风半入云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此曲只应天上有”的意思是？",
+                "options": [
+                  "这样的乐曲只应该天上才有",
+                  "这支曲子只应天上的人来演奏",
+                  "这首曲子只在天上被记录下来",
+                  "这样的曲调只应天上的人来听"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "人世间能听到几回呢？",
+                "options": [
+                  "人间能得几回闻",
+                  "此曲只应天上有",
+                  "锦城丝管日纷纷",
+                  "半入江风半入云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“人间能得几回闻”的意思是？",
+                "options": [
+                  "人世间能听到几回呢",
+                  "人世间能得到几回这样的乐曲",
+                  "人世间能闻几回花香",
+                  "人世间能见几回这样的场面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半入江风半入云",
+                  "锦城丝管日纷纷"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人间能得几回闻",
+                  "此曲只应天上有"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此曲只应天上有",
+                  "半入江风半入云",
+                  "锦城丝管日纷纷",
+                  "人间能得几回闻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人间能得几回闻",
+                  "锦城丝管日纷纷",
+                  "此曲只应天上有",
+                  "半入江风半入云"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐn"
+              },
+              "otherInfo": {
+                "content": "__城丝管日纷纷",
+                "answer": "锦"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī"
+              },
+              "otherInfo": {
+                "content": "锦城__管日纷纷",
+                "answer": "丝"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng"
+              },
+              "otherInfo": {
+                "content": "半入江__半入云",
+                "answer": "风"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yún"
+              },
+              "otherInfo": {
+                "content": "半入江风半入__",
+                "answer": "云"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǔ"
+              },
+              "otherInfo": {
+                "content": "此__只应天上有",
+                "answer": "曲"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "此曲只__天上有",
+                "answer": "应"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dé"
+              },
+              "otherInfo": {
+                "content": "人间能__几回闻",
+                "answer": "得"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wén"
+              },
+              "otherInfo": {
+                "content": "人间能得几回__",
+                "answer": "闻"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēn"
+              },
+              "otherInfo": {
+                "content": "锦城丝管日__纷",
+                "answer": "纷"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān"
+              },
+              "otherInfo": {
+                "content": "此曲只应__上有",
+                "answer": "天"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锦城丝管日纷纷，______。",
+                "answer": "半入江风半入云"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，半入江风半入云。",
+                "answer": "锦城丝管日纷纷"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此曲只应天上有，______。",
+                "answer": "人间能得几回闻"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，人间能得几回闻。",
+                "answer": "此曲只应天上有"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锦城丝管日纷纷，半入江风半入云。______，______。",
+                "answer": "此曲只应天上有，人间能得几回闻"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锦城丝管日纷纷，半入江风半入云。______，______。",
+                "answer": "此曲只应天上有，人间能得几回闻"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人间能得几回闻",
+                  "锦城丝管日纷纷",
+                  "此曲只应天上有",
+                  "半入江风半入云"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此曲只应天上有",
+                  "半入江风半入云",
+                  "人间能得几回闻",
+                  "锦城丝管日纷纷"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半入江风半入云",
+                  "人间能得几回闻",
+                  "锦城丝管日纷纷",
+                  "此曲只应天上有"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锦城丝管日纷纷",
+                  "此曲只应天上有",
+                  "人间能得几回闻",
+                  "半入江风半入云"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人间能得几回闻",
+                  "此曲只应天上有",
+                  "半入江风半入云",
+                  "锦城丝管日纷纷"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,947 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú lián yōu cǎo jiàn biān shēng"
+              },
+              "otherInfo": {
+                "line": "独怜幽草涧边生"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shàng yǒu huáng lí shēn shù míng"
+              },
+              "otherInfo": {
+                "line": "上有黄鹂深树鸣"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn cháo dài yǔ wǎn lái jí"
+              },
+              "otherInfo": {
+                "line": "春潮带雨晚来急"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yě dù wú rén zhōu zì héng"
+              },
+              "otherInfo": {
+                "line": "野渡无人舟自横"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独怜”的意思是？",
+                "options": [
+                  "唯独喜爱",
+                  "独自可怜",
+                  "孤独怜悯",
+                  "特别可惜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“幽草”的意思是？",
+                "options": [
+                  "幽谷中的野草",
+                  "幽静处的青草",
+                  "幽暗处的枯草",
+                  "幽深处的芳草"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“深树”的意思是？",
+                "options": [
+                  "深秋的树林",
+                  "枝叶茂密的树",
+                  "深色的树木",
+                  "树林深处"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春潮”的意思是？",
+                "options": [
+                  "春天的潮水",
+                  "春天的雨水",
+                  "春江的波浪",
+                  "春日的溪流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晚来急”的意思是？",
+                "options": [
+                  "傍晚来得匆忙",
+                  "晚上来得急切",
+                  "傍晚时分来得急骤",
+                  "迟来的时候很着急"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“野渡”的意思是？",
+                "options": [
+                  "野外的渡口",
+                  "荒僻的渡口",
+                  "乡野的渡船",
+                  "野外的渡河处"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“舟自横”的意思是？",
+                "options": [
+                  "船自己横着走",
+                  "船自行横在水面",
+                  "船桨横放着",
+                  "船身自然横斜"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“上有”的意思是？",
+                "options": [
+                  "上面有",
+                  "上游有",
+                  "高处有",
+                  "上方存在"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄鹂”的意思是？",
+                "options": [
+                  "黄莺",
+                  "黄雀",
+                  "黄鸟",
+                  "黄鹂鸟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“涧边”的意思是？",
+                "options": [
+                  "山涧旁边",
+                  "溪涧边缘",
+                  "水涧一侧",
+                  "涧水岸边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "唯独喜爱涧边生长的幽草。",
+                "options": [
+                  "独怜幽草涧边生",
+                  "上有黄鹂深树鸣",
+                  "春潮带雨晚来急",
+                  "野渡无人舟自横"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“独怜幽草涧边生”的意思是？",
+                "options": [
+                  "我唯独喜爱那涧边生长的幽草",
+                  "我独自怜惜那涧边枯死的野草",
+                  "我特别同情那涧边被踩的草",
+                  "我孤独地站在涧边看草生长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "上面有黄鹂在枝叶茂密的树中鸣叫。",
+                "options": [
+                  "上有黄鹂深树鸣",
+                  "独怜幽草涧边生",
+                  "春潮带雨晚来急",
+                  "野渡无人舟自横"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“上有黄鹂深树鸣”的意思是？",
+                "options": [
+                  "上面有黄鹂在深树中鸣叫",
+                  "上游有黄鹂在深树中飞过",
+                  "高处有黄鹂在深树中筑巢",
+                  "上面有黄鹂在深树中栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚时分，春潮夹带着雨水来得又急又猛。",
+                "options": [
+                  "春潮带雨晚来急",
+                  "独怜幽草涧边生",
+                  "上有黄鹂深树鸣",
+                  "野渡无人舟自横"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春潮带雨晚来急”的意思是？",
+                "options": [
+                  "春潮夹带雨水傍晚来得急骤",
+                  "春潮带着雨点晚上来得很慢",
+                  "春天的潮水因雨晚到了",
+                  "春潮和雨水在傍晚急促退去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "荒僻的渡口空无一人，只有小船独自横在水面。",
+                "options": [
+                  "野渡无人舟自横",
+                  "独怜幽草涧边生",
+                  "上有黄鹂深树鸣",
+                  "春潮带雨晚来急"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“野渡无人舟自横”的意思是？",
+                "options": [
+                  "荒僻渡口无人，小船独自横在水面",
+                  "野外渡口没有人，船自己横着划走",
+                  "乡野渡口无人，船桨横放在船中",
+                  "野渡无人看管，船身被水冲横"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "上有黄鹂深树鸣",
+                  "独怜幽草涧边生"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "野渡无人舟自横",
+                  "春潮带雨晚来急"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春潮带雨晚来急",
+                  "上有黄鹂深树鸣",
+                  "独怜幽草涧边生",
+                  "野渡无人舟自横"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "野渡无人舟自横",
+                  "独怜幽草涧边生",
+                  "春潮带雨晚来急",
+                  "上有黄鹂深树鸣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "独__幽草涧边生",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "独怜幽草__边生",
+                "answer": "涧"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí"
+              },
+              "otherInfo": {
+                "content": "上有黄__深树鸣",
+                "answer": "鹂"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "上有黄鹂深树__",
+                "answer": "鸣"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháo"
+              },
+              "otherInfo": {
+                "content": "春__带雨晚来急",
+                "answer": "潮"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài"
+              },
+              "otherInfo": {
+                "content": "春潮__雨晚来急",
+                "answer": "带"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎn"
+              },
+              "otherInfo": {
+                "content": "春潮带雨__来急",
+                "answer": "晚"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dù"
+              },
+              "otherInfo": {
+                "content": "野__无人舟自横",
+                "answer": "渡"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "héng"
+              },
+              "otherInfo": {
+                "content": "野渡无人舟自__",
+                "answer": "横"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "野渡无人__自横",
+                "answer": "舟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "独怜幽草涧边生，______。",
+                "answer": "上有黄鹂深树鸣"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，上有黄鹂深树鸣。",
+                "answer": "独怜幽草涧边生"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春潮带雨晚来急，______。",
+                "answer": "野渡无人舟自横"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，野渡无人舟自横。",
+                "answer": "春潮带雨晚来急"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "独怜幽草涧边生，上有黄鹂深树鸣。______，______。",
+                "answer": "春潮带雨晚来急，野渡无人舟自横"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "野渡无人舟自横",
+                  "独怜幽草涧边生",
+                  "春潮带雨晚来急",
+                  "上有黄鹂深树鸣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春潮带雨晚来急",
+                  "上有黄鹂深树鸣",
+                  "野渡无人舟自横",
+                  "独怜幽草涧边生"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "上有黄鹂深树鸣",
+                  "野渡无人舟自横",
+                  "独怜幽草涧边生",
+                  "春潮带雨晚来急"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独怜幽草涧边生",
+                  "野渡无人舟自横",
+                  "上有黄鹂深树鸣",
+                  "春潮带雨晚来急"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春潮带雨晚来急",
+                  "独怜幽草涧边生",
+                  "野渡无人舟自横",
+                  "上有黄鹂深树鸣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

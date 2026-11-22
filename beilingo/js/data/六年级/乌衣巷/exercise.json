@@ -1,0 +1,653 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhū què qiáo biān yě cǎo huā"
+              },
+              "otherInfo": {
+                "line": "朱雀桥边野草花"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wū yī xiàng kǒu xī yáng xié"
+              },
+              "otherInfo": {
+                "line": "乌衣巷口夕阳斜"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiù shí wáng xiè táng qián yàn"
+              },
+              "otherInfo": {
+                "line": "旧时王谢堂前燕"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi rù xún cháng bǎi xìng jiā"
+              },
+              "otherInfo": {
+                "line": "飞入寻常百姓家"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“朱雀桥边野草花”中“花”的意思是？",
+                "options": [
+                  "开花",
+                  "花朵",
+                  "花纹",
+                  "花费"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乌衣巷口夕阳斜”中“斜”的意思是？",
+                "options": [
+                  "倾斜",
+                  "斜阳",
+                  "歪斜",
+                  "斜着"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“旧时王谢堂前燕”中“旧时”的意思是？",
+                "options": [
+                  "过去的时候",
+                  "陈旧的时候",
+                  "古老的时候",
+                  "从前的时候"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞入寻常百姓家”中“寻常”的意思是？",
+                "options": [
+                  "平常",
+                  "经常",
+                  "寻常",
+                  "普通"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "朱雀桥边野草开花，乌衣巷口夕阳西斜。",
+                "options": [
+                  "朱雀桥边野草花，乌衣巷口夕阳斜",
+                  "旧时王谢堂前燕，飞入寻常百姓家",
+                  "朱雀桥边野草花，飞入寻常百姓家",
+                  "乌衣巷口夕阳斜，旧时王谢堂前燕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“朱雀桥边野草花”的意思是？",
+                "options": [
+                  "朱雀桥边野草开花",
+                  "朱雀桥边野草枯萎",
+                  "朱雀桥边野花盛开",
+                  "朱雀桥边野草丛生"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "当年王导、谢安堂前的燕子，如今飞进了普通百姓的家中。",
+                "options": [
+                  "旧时王谢堂前燕，飞入寻常百姓家",
+                  "朱雀桥边野草花，乌衣巷口夕阳斜",
+                  "旧时王谢堂前燕，乌衣巷口夕阳斜",
+                  "朱雀桥边野草花，飞入寻常百姓家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“乌衣巷口夕阳斜”的意思是？",
+                "options": [
+                  "乌衣巷口夕阳西斜",
+                  "乌衣巷口夕阳西下",
+                  "乌衣巷口夕阳斜照",
+                  "乌衣巷口夕阳斜挂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乌衣巷口夕阳斜",
+                  "朱雀桥边野草花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入寻常百姓家",
+                  "旧时王谢堂前燕"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乌衣巷口夕阳斜",
+                  "朱雀桥边野草花",
+                  "飞入寻常百姓家",
+                  "旧时王谢堂前燕"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入寻常百姓家",
+                  "朱雀桥边野草花",
+                  "旧时王谢堂前燕",
+                  "乌衣巷口夕阳斜"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què"
+              },
+              "otherInfo": {
+                "content": "朱__桥边野草花",
+                "answer": "雀"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié"
+              },
+              "otherInfo": {
+                "content": "乌衣巷口夕阳__",
+                "answer": "斜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiè"
+              },
+              "otherInfo": {
+                "content": "旧时王__堂前燕",
+                "answer": "谢"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xún"
+              },
+              "otherInfo": {
+                "content": "飞入__常百姓家",
+                "answer": "寻"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朱雀桥边野草花，______",
+                "answer": "乌衣巷口夕阳斜"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，乌衣巷口夕阳斜",
+                "answer": "朱雀桥边野草花"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "旧时王谢堂前燕，______",
+                "answer": "飞入寻常百姓家"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，飞入寻常百姓家",
+                "answer": "旧时王谢堂前燕"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朱雀桥边野草花，乌衣巷口夕阳斜。______，______",
+                "answer": "旧时王谢堂前燕，飞入寻常百姓家"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入寻常百姓家",
+                  "朱雀桥边野草花",
+                  "旧时王谢堂前燕",
+                  "乌衣巷口夕阳斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "旧时王谢堂前燕",
+                  "乌衣巷口夕阳斜",
+                  "朱雀桥边野草花",
+                  "飞入寻常百姓家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乌衣巷口夕阳斜",
+                  "飞入寻常百姓家",
+                  "朱雀桥边野草花",
+                  "旧时王谢堂前燕"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "朱雀桥边野草花",
+                  "旧时王谢堂前燕",
+                  "飞入寻常百姓家",
+                  "乌衣巷口夕阳斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入寻常百姓家",
+                  "旧时王谢堂前燕",
+                  "乌衣巷口夕阳斜",
+                  "朱雀桥边野草花"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,933 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǔ qū huáng hé wàn lǐ shā"
+              },
+              "otherInfo": {
+                "line": "九曲黄河万里沙"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "làng táo fēng bǒ zì tiān yá"
+              },
+              "otherInfo": {
+                "line": "浪淘风簸自天涯"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rú jīn zhí shàng yín hé qù"
+              },
+              "otherInfo": {
+                "line": "如今直上银河去"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tóng dào qiān niú zhī nǚ jiā"
+              },
+              "otherInfo": {
+                "line": "同到牵牛织女家"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“九曲”的意思是？",
+                "options": [
+                  "形容黄河弯弯曲曲的样子",
+                  "九种不同颜色的曲调",
+                  "九个弯曲的河湾",
+                  "九次转折的乐曲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浪淘风簸”的意思是？",
+                "options": [
+                  "波浪淘洗、狂风颠簸",
+                  "浪花淘米、风吹簸箕",
+                  "浪涛淘金、风扬谷壳",
+                  "浪头淘气、风卷簸箕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天涯”的意思是？",
+                "options": [
+                  "天边，指极远的地方",
+                  "天空的边缘线",
+                  "天涯海角的简称",
+                  "天与海的交界处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“直上”的意思是？",
+                "options": [
+                  "一直向上，径直前往",
+                  "笔直地上升",
+                  "直接上天",
+                  "垂直向上攀登"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“银河”的意思是？",
+                "options": [
+                  "天河，晴天夜晚可见的银河",
+                  "银色的河流",
+                  "银白色的河水",
+                  "银河系的简称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“牵牛织女”指的是？",
+                "options": [
+                  "牵牛星和织女星，神话中的牛郎织女",
+                  "牵牛花和织女草",
+                  "放牛郎和织布女",
+                  "牵牛和织布两种劳作"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“如今”的意思是？",
+                "options": [
+                  "现在，如今",
+                  "如果今天",
+                  "像今天这样",
+                  "到今天为止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万里沙”的意思是？",
+                "options": [
+                  "万里黄沙，形容黄河挟带泥沙之多",
+                  "一万里长的沙地",
+                  "万里的沙尘暴",
+                  "万里的沙滩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“风簸”的意思是？",
+                "options": [
+                  "风浪颠簸，形容风大浪急",
+                  "风吹簸箕",
+                  "风扬谷壳",
+                  "风卷沙土"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“同到”的意思是？",
+                "options": [
+                  "一同到达",
+                  "同样来到",
+                  "同时去到",
+                  "一起回到"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "弯弯曲曲的黄河挟带着万里泥沙，",
+                "options": [
+                  "九曲黄河万里沙",
+                  "浪淘风簸自天涯",
+                  "如今直上银河去",
+                  "同到牵牛织女家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“浪淘风簸自天涯”的意思是？",
+                "options": [
+                  "黄河波涛汹涌、狂风颠簸，仿佛来自天边",
+                  "黄河的浪花淘洗着来自天涯的沙石",
+                  "风浪把黄河水簸扬到天涯海角",
+                  "黄河从天涯海角一路淘洗风沙而来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "如今我要沿着黄河径直上到银河去，",
+                "options": [
+                  "如今直上银河去",
+                  "九曲黄河万里沙",
+                  "浪淘风簸自天涯",
+                  "同到牵牛织女家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“如今直上银河去”的意思是？",
+                "options": [
+                  "如今我要沿着黄河径直上到银河去",
+                  "现在黄河的水直接流向了银河",
+                  "如今银河的水直流而下",
+                  "现在我要直接飞上银河"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一同到牵牛织女的家去做客。",
+                "options": [
+                  "同到牵牛织女家",
+                  "如今直上银河去",
+                  "九曲黄河万里沙",
+                  "浪淘风簸自天涯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“同到牵牛织女家”的意思是？",
+                "options": [
+                  "一同到牵牛织女的家去做客",
+                  "和牵牛织女一同回家",
+                  "同样到达牵牛织女的家乡",
+                  "同路的牵牛织女回到了家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浪淘风簸自天涯",
+                  "九曲黄河万里沙"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "同到牵牛织女家",
+                  "如今直上银河去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "如今直上银河去",
+                  "浪淘风簸自天涯",
+                  "九曲黄河万里沙",
+                  "同到牵牛织女家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "同到牵牛织女家",
+                  "九曲黄河万里沙",
+                  "如今直上银河去",
+                  "浪淘风簸自天涯"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qū"
+              },
+              "otherInfo": {
+                "content": "九__黄河万里沙",
+                "answer": "曲"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǒ"
+              },
+              "otherInfo": {
+                "content": "浪淘风__自天涯",
+                "answer": "簸"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yá"
+              },
+              "otherInfo": {
+                "content": "浪淘风簸自天__",
+                "answer": "涯"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhí"
+              },
+              "otherInfo": {
+                "content": "如今__上银河去",
+                "answer": "直"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "如今直上__河去",
+                "answer": "银"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān"
+              },
+              "otherInfo": {
+                "content": "同到__牛织女家",
+                "answer": "牵"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "同到牵牛__女家",
+                "answer": "织"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shā"
+              },
+              "otherInfo": {
+                "content": "九曲黄河万里__",
+                "answer": "沙"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tāo"
+              },
+              "otherInfo": {
+                "content": "浪__风簸自天涯",
+                "answer": "淘"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiā"
+              },
+              "otherInfo": {
+                "content": "同到牵牛织女__",
+                "answer": "家"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "九曲黄河万里沙，______",
+                "answer": "浪淘风簸自天涯"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，浪淘风簸自天涯",
+                "answer": "九曲黄河万里沙"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如今直上银河去，______",
+                "answer": "同到牵牛织女家"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，同到牵牛织女家",
+                "answer": "如今直上银河去"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "九曲黄河万里沙，浪淘风簸自天涯。______，______",
+                "answer": "如今直上银河去，同到牵牛织女家"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如今直上银河去，同到牵牛织女家。______，______",
+                "answer": "如今直上银河去，同到牵牛织女家"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浪淘风簸自天涯",
+                  "同到牵牛织女家",
+                  "九曲黄河万里沙",
+                  "如今直上银河去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "如今直上银河去",
+                  "九曲黄河万里沙",
+                  "同到牵牛织女家",
+                  "浪淘风簸自天涯"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "同到牵牛织女家",
+                  "浪淘风簸自天涯",
+                  "如今直上银河去",
+                  "九曲黄河万里沙"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "九曲黄河万里沙",
+                  "如今直上银河去",
+                  "浪淘风簸自天涯",
+                  "同到牵牛织女家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浪淘风簸自天涯",
+                  "九曲黄河万里沙",
+                  "同到牵牛织女家",
+                  "如今直上银河去"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

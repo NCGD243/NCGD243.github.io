@@ -1,0 +1,2476 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǔ zhōng yǒu dù chǔ shì zhě hǎo shū huà"
+              },
+              "otherInfo": {
+                "line": "蜀中有杜处士者好书画"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ bǎo yǐ bǎi shù"
+              },
+              "otherInfo": {
+                "line": "所宝以百数"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu dài sōng niú yī zhóu"
+              },
+              "otherInfo": {
+                "line": "有戴嵩牛一轴"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yóu suǒ ài"
+              },
+              "otherInfo": {
+                "line": "尤所爱"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐn náng yù zhóu cháng yǐ zì suí"
+              },
+              "otherInfo": {
+                "line": "锦囊玉轴常以自随"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī rì pù shū huà"
+              },
+              "otherInfo": {
+                "line": "一日曝书画"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu yī mù tóng jiàn zhī"
+              },
+              "otherInfo": {
+                "line": "有一牧童见之"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǔ zhǎng dà xiào yuē"
+              },
+              "otherInfo": {
+                "line": "拊掌大笑曰"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ huà dòu niú yě"
+              },
+              "otherInfo": {
+                "line": "此画斗牛也"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dòu niú lì zài jiǎo"
+              },
+              "otherInfo": {
+                "line": "斗牛力在角"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wěi rù liǎng gǔ jiān"
+              },
+              "otherInfo": {
+                "line": "尾入两股间"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīn nǎi diào wěi ér dòu"
+              },
+              "otherInfo": {
+                "line": "今乃掉尾而斗"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "miù yǐ"
+              },
+              "otherInfo": {
+                "line": "谬矣"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chǔ shì xiào ér rán zhī"
+              },
+              "otherInfo": {
+                "line": "处士笑而然之"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ yǔ yǒu yún"
+              },
+              "otherInfo": {
+                "line": "古语有云"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gēng dāng wèn nú zhī dāng wèn bì"
+              },
+              "otherInfo": {
+                "line": "耕当问奴织当问婢"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù kě gǎi yě"
+              },
+              "otherInfo": {
+                "line": "不可改也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“所宝以百数”中“宝”的意思是？",
+                "options": [
+                  "珍视",
+                  "财宝",
+                  "宝物",
+                  "宝贵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尤所爱”中“尤”的意思是？",
+                "options": [
+                  "特别",
+                  "责怪",
+                  "犹豫",
+                  "尤其"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锦囊玉轴”中“轴”的意思是？",
+                "options": [
+                  "卷轴",
+                  "车轴",
+                  "轴线",
+                  "轴承"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一日曝书画”中“曝”的意思是？",
+                "options": [
+                  "晒",
+                  "暴露",
+                  "曝光",
+                  "暴晒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“拊掌大笑”中“拊”的意思是？",
+                "options": [
+                  "拍",
+                  "抚摸",
+                  "扶持",
+                  "靠近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尾入两股间”中“股”的意思是？",
+                "options": [
+                  "大腿",
+                  "屁股",
+                  "股份",
+                  "一股"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“今乃掉尾而斗”中“掉”的意思是？",
+                "options": [
+                  "摆动",
+                  "掉落",
+                  "丢掉",
+                  "掉头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“谬矣”中“谬”的意思是？",
+                "options": [
+                  "错误",
+                  "荒谬",
+                  "差谬",
+                  "谬论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“处士笑而然之”中“然”的意思是？",
+                "options": [
+                  "认为对",
+                  "然而",
+                  "这样",
+                  "自然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“耕当问奴”中“当”的意思是？",
+                "options": [
+                  "应当",
+                  "担当",
+                  "正当",
+                  "当作"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "四川有个姓杜的处士，喜欢书画。",
+                "options": [
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数",
+                  "有戴嵩牛一轴",
+                  "尤所爱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“所宝以百数”的意思是？",
+                "options": [
+                  "所珍藏的宝贝要用百来计算",
+                  "所宝贝的东西有一百个",
+                  "所珍藏的书画有一百幅",
+                  "所宝贝的数目以百为单位"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有戴嵩画的一幅牛。",
+                "options": [
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尤所爱”的意思是？",
+                "options": [
+                  "特别喜爱",
+                  "尤其所爱",
+                  "更加爱护",
+                  "尤其喜欢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "用锦囊装着、玉轴卷着，常常随身携带。",
+                "options": [
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有一牧童见之",
+                  "拊掌大笑曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“锦囊玉轴常以自随”的意思是？",
+                "options": [
+                  "用锦囊装着、玉轴卷着，常常随身携带",
+                  "锦囊和玉轴常常自己跟随",
+                  "锦囊玉轴常常自己随身带着",
+                  "用锦囊玉轴常常自己随行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有一天晾晒书画。",
+                "options": [
+                  "一日曝书画",
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "此画斗牛也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一日曝书画”的意思是？",
+                "options": [
+                  "有一天晾晒书画",
+                  "一天曝光书画",
+                  "一日暴露书画",
+                  "一天暴晒书画"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有一个牧童看见了这幅画。",
+                "options": [
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "此画斗牛也",
+                  "斗牛力在角"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“有一牧童见之”的意思是？",
+                "options": [
+                  "有一个牧童看见了这幅画",
+                  "有一个牧童见到了他",
+                  "有一个牧童看见了他",
+                  "有一个牧童见到了这幅画"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "拍着手大笑说。",
+                "options": [
+                  "拊掌大笑曰",
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“拊掌大笑曰”的意思是？",
+                "options": [
+                  "拍着手大笑说",
+                  "拍着掌大笑说",
+                  "拍手大笑说",
+                  "拊掌大笑说"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这幅画的是斗牛。",
+                "options": [
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此画斗牛也”的意思是？",
+                "options": [
+                  "这幅画的是斗牛",
+                  "这幅画斗牛",
+                  "这幅画是斗牛",
+                  "这幅画斗牛也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "斗牛的力量在角上。",
+                "options": [
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“斗牛力在角”的意思是？",
+                "options": [
+                  "斗牛的力量在角上",
+                  "斗牛用力在角上",
+                  "斗牛力气在角上",
+                  "斗牛力在角上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "尾巴夹在两腿之间。",
+                "options": [
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尾入两股间”的意思是？",
+                "options": [
+                  "尾巴夹在两腿之间",
+                  "尾巴进入两股之间",
+                  "尾巴伸入两腿之间",
+                  "尾巴插入两股之间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "现在却摇着尾巴争斗。",
+                "options": [
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“今乃掉尾而斗”的意思是？",
+                "options": [
+                  "现在却摇着尾巴争斗",
+                  "现在却掉下尾巴争斗",
+                  "现在却摆动尾巴争斗",
+                  "现在却掉尾而斗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "错了。",
+                "options": [
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“谬矣”的意思是？",
+                "options": [
+                  "错了",
+                  "荒谬了",
+                  "差错了",
+                  "谬误了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "处士笑了，认为他说得对。",
+                "options": [
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“处士笑而然之”的意思是？",
+                "options": [
+                  "处士笑了，认为他说得对",
+                  "处士笑着然后这样",
+                  "处士笑了，然而这样",
+                  "处士笑着认为这样"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q25",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "古人有话说。",
+                "options": [
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也",
+                  "蜀中有杜处士者好书画"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q26",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“古语有云”的意思是？",
+                "options": [
+                  "古人有话说",
+                  "古代的话有云",
+                  "古语有说",
+                  "古人有云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q27",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "耕种应当问奴仆，织布应当问婢女。",
+                "options": [
+                  "耕当问奴织当问婢",
+                  "不可改也",
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q28",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“耕当问奴织当问婢”的意思是？",
+                "options": [
+                  "耕种应当问奴仆，织布应当问婢女",
+                  "耕种应当问奴仆，织布应当问婢女们",
+                  "耕田应当问奴仆，织布应当问婢女",
+                  "耕种应当问奴，织布应当问婢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q29",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不能改变。",
+                "options": [
+                  "不可改也",
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数",
+                  "有戴嵩牛一轴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q30",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不可改也”的意思是？",
+                "options": [
+                  "不能改变",
+                  "不可以改",
+                  "不可更改",
+                  "不能改也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q31",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所珍藏的宝贝要用百来计算。",
+                "options": [
+                  "所宝以百数",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "锦囊玉轴常以自随"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q32",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“蜀中有杜处士者好书画”的意思是？",
+                "options": [
+                  "四川有个姓杜的处士，喜欢书画",
+                  "四川有个杜处士，喜欢书画",
+                  "蜀中有个杜处士，喜欢书画",
+                  "四川有个姓杜的处士，喜好书画"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q33",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "特别喜爱。",
+                "options": [
+                  "尤所爱",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有一牧童见之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q34",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“有戴嵩牛一轴”的意思是？",
+                "options": [
+                  "有戴嵩画的一幅牛",
+                  "有戴嵩的一轴牛",
+                  "有戴嵩画的一轴牛",
+                  "有戴嵩牛一幅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所宝以百数",
+                  "蜀中有杜处士者好书画"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尤所爱",
+                  "有戴嵩牛一轴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一日曝书画",
+                  "锦囊玉轴常以自随"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拊掌大笑曰",
+                  "有一牧童见之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斗牛力在角",
+                  "此画斗牛也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "今乃掉尾而斗",
+                  "尾入两股间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "处士笑而然之",
+                  "谬矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "耕当问奴织当问婢",
+                  "古语有云"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有戴嵩牛一轴",
+                  "所宝以百数",
+                  "蜀中有杜处士者好书画",
+                  "尤所爱"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "尤所爱",
+                  "有戴嵩牛一轴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "一日曝书画",
+                  "锦囊玉轴常以自随"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "拊掌大笑曰",
+                  "有一牧童见之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "斗牛力在角",
+                  "此画斗牛也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谬矣",
+                  "处士笑而然之",
+                  "今乃掉尾而斗",
+                  "尾入两股间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "处士笑而然之",
+                  "谬矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不可改也",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "处士笑而然之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所宝以百数",
+                  "蜀中有杜处士者好书画",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǔ"
+              },
+              "otherInfo": {
+                "content": "__中有杜处士者好书画",
+                "answer": "蜀"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǎo"
+              },
+              "otherInfo": {
+                "content": "所__以百数",
+                "answer": "宝"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sōng"
+              },
+              "otherInfo": {
+                "content": "有戴__牛一轴",
+                "answer": "嵩"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yóu"
+              },
+              "otherInfo": {
+                "content": "__所爱",
+                "answer": "尤"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "náng"
+              },
+              "otherInfo": {
+                "content": "锦__玉轴常以自随",
+                "answer": "囊"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pù"
+              },
+              "otherInfo": {
+                "content": "一日__书画",
+                "answer": "曝"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "有一__童见之",
+                "answer": "牧"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǔ"
+              },
+              "otherInfo": {
+                "content": "__掌大笑曰",
+                "answer": "拊"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dòu"
+              },
+              "otherInfo": {
+                "content": "此画__牛也",
+                "answer": "斗"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎo"
+              },
+              "otherInfo": {
+                "content": "斗牛力在__",
+                "answer": "角"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蜀中有杜处士者好书画，______。",
+                "answer": "所宝以百数"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，所宝以百数。",
+                "answer": "蜀中有杜处士者好书画"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "有戴嵩牛一轴，______。",
+                "answer": "尤所爱"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，尤所爱。",
+                "answer": "有戴嵩牛一轴"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锦囊玉轴常以自随，______。",
+                "answer": "一日曝书画"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一日曝书画。",
+                "answer": "锦囊玉轴常以自随"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "有一牧童见之，______。",
+                "answer": "拊掌大笑曰"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，拊掌大笑曰。",
+                "answer": "有一牧童见之"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此画斗牛也，______。",
+                "answer": "斗牛力在角"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，斗牛力在角。",
+                "answer": "此画斗牛也"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "尾入两股间，______。",
+                "answer": "今乃掉尾而斗"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，今乃掉尾而斗。",
+                "answer": "尾入两股间"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谬矣，______。",
+                "answer": "处士笑而然之"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，处士笑而然之。",
+                "answer": "谬矣"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古语有云，______。",
+                "answer": "耕当问奴织当问婢"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，耕当问奴织当问婢。",
+                "answer": "古语有云"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。",
+                "answer": "不可改也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蜀中有杜处士者好书画，所宝以百数。______，______。",
+                "answer": "有戴嵩牛一轴，尤所爱"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "有戴嵩牛一轴，尤所爱。______，______。",
+                "answer": "锦囊玉轴常以自随，一日曝书画"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锦囊玉轴常以自随，一日曝书画。______，______。",
+                "answer": "有一牧童见之，拊掌大笑曰"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "有一牧童见之，拊掌大笑曰。______，______。",
+                "answer": "此画斗牛也，斗牛力在角"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此画斗牛也，斗牛力在角。______，______。",
+                "answer": "尾入两股间，今乃掉尾而斗"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "尾入两股间，今乃掉尾而斗。______，______。",
+                "answer": "谬矣，处士笑而然之"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谬矣，处士笑而然之。______，______。",
+                "answer": "古语有云，耕当问奴织当问婢"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古语有云，耕当问奴织当问婢。______。",
+                "answer": "不可改也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所宝以百数",
+                  "蜀中有杜处士者好书画",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尤所爱",
+                  "有戴嵩牛一轴",
+                  "所宝以百数",
+                  "蜀中有杜处士者好书画",
+                  "一日曝书画",
+                  "锦囊玉轴常以自随",
+                  "拊掌大笑曰",
+                  "有一牧童见之",
+                  "斗牛力在角",
+                  "此画斗牛也",
+                  "今乃掉尾而斗",
+                  "尾入两股间",
+                  "处士笑而然之",
+                  "谬矣",
+                  "耕当问奴织当问婢",
+                  "古语有云",
+                  "不可改也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数",
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数",
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此画斗牛也",
+                  "斗牛力在角",
+                  "有一牧童见之",
+                  "拊掌大笑曰",
+                  "锦囊玉轴常以自随",
+                  "一日曝书画",
+                  "有戴嵩牛一轴",
+                  "尤所爱",
+                  "蜀中有杜处士者好书画",
+                  "所宝以百数",
+                  "尾入两股间",
+                  "今乃掉尾而斗",
+                  "谬矣",
+                  "处士笑而然之",
+                  "古语有云",
+                  "耕当问奴织当问婢",
+                  "不可改也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

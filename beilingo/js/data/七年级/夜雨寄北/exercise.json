@@ -1,0 +1,747 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jūn wèn guī qī wèi yǒu qī"
+              },
+              "otherInfo": {
+                "line": "君问归期未有期"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bā shān yè yǔ zhǎng qiū chí"
+              },
+              "otherInfo": {
+                "line": "巴山夜雨涨秋池"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé dāng gòng jiǎn xī chuāng zhú"
+              },
+              "otherInfo": {
+                "line": "何当共剪西窗烛"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què huà bā shān yè yǔ shí"
+              },
+              "otherInfo": {
+                "line": "却话巴山夜雨时"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“君问归期未有期”中“君”的意思是？",
+                "options": [
+                  "对对方的尊称，相当于“您”",
+                  "古代对君主的称呼",
+                  "对朋友的谦称",
+                  "泛指所有人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“巴山夜雨涨秋池”中“涨”的意思是？",
+                "options": [
+                  "水位升高，上涨",
+                  "价格提高",
+                  "情绪高涨",
+                  "物体膨胀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“何当共剪西窗烛”中“何当”的意思是？",
+                "options": [
+                  "何时能够",
+                  "为什么应当",
+                  "何必担当",
+                  "如何抵挡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“却话巴山夜雨时”中“却”的意思是？",
+                "options": [
+                  "回头，再",
+                  "但是，可是",
+                  "退却，后退",
+                  "推辞，拒绝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你问我回家的日期，我还没有确定的日期。",
+                "options": [
+                  "君问归期未有期",
+                  "巴山夜雨涨秋池",
+                  "何当共剪西窗烛",
+                  "却话巴山夜雨时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“君问归期未有期”的意思是？",
+                "options": [
+                  "你问我归家的日期，我还没有确定的日期",
+                  "你问我归家的日期，我已经定好了日期",
+                  "你问我归家的路线，我还没有想好路线",
+                  "你问我归家的原因，我还没有说明原因"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "巴山地区夜里下着雨，秋日的池塘水位上涨。",
+                "options": [
+                  "巴山夜雨涨秋池",
+                  "君问归期未有期",
+                  "何当共剪西窗烛",
+                  "却话巴山夜雨时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“巴山夜雨涨秋池”的意思是？",
+                "options": [
+                  "巴山夜里下雨，秋池的水上涨了",
+                  "巴山夜里下雨，秋池的鱼增多了",
+                  "巴山夜里刮风，秋池的船停泊了",
+                  "巴山夜里下雪，秋池的水结冰了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "什么时候才能一起在西窗下剪烛花？",
+                "options": [
+                  "何当共剪西窗烛",
+                  "却话巴山夜雨时",
+                  "君问归期未有期",
+                  "巴山夜雨涨秋池"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“何当共剪西窗烛”的意思是？",
+                "options": [
+                  "什么时候才能一起在西窗下剪烛花",
+                  "为什么要在西窗下一起剪烛花",
+                  "什么时候才能独自在西窗下剪烛花",
+                  "什么时候才能一起在西窗下点蜡烛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "到那时再回头谈论巴山夜雨时的情景。",
+                "options": [
+                  "却话巴山夜雨时",
+                  "何当共剪西窗烛",
+                  "君问归期未有期",
+                  "巴山夜雨涨秋池"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“却话巴山夜雨时”的意思是？",
+                "options": [
+                  "回头再谈论巴山夜雨时的情景",
+                  "但是要谈论巴山夜雨时的情景",
+                  "退却到巴山夜雨时的地方",
+                  "推辞说巴山夜雨时的事情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "巴山夜雨涨秋池",
+                  "君问归期未有期"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "却话巴山夜雨时",
+                  "何当共剪西窗烛"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "巴山夜雨涨秋池",
+                  "何当共剪西窗烛",
+                  "君问归期未有期",
+                  "却话巴山夜雨时"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "却话巴山夜雨时",
+                  "君问归期未有期",
+                  "何当共剪西窗烛",
+                  "巴山夜雨涨秋池"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī"
+              },
+              "otherInfo": {
+                "content": "君问归__未有期",
+                "answer": "期"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǎng"
+              },
+              "otherInfo": {
+                "content": "巴山夜雨__秋池",
+                "answer": "涨"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "何当共__西窗烛",
+                "answer": "剪"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huà"
+              },
+              "otherInfo": {
+                "content": "却__巴山夜雨时",
+                "answer": "话"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "君问归期未有期，______",
+                "answer": "巴山夜雨涨秋池"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，巴山夜雨涨秋池",
+                "answer": "君问归期未有期"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何当共剪西窗烛，______",
+                "answer": "却话巴山夜雨时"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，却话巴山夜雨时",
+                "answer": "何当共剪西窗烛"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "君问归期未有期，巴山夜雨涨秋池。______，______",
+                "answer": "何当共剪西窗烛，却话巴山夜雨时"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何当共剪西窗烛，却话巴山夜雨时。______，______",
+                "answer": "何当共剪西窗烛，却话巴山夜雨时"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "却话巴山夜雨时",
+                  "君问归期未有期",
+                  "何当共剪西窗烛",
+                  "巴山夜雨涨秋池"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何当共剪西窗烛",
+                  "巴山夜雨涨秋池",
+                  "却话巴山夜雨时",
+                  "君问归期未有期"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "巴山夜雨涨秋池",
+                  "却话巴山夜雨时",
+                  "君问归期未有期",
+                  "何当共剪西窗烛"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "君问归期未有期",
+                  "何当共剪西窗烛",
+                  "巴山夜雨涨秋池",
+                  "却话巴山夜雨时"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何当共剪西窗烛",
+                  "君问归期未有期",
+                  "却话巴山夜雨时",
+                  "巴山夜雨涨秋池"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,855 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ guāng liàn yàn qíng fāng hǎo"
+              },
+              "otherInfo": {
+                "line": "水光潋滟晴方好"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān sè kōng méng yǔ yì qí"
+              },
+              "otherInfo": {
+                "line": "山色空蒙雨亦奇"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù bǎ xī hú bǐ xī zǐ"
+              },
+              "otherInfo": {
+                "line": "欲把西湖比西子"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn zhuāng nóng mǒ zǒng xiāng yí"
+              },
+              "otherInfo": {
+                "line": "淡妆浓抹总相宜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“潋滟”的意思是？",
+                "options": [
+                  "水波荡漾、波光闪动的样子",
+                  "水面平静、没有波纹的样子",
+                  "水色浑浊、看不清楚的样子",
+                  "水流湍急、浪花飞溅的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“空蒙”的意思是？",
+                "options": [
+                  "云雾迷蒙、若隐若现的样子",
+                  "天空空旷、一无所有的样子",
+                  "山色青翠、清晰可见的样子",
+                  "空气干燥、没有水汽的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“亦”的意思是？",
+                "options": [
+                  "也",
+                  "已经",
+                  "仅仅",
+                  "仍然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“奇”的意思是？",
+                "options": [
+                  "奇妙、奇特",
+                  "奇怪、可疑",
+                  "惊奇、惊讶",
+                  "奇数、单数"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲”的意思是？",
+                "options": [
+                  "想要",
+                  "欲望",
+                  "将要",
+                  "贪欲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“比”的意思是？",
+                "options": [
+                  "比喻、比拟",
+                  "比较、对比",
+                  "比邻、靠近",
+                  "比赛、较量"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“西子”指的是？",
+                "options": [
+                  "西施，春秋时越国美女",
+                  "西湖，杭州的湖泊",
+                  "西施的故乡",
+                  "一位姓西的诗人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“淡妆”的意思是？",
+                "options": [
+                  "淡雅的妆饰",
+                  "淡薄的妆容",
+                  "颜色浅淡的衣裳",
+                  "简单朴素的打扮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浓抹”的意思是？",
+                "options": [
+                  "浓艳的妆饰",
+                  "浓重的涂抹",
+                  "浓密的涂抹",
+                  "浓烈的香气"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“相宜”的意思是？",
+                "options": [
+                  "适宜、合适",
+                  "相互适宜",
+                  "应该、应当",
+                  "相同、一样"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "晴天时，西湖水波荡漾、波光闪动，景色正好。",
+                "options": [
+                  "水光潋滟晴方好",
+                  "山色空蒙雨亦奇",
+                  "欲把西湖比西子",
+                  "淡妆浓抹总相宜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水光潋滟晴方好”的意思是？",
+                "options": [
+                  "晴天时西湖水波荡漾、波光闪动，景色正好",
+                  "晴天时西湖水面平静如镜，毫无波澜",
+                  "晴天时西湖水色浑浊，看不清倒影",
+                  "晴天时西湖水流湍急，浪花飞溅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "雨天时，西湖山色云雾迷蒙、若隐若现，也很奇妙。",
+                "options": [
+                  "山色空蒙雨亦奇",
+                  "水光潋滟晴方好",
+                  "欲把西湖比西子",
+                  "淡妆浓抹总相宜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山色空蒙雨亦奇”的意思是？",
+                "options": [
+                  "雨天时西湖山色云雾迷蒙、若隐若现，也很奇妙",
+                  "雨天时西湖山色青翠欲滴，清晰可见",
+                  "雨天时西湖山色昏暗无光，令人压抑",
+                  "雨天时西湖山色空无一物，十分荒凉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "想要把西湖比作美女西施。",
+                "options": [
+                  "欲把西湖比西子",
+                  "水光潋滟晴方好",
+                  "山色空蒙雨亦奇",
+                  "淡妆浓抹总相宜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“欲把西湖比西子”的意思是？",
+                "options": [
+                  "想要把西湖比作美女西施",
+                  "想要把西湖比作西边的女子",
+                  "想要把西湖比作西施的故乡",
+                  "想要把西湖比作一位姓西的诗人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "淡雅的妆饰或浓艳的妆饰，总是很适宜。",
+                "options": [
+                  "淡妆浓抹总相宜",
+                  "水光潋滟晴方好",
+                  "山色空蒙雨亦奇",
+                  "欲把西湖比西子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“淡妆浓抹总相宜”的意思是？",
+                "options": [
+                  "淡雅的妆饰或浓艳的妆饰，总是很适宜",
+                  "淡雅的妆饰和浓艳的妆饰，总是相互矛盾",
+                  "淡雅的妆饰或浓艳的妆饰，总是难以分辨",
+                  "淡雅的妆饰或浓艳的妆饰，总是因人而异"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山色空蒙雨亦奇",
+                  "水光潋滟晴方好"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "淡妆浓抹总相宜",
+                  "欲把西湖比西子"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲把西湖比西子",
+                  "山色空蒙雨亦奇",
+                  "水光潋滟晴方好",
+                  "淡妆浓抹总相宜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "淡妆浓抹总相宜",
+                  "水光潋滟晴方好",
+                  "欲把西湖比西子",
+                  "山色空蒙雨亦奇"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liàn"
+              },
+              "otherInfo": {
+                "content": "水光__滟晴方好",
+                "answer": "潋"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méng"
+              },
+              "otherInfo": {
+                "content": "山色空__雨亦奇",
+                "answer": "蒙"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "__把西湖比西子",
+                "answer": "欲"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǒ"
+              },
+              "otherInfo": {
+                "content": "淡妆浓__总相宜",
+                "answer": "抹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水光潋滟晴方好，______。",
+                "answer": "山色空蒙雨亦奇"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，山色空蒙雨亦奇。",
+                "answer": "水光潋滟晴方好"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "欲把西湖比西子，______。",
+                "answer": "淡妆浓抹总相宜"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，淡妆浓抹总相宜。",
+                "answer": "欲把西湖比西子"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水光潋滟晴方好，山色空蒙雨亦奇。______，______。",
+                "answer": "欲把西湖比西子，淡妆浓抹总相宜"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "欲把西湖比西子，淡妆浓抹总相宜。______，______。",
+                "answer": "欲把西湖比西子，淡妆浓抹总相宜"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "淡妆浓抹总相宜",
+                  "水光潋滟晴方好",
+                  "欲把西湖比西子",
+                  "山色空蒙雨亦奇"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山色空蒙雨亦奇",
+                  "淡妆浓抹总相宜",
+                  "水光潋滟晴方好",
+                  "欲把西湖比西子"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲把西湖比西子",
+                  "山色空蒙雨亦奇",
+                  "淡妆浓抹总相宜",
+                  "水光潋滟晴方好"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水光潋滟晴方好",
+                  "淡妆浓抹总相宜",
+                  "山色空蒙雨亦奇",
+                  "欲把西湖比西子"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "淡妆浓抹总相宜",
+                  "欲把西湖比西子",
+                  "山色空蒙雨亦奇",
+                  "水光潋滟晴方好"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

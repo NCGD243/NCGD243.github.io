@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "máo yán dī xiǎo"
+              },
+              "otherInfo": {
+                "line": "茅檐低小"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī shàng qīng qīng cǎo"
+              },
+              "otherInfo": {
+                "line": "溪上青青草"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì lǐ wú yīn xiāng mèi hǎo"
+              },
+              "otherInfo": {
+                "line": "醉里吴音相媚好"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái fà shuí jiā wēng ǎo"
+              },
+              "otherInfo": {
+                "line": "白发谁家翁媪"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dà ér chú dòu xī dōng"
+              },
+              "otherInfo": {
+                "line": "大儿锄豆溪东"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng ér zhèng zhī jī lóng"
+              },
+              "otherInfo": {
+                "line": "中儿正织鸡笼"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì xǐ xiǎo ér wáng lài"
+              },
+              "otherInfo": {
+                "line": "最喜小儿亡赖"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī tóu wò bāo lián peng"
+              },
+              "otherInfo": {
+                "line": "溪头卧剥莲蓬"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“茅檐”的意思是？",
+                "options": [
+                  "茅草屋的屋檐",
+                  "庭院中的台阶",
+                  "田间的小路",
+                  "溪边的石桥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“吴音”的意思是？",
+                "options": [
+                  "吴地方言",
+                  "江南乐曲",
+                  "吴地歌谣",
+                  "吴国口音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“相媚好”的意思是？",
+                "options": [
+                  "互相逗趣取乐",
+                  "彼此夸赞容貌",
+                  "相互诉说思念",
+                  "一起欣赏美景"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“翁媪”的意思是？",
+                "options": [
+                  "老翁和老妇",
+                  "邻居老友",
+                  "父母双亲",
+                  "乡间长者"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锄豆”的意思是？",
+                "options": [
+                  "在豆田里锄草",
+                  "收割成熟的豆子",
+                  "给豆苗浇水",
+                  "把豆子晒干"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“亡赖”的意思是？",
+                "options": [
+                  "顽皮可爱",
+                  "蛮横无理",
+                  "游手好闲",
+                  "失去依靠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“卧剥”的意思是？",
+                "options": [
+                  "趴着剥开",
+                  "躺着剥开",
+                  "坐着剥开",
+                  "站着剥开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“莲蓬”的意思是？",
+                "options": [
+                  "莲花结的果实",
+                  "莲花的叶子",
+                  "莲花的根茎",
+                  "莲花的别称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“溪东”的意思是？",
+                "options": [
+                  "小溪的东边",
+                  "小溪的尽头",
+                  "溪水的上游",
+                  "溪边的田地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“最喜”的意思是？",
+                "options": [
+                  "最喜欢",
+                  "最疼爱",
+                  "最羡慕",
+                  "最欣赏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "茅草屋的屋檐低矮，小溪边长满了青翠的草。",
+                "options": [
+                  "茅檐低小，溪上青青草",
+                  "大儿锄豆溪东，中儿正织鸡笼",
+                  "最喜小儿亡赖，溪头卧剥莲蓬",
+                  "醉里吴音相媚好，白发谁家翁媪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“醉里吴音相媚好”的意思是？",
+                "options": [
+                  "带着醉意用吴地方言互相逗趣取乐",
+                  "喝醉后听着吴地歌谣感到心情舒畅",
+                  "醉眼朦胧中觉得吴地女子十分美丽",
+                  "醉倒在吴地听到有人亲切地呼唤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "带着醉意用吴地方言互相逗趣取乐，那满头白发的是谁家的老翁老妇呢？",
+                "options": [
+                  "醉里吴音相媚好，白发谁家翁媪",
+                  "茅檐低小，溪上青青草",
+                  "大儿锄豆溪东，中儿正织鸡笼",
+                  "最喜小儿亡赖，溪头卧剥莲蓬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白发谁家翁媪”的意思是？",
+                "options": [
+                  "那满头白发的是谁家的老翁老妇",
+                  "白发苍苍的老人是谁家的亲戚",
+                  "谁家有位白发苍苍的老母亲",
+                  "白发老人不知来自哪个村庄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大儿子在小溪东边的豆田里锄草，二儿子正在编织鸡笼。",
+                "options": [
+                  "大儿锄豆溪东，中儿正织鸡笼",
+                  "茅檐低小，溪上青青草",
+                  "醉里吴音相媚好，白发谁家翁媪",
+                  "最喜小儿亡赖，溪头卧剥莲蓬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“中儿正织鸡笼”的意思是？",
+                "options": [
+                  "二儿子正在编织鸡笼",
+                  "二儿子正在修理鸡笼",
+                  "二儿子正在清洗鸡笼",
+                  "二儿子正在搬动鸡笼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "最喜欢顽皮可爱的小儿子，他趴在小溪边剥莲蓬。",
+                "options": [
+                  "最喜小儿亡赖，溪头卧剥莲蓬",
+                  "大儿锄豆溪东，中儿正织鸡笼",
+                  "茅檐低小，溪上青青草",
+                  "醉里吴音相媚好，白发谁家翁媪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“溪头卧剥莲蓬”的意思是？",
+                "options": [
+                  "趴在小溪边剥莲蓬",
+                  "躺在溪边看莲蓬",
+                  "蹲在溪头摘莲蓬",
+                  "坐在溪边吃莲蓬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溪上青青草",
+                  "茅檐低小"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白发谁家翁媪",
+                  "醉里吴音相媚好"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中儿正织鸡笼",
+                  "大儿锄豆溪东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溪头卧剥莲蓬",
+                  "最喜小儿亡赖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "醉里吴音相媚好",
+                  "茅檐低小",
+                  "白发谁家翁媪",
+                  "溪上青青草"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中儿正织鸡笼",
+                  "醉里吴音相媚好",
+                  "大儿锄豆溪东",
+                  "白发谁家翁媪"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溪头卧剥莲蓬",
+                  "大儿锄豆溪东",
+                  "最喜小儿亡赖",
+                  "中儿正织鸡笼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中儿正织鸡笼",
+                  "溪上青青草",
+                  "最喜小儿亡赖",
+                  "醉里吴音相媚好",
+                  "茅檐低小",
+                  "溪头卧剥莲蓬",
+                  "大儿锄豆溪东",
+                  "白发谁家翁媪"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yán"
+              },
+              "otherInfo": {
+                "content": "茅__低小",
+                "answer": "檐"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "溪上__青草",
+                "answer": "青"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mèi"
+              },
+              "otherInfo": {
+                "content": "醉里吴音相__好",
+                "answer": "媚"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ǎo"
+              },
+              "otherInfo": {
+                "content": "白发谁家翁__",
+                "answer": "媪"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chú"
+              },
+              "otherInfo": {
+                "content": "大儿__豆溪东",
+                "answer": "锄"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "中儿正__鸡笼",
+                "answer": "织"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lài"
+              },
+              "otherInfo": {
+                "content": "最喜小儿亡__",
+                "answer": "赖"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bāo"
+              },
+              "otherInfo": {
+                "content": "溪头卧__莲蓬",
+                "answer": "剥"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng"
+              },
+              "otherInfo": {
+                "content": "溪头卧剥莲__",
+                "answer": "蓬"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "__里吴音相媚好",
+                "answer": "醉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "茅檐低小，______",
+                "answer": "溪上青青草"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，溪上青青草",
+                "answer": "茅檐低小"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "醉里吴音相媚好，______",
+                "answer": "白发谁家翁媪"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白发谁家翁媪",
+                "answer": "醉里吴音相媚好"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大儿锄豆溪东，______",
+                "answer": "中儿正织鸡笼"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，中儿正织鸡笼",
+                "answer": "大儿锄豆溪东"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "最喜小儿亡赖，______",
+                "answer": "溪头卧剥莲蓬"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，溪头卧剥莲蓬",
+                "answer": "最喜小儿亡赖"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "茅檐低小，溪上青青草。______，______。",
+                "answer": "醉里吴音相媚好，白发谁家翁媪"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "醉里吴音相媚好，白发谁家翁媪。______，______。",
+                "answer": "大儿锄豆溪东，中儿正织鸡笼"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大儿锄豆溪东，中儿正织鸡笼。______，______。",
+                "answer": "最喜小儿亡赖，溪头卧剥莲蓬"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大儿锄豆溪东，中儿正织鸡笼。______，______。",
+                "answer": "最喜小儿亡赖，溪头卧剥莲蓬"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溪上青青草",
+                  "醉里吴音相媚好",
+                  "大儿锄豆溪东",
+                  "溪头卧剥莲蓬",
+                  "茅檐低小",
+                  "白发谁家翁媪",
+                  "中儿正织鸡笼",
+                  "最喜小儿亡赖"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白发谁家翁媪",
+                  "最喜小儿亡赖",
+                  "茅檐低小",
+                  "中儿正织鸡笼",
+                  "醉里吴音相媚好",
+                  "溪上青青草",
+                  "溪头卧剥莲蓬",
+                  "大儿锄豆溪东"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中儿正织鸡笼",
+                  "茅檐低小",
+                  "溪头卧剥莲蓬",
+                  "醉里吴音相媚好",
+                  "大儿锄豆溪东",
+                  "白发谁家翁媪",
+                  "溪上青青草",
+                  "最喜小儿亡赖"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最喜小儿亡赖",
+                  "大儿锄豆溪东",
+                  "溪上青青草",
+                  "白发谁家翁媪",
+                  "茅檐低小",
+                  "溪头卧剥莲蓬",
+                  "醉里吴音相媚好",
+                  "中儿正织鸡笼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "醉里吴音相媚好",
+                  "溪头卧剥莲蓬",
+                  "中儿正织鸡笼",
+                  "茅檐低小",
+                  "最喜小儿亡赖",
+                  "溪上青青草",
+                  "大儿锄豆溪东",
+                  "白发谁家翁媪"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

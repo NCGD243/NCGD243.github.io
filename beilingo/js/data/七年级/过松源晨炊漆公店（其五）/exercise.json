@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò yán xià lǐng biàn wú nán"
+              },
+              "otherInfo": {
+                "line": "莫言下岭便无难"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuàn dé xíng rén cuò xǐ huān"
+              },
+              "otherInfo": {
+                "line": "赚得行人错喜欢"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhèng rù wàn shān quān zǐ lǐ"
+              },
+              "otherInfo": {
+                "line": "政入万山圈子里"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī shān fàng guò yī shān lán"
+              },
+              "otherInfo": {
+                "line": "一山放出一山拦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“莫言”的意思是？",
+                "options": [
+                  "不要说",
+                  "不要说话",
+                  "没有言语",
+                  "沉默不语"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“下岭”的意思是？",
+                "options": [
+                  "下山岭",
+                  "下坡路",
+                  "离开山岭",
+                  "岭下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“赚得”的意思是？",
+                "options": [
+                  "骗得",
+                  "挣得",
+                  "赢得",
+                  "获得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“错喜欢”的意思是？",
+                "options": [
+                  "空欢喜",
+                  "交错欢喜",
+                  "错误地喜欢",
+                  "不喜欢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“政”的意思是？",
+                "options": [
+                  "同“正”，正好",
+                  "政治",
+                  "政事",
+                  "纠正"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“圈子”的意思是？",
+                "options": [
+                  "圆环",
+                  "范围",
+                  "圈套",
+                  "包围圈"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“放出”的意思是？",
+                "options": [
+                  "放行",
+                  "释放",
+                  "开放",
+                  "发出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“拦”的意思是？",
+                "options": [
+                  "阻拦",
+                  "拦截",
+                  "拦挡",
+                  "拦住"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万山”的意思是？",
+                "options": [
+                  "一万座山",
+                  "群山",
+                  "万重山",
+                  "很多山"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“行人”的意思是？",
+                "options": [
+                  "走路的人",
+                  "出行的人",
+                  "赶路的人",
+                  "行人旅客"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不要说下山岭就没有困难了。",
+                "options": [
+                  "莫言下岭便无难",
+                  "赚得行人错喜欢",
+                  "政入万山圈子里",
+                  "一山放出一山拦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“赚得行人错喜欢”的意思是？",
+                "options": [
+                  "骗得行人空欢喜一场",
+                  "赢得行人错误地喜欢",
+                  "挣得行人交错着欢喜",
+                  "使得行人喜欢错了对象"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "正进入万山的包围圈里。",
+                "options": [
+                  "莫言下岭便无难",
+                  "赚得行人错喜欢",
+                  "政入万山圈子里",
+                  "一山放出一山拦"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“政入万山圈子里”的意思是？",
+                "options": [
+                  "正好进入万山的包围圈中",
+                  "政治进入万山的圈子里",
+                  "正把万山圈进圈子里",
+                  "正在万山圈子里执政"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一座山放行过去，又有一座山阻拦。",
+                "options": [
+                  "莫言下岭便无难",
+                  "赚得行人错喜欢",
+                  "政入万山圈子里",
+                  "一山放出一山拦"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一山放出一山拦”的意思是？",
+                "options": [
+                  "一座山放行，又一座山阻拦",
+                  "一座山放出，一座山拦住",
+                  "一山放开，一山拦截",
+                  "放出一座山，拦住一座山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不要说下山就没有困难，骗得行人空欢喜。",
+                "options": [
+                  "莫言下岭便无难，赚得行人错喜欢",
+                  "政入万山圈子里，一山放出一山拦",
+                  "莫言下岭便无难，政入万山圈子里",
+                  "赚得行人错喜欢，一山放出一山拦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“莫言下岭便无难，赚得行人错喜欢”的意思是？",
+                "options": [
+                  "不要说下山没有困难，骗得行人空欢喜",
+                  "不要说话下山不难，赢得行人错喜欢",
+                  "不要说下岭便无难事，挣得行人错喜欢",
+                  "莫要说下山没有难处，赚得行人喜欢错了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "赚得行人错喜欢",
+                  "莫言下岭便无难"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一山放出一山拦",
+                  "政入万山圈子里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "政入万山圈子里",
+                  "赚得行人错喜欢",
+                  "莫言下岭便无难",
+                  "一山放出一山拦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一山放出一山拦",
+                  "莫言下岭便无难",
+                  "政入万山圈子里",
+                  "赚得行人错喜欢"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "__言下岭便无难",
+                "answer": "莫"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuàn"
+              },
+              "otherInfo": {
+                "content": "__得行人错喜欢",
+                "answer": "赚"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhèng"
+              },
+              "otherInfo": {
+                "content": "__入万山圈子里",
+                "answer": "政"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lán"
+              },
+              "otherInfo": {
+                "content": "一山放出一山__",
+                "answer": "拦"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǐng"
+              },
+              "otherInfo": {
+                "content": "莫言下__便无难",
+                "answer": "岭"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuò"
+              },
+              "otherInfo": {
+                "content": "赚得行人__喜欢",
+                "answer": "错"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quān"
+              },
+              "otherInfo": {
+                "content": "政入万山__子里",
+                "answer": "圈"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fàng"
+              },
+              "otherInfo": {
+                "content": "一山__出一山拦",
+                "answer": "放"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huān"
+              },
+              "otherInfo": {
+                "content": "赚得行人错喜__",
+                "answer": "欢"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn"
+              },
+              "otherInfo": {
+                "content": "政入__山圈子里",
+                "answer": "万"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "莫言下岭便无难，______",
+                "answer": "赚得行人错喜欢"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，赚得行人错喜欢",
+                "answer": "莫言下岭便无难"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "政入万山圈子里，______",
+                "answer": "一山放出一山拦"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一山放出一山拦",
+                "answer": "政入万山圈子里"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "莫言下岭便无难，赚得行人错喜欢。______，______",
+                "answer": "政入万山圈子里，一山放出一山拦"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "赚得行人错喜欢。______，______",
+                "answer": "政入万山圈子里，一山放出一山拦"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一山放出一山拦",
+                  "莫言下岭便无难",
+                  "政入万山圈子里",
+                  "赚得行人错喜欢"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "赚得行人错喜欢",
+                  "一山放出一山拦",
+                  "莫言下岭便无难",
+                  "政入万山圈子里"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "政入万山圈子里",
+                  "莫言下岭便无难",
+                  "一山放出一山拦",
+                  "赚得行人错喜欢"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "莫言下岭便无难",
+                  "一山放出一山拦",
+                  "赚得行人错喜欢",
+                  "政入万山圈子里"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "赚得行人错喜欢",
+                  "政入万山圈子里",
+                  "一山放出一山拦",
+                  "莫言下岭便无难"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

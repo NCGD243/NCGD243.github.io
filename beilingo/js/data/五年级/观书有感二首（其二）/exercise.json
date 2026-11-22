@@ -1,0 +1,947 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuó yè jiāng biān chūn shuǐ shēng"
+              },
+              "otherInfo": {
+                "line": "昨夜江边春水生"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méng chōng jù jiàn yī máo qīng"
+              },
+              "otherInfo": {
+                "line": "蒙冲巨舰一毛轻"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàng lái wǎng fèi tuī yí lì"
+              },
+              "otherInfo": {
+                "line": "向来枉费推移力"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ rì zhōng liú zì zài xíng"
+              },
+              "otherInfo": {
+                "line": "此日中流自在行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蒙冲”的意思是？",
+                "options": [
+                  "古代一种战船",
+                  "古代一种攻城器械",
+                  "古代一种农具",
+                  "古代一种乐器"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“巨舰”的意思是？",
+                "options": [
+                  "大型战船",
+                  "高大的城墙",
+                  "沉重的铁锚",
+                  "宽阔的江面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一毛轻”的意思是？",
+                "options": [
+                  "像一根羽毛那样轻",
+                  "像一根毛发那样细",
+                  "像一片树叶那样薄",
+                  "像一缕丝线那样柔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“向来”的意思是？",
+                "options": [
+                  "从前、以往",
+                  "一向、从来",
+                  "刚才、刚刚",
+                  "将来、以后"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“枉费”的意思是？",
+                "options": [
+                  "白费、徒然耗费",
+                  "过分浪费",
+                  "暗中花费",
+                  "勉强付出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“推移”的意思是？",
+                "options": [
+                  "移动、推动",
+                  "推迟、延后",
+                  "推举、选拔",
+                  "推脱、推辞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“中流”的意思是？",
+                "options": [
+                  "水流中央",
+                  "中等河流",
+                  "中途、半路",
+                  "中游地区"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自在”的意思是？",
+                "options": [
+                  "自由自在、不受阻碍",
+                  "自己存在",
+                  "安闲舒适",
+                  "自然而然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春水生”的意思是？",
+                "options": [
+                  "春水上涨",
+                  "春天出生",
+                  "春水干涸",
+                  "春天生长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“推移力”的意思是？",
+                "options": [
+                  "推动的力量",
+                  "移动的力气",
+                  "推迟的工夫",
+                  "推举的能力"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "昨夜江边春水上涨。",
+                "options": [
+                  "昨夜江边春水生",
+                  "蒙冲巨舰一毛轻",
+                  "向来枉费推移力",
+                  "此日中流自在行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“昨夜江边春水生”的意思是？",
+                "options": [
+                  "昨夜江边春水上涨",
+                  "昨夜江边有人出生",
+                  "昨夜江边春水结冰",
+                  "昨夜江边春水退去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "蒙冲巨舰像一根羽毛那样轻。",
+                "options": [
+                  "蒙冲巨舰一毛轻",
+                  "昨夜江边春水生",
+                  "向来枉费推移力",
+                  "此日中流自在行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“蒙冲巨舰一毛轻”的意思是？",
+                "options": [
+                  "蒙冲巨舰像一根羽毛那样轻",
+                  "蒙冲巨舰上有一根羽毛",
+                  "蒙冲巨舰比一根羽毛还小",
+                  "蒙冲巨舰轻得像要飞走"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从前白费力气去推动它。",
+                "options": [
+                  "向来枉费推移力",
+                  "昨夜江边春水生",
+                  "蒙冲巨舰一毛轻",
+                  "此日中流自在行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“向来枉费推移力”的意思是？",
+                "options": [
+                  "从前白费力气去推动它",
+                  "从前用力推却推不动",
+                  "从前推船的方法不对",
+                  "从前推船花费很多钱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "今天它在江流中央自由自在地航行。",
+                "options": [
+                  "此日中流自在行",
+                  "昨夜江边春水生",
+                  "蒙冲巨舰一毛轻",
+                  "向来枉费推移力"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此日中流自在行”的意思是？",
+                "options": [
+                  "今天它在江流中央自由自在地航行",
+                  "今天它在江中自己行走",
+                  "今天它停在江流中央不动",
+                  "今天它顺着江流漂向远方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "蒙冲巨舰一毛轻",
+                  "昨夜江边春水生"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此日中流自在行",
+                  "向来枉费推移力"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "向来枉费推移力",
+                  "昨夜江边春水生",
+                  "蒙冲巨舰一毛轻",
+                  "此日中流自在行"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此日中流自在行",
+                  "蒙冲巨舰一毛轻",
+                  "向来枉费推移力",
+                  "昨夜江边春水生"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuó"
+              },
+              "otherInfo": {
+                "content": "__夜江边春水生",
+                "answer": "昨"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēng"
+              },
+              "otherInfo": {
+                "content": "昨夜江边春水__",
+                "answer": "生"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méng"
+              },
+              "otherInfo": {
+                "content": "__冲巨舰一毛轻",
+                "answer": "蒙"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "蒙冲巨__一毛轻",
+                "answer": "舰"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎng"
+              },
+              "otherInfo": {
+                "content": "向来__费推移力",
+                "answer": "枉"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "向来枉费推__力",
+                "answer": "移"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ"
+              },
+              "otherInfo": {
+                "content": "__日中流自在行",
+                "answer": "此"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xíng"
+              },
+              "otherInfo": {
+                "content": "此日中流自在__",
+                "answer": "行"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "蒙冲巨舰一毛__",
+                "answer": "轻"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì"
+              },
+              "otherInfo": {
+                "content": "此日中流__在行",
+                "answer": "自"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "昨夜江边春水生，______。",
+                "answer": "蒙冲巨舰一毛轻"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，蒙冲巨舰一毛轻。",
+                "answer": "昨夜江边春水生"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "向来枉费推移力，______。",
+                "answer": "此日中流自在行"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，此日中流自在行。",
+                "answer": "向来枉费推移力"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联间填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "昨夜江边春水生，蒙冲巨舰一毛轻。______，______。",
+                "answer": "向来枉费推移力，此日中流自在行"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此日中流自在行",
+                  "昨夜江边春水生",
+                  "向来枉费推移力",
+                  "蒙冲巨舰一毛轻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "蒙冲巨舰一毛轻",
+                  "此日中流自在行",
+                  "昨夜江边春水生",
+                  "向来枉费推移力"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "向来枉费推移力",
+                  "蒙冲巨舰一毛轻",
+                  "此日中流自在行",
+                  "昨夜江边春水生"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "昨夜江边春水生",
+                  "此日中流自在行",
+                  "蒙冲巨舰一毛轻",
+                  "向来枉费推移力"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此日中流自在行",
+                  "向来枉费推移力",
+                  "昨夜江边春水生",
+                  "蒙冲巨舰一毛轻"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

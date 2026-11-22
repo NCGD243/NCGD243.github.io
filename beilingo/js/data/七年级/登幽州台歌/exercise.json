@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qián bú jiàn gǔ rén"
+              },
+              "otherInfo": {
+                "line": "前不见古人"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hòu bú jiàn lái zhě"
+              },
+              "otherInfo": {
+                "line": "后不见来者"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "niàn tiān dì zhī yōu yōu"
+              },
+              "otherInfo": {
+                "line": "念天地之悠悠"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú chuàng rán ér tì xià"
+              },
+              "otherInfo": {
+                "line": "独怆然而涕下"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“前不见古人”中“古人”的意思是？",
+                "options": [
+                  "古代圣贤",
+                  "已故的亲友",
+                  "从前的人",
+                  "古代的诗文"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“后不见来者”中“来者”的意思是？",
+                "options": [
+                  "后来的人",
+                  "未来将出现的贤明君主",
+                  "从远方来的人",
+                  "来拜访的人"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“念天地之悠悠”中“念”的意思是？",
+                "options": [
+                  "思念",
+                  "想到",
+                  "诵读",
+                  "惦记"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“念天地之悠悠”中“悠悠”的意思是？",
+                "options": [
+                  "悠闲自在",
+                  "长久遥远",
+                  "忧思不断",
+                  "众多纷杂"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独怆然而涕下”中“怆然”的意思是？",
+                "options": [
+                  "悲伤的样子",
+                  "惊慌的样子",
+                  "愤怒的样子",
+                  "茫然的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独怆然而涕下”中“涕”的意思是？",
+                "options": [
+                  "鼻涕",
+                  "眼泪",
+                  "汗水",
+                  "口水"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独怆然而涕下”中“独”的意思是？",
+                "options": [
+                  "独自",
+                  "唯独",
+                  "孤独",
+                  "难道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“前不见古人”中“见”的意思是？",
+                "options": [
+                  "看见",
+                  "遇见",
+                  "见解",
+                  "显现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“后不见来者”中“后”的意思是？",
+                "options": [
+                  "后面",
+                  "后代",
+                  "后来",
+                  "以后"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“念天地之悠悠”中“之”的用法是？",
+                "options": [
+                  "代词，指天地",
+                  "结构助词，的",
+                  "用于主谓之间，取消句子独立性",
+                  "动词，往"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "往前看不到古代圣贤的身影。",
+                "options": [
+                  "前不见古人",
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "独怆然而涕下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“前不见古人”的意思是？",
+                "options": [
+                  "向前看不见古代圣贤，感叹生不逢时",
+                  "向前看不见旧日朋友，怀念往昔情谊",
+                  "向前看不见前路方向，心中迷茫无措",
+                  "向前看不见古人遗迹，遗憾无法凭吊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "往后也看不到未来能赏识自己的贤明君主。",
+                "options": [
+                  "前不见古人",
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "独怆然而涕下"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“后不见来者”的意思是？",
+                "options": [
+                  "向后看不到未来贤明君主，感慨知音难遇",
+                  "向后看不到后来的人，担心后继无人",
+                  "向后看不到来时的路，感到进退两难",
+                  "向后看不到追随者，叹息无人响应"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "想到天地长久遥远、无边无际。",
+                "options": [
+                  "前不见古人",
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "独怆然而涕下"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“念天地之悠悠”的意思是？",
+                "options": [
+                  "想到天地长久遥远，反衬个人渺小孤独",
+                  "想到天地悠闲自在，羡慕自然无为",
+                  "想到天地辽阔无边，想要远游四方",
+                  "想到天地悠悠运转，感叹时光飞逝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "独自悲伤，泪流满面。",
+                "options": [
+                  "前不见古人",
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "独怆然而涕下"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“独怆然而涕下”的意思是？",
+                "options": [
+                  "独自悲伤落泪，抒发怀才不遇的孤寂",
+                  "独自害怕流泪，表现面对天地的敬畏",
+                  "独自感慨涕零，表达对古人的追慕",
+                  "独自愤怒落泪，控诉世道的不公"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "后不见来者",
+                  "前不见古人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独怆然而涕下",
+                  "念天地之悠悠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "后不见来者",
+                  "前不见古人",
+                  "念天地之悠悠",
+                  "独怆然而涕下"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独怆然而涕下",
+                  "念天地之悠悠",
+                  "前不见古人",
+                  "后不见来者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qián"
+              },
+              "otherInfo": {
+                "content": "__不见古人",
+                "answer": "前"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhě"
+              },
+              "otherInfo": {
+                "content": "后不见来__",
+                "answer": "者"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yōu"
+              },
+              "otherInfo": {
+                "content": "念天地之__悠",
+                "answer": "悠"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuàng"
+              },
+              "otherInfo": {
+                "content": "独__然而涕下",
+                "answer": "怆"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tì"
+              },
+              "otherInfo": {
+                "content": "独怆然而__下",
+                "answer": "涕"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ"
+              },
+              "otherInfo": {
+                "content": "前不见__人",
+                "answer": "古"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hòu"
+              },
+              "otherInfo": {
+                "content": "__不见来者",
+                "answer": "后"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "niàn"
+              },
+              "otherInfo": {
+                "content": "__天地之悠悠",
+                "answer": "念"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú"
+              },
+              "otherInfo": {
+                "content": "__怆然而涕下",
+                "answer": "独"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dì"
+              },
+              "otherInfo": {
+                "content": "念天__之悠悠",
+                "answer": "地"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "前不见古人，______。",
+                "answer": "后不见来者"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，后不见来者。",
+                "answer": "前不见古人"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "念天地之悠悠，______。",
+                "answer": "独怆然而涕下"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，独怆然而涕下。",
+                "answer": "念天地之悠悠"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "前不见古人，后不见来者。______，______。",
+                "answer": "念天地之悠悠，独怆然而涕下"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "念天地之悠悠，独怆然而涕下。______，______。",
+                "answer": "念天地之悠悠，独怆然而涕下"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独怆然而涕下",
+                  "前不见古人",
+                  "念天地之悠悠",
+                  "后不见来者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "前不见古人",
+                  "独怆然而涕下"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "念天地之悠悠",
+                  "独怆然而涕下",
+                  "后不见来者",
+                  "前不见古人"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "前不见古人",
+                  "独怆然而涕下",
+                  "后不见来者",
+                  "念天地之悠悠"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独怆然而涕下",
+                  "后不见来者",
+                  "念天地之悠悠",
+                  "前不见古人"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

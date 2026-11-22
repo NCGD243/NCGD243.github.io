@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèng rì xún fāng sì shuǐ bīn"
+              },
+              "otherInfo": {
+                "line": "胜日寻芳泗水滨"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú biān guāng jǐng yī shí xīn"
+              },
+              "otherInfo": {
+                "line": "无边光景一时新"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "děng xián shí dé dōng fēng miàn"
+              },
+              "otherInfo": {
+                "line": "等闲识得东风面"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn zǐ qiān hóng zǒng shì chūn"
+              },
+              "otherInfo": {
+                "line": "万紫千红总是春"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“胜日”的意思是？",
+                "options": [
+                  "天气晴朗的好日子",
+                  "取得胜利的那一天",
+                  "胜过别人的日子",
+                  "盛大隆重的节日"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寻芳”的意思是？",
+                "options": [
+                  "寻找花草，这里指游春踏青",
+                  "寻找芬芳的香料",
+                  "寻访贤能的人",
+                  "寻找丢失的财物"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“泗水”的意思是？",
+                "options": [
+                  "河流名，在山东境内",
+                  "一条小溪的名字",
+                  "泗水县的城墙",
+                  "泛指所有的江河"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“滨”的意思是？",
+                "options": [
+                  "水边",
+                  "岸边的高山",
+                  "渡口",
+                  "水中的小洲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无边”的意思是？",
+                "options": [
+                  "没有边际，形容广阔",
+                  "没有依靠",
+                  "没有礼貌",
+                  "没有尽头的时间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“光景”的意思是？",
+                "options": [
+                  "风光景物",
+                  "时光和景色",
+                  "生活境况",
+                  "光影的变化"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“等闲”的意思是？",
+                "options": [
+                  "平常、随便",
+                  "等待空闲",
+                  "轻视、小看",
+                  "闲来无事"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“识得”的意思是？",
+                "options": [
+                  "认识到、感受到",
+                  "记住",
+                  "分辨出",
+                  "学会"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东风”的意思是？",
+                "options": [
+                  "春风",
+                  "东边的风",
+                  "东风牌的车",
+                  "向东吹的风"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万紫千红”的意思是？",
+                "options": [
+                  "形容百花齐放、色彩艳丽",
+                  "形容紫色的花和红色的花",
+                  "形容数量极多的颜色",
+                  "形容富贵华丽的景象"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "天气晴朗的好日子在泗水边游春踏青。",
+                "options": [
+                  "胜日寻芳泗水滨",
+                  "无边光景一时新",
+                  "等闲识得东风面",
+                  "万紫千红总是春"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“胜日寻芳泗水滨”的意思是？",
+                "options": [
+                  "在晴朗的好日子到泗水边游春赏花",
+                  "在胜利的日子到泗水边寻找芳香",
+                  "在节日里沿着泗水岸边散步",
+                  "在阳光明媚时到泗水边送别友人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "无边无际的风光景物一时间都焕然一新。",
+                "options": [
+                  "胜日寻芳泗水滨",
+                  "无边光景一时新",
+                  "等闲识得东风面",
+                  "万紫千红总是春"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无边光景一时新”的意思是？",
+                "options": [
+                  "广阔无边的风光景物一下子都变得焕然一新",
+                  "没有边际的时光一时之间变得新鲜",
+                  "无边无际的景色在同一个时辰更新",
+                  "广阔的风光景物一时之间全都消失了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "平常人们很容易就能感受到春风的面貌。",
+                "options": [
+                  "胜日寻芳泗水滨",
+                  "无边光景一时新",
+                  "等闲识得东风面",
+                  "万紫千红总是春"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“等闲识得东风面”的意思是？",
+                "options": [
+                  "平常之中就能轻易感受到春风的面貌",
+                  "等到空闲时才认出东风的样子",
+                  "随随便便就认识了东边吹来的风",
+                  "轻视了春风拂面的感觉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "百花盛开、万紫千红，到处都是春天的景象。",
+                "options": [
+                  "胜日寻芳泗水滨",
+                  "无边光景一时新",
+                  "等闲识得东风面",
+                  "万紫千红总是春"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“万紫千红总是春”的意思是？",
+                "options": [
+                  "百花盛开、色彩缤纷，处处都是春天的景象",
+                  "一万种紫色和一千种红色总是属于春天",
+                  "紫色的花和红色的花总是在春天开放",
+                  "万紫千红的花总在春天凋谢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无边光景一时新",
+                  "胜日寻芳泗水滨"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万紫千红总是春",
+                  "等闲识得东风面"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "等闲识得东风面",
+                  "无边光景一时新",
+                  "胜日寻芳泗水滨",
+                  "万紫千红总是春"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万紫千红总是春",
+                  "胜日寻芳泗水滨",
+                  "等闲识得东风面",
+                  "无边光景一时新"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèng"
+              },
+              "otherInfo": {
+                "content": "__日寻芳泗水滨",
+                "answer": "胜"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bīn"
+              },
+              "otherInfo": {
+                "content": "胜日寻芳泗水__",
+                "answer": "滨"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐng"
+              },
+              "otherInfo": {
+                "content": "无边光__一时新",
+                "answer": "景"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "无边光景一时__",
+                "answer": "新"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xián"
+              },
+              "otherInfo": {
+                "content": "等__识得东风面",
+                "answer": "闲"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí"
+              },
+              "otherInfo": {
+                "content": "等闲__得东风面",
+                "answer": "识"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "miàn"
+              },
+              "otherInfo": {
+                "content": "等闲识得东风__",
+                "answer": "面"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǐ"
+              },
+              "otherInfo": {
+                "content": "万__千红总是春",
+                "answer": "紫"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "万紫千__总是春",
+                "answer": "红"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn"
+              },
+              "otherInfo": {
+                "content": "万紫千红总是__",
+                "answer": "春"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "胜日寻芳泗水滨，______",
+                "answer": "无边光景一时新"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无边光景一时新",
+                "answer": "胜日寻芳泗水滨"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "等闲识得东风面，______",
+                "answer": "万紫千红总是春"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万紫千红总是春",
+                "answer": "等闲识得东风面"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "胜日寻芳泗水滨，无边光景一时新。______，______",
+                "answer": "等闲识得东风面，万紫千红总是春"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "等闲识得东风面，万紫千红总是春。______，______",
+                "answer": "等闲识得东风面，万紫千红总是春"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万紫千红总是春",
+                  "胜日寻芳泗水滨",
+                  "等闲识得东风面",
+                  "无边光景一时新"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "等闲识得东风面",
+                  "无边光景一时新",
+                  "万紫千红总是春",
+                  "胜日寻芳泗水滨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无边光景一时新",
+                  "万紫千红总是春",
+                  "胜日寻芳泗水滨",
+                  "等闲识得东风面"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "胜日寻芳泗水滨",
+                  "等闲识得东风面",
+                  "无边光景一时新",
+                  "万紫千红总是春"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万紫千红总是春",
+                  "等闲识得东风面",
+                  "胜日寻芳泗水滨",
+                  "无边光景一时新"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

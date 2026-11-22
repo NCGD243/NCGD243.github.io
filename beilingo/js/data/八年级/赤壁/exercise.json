@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhé jǐ chén shā tiě wèi xiāo"
+              },
+              "otherInfo": {
+                "line": "折戟沉沙铁未销"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì jiāng mó xǐ rèn qián cháo"
+              },
+              "otherInfo": {
+                "line": "自将磨洗认前朝"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng fēng bù yǔ zhōu láng biàn"
+              },
+              "otherInfo": {
+                "line": "东风不与周郎便"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tóng què chūn shēn suǒ èr qiáo"
+              },
+              "otherInfo": {
+                "line": "铜雀春深锁二乔"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“折戟沉沙铁未销”中“销”的意思是？",
+                "options": [
+                  "熔化",
+                  "消失",
+                  "销售",
+                  "消耗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自将磨洗认前朝”中“将”的意思是？",
+                "options": [
+                  "拿、取",
+                  "将要",
+                  "率领",
+                  "保养"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自将磨洗认前朝”中“认”的意思是？",
+                "options": [
+                  "辨认",
+                  "承认",
+                  "认为",
+                  "认领"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东风不与周郎便”中“与”的意思是？",
+                "options": [
+                  "给予",
+                  "和",
+                  "参与",
+                  "赞许"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东风不与周郎便”中“便”的意思是？",
+                "options": [
+                  "方便、便利",
+                  "于是",
+                  "就",
+                  "大小便"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“铜雀春深锁二乔”中“锁”的意思是？",
+                "options": [
+                  "锁住、囚禁",
+                  "锁链",
+                  "锁门",
+                  "封锁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“折戟沉沙铁未销”中“折”的意思是？",
+                "options": [
+                  "折断",
+                  "折服",
+                  "折返",
+                  "折叠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“铜雀春深锁二乔”中“春深”的意思是？",
+                "options": [
+                  "春意深浓",
+                  "春天深夜",
+                  "暮春时节",
+                  "春水深深"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自将磨洗认前朝”中“前朝”的意思是？",
+                "options": [
+                  "前一个朝代",
+                  "前面的朝廷",
+                  "前朝旧臣",
+                  "前代宫殿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东风不与周郎便”中“周郎”指的是？",
+                "options": [
+                  "周瑜",
+                  "周文王",
+                  "周勃",
+                  "周处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "折断的铁戟沉埋在沙中，铁质尚未完全锈蚀。",
+                "options": [
+                  "折戟沉沙铁未销",
+                  "自将磨洗认前朝",
+                  "东风不与周郎便",
+                  "铜雀春深锁二乔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“折戟沉沙铁未销”的意思是？",
+                "options": [
+                  "折断的铁戟沉埋在沙中，铁质尚未完全锈蚀",
+                  "折断的铁戟沉入沙中，铁质已经全部锈蚀",
+                  "折断的铁戟浮在沙面，铁质尚未完全锈蚀",
+                  "折断的铁戟沉在沙底，铁质已被泥沙销蚀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自己拿来磨洗，辨认出是前朝遗物。",
+                "options": [
+                  "自将磨洗认前朝",
+                  "折戟沉沙铁未销",
+                  "东风不与周郎便",
+                  "铜雀春深锁二乔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自将磨洗认前朝”的意思是？",
+                "options": [
+                  "自己拿来磨洗，辨认出是前朝遗物",
+                  "自己拿去打磨清洗，认定是前朝所造",
+                  "亲自磨洗之后，认出了前朝的旧友",
+                  "自己磨洗兵器，准备为前朝效力"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "如果东风没有给周瑜提供方便。",
+                "options": [
+                  "东风不与周郎便",
+                  "折戟沉沙铁未销",
+                  "自将磨洗认前朝",
+                  "铜雀春深锁二乔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“东风不与周郎便”的意思是？",
+                "options": [
+                  "如果东风没有给周瑜提供方便",
+                  "东风不肯与周瑜一同方便行事",
+                  "东风不吹，周瑜便觉得不便",
+                  "东风没有和周瑜见面，周瑜就方便了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "铜雀台春意深浓，二乔被锁在其中。",
+                "options": [
+                  "铜雀春深锁二乔",
+                  "折戟沉沙铁未销",
+                  "自将磨洗认前朝",
+                  "东风不与周郎便"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“铜雀春深锁二乔”的意思是？",
+                "options": [
+                  "铜雀台春意深浓，二乔被锁在其中",
+                  "铜雀台在深春时节锁住了两座桥",
+                  "铜雀台春色深深，锁住了二乔的春心",
+                  "铜雀台春深时，二乔锁上了门"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自将磨洗认前朝",
+                  "折戟沉沙铁未销"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铜雀春深锁二乔",
+                  "东风不与周郎便"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "东风不与周郎便",
+                  "折戟沉沙铁未销",
+                  "铜雀春深锁二乔",
+                  "自将磨洗认前朝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铜雀春深锁二乔",
+                  "自将磨洗认前朝",
+                  "东风不与周郎便",
+                  "折戟沉沙铁未销"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐ"
+              },
+              "otherInfo": {
+                "content": "折__沉沙铁未销",
+                "answer": "戟"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mó"
+              },
+              "otherInfo": {
+                "content": "自将__洗认前朝",
+                "answer": "磨"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "láng"
+              },
+              "otherInfo": {
+                "content": "东风不与周__便",
+                "answer": "郎"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què"
+              },
+              "otherInfo": {
+                "content": "铜__春深锁二乔",
+                "answer": "雀"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "折戟沉沙铁未__",
+                "answer": "销"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rèn"
+              },
+              "otherInfo": {
+                "content": "自将磨洗__前朝",
+                "answer": "认"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn"
+              },
+              "otherInfo": {
+                "content": "东风不与周郎__",
+                "answer": "便"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ"
+              },
+              "otherInfo": {
+                "content": "铜雀春深__二乔",
+                "answer": "锁"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chén"
+              },
+              "otherInfo": {
+                "content": "折戟__沙铁未销",
+                "answer": "沉"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáo"
+              },
+              "otherInfo": {
+                "content": "铜雀春深锁二__",
+                "answer": "乔"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "折戟沉沙铁未销，______",
+                "answer": "自将磨洗认前朝"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，自将磨洗认前朝",
+                "answer": "折戟沉沙铁未销"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "东风不与周郎便，______",
+                "answer": "铜雀春深锁二乔"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，铜雀春深锁二乔",
+                "answer": "东风不与周郎便"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "折戟沉沙铁未销，自将磨洗认前朝。______，______",
+                "answer": "东风不与周郎便，铜雀春深锁二乔"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "折戟沉沙铁未销，自将磨洗认前朝。______，______",
+                "answer": "东风不与周郎便，铜雀春深锁二乔"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "铜雀春深锁二乔",
+                  "折戟沉沙铁未销",
+                  "东风不与周郎便",
+                  "自将磨洗认前朝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自将磨洗认前朝",
+                  "东风不与周郎便",
+                  "折戟沉沙铁未销",
+                  "铜雀春深锁二乔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "东风不与周郎便",
+                  "铜雀春深锁二乔",
+                  "折戟沉沙铁未销",
+                  "自将磨洗认前朝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "折戟沉沙铁未销",
+                  "铜雀春深锁二乔",
+                  "自将磨洗认前朝",
+                  "东风不与周郎便"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自将磨洗认前朝",
+                  "折戟沉沙铁未销",
+                  "铜雀春深锁二乔",
+                  "东风不与周郎便"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

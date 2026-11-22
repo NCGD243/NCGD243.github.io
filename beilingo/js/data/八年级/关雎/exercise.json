@@ -1,0 +1,2403 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān guān jū jiū"
+              },
+              "otherInfo": {
+                "line": "关关雎鸠"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zài hé zhī zhōu"
+              },
+              "otherInfo": {
+                "line": "在河之洲"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎo tiǎo shū nǚ"
+              },
+              "otherInfo": {
+                "line": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jūn zǐ hǎo qiú"
+              },
+              "otherInfo": {
+                "line": "君子好逑"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cēn cī xìng cài"
+              },
+              "otherInfo": {
+                "line": "参差荇菜"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuǒ yòu liú zhī"
+              },
+              "otherInfo": {
+                "line": "左右流之"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎo tiǎo shū nǚ"
+              },
+              "otherInfo": {
+                "line": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wù mèi qiú zhī"
+              },
+              "otherInfo": {
+                "line": "寤寐求之"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiú zhī bù dé"
+              },
+              "otherInfo": {
+                "line": "求之不得"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wù mèi sī fú"
+              },
+              "otherInfo": {
+                "line": "寤寐思服"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yōu zāi yōu zāi"
+              },
+              "otherInfo": {
+                "line": "悠哉悠哉"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǎn zhuǎn fǎn cè"
+              },
+              "otherInfo": {
+                "line": "辗转反侧"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cēn cī xìng cài"
+              },
+              "otherInfo": {
+                "line": "参差荇菜"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuǒ yòu cǎi zhī"
+              },
+              "otherInfo": {
+                "line": "左右采之"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎo tiǎo shū nǚ"
+              },
+              "otherInfo": {
+                "line": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qín sè yǒu zhī"
+              },
+              "otherInfo": {
+                "line": "琴瑟友之"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cēn cī xìng cài"
+              },
+              "otherInfo": {
+                "line": "参差荇菜"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuǒ yòu mào zhī"
+              },
+              "otherInfo": {
+                "line": "左右芼之"
+              }
+            },
+            {
+              "id": "s1l1q19",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎo tiǎo shū nǚ"
+              },
+              "otherInfo": {
+                "line": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s1l1q20",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng gǔ lè zhī"
+              },
+              "otherInfo": {
+                "line": "钟鼓乐之"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“窈窕”的意思是？",
+                "options": [
+                  "文静美好的样子",
+                  "身材高挑的样子",
+                  "举止轻浮的样子",
+                  "容貌艳丽的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“好逑”的意思是？",
+                "options": [
+                  "好的配偶",
+                  "喜欢追求",
+                  "美好的愿望",
+                  "善于迎合"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“流”的意思是？",
+                "options": [
+                  "求取",
+                  "流动",
+                  "流失",
+                  "流传"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寤寐”的意思是？",
+                "options": [
+                  "日日夜夜",
+                  "睡醒之后",
+                  "睡梦之中",
+                  "辗转难眠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“思服”的意思是？",
+                "options": [
+                  "思念",
+                  "穿衣",
+                  "服从",
+                  "佩服"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“悠哉”的意思是？",
+                "options": [
+                  "思念绵绵不断",
+                  "悠闲自在",
+                  "忧心忡忡",
+                  "长夜漫漫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“芼”的意思是？",
+                "options": [
+                  "挑选",
+                  "拔取",
+                  "覆盖",
+                  "烹煮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“友”的意思是？",
+                "options": [
+                  "亲近",
+                  "朋友",
+                  "友爱",
+                  "结交"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乐”的意思是？",
+                "options": [
+                  "使……快乐",
+                  "音乐",
+                  "快乐",
+                  "喜爱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“洲”的意思是？",
+                "options": [
+                  "水中的陆地",
+                  "水边",
+                  "小岛",
+                  "河岸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "雎鸠鸟关关地叫着，停在河中的小洲上。",
+                "options": [
+                  "关关雎鸠，在河之洲",
+                  "参差荇菜，左右流之",
+                  "求之不得，寤寐思服",
+                  "蒹葭苍苍，白露为霜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“窈窕淑女，君子好逑”的意思是？",
+                "options": [
+                  "文静美好的姑娘，是君子的好配偶",
+                  "身材苗条的姑娘，君子都喜欢追求",
+                  "温柔贤惠的女子，君子都愿意结交",
+                  "美丽善良的女子，君子都争相迎娶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "长短不齐的荇菜，在船的左右两边求取。",
+                "options": [
+                  "参差荇菜，左右流之",
+                  "参差荇菜，左右采之",
+                  "参差荇菜，左右芼之",
+                  "蒹葭采采，白露未已"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“窈窕淑女，寤寐求之”的意思是？",
+                "options": [
+                  "文静美好的姑娘，日日夜夜追求她",
+                  "文静美好的姑娘，睡梦中都在思念她",
+                  "文静美好的姑娘，醒来后就去寻找她",
+                  "文静美好的姑娘，日夜盼望能见到她"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "追求不到她，日日夜夜思念。",
+                "options": [
+                  "求之不得，寤寐思服",
+                  "求之不得，辗转反侧",
+                  "悠哉悠哉，辗转反侧",
+                  "所谓伊人，在水一方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“悠哉悠哉，辗转反侧”的意思是？",
+                "options": [
+                  "思念绵绵不断，翻来覆去睡不着",
+                  "悠闲自在，翻来覆去很舒服",
+                  "忧心忡忡，辗转难眠到天亮",
+                  "长夜漫漫，翻来覆去等天明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "长短不齐的荇菜，在船的左右两边采摘。",
+                "options": [
+                  "参差荇菜，左右采之",
+                  "参差荇菜，左右流之",
+                  "参差荇菜，左右芼之",
+                  "蒹葭萋萋，白露未晞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“窈窕淑女，琴瑟友之”的意思是？",
+                "options": [
+                  "文静美好的姑娘，弹琴鼓瑟来亲近她",
+                  "文静美好的姑娘，弹琴鼓瑟来取悦她",
+                  "文静美好的姑娘，弹琴鼓瑟来追求她",
+                  "文静美好的姑娘，弹琴鼓瑟来陪伴她"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "长短不齐的荇菜，在船的左右两边挑选。",
+                "options": [
+                  "参差荇菜，左右芼之",
+                  "参差荇菜，左右采之",
+                  "参差荇菜，左右流之",
+                  "蒹葭采采，白露未已"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“窈窕淑女，钟鼓乐之”的意思是？",
+                "options": [
+                  "文静美好的姑娘，敲钟击鼓使她快乐",
+                  "文静美好的姑娘，敲钟击鼓来迎接她",
+                  "文静美好的姑娘，敲钟击鼓来庆祝",
+                  "文静美好的姑娘，敲钟击鼓来陪伴她"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "雎鸠鸟关关地叫着，停在河中的小洲上。",
+                "options": [
+                  "关关雎鸠，在河之洲",
+                  "参差荇菜，左右流之",
+                  "求之不得，寤寐思服",
+                  "蒹葭苍苍，白露为霜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“参差荇菜，左右流之”的意思是？",
+                "options": [
+                  "长短不齐的荇菜，在船的左右两边求取",
+                  "长短不齐的荇菜，在船的左右两边采摘",
+                  "长短不齐的荇菜，在船的左右两边挑选",
+                  "长短不齐的荇菜，在船的左右两边漂浮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "文静美好的姑娘，日日夜夜追求她。",
+                "options": [
+                  "窈窕淑女，寤寐求之",
+                  "窈窕淑女，琴瑟友之",
+                  "窈窕淑女，钟鼓乐之",
+                  "所谓伊人，在水之湄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“求之不得，寤寐思服”的意思是？",
+                "options": [
+                  "追求不到她，日日夜夜思念",
+                  "追求不到她，翻来覆去睡不着",
+                  "追求不到她，日夜盼望能见到",
+                  "追求不到她，日夜忧愁到天亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "思念绵绵不断，翻来覆去睡不着。",
+                "options": [
+                  "悠哉悠哉，辗转反侧",
+                  "求之不得，寤寐思服",
+                  "求之不得，辗转反侧",
+                  "所谓伊人，在水之涘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“参差荇菜，左右采之”的意思是？",
+                "options": [
+                  "长短不齐的荇菜，在船的左右两边采摘",
+                  "长短不齐的荇菜，在船的左右两边求取",
+                  "长短不齐的荇菜，在船的左右两边挑选",
+                  "长短不齐的荇菜，在船的左右两边漂浮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "文静美好的姑娘，弹琴鼓瑟来亲近她。",
+                "options": [
+                  "窈窕淑女，琴瑟友之",
+                  "窈窕淑女，钟鼓乐之",
+                  "窈窕淑女，寤寐求之",
+                  "所谓伊人，在水一方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“参差荇菜，左右芼之”的意思是？",
+                "options": [
+                  "长短不齐的荇菜，在船的左右两边挑选",
+                  "长短不齐的荇菜，在船的左右两边采摘",
+                  "长短不齐的荇菜，在船的左右两边求取",
+                  "长短不齐的荇菜，在船的左右两边漂浮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "文静美好的姑娘，敲钟击鼓使她快乐。",
+                "options": [
+                  "窈窕淑女，钟鼓乐之",
+                  "窈窕淑女，琴瑟友之",
+                  "窈窕淑女，寤寐求之",
+                  "所谓伊人，在水之涘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“关关雎鸠，在河之洲”的意思是？",
+                "options": [
+                  "雎鸠鸟关关地叫着，停在河中的小洲上",
+                  "雎鸠鸟关关地叫着，飞过河中的小洲",
+                  "雎鸠鸟关关地叫着，落在河边的沙滩上",
+                  "雎鸠鸟关关地叫着，游在河中的小洲旁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "在河之洲",
+                  "关关雎鸠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "君子好逑",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "左右流之",
+                  "参差荇菜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寤寐求之",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寤寐思服",
+                  "求之不得"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "辗转反侧",
+                  "悠哉悠哉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "左右采之",
+                  "参差荇菜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "琴瑟友之",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "左右芼之",
+                  "参差荇菜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "钟鼓乐之",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "君子好逑",
+                  "关关雎鸠",
+                  "窈窕淑女",
+                  "在河之洲"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寤寐求之",
+                  "参差荇菜",
+                  "窈窕淑女",
+                  "左右流之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寤寐思服",
+                  "求之不得",
+                  "辗转反侧",
+                  "悠哉悠哉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "琴瑟友之",
+                  "参差荇菜",
+                  "窈窕淑女",
+                  "左右采之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "钟鼓乐之",
+                  "参差荇菜",
+                  "窈窕淑女",
+                  "左右芼之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "求之不得",
+                  "关关雎鸠",
+                  "寤寐求之",
+                  "在河之洲",
+                  "窈窕淑女",
+                  "君子好逑",
+                  "参差荇菜",
+                  "左右流之",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "窈窕淑女",
+                  "参差荇菜",
+                  "左右采之",
+                  "琴瑟友之",
+                  "窈窕淑女",
+                  "参差荇菜",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jū"
+              },
+              "otherInfo": {
+                "content": "关关雎__",
+                "answer": "鸠"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "在河之__",
+                "answer": "洲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎo"
+              },
+              "otherInfo": {
+                "content": "__窕淑女",
+                "answer": "窈"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiú"
+              },
+              "otherInfo": {
+                "content": "君子好__",
+                "answer": "逑"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng"
+              },
+              "otherInfo": {
+                "content": "参差__菜",
+                "answer": "荇"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wù"
+              },
+              "otherInfo": {
+                "content": "__寐求之",
+                "answer": "寤"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dé"
+              },
+              "otherInfo": {
+                "content": "求之不__",
+                "answer": "得"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zāi"
+              },
+              "otherInfo": {
+                "content": "悠__悠哉",
+                "answer": "哉"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎi"
+              },
+              "otherInfo": {
+                "content": "左右__之",
+                "answer": "采"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sè"
+              },
+              "otherInfo": {
+                "content": "琴__友之",
+                "answer": "瑟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "关关雎鸠，______",
+                "answer": "在河之洲"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，在河之洲",
+                "answer": "关关雎鸠"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，______",
+                "answer": "君子好逑"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，君子好逑",
+                "answer": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，______",
+                "answer": "左右流之"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，左右流之",
+                "answer": "参差荇菜"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，______",
+                "answer": "寤寐求之"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寤寐求之",
+                "answer": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求之不得，______",
+                "answer": "寤寐思服"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寤寐思服",
+                "answer": "求之不得"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "悠哉悠哉，______",
+                "answer": "辗转反侧"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，辗转反侧",
+                "answer": "悠哉悠哉"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，______",
+                "answer": "左右采之"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，左右采之",
+                "answer": "参差荇菜"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，______",
+                "answer": "琴瑟友之"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，琴瑟友之",
+                "answer": "窈窕淑女"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，______",
+                "answer": "左右芼之"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，左右芼之",
+                "answer": "参差荇菜"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，______",
+                "answer": "钟鼓乐之"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，钟鼓乐之",
+                "answer": "窈窕淑女"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "关关雎鸠，在河之洲。______，______",
+                "answer": "窈窕淑女，君子好逑"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，君子好逑。______，______",
+                "answer": "参差荇菜，左右流之"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，左右流之。______，______",
+                "answer": "窈窕淑女，寤寐求之"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，寤寐求之。______，______",
+                "answer": "求之不得，寤寐思服"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求之不得，寤寐思服。______，______",
+                "answer": "悠哉悠哉，辗转反侧"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "悠哉悠哉，辗转反侧。______，______",
+                "answer": "参差荇菜，左右采之"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，左右采之。______，______",
+                "answer": "窈窕淑女，琴瑟友之"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "窈窕淑女，琴瑟友之。______，______",
+                "answer": "参差荇菜，左右芼之"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "参差荇菜，左右芼之。______，______",
+                "answer": "窈窕淑女，钟鼓乐之"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "求之不得",
+                  "关关雎鸠",
+                  "寤寐求之",
+                  "在河之洲",
+                  "窈窕淑女",
+                  "君子好逑",
+                  "参差荇菜",
+                  "左右流之",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "窈窕淑女",
+                  "参差荇菜",
+                  "左右采之",
+                  "琴瑟友之",
+                  "窈窕淑女",
+                  "参差荇菜",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "参差荇菜",
+                  "关关雎鸠",
+                  "窈窕淑女",
+                  "在河之洲",
+                  "君子好逑",
+                  "左右流之",
+                  "寤寐求之",
+                  "求之不得",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "窈窕淑女",
+                  "左右采之",
+                  "琴瑟友之",
+                  "参差荇菜",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之",
+                  "参差荇菜",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "窈窕淑女",
+                  "关关雎鸠",
+                  "君子好逑",
+                  "在河之洲",
+                  "参差荇菜",
+                  "左右流之",
+                  "寤寐求之",
+                  "求之不得",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "参差荇菜",
+                  "左右采之",
+                  "琴瑟友之",
+                  "窈窕淑女",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之",
+                  "参差荇菜",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "参差荇菜",
+                  "关关雎鸠",
+                  "左右流之",
+                  "在河之洲",
+                  "窈窕淑女",
+                  "君子好逑",
+                  "寤寐求之",
+                  "求之不得",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "窈窕淑女",
+                  "左右采之",
+                  "琴瑟友之",
+                  "参差荇菜",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之",
+                  "参差荇菜",
+                  "窈窕淑女"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "窈窕淑女",
+                  "关关雎鸠",
+                  "寤寐求之",
+                  "在河之洲",
+                  "参差荇菜",
+                  "君子好逑",
+                  "左右流之",
+                  "求之不得",
+                  "寤寐思服",
+                  "悠哉悠哉",
+                  "辗转反侧",
+                  "窈窕淑女",
+                  "左右采之",
+                  "琴瑟友之",
+                  "参差荇菜",
+                  "左右芼之",
+                  "窈窕淑女",
+                  "钟鼓乐之",
+                  "参差荇菜",
+                  "窈窕淑女"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

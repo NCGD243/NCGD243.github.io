@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng tóu zhì zǐ xué chuí lún"
+              },
+              "otherInfo": {
+                "line": "蓬头稚子学垂纶"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cè zuò méi tái cǎo yìng shēn"
+              },
+              "otherInfo": {
+                "line": "侧坐莓苔草映身"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù rén jiè wèn yáo zhāo shǒu"
+              },
+              "otherInfo": {
+                "line": "路人借问遥招手"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pà dé yú jīng bù yìng rén"
+              },
+              "otherInfo": {
+                "line": "怕得鱼惊不应人"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蓬头”的意思是？",
+                "options": [
+                  "头发蓬乱",
+                  "戴着斗笠",
+                  "披着蓑衣",
+                  "光着脑袋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“稚子”的意思是？",
+                "options": [
+                  "幼小的孩子",
+                  "年轻的渔夫",
+                  "顽皮的少年",
+                  "瘦弱的童子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“垂纶”的意思是？",
+                "options": [
+                  "钓鱼",
+                  "织网",
+                  "划船",
+                  "采莲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“莓苔”的意思是？",
+                "options": [
+                  "青苔",
+                  "野草",
+                  "芦苇",
+                  "浮萍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“映”的意思是？",
+                "options": [
+                  "遮蔽",
+                  "照耀",
+                  "倒映",
+                  "衬托"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“借问”的意思是？",
+                "options": [
+                  "打听询问",
+                  "借机发问",
+                  "请求帮助",
+                  "高声呼喊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥”的意思是？",
+                "options": [
+                  "远远地",
+                  "轻轻地",
+                  "悄悄地",
+                  "慢慢地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“招手”的意思是？",
+                "options": [
+                  "摆手示意",
+                  "挥手告别",
+                  "拍手叫好",
+                  "拱手行礼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“怕”的意思是？",
+                "options": [
+                  "担心",
+                  "畏惧",
+                  "害羞",
+                  "厌恶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“应”的意思是？",
+                "options": [
+                  "应答",
+                  "应该",
+                  "适应",
+                  "应和"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一个头发蓬乱的小孩正在学钓鱼。",
+                "options": [
+                  "蓬头稚子学垂纶",
+                  "侧坐莓苔草映身",
+                  "路人借问遥招手",
+                  "怕得鱼惊不应人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“蓬头稚子学垂纶”的意思是？",
+                "options": [
+                  "头发蓬乱的小孩在学钓鱼",
+                  "头发蓬乱的小孩在学织网",
+                  "头发蓬乱的小孩在学划船",
+                  "头发蓬乱的小孩在学采莲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他侧身坐在青苔上，野草遮住了他的身子。",
+                "options": [
+                  "侧坐莓苔草映身",
+                  "蓬头稚子学垂纶",
+                  "路人借问遥招手",
+                  "怕得鱼惊不应人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“侧坐莓苔草映身”的意思是？",
+                "options": [
+                  "侧身坐在青苔上，野草遮住了身子",
+                  "侧身坐在石头上，野草映照着身子",
+                  "侧身坐在青苔上，野草映照着身子",
+                  "侧身坐在石头上，野草遮住了身子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "过路的人远远地向他打听，他远远地摆手示意。",
+                "options": [
+                  "路人借问遥招手",
+                  "蓬头稚子学垂纶",
+                  "侧坐莓苔草映身",
+                  "怕得鱼惊不应人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“路人借问遥招手”的意思是？",
+                "options": [
+                  "过路的人远远地向他打听，他远远地摆手示意",
+                  "过路的人走近向他打听，他远远地摆手示意",
+                  "过路的人远远地向他打听，他走近摆手示意",
+                  "过路的人走近向他打听，他走近摆手示意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他担心惊动鱼儿，不敢应答别人。",
+                "options": [
+                  "怕得鱼惊不应人",
+                  "蓬头稚子学垂纶",
+                  "侧坐莓苔草映身",
+                  "路人借问遥招手"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“怕得鱼惊不应人”的意思是？",
+                "options": [
+                  "担心惊动鱼儿，不敢应答别人",
+                  "担心惊动鱼儿，不敢招呼别人",
+                  "担心吓跑鱼儿，不敢应答别人",
+                  "担心吓跑鱼儿，不敢招呼别人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "侧坐莓苔草映身",
+                  "蓬头稚子学垂纶"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "怕得鱼惊不应人",
+                  "路人借问遥招手"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "路人借问遥招手",
+                  "侧坐莓苔草映身",
+                  "蓬头稚子学垂纶",
+                  "怕得鱼惊不应人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "怕得鱼惊不应人",
+                  "蓬头稚子学垂纶",
+                  "路人借问遥招手",
+                  "侧坐莓苔草映身"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng"
+              },
+              "otherInfo": {
+                "content": "__头稚子学垂纶",
+                "answer": "蓬"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "蓬头__子学垂纶",
+                "answer": "稚"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lún"
+              },
+              "otherInfo": {
+                "content": "蓬头稚子学垂__",
+                "answer": "纶"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cè"
+              },
+              "otherInfo": {
+                "content": "__坐莓苔草映身",
+                "answer": "侧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méi"
+              },
+              "otherInfo": {
+                "content": "侧坐__苔草映身",
+                "answer": "莓"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tái"
+              },
+              "otherInfo": {
+                "content": "侧坐莓__草映身",
+                "answer": "苔"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo"
+              },
+              "otherInfo": {
+                "content": "路人借问__招手",
+                "answer": "遥"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo"
+              },
+              "otherInfo": {
+                "content": "路人借问遥__手",
+                "answer": "招"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng"
+              },
+              "otherInfo": {
+                "content": "怕得鱼__不应人",
+                "answer": "惊"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yìng"
+              },
+              "otherInfo": {
+                "content": "怕得鱼惊不__人",
+                "answer": "应"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蓬头稚子学垂纶，______",
+                "answer": "侧坐莓苔草映身"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，侧坐莓苔草映身",
+                "answer": "蓬头稚子学垂纶"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "路人借问遥招手，______",
+                "answer": "怕得鱼惊不应人"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，怕得鱼惊不应人",
+                "answer": "路人借问遥招手"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蓬头稚子学垂纶，侧坐莓苔草映身。______，______",
+                "answer": "路人借问遥招手，怕得鱼惊不应人"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蓬头稚子学垂纶，侧坐莓苔草映身。______，______",
+                "answer": "路人借问遥招手，怕得鱼惊不应人"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "怕得鱼惊不应人",
+                  "蓬头稚子学垂纶",
+                  "路人借问遥招手",
+                  "侧坐莓苔草映身"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "侧坐莓苔草映身",
+                  "路人借问遥招手",
+                  "蓬头稚子学垂纶",
+                  "怕得鱼惊不应人"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "路人借问遥招手",
+                  "怕得鱼惊不应人",
+                  "侧坐莓苔草映身",
+                  "蓬头稚子学垂纶"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "蓬头稚子学垂纶",
+                  "怕得鱼惊不应人",
+                  "侧坐莓苔草映身",
+                  "路人借问遥招手"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "侧坐莓苔草映身",
+                  "怕得鱼惊不应人",
+                  "蓬头稚子学垂纶",
+                  "路人借问遥招手"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

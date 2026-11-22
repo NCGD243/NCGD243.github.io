@@ -1,0 +1,983 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "é méi shān yuè bàn lún qiū"
+              },
+              "otherInfo": {
+                "line": "峨眉山月半轮秋"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐng rù píng qiāng jiāng shuǐ liú"
+              },
+              "otherInfo": {
+                "line": "影入平羌江水流"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè fā qīng xī xiàng sān xiá"
+              },
+              "otherInfo": {
+                "line": "夜发清溪向三峡"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī jūn bú jiàn xià yú zhōu"
+              },
+              "otherInfo": {
+                "line": "思君不见下渝州"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半轮秋”的意思是？",
+                "options": [
+                  "半圆的秋月",
+                  "半个秋天的夜晚",
+                  "秋风吹了一半",
+                  "秋天过了一半"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“影”的意思是？",
+                "options": [
+                  "月影",
+                  "人影",
+                  "树影",
+                  "山影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“平羌”的意思是？",
+                "options": [
+                  "平羌江",
+                  "平定羌人",
+                  "平坦的羌地",
+                  "羌人的平原"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“发”的意思是？",
+                "options": [
+                  "出发",
+                  "头发",
+                  "发现",
+                  "发送"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“清溪”的意思是？",
+                "options": [
+                  "清溪驿",
+                  "清澈的溪水",
+                  "清溪县",
+                  "清溪河"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“向”的意思是？",
+                "options": [
+                  "驶向",
+                  "向来",
+                  "先前",
+                  "偏向"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“思君”的意思是？",
+                "options": [
+                  "思念友人",
+                  "思考君王",
+                  "思念故乡",
+                  "思念亲人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“下”的意思是？",
+                "options": [
+                  "顺流而下",
+                  "下降",
+                  "下面",
+                  "放下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渝州”的意思是？",
+                "options": [
+                  "今重庆一带",
+                  "今四川宜宾",
+                  "今湖北宜昌",
+                  "今四川乐山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“三峡”的意思是？",
+                "options": [
+                  "长江三峡",
+                  "黄河三峡",
+                  "嘉陵江三峡",
+                  "岷江三峡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "峨眉山上半轮秋月高悬。",
+                "options": [
+                  "峨眉山月半轮秋",
+                  "影入平羌江水流",
+                  "夜发清溪向三峡",
+                  "思君不见下渝州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“峨眉山月半轮秋”的意思是？",
+                "options": [
+                  "峨眉山上半轮秋月高悬",
+                  "峨眉山秋天月亮只有一半",
+                  "峨眉山半轮秋月照了半个秋天",
+                  "峨眉山秋月半轮映在水中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "月影映入平羌江，江水缓缓流淌。",
+                "options": [
+                  "影入平羌江水流",
+                  "峨眉山月半轮秋",
+                  "夜发清溪向三峡",
+                  "思君不见下渝州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“影入平羌江水流”的意思是？",
+                "options": [
+                  "月影映入平羌江，江水缓缓流淌",
+                  "月影落入平羌江，被江水冲走",
+                  "人影倒映平羌江，随江水流动",
+                  "平羌江水流湍急，月影破碎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夜里从清溪驿出发，驶向三峡。",
+                "options": [
+                  "夜发清溪向三峡",
+                  "峨眉山月半轮秋",
+                  "影入平羌江水流",
+                  "思君不见下渝州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜发清溪向三峡”的意思是？",
+                "options": [
+                  "夜里从清溪驿出发，驶向三峡",
+                  "夜里在清溪出发，经过三峡",
+                  "夜里从清溪出发，驶向三峡以西",
+                  "夜里从清溪驿出发，返回三峡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "思念友人却不得相见，只好顺流下渝州。",
+                "options": [
+                  "思君不见下渝州",
+                  "峨眉山月半轮秋",
+                  "影入平羌江水流",
+                  "夜发清溪向三峡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“思君不见下渝州”的意思是？",
+                "options": [
+                  "思念友人却不得相见，只好顺流下渝州",
+                  "思念君王却见不到，于是下渝州",
+                  "思念友人，友人却下了渝州",
+                  "思念故乡不得归，只好下渝州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "峨眉山月半轮秋",
+                  "影入平羌江水流"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜发清溪向三峡",
+                  "思君不见下渝州"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "影入平羌江水流",
+                  "峨眉山月半轮秋",
+                  "夜发清溪向三峡",
+                  "思君不见下渝州"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜发清溪向三峡",
+                  "思君不见下渝州",
+                  "峨眉山月半轮秋",
+                  "影入平羌江水流"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "思君不见下渝州",
+                  "夜发清溪向三峡",
+                  "影入平羌江水流",
+                  "峨眉山月半轮秋"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "é"
+              },
+              "otherInfo": {
+                "content": "__眉山月半轮秋",
+                "answer": "峨"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiāng"
+              },
+              "otherInfo": {
+                "content": "影入平__江水流",
+                "answer": "羌"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "夜发清__向三峡",
+                "answer": "溪"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "思君不见下__州",
+                "answer": "渝"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lún"
+              },
+              "otherInfo": {
+                "content": "峨眉山月半__秋",
+                "answer": "轮"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐng"
+              },
+              "otherInfo": {
+                "content": "__入平羌江水流",
+                "answer": "影"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiá"
+              },
+              "otherInfo": {
+                "content": "夜发清溪向三__",
+                "answer": "峡"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "思君不见下渝__",
+                "answer": "州"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liú"
+              },
+              "otherInfo": {
+                "content": "影入平羌江水__",
+                "answer": "流"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè"
+              },
+              "otherInfo": {
+                "content": "__发清溪向三峡",
+                "answer": "夜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "峨眉山月半轮秋，______",
+                "answer": "影入平羌江水流"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，影入平羌江水流",
+                "answer": "峨眉山月半轮秋"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜发清溪向三峡，______",
+                "answer": "思君不见下渝州"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，思君不见下渝州",
+                "answer": "夜发清溪向三峡"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "峨眉山月半轮秋，影入平羌江水流。______，______",
+                "answer": "夜发清溪向三峡，思君不见下渝州"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜发清溪向三峡，思君不见下渝州。______，______",
+                "answer": "夜发清溪向三峡，思君不见下渝州"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "影入平羌江水流",
+                  "思君不见下渝州",
+                  "峨眉山月半轮秋",
+                  "夜发清溪向三峡"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜发清溪向三峡",
+                  "峨眉山月半轮秋",
+                  "思君不见下渝州",
+                  "影入平羌江水流"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "思君不见下渝州",
+                  "影入平羌江水流",
+                  "夜发清溪向三峡",
+                  "峨眉山月半轮秋"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "峨眉山月半轮秋",
+                  "夜发清溪向三峡",
+                  "影入平羌江水流",
+                  "思君不见下渝州"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "影入平羌江水流",
+                  "夜发清溪向三峡",
+                  "思君不见下渝州",
+                  "峨眉山月半轮秋"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hēi yún fān mò wèi zhē shān"
+              },
+              "otherInfo": {
+                "line": "黑云翻墨未遮山"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái yǔ tiào zhū luàn rù chuán"
+              },
+              "otherInfo": {
+                "line": "白雨跳珠乱入船"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn dì fēng lái hū chuī sàn"
+              },
+              "otherInfo": {
+                "line": "卷地风来忽吹散"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàng hú lóu xià shuǐ rú tiān"
+              },
+              "otherInfo": {
+                "line": "望湖楼下水如天"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“翻墨”的意思是？",
+                "options": [
+                  "打翻的墨汁，形容云黑",
+                  "翻晒的墨块，形容天晴",
+                  "泼洒的颜料，形容雨急",
+                  "研好的浓墨，形容水浊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遮”的意思是？",
+                "options": [
+                  "遮挡",
+                  "遮盖",
+                  "遮蔽",
+                  "遮住"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“跳珠”的意思是？",
+                "options": [
+                  "跳动的珍珠，比喻雨点",
+                  "跳水的珠子，比喻船行",
+                  "跳跃的露珠，比喻荷叶",
+                  "跳落的玉珠，比喻冰雹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乱”的意思是？",
+                "options": [
+                  "杂乱无章",
+                  "纷乱无序",
+                  "随意、纷纷",
+                  "叛乱不安"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“卷地”的意思是？",
+                "options": [
+                  "卷起地面",
+                  "贴地席卷",
+                  "卷土重来",
+                  "翻卷土地"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忽”的意思是？",
+                "options": [
+                  "忽然",
+                  "忽视",
+                  "恍惚",
+                  "匆忙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“吹散”的意思是？",
+                "options": [
+                  "吹开分散",
+                  "吹拂散落",
+                  "吹动散乱",
+                  "吹得消散"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“水如天”的意思是？",
+                "options": [
+                  "水像天空一样清澈",
+                  "水天相接，一片澄碧",
+                  "水比天还要高远",
+                  "水映天空，波浪起伏"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "乌云翻滚像打翻的墨汁，还没有遮住山。",
+                "options": [
+                  "黑云翻墨未遮山",
+                  "白雨跳珠乱入船",
+                  "卷地风来忽吹散",
+                  "望湖楼下水如天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“黑云翻墨未遮山”的意思是？",
+                "options": [
+                  "乌云像翻倒的墨汁，但还没有遮住山",
+                  "乌云像研开的墨汁，已经完全遮住山",
+                  "黑云像泼洒的墨点，正慢慢飘过山",
+                  "黑云像翻晒的墨块，停留在山腰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "白亮的雨点像跳动的珍珠，杂乱地溅入船中。",
+                "options": [
+                  "黑云翻墨未遮山",
+                  "白雨跳珠乱入船",
+                  "卷地风来忽吹散",
+                  "望湖楼下水如天"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白雨跳珠乱入船”的意思是？",
+                "options": [
+                  "白色的雨点像跳动的珍珠，纷纷乱乱地溅入船中",
+                  "白色的雨珠像跳水的珠子，整整齐齐地落进船里",
+                  "白亮的雨点像跳动的珍珠，被风吹得远离船只",
+                  "白色的雨幕像跳动的珠子，把船篷打得乱响"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "贴地席卷而来的大风忽然把云雨吹散了。",
+                "options": [
+                  "黑云翻墨未遮山",
+                  "白雨跳珠乱入船",
+                  "卷地风来忽吹散",
+                  "望湖楼下水如天"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“卷地风来忽吹散”的意思是？",
+                "options": [
+                  "贴地而来的大风忽然把云雨吹散了",
+                  "卷起地面的狂风忽然把船吹散了",
+                  "席卷大地的风忽然把乌云吹来了",
+                  "贴地吹来的风忽然把雨点吹乱了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "望湖楼下的水面像天空一样澄碧。",
+                "options": [
+                  "黑云翻墨未遮山",
+                  "白雨跳珠乱入船",
+                  "卷地风来忽吹散",
+                  "望湖楼下水如天"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“望湖楼下水如天”的意思是？",
+                "options": [
+                  "望湖楼下的水面像天空一样澄碧",
+                  "望湖楼下的水势像天空一样高远",
+                  "望湖楼下的水声像天空一样空旷",
+                  "望湖楼下的水色像天空一样阴沉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雨跳珠乱入船",
+                  "黑云翻墨未遮山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "望湖楼下水如天",
+                  "卷地风来忽吹散"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雨跳珠乱入船",
+                  "卷地风来忽吹散",
+                  "黑云翻墨未遮山",
+                  "望湖楼下水如天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "望湖楼下水如天",
+                  "黑云翻墨未遮山",
+                  "卷地风来忽吹散",
+                  "白雨跳珠乱入船"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "黑云翻__未遮山",
+                "answer": "墨"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiào"
+              },
+              "otherInfo": {
+                "content": "白雨__珠乱入船",
+                "answer": "跳"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn"
+              },
+              "otherInfo": {
+                "content": "__地风来忽吹散",
+                "answer": "卷"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān"
+              },
+              "otherInfo": {
+                "content": "望湖楼下水如__",
+                "answer": "天"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黑云翻墨未遮山，______。",
+                "answer": "白雨跳珠乱入船"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白雨跳珠乱入船。",
+                "answer": "黑云翻墨未遮山"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "卷地风来忽吹散，______。",
+                "answer": "望湖楼下水如天"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，望湖楼下水如天。",
+                "answer": "卷地风来忽吹散"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黑云翻墨未遮山，白雨跳珠乱入船。______，______。",
+                "answer": "卷地风来忽吹散，望湖楼下水如天"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黑云翻墨未遮山，白雨跳珠乱入船。______，______。",
+                "answer": "卷地风来忽吹散，望湖楼下水如天"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卷地风来忽吹散",
+                  "黑云翻墨未遮山",
+                  "望湖楼下水如天",
+                  "白雨跳珠乱入船"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雨跳珠乱入船",
+                  "望湖楼下水如天",
+                  "黑云翻墨未遮山",
+                  "卷地风来忽吹散"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "望湖楼下水如天",
+                  "卷地风来忽吹散",
+                  "白雨跳珠乱入船",
+                  "黑云翻墨未遮山"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黑云翻墨未遮山",
+                  "望湖楼下水如天",
+                  "卷地风来忽吹散",
+                  "白雨跳珠乱入船"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卷地风来忽吹散",
+                  "白雨跳珠乱入船",
+                  "望湖楼下水如天",
+                  "黑云翻墨未遮山"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

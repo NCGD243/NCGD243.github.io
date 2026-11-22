@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo cí bái dì cǎi yún jiān"
+              },
+              "otherInfo": {
+                "line": "朝辞白帝彩云间"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān lǐ jiāng líng yī rì huán"
+              },
+              "otherInfo": {
+                "line": "千里江陵一日还"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǎng àn yuán shēng tí bù zhù"
+              },
+              "otherInfo": {
+                "line": "两岸猿声啼不住"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng zhōu yǐ guò wàn chóng shān"
+              },
+              "otherInfo": {
+                "line": "轻舟已过万重山"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“朝辞白帝彩云间”中“辞”的意思是？",
+                "options": [
+                  "告别",
+                  "推辞",
+                  "言辞",
+                  "辞职"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“朝辞白帝彩云间”中“朝”的意思是？",
+                "options": [
+                  "早晨",
+                  "朝廷",
+                  "朝向",
+                  "朝代"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千里江陵一日还”中“还”的意思是？",
+                "options": [
+                  "返回",
+                  "归还",
+                  "还是",
+                  "环绕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“两岸猿声啼不住”中“住”的意思是？",
+                "options": [
+                  "停止",
+                  "居住",
+                  "住宿",
+                  "守住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻舟已过万重山”中“轻舟”的意思是？",
+                "options": [
+                  "轻快的小船",
+                  "轻薄的木片",
+                  "轻视的行舟",
+                  "轻便的竹筏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻舟已过万重山”中“万重山”的意思是？",
+                "options": [
+                  "层层叠叠的山",
+                  "一万座山",
+                  "万斤重的山",
+                  "名叫万重的山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千里江陵一日还”中“千里”的意思是？",
+                "options": [
+                  "形容路途遥远",
+                  "一千里整",
+                  "千里的马",
+                  "千里的江"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“两岸猿声啼不住”中“啼”的意思是？",
+                "options": [
+                  "鸣叫",
+                  "啼哭",
+                  "啼笑",
+                  "啼血"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“朝辞白帝彩云间”中“彩云间”的意思是？",
+                "options": [
+                  "彩云之间",
+                  "彩色的云朵",
+                  "云间的彩带",
+                  "彩云中间隔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻舟已过万重山”中“已”的意思是？",
+                "options": [
+                  "已经",
+                  "停止",
+                  "以后",
+                  "太过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "清晨告别彩云环绕的白帝城。",
+                "options": [
+                  "朝辞白帝彩云间",
+                  "千里江陵一日还",
+                  "两岸猿声啼不住",
+                  "轻舟已过万重山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“朝辞白帝彩云间”的意思是？",
+                "options": [
+                  "清晨告别高入彩云的白帝城",
+                  "早晨辞去白帝城中的官职",
+                  "朝阳映照白帝城如彩云一般",
+                  "清晨从白帝城出发去彩云间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "千里之遥的江陵一天就能返回。",
+                "options": [
+                  "朝辞白帝彩云间",
+                  "千里江陵一日还",
+                  "两岸猿声啼不住",
+                  "轻舟已过万重山"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千里江陵一日还”的意思是？",
+                "options": [
+                  "千里远的江陵一天就返回了",
+                  "千里江陵走了一天才回来",
+                  "一天之内从江陵行千里路",
+                  "江陵千里之外一日可到达"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "两岸猿猴的叫声连续不断。",
+                "options": [
+                  "朝辞白帝彩云间",
+                  "千里江陵一日还",
+                  "两岸猿声啼不住",
+                  "轻舟已过万重山"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“两岸猿声啼不住”的意思是？",
+                "options": [
+                  "两岸猿猴的叫声不停歇",
+                  "两岸猿猴的叫声留不住",
+                  "两岸猿猴在不住地啼哭",
+                  "两岸猿声让人无法停留"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "轻快的小船已经越过重重山峦。",
+                "options": [
+                  "朝辞白帝彩云间",
+                  "千里江陵一日还",
+                  "两岸猿声啼不住",
+                  "轻舟已过万重山"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“轻舟已过万重山”的意思是？",
+                "options": [
+                  "轻快的小船已越过层层山峦",
+                  "轻舟已经驶过一万座山",
+                  "轻舟载着万重山驶过",
+                  "轻舟已过名叫万重的山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "彩云间",
+                  "朝辞白帝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一日还",
+                  "千里江陵"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "啼不住",
+                  "两岸猿声"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万重山",
+                  "轻舟已过"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千里江陵一日还",
+                  "朝辞白帝彩云间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两岸猿声啼不住",
+                  "千里江陵一日还"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻舟已过万重山",
+                  "两岸猿声啼不住"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻舟已过万重山",
+                  "朝辞白帝彩云间",
+                  "两岸猿声啼不住",
+                  "千里江陵一日还"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo"
+              },
+              "otherInfo": {
+                "content": "__辞白帝彩云间",
+                "answer": "朝"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huán"
+              },
+              "otherInfo": {
+                "content": "千里江陵一日__",
+                "answer": "还"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "两岸猿声__不住",
+                "answer": "啼"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "轻__已过万重山",
+                "answer": "舟"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dì"
+              },
+              "otherInfo": {
+                "content": "朝辞白__彩云间",
+                "answer": "帝"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "líng"
+              },
+              "otherInfo": {
+                "content": "千里江__一日还",
+                "answer": "陵"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán"
+              },
+              "otherInfo": {
+                "content": "两岸__声啼不住",
+                "answer": "猿"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóng"
+              },
+              "otherInfo": {
+                "content": "轻舟已过万__山",
+                "answer": "重"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎi"
+              },
+              "otherInfo": {
+                "content": "朝辞白帝__云间",
+                "answer": "彩"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guò"
+              },
+              "otherInfo": {
+                "content": "轻舟已__万重山",
+                "answer": "过"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朝辞白帝彩云间，______",
+                "answer": "千里江陵一日还"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，千里江陵一日还",
+                "answer": "朝辞白帝彩云间"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "两岸猿声啼不住，______",
+                "answer": "轻舟已过万重山"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，轻舟已过万重山",
+                "answer": "两岸猿声啼不住"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "朝辞白帝彩云间，千里江陵一日还。______，______",
+                "answer": "两岸猿声啼不住，轻舟已过万重山"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "两岸猿声啼不住，轻舟已过万重山。______，______",
+                "answer": "朝辞白帝彩云间，千里江陵一日还"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻舟已过万重山",
+                  "朝辞白帝彩云间",
+                  "两岸猿声啼不住",
+                  "千里江陵一日还"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千里江陵一日还",
+                  "轻舟已过万重山",
+                  "朝辞白帝彩云间",
+                  "两岸猿声啼不住"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两岸猿声啼不住",
+                  "千里江陵一日还",
+                  "轻舟已过万重山",
+                  "朝辞白帝彩云间"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "朝辞白帝彩云间",
+                  "轻舟已过万重山",
+                  "千里江陵一日还",
+                  "两岸猿声啼不住"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千里江陵一日还",
+                  "两岸猿声啼不住",
+                  "轻舟已过万重山",
+                  "朝辞白帝彩云间"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

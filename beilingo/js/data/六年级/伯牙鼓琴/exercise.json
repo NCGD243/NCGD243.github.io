@@ -1,0 +1,1698 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bó yá gǔ qín"
+              },
+              "otherInfo": {
+                "line": "伯牙鼓琴"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng zǐ qī tīng zhī"
+              },
+              "otherInfo": {
+                "line": "锺子期听之"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fāng gǔ qín ér zhì zài tài shān"
+              },
+              "otherInfo": {
+                "line": "方鼓琴而志在太山"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng zǐ qī yuē shàn zāi hū gǔ qín"
+              },
+              "otherInfo": {
+                "line": "锺子期曰：“善哉乎鼓琴"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēi wēi hū ruò tài shān"
+              },
+              "otherInfo": {
+                "line": "巍巍乎若太山"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shào xuǎn jiān ér zhì zài liú shuǐ"
+              },
+              "otherInfo": {
+                "line": "少选之间而志在流水"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng zǐ qī yòu yuē shàn zāi hū gǔ qín"
+              },
+              "otherInfo": {
+                "line": "锺子期又曰：“善哉乎鼓琴"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tāng tāng hū ruò liú shuǐ"
+              },
+              "otherInfo": {
+                "line": "汤汤乎若流水"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng zǐ qī sǐ bó yá pò qín jué xián"
+              },
+              "otherInfo": {
+                "line": "锺子期死，伯牙破琴绝弦"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng shēn bù fù gǔ qín"
+              },
+              "otherInfo": {
+                "line": "终身不复鼓琴"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ wéi shì wú zú fù wéi gǔ qín zhě"
+              },
+              "otherInfo": {
+                "line": "以为世无足复为鼓琴者"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“方鼓琴而志在太山”中“方”的意思是？",
+                "options": [
+                  "正在",
+                  "刚刚",
+                  "方圆",
+                  "方法"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“善哉乎鼓琴”中“善”的意思是？",
+                "options": [
+                  "好",
+                  "擅长",
+                  "善良",
+                  "容易"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“巍巍乎若太山”中“若”的意思是？",
+                "options": [
+                  "像",
+                  "你",
+                  "如果",
+                  "顺从"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“少选之间”中“少选”的意思是？",
+                "options": [
+                  "一会儿",
+                  "挑选得少",
+                  "年少时",
+                  "稍微选择"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汤汤乎若流水”中“汤汤”的意思是？",
+                "options": [
+                  "水势浩大的样子",
+                  "热水翻滚的样子",
+                  "汤药沸腾的样子",
+                  "天气炎热的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“伯牙破琴绝弦”中“绝”的意思是？",
+                "options": [
+                  "断绝",
+                  "绝对",
+                  "超过",
+                  "停止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“终身不复鼓琴”中“复”的意思是？",
+                "options": [
+                  "再",
+                  "恢复",
+                  "回答",
+                  "重复"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“以为世无足复为鼓琴者”中“足”的意思是？",
+                "options": [
+                  "值得",
+                  "脚",
+                  "足够",
+                  "充足"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锺子期听之”中“之”的意思是？",
+                "options": [
+                  "指伯牙的琴声",
+                  "的",
+                  "他",
+                  "到"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“巍巍乎若太山”中“乎”的意思是？",
+                "options": [
+                  "语气词，相当于“啊”",
+                  "在",
+                  "于",
+                  "吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "伯牙弹琴，锺子期听他弹奏。",
+                "options": [
+                  "伯牙鼓琴，锺子期听之",
+                  "方鼓琴而志在太山",
+                  "少选之间而志在流水",
+                  "锺子期死，伯牙破琴绝弦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“伯牙鼓琴，锺子期听之”的意思是？",
+                "options": [
+                  "伯牙弹琴，锺子期听他弹奏",
+                  "伯牙弹琴，锺子期为他伴奏",
+                  "伯牙弹琴，锺子期在旁唱歌",
+                  "伯牙弹琴，锺子期远远走开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "伯牙正弹着琴，心里想着高山。",
+                "options": [
+                  "方鼓琴而志在太山",
+                  "巍巍乎若太山",
+                  "少选之间而志在流水",
+                  "汤汤乎若流水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“方鼓琴而志在太山”的意思是？",
+                "options": [
+                  "伯牙正弹着琴，心里想着高山",
+                  "伯牙刚学弹琴，就立志登泰山",
+                  "伯牙弹琴时，锺子期想着高山",
+                  "伯牙放下琴，心中思念泰山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "锺子期说：“弹得真好啊！像大山一样高峻。”",
+                "options": [
+                  "锺子期曰：“善哉乎鼓琴，巍巍乎若太山”",
+                  "锺子期又曰：“善哉乎鼓琴，汤汤乎若流水”",
+                  "伯牙破琴绝弦，终身不复鼓琴",
+                  "以为世无足复为鼓琴者"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“善哉乎鼓琴，巍巍乎若太山”的意思是？",
+                "options": [
+                  "弹得真好啊，像大山一样高峻",
+                  "弹得真好啊，像泰山一样沉重",
+                  "弹得真好啊，像大山一样安静",
+                  "弹得真好啊，像泰山一样遥远"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不一会儿，伯牙心里又想着流水。",
+                "options": [
+                  "少选之间而志在流水",
+                  "方鼓琴而志在太山",
+                  "汤汤乎若流水",
+                  "巍巍乎若太山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“少选之间而志在流水”的意思是？",
+                "options": [
+                  "不一会儿，伯牙心里又想着流水",
+                  "年少时，伯牙就立志看流水",
+                  "选了一会儿，伯牙才想到流水",
+                  "过了一会儿，伯牙停止弹流水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "锺子期又说：“弹得真好啊！像流水一样浩荡。”",
+                "options": [
+                  "锺子期又曰：“善哉乎鼓琴，汤汤乎若流水”",
+                  "锺子期曰：“善哉乎鼓琴，巍巍乎若太山”",
+                  "伯牙破琴绝弦，终身不复鼓琴",
+                  "以为世无足复为鼓琴者"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“善哉乎鼓琴，汤汤乎若流水”的意思是？",
+                "options": [
+                  "弹得真好啊，像流水一样浩荡",
+                  "弹得真好啊，像流水一样清凉",
+                  "弹得真好啊，像流水一样缓慢",
+                  "弹得真好啊，像流水一样弯曲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "锺子期死后，伯牙摔破琴、扯断弦，一辈子不再弹琴。",
+                "options": [
+                  "锺子期死，伯牙破琴绝弦，终身不复鼓琴",
+                  "伯牙鼓琴，锺子期听之",
+                  "方鼓琴而志在太山",
+                  "少选之间而志在流水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“锺子期死，伯牙破琴绝弦，终身不复鼓琴”的意思是？",
+                "options": [
+                  "锺子期死后，伯牙摔破琴、扯断弦，一辈子不再弹琴",
+                  "锺子期死后，伯牙修好琴、接上弦，一辈子继续弹琴",
+                  "锺子期死后，伯牙把琴送给别人，自己不再弹琴",
+                  "锺子期死后，伯牙把琴藏起来，偶尔还会弹琴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "伯牙认为世上再没有值得他为之弹琴的人了。",
+                "options": [
+                  "以为世无足复为鼓琴者",
+                  "终身不复鼓琴",
+                  "伯牙破琴绝弦",
+                  "锺子期听之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“以为世无足复为鼓琴者”的意思是？",
+                "options": [
+                  "伯牙认为世上再没有值得他为之弹琴的人了",
+                  "伯牙认为世上再没有会弹琴的人了",
+                  "伯牙认为世上再没有值得他教琴的人了",
+                  "伯牙认为世上再没有能听懂琴声的人了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锺子期听之",
+                  "伯牙鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "方鼓琴而志在太山",
+                  "锺子期曰：“善哉乎鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "巍巍乎若太山",
+                  "少选之间而志在流水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "汤汤乎若流水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "伯牙破琴绝弦",
+                  "锺子期死"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "终身不复鼓琴",
+                  "以为世无足复为鼓琴者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锺子期听之",
+                  "方鼓琴而志在太山",
+                  "伯牙鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锺子期曰：“善哉乎鼓琴",
+                  "方鼓琴而志在太山",
+                  "巍巍乎若太山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "少选之间而志在流水",
+                  "巍巍乎若太山",
+                  "锺子期又曰：“善哉乎鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汤汤乎若流水",
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "少选之间而志在流水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "伯牙破琴绝弦",
+                  "汤汤乎若流水",
+                  "锺子期死"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以为世无足复为鼓琴者",
+                  "终身不复鼓琴",
+                  "伯牙破琴绝弦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汤汤乎若流水",
+                  "伯牙鼓琴",
+                  "锺子期死",
+                  "方鼓琴而志在太山",
+                  "巍巍乎若太山",
+                  "锺子期听之",
+                  "少选之间而志在流水",
+                  "锺子期曰：“善哉乎鼓琴",
+                  "伯牙破琴绝弦",
+                  "终身不复鼓琴",
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "以为世无足复为鼓琴者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ"
+              },
+              "otherInfo": {
+                "content": "伯牙__琴，锺子期听之",
+                "answer": "鼓"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tīng"
+              },
+              "otherInfo": {
+                "content": "伯牙鼓琴，锺子期__之",
+                "answer": "听"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "方鼓琴而__在太山",
+                "answer": "志"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shàn"
+              },
+              "otherInfo": {
+                "content": "锺子期曰：“__哉乎鼓琴",
+                "answer": "善"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēi"
+              },
+              "otherInfo": {
+                "content": "__巍乎若太山",
+                "answer": "巍"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shào"
+              },
+              "otherInfo": {
+                "content": "__选之间而志在流水",
+                "answer": "少"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tāng"
+              },
+              "otherInfo": {
+                "content": "__汤乎若流水",
+                "answer": "汤"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pò"
+              },
+              "otherInfo": {
+                "content": "锺子期死，伯牙__琴绝弦",
+                "answer": "破"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "锺子期死，伯牙破琴__弦",
+                "answer": "绝"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù"
+              },
+              "otherInfo": {
+                "content": "终身不__鼓琴",
+                "answer": "复"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "伯牙鼓琴，______",
+                "answer": "锺子期听之"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，锺子期听之",
+                "answer": "伯牙鼓琴"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "方鼓琴而志在太山，______",
+                "answer": "锺子期曰：“善哉乎鼓琴"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，锺子期曰：“善哉乎鼓琴",
+                "answer": "方鼓琴而志在太山"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "巍巍乎若太山，______",
+                "answer": "少选之间而志在流水"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，少选之间而志在流水",
+                "answer": "巍巍乎若太山"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锺子期又曰：“善哉乎鼓琴，______",
+                "answer": "汤汤乎若流水"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，汤汤乎若流水",
+                "answer": "锺子期又曰：“善哉乎鼓琴"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锺子期死，伯牙破琴绝弦，______",
+                "answer": "终身不复鼓琴"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，终身不复鼓琴",
+                "answer": "锺子期死，伯牙破琴绝弦"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "终身不复鼓琴，______",
+                "answer": "以为世无足复为鼓琴者"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，以为世无足复为鼓琴者",
+                "answer": "终身不复鼓琴"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "伯牙鼓琴，锺子期听之。______，______",
+                "answer": "方鼓琴而志在太山，锺子期曰：“善哉乎鼓琴"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "方鼓琴而志在太山，锺子期曰：“善哉乎鼓琴。______，______",
+                "answer": "巍巍乎若太山，少选之间而志在流水"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "巍巍乎若太山，少选之间而志在流水。______，______",
+                "answer": "锺子期又曰：“善哉乎鼓琴，汤汤乎若流水"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锺子期又曰：“善哉乎鼓琴，汤汤乎若流水。”______，______",
+                "answer": "锺子期死，伯牙破琴绝弦"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锺子期死，伯牙破琴绝弦。______，______",
+                "answer": "终身不复鼓琴，以为世无足复为鼓琴者"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汤汤乎若流水",
+                  "伯牙鼓琴",
+                  "锺子期死",
+                  "方鼓琴而志在太山",
+                  "巍巍乎若太山",
+                  "锺子期听之",
+                  "少选之间而志在流水",
+                  "锺子期曰：“善哉乎鼓琴",
+                  "伯牙破琴绝弦",
+                  "终身不复鼓琴",
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "以为世无足复为鼓琴者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "伯牙破琴绝弦",
+                  "方鼓琴而志在太山",
+                  "汤汤乎若流水",
+                  "锺子期听之",
+                  "巍巍乎若太山",
+                  "终身不复鼓琴",
+                  "伯牙鼓琴",
+                  "少选之间而志在流水",
+                  "锺子期死",
+                  "以为世无足复为鼓琴者",
+                  "锺子期曰：“善哉乎鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "少选之间而志在流水",
+                  "终身不复鼓琴",
+                  "锺子期曰：“善哉乎鼓琴",
+                  "伯牙鼓琴",
+                  "汤汤乎若流水",
+                  "方鼓琴而志在太山",
+                  "锺子期死",
+                  "巍巍乎若太山",
+                  "以为世无足复为鼓琴者",
+                  "锺子期听之",
+                  "伯牙破琴绝弦",
+                  "锺子期又曰：“善哉乎鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "巍巍乎若太山",
+                  "锺子期死",
+                  "伯牙鼓琴",
+                  "汤汤乎若流水",
+                  "方鼓琴而志在太山",
+                  "终身不复鼓琴",
+                  "锺子期听之",
+                  "少选之间而志在流水",
+                  "伯牙破琴绝弦",
+                  "锺子期曰：“善哉乎鼓琴",
+                  "以为世无足复为鼓琴者",
+                  "锺子期又曰：“善哉乎鼓琴"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "伯牙破琴绝弦",
+                  "锺子期又曰：“善哉乎鼓琴",
+                  "巍巍乎若太山",
+                  "终身不复鼓琴",
+                  "锺子期听之",
+                  "方鼓琴而志在太山",
+                  "汤汤乎若流水",
+                  "伯牙鼓琴",
+                  "以为世无足复为鼓琴者",
+                  "少选之间而志在流水",
+                  "锺子期死",
+                  "锺子期曰：“善哉乎鼓琴"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

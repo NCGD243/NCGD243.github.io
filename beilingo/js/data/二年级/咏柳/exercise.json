@@ -1,0 +1,947 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì yù zhuāng chéng yī shù gāo"
+              },
+              "otherInfo": {
+                "line": "碧玉妆成一树高"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn tiáo chuí xià lǜ sī tāo"
+              },
+              "otherInfo": {
+                "line": "万条垂下绿丝绦"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù zhī xì yè shuí cái chū"
+              },
+              "otherInfo": {
+                "line": "不知细叶谁裁出"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "èr yuè chūn fēng sì jiǎn dāo"
+              },
+              "otherInfo": {
+                "line": "二月春风似剪刀"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“碧玉”的意思是？",
+                "options": [
+                  "碧绿色的玉石，这里比喻柳树的嫩绿",
+                  "一种珍贵的香料",
+                  "清澈的泉水",
+                  "精美的丝织品"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“妆”的意思是？",
+                "options": [
+                  "打扮、装饰",
+                  "嫁娶",
+                  "整理行装",
+                  "假装"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一树”的意思是？",
+                "options": [
+                  "满树",
+                  "一棵树",
+                  "一片树林",
+                  "第一棵树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万条”的意思是？",
+                "options": [
+                  "形容柳枝很多",
+                  "一万根枝条",
+                  "一万条丝带",
+                  "各种树木的枝条"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“丝绦”的意思是？",
+                "options": [
+                  "丝织的带子，这里比喻柳枝",
+                  "蚕丝",
+                  "捆扎用的绳子",
+                  "一种乐器"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“细叶”的意思是？",
+                "options": [
+                  "细嫩的柳叶",
+                  "细小的树叶",
+                  "干枯的叶子",
+                  "细长的竹叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“裁”的意思是？",
+                "options": [
+                  "裁剪",
+                  "裁判",
+                  "安排",
+                  "删减"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“似”的意思是？",
+                "options": [
+                  "像",
+                  "似乎",
+                  "相似",
+                  "超过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“二月”的意思是？",
+                "options": [
+                  "农历二月，早春时节",
+                  "公历二月",
+                  "两个月",
+                  "第二个月份"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春风”的意思是？",
+                "options": [
+                  "春天的风",
+                  "春风得意的风",
+                  "东风",
+                  "和煦的微风"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "柳树像碧玉装扮成的一样，满树嫩绿，高高的。",
+                "options": [
+                  "碧玉妆成一树高",
+                  "万条垂下绿丝绦",
+                  "不知细叶谁裁出",
+                  "二月春风似剪刀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“碧玉妆成一树高”的意思是？",
+                "options": [
+                  "柳树像碧玉装扮成的美人，满树嫩绿，高高挺立",
+                  "碧玉被雕成一棵高高的树",
+                  "一棵高大的碧玉树长在庭院中",
+                  "用碧玉装饰的高树非常珍贵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "千万条柳枝垂下来，像绿色的丝带。",
+                "options": [
+                  "万条垂下绿丝绦",
+                  "碧玉妆成一树高",
+                  "不知细叶谁裁出",
+                  "二月春风似剪刀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“万条垂下绿丝绦”的意思是？",
+                "options": [
+                  "千万条柳枝垂下来，像绿色的丝带",
+                  "一万条丝带从树上垂下来",
+                  "柳枝像丝线一样又细又长",
+                  "绿丝带挂满了整棵树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不知道这细嫩的柳叶是谁裁剪出来的。",
+                "options": [
+                  "不知细叶谁裁出",
+                  "二月春风似剪刀",
+                  "碧玉妆成一树高",
+                  "万条垂下绿丝绦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不知细叶谁裁出”的意思是？",
+                "options": [
+                  "不知道这细嫩的柳叶是谁裁剪出来的",
+                  "不知道细叶是谁种出来的",
+                  "细叶不知被谁摘走了",
+                  "不知道谁在裁剪细叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "原来是二月春风，它像剪刀一样裁出了柳叶。",
+                "options": [
+                  "二月春风似剪刀",
+                  "不知细叶谁裁出",
+                  "碧玉妆成一树高",
+                  "万条垂下绿丝绦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“二月春风似剪刀”的意思是？",
+                "options": [
+                  "二月的春风像剪刀一样，裁出了细嫩的柳叶",
+                  "二月的春风像剪刀一样寒冷刺骨",
+                  "春风像剪刀一样剪断了柳枝",
+                  "二月里有人拿着剪刀在春风中裁剪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万条垂下绿丝绦",
+                  "碧玉妆成一树高"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "二月春风似剪刀",
+                  "不知细叶谁裁出"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知细叶谁裁出",
+                  "万条垂下绿丝绦",
+                  "碧玉妆成一树高",
+                  "二月春风似剪刀"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "二月春风似剪刀",
+                  "碧玉妆成一树高",
+                  "不知细叶谁裁出",
+                  "万条垂下绿丝绦"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuāng"
+              },
+              "otherInfo": {
+                "content": "碧玉__成一树高",
+                "answer": "妆"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tāo"
+              },
+              "otherInfo": {
+                "content": "万条垂下绿丝__",
+                "answer": "绦"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cái"
+              },
+              "otherInfo": {
+                "content": "不知细叶谁__出",
+                "answer": "裁"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "二月春风似__刀",
+                "answer": "剪"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "__玉妆成一树高",
+                "answer": "碧"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuí"
+              },
+              "otherInfo": {
+                "content": "万条__下绿丝绦",
+                "answer": "垂"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xì"
+              },
+              "otherInfo": {
+                "content": "不知__叶谁裁出",
+                "answer": "细"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì"
+              },
+              "otherInfo": {
+                "content": "二月春风__剪刀",
+                "answer": "似"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo"
+              },
+              "otherInfo": {
+                "content": "碧玉妆成一树__",
+                "answer": "高"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dāo"
+              },
+              "otherInfo": {
+                "content": "二月春风似剪__",
+                "answer": "刀"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "碧玉妆成一树高，______",
+                "answer": "万条垂下绿丝绦"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万条垂下绿丝绦",
+                "answer": "碧玉妆成一树高"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不知细叶谁裁出，______",
+                "answer": "二月春风似剪刀"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，二月春风似剪刀",
+                "answer": "不知细叶谁裁出"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "碧玉妆成一树高，万条垂下绿丝绦。______，______。",
+                "answer": "不知细叶谁裁出，二月春风似剪刀"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "二月春风似剪刀",
+                  "碧玉妆成一树高",
+                  "不知细叶谁裁出",
+                  "万条垂下绿丝绦"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万条垂下绿丝绦",
+                  "不知细叶谁裁出",
+                  "碧玉妆成一树高",
+                  "二月春风似剪刀"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知细叶谁裁出",
+                  "二月春风似剪刀",
+                  "万条垂下绿丝绦",
+                  "碧玉妆成一树高"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "碧玉妆成一树高",
+                  "二月春风似剪刀",
+                  "万条垂下绿丝绦",
+                  "不知细叶谁裁出"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "二月春风似剪刀",
+                  "万条垂下绿丝绦",
+                  "不知细叶谁裁出",
+                  "碧玉妆成一树高"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1710 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chén kāng sù gōng yáo zī shàn shè"
+              },
+              "otherInfo": {
+                "line": "陈康肃公尧咨善射"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dāng shì wú shuāng gōng yì yǐ cǐ zì jīn"
+              },
+              "otherInfo": {
+                "line": "当世无双，公亦以此自矜"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng shè yú jiā pǔ kàn yóu wēng shì shè"
+              },
+              "otherInfo": {
+                "line": "尝射于家圃，有卖油翁释担而立"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nì zhī jiǔ ér bù qù jiàn qí fā shǐ shí yǒu bā jiǔ"
+              },
+              "otherInfo": {
+                "line": "睨之久而不去，见其发矢十中八九"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn wēi hàn zhī kāng sù wèn yuē rǔ yì zhī shè hū"
+              },
+              "otherInfo": {
+                "line": "但微颔之，康肃问曰：“汝亦知射乎"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú shè bù yì jīng hū wēng yuē wú tā dàn shǒu shú ěr"
+              },
+              "otherInfo": {
+                "line": "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kāng sù fèn rán yuē ěr ān gǎn qīng wú shè"
+              },
+              "otherInfo": {
+                "line": "康肃忿然曰：“尔安敢轻吾射"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēng yuē yǐ wǒ zhuó yóu zhī zhī nǎi qǔ yī hú lú zhì yú dì"
+              },
+              "otherInfo": {
+                "line": "翁曰：“以我酌油知之。”乃取一葫芦置于地"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ qián fù qí kǒu xú yǐ sháo zhuó yóu lì zhī zì qián kǒng rù"
+              },
+              "otherInfo": {
+                "line": "以钱覆其口，徐以杓酌油沥之，自钱孔入"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér qián bù shī yīn yuē wǒ yì wú tā wéi shǒu shú ěr"
+              },
+              "otherInfo": {
+                "line": "而钱不湿。因曰：“我亦无他，惟手熟尔"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kāng sù xiào ér qiǎn zhī"
+              },
+              "otherInfo": {
+                "line": "康肃笑而遣之"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自矜”的意思是？",
+                "options": [
+                  "自我夸耀",
+                  "自我反省",
+                  "自我约束",
+                  "自我安慰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“睨”的意思是？",
+                "options": [
+                  "斜着眼看",
+                  "仔细端详",
+                  "闭目养神",
+                  "抬头仰望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“颔”的意思是？",
+                "options": [
+                  "点头",
+                  "摇头",
+                  "皱眉",
+                  "微笑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忿然”的意思是？",
+                "options": [
+                  "气愤的样子",
+                  "惊慌的样子",
+                  "疑惑的样子",
+                  "得意的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻”的意思是？",
+                "options": [
+                  "轻视",
+                  "减轻",
+                  "轻快",
+                  "轻率"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“酌”的意思是？",
+                "options": [
+                  "舀取",
+                  "斟酌",
+                  "饮酒",
+                  "倒掉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“覆”的意思是？",
+                "options": [
+                  "覆盖",
+                  "翻转",
+                  "倾覆",
+                  "回复"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“徐”的意思是？",
+                "options": [
+                  "慢慢地",
+                  "迅速地",
+                  "犹豫地",
+                  "从容地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遣”的意思是？",
+                "options": [
+                  "打发",
+                  "派遣",
+                  "排遣",
+                  "遣送"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“释担”的意思是？",
+                "options": [
+                  "放下担子",
+                  "挑起担子",
+                  "修理担子",
+                  "卖掉担子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "陈尧咨擅长射箭，当时没有第二个人比得上，他也因此自我夸耀。",
+                "options": [
+                  "陈康肃公尧咨善射，当世无双，公亦以此自矜",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "康肃笑而遣之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尝射于家圃”的意思是？",
+                "options": [
+                  "他曾经在自家的园子里射箭",
+                  "他常常在官府的场地上射箭",
+                  "他曾经在别人的园子里射箭",
+                  "他偶尔在野外空地上射箭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "卖油翁放下担子站着，斜着眼看他射箭，很久没有离开。",
+                "options": [
+                  "尝射于家圃，有卖油翁释担而立",
+                  "睨之久而不去，见其发矢十中八九",
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“见其发矢十中八九”的意思是？",
+                "options": [
+                  "看见他射箭十支能中八九支",
+                  "看见他射箭十次有八九次脱靶",
+                  "看见他射箭十支只中一两支",
+                  "看见他射箭十次有八九次犹豫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "卖油翁只是微微点头，陈尧咨问他是否也懂得射箭。",
+                "options": [
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无他，但手熟尔”的意思是？",
+                "options": [
+                  "没有别的奥妙，只是手法熟练罢了",
+                  "没有别人，只有我手熟罢了",
+                  "没有别的办法，只能靠手熟罢了",
+                  "没有他帮忙，只是我手熟罢了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "陈尧咨气愤地说：“你怎么敢轻视我射箭的本领！”",
+                "options": [
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尔安敢轻吾射”的意思是？",
+                "options": [
+                  "你怎么敢轻视我射箭的本领",
+                  "你哪里敢小看我的箭法",
+                  "你凭什么敢看轻我的射技",
+                  "你怎敢轻易和我比试射箭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "卖油翁说凭我倒油的经验知道这个道理，于是取来一个葫芦放在地上。",
+                "options": [
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“以我酌油知之”的意思是？",
+                "options": [
+                  "凭我倒油的经验知道这个道理",
+                  "用我舀的油来证明这件事",
+                  "让我倒油来试试你的本领",
+                  "拿我的油来换你的道理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "用一枚铜钱盖住葫芦口，慢慢地用勺子舀油滴入，油从钱孔进入。",
+                "options": [
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之",
+                  "陈康肃公尧咨善射，当世无双，公亦以此自矜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“徐以杓酌油沥之”的意思是？",
+                "options": [
+                  "慢慢地用勺子舀油滴入葫芦",
+                  "迅速地用勺子舀油倒进葫芦",
+                  "小心地用勺子把油洒在钱上",
+                  "从容地用勺子把油舀出来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "铜钱却没有沾湿。于是他说：“我也没有别的奥妙，只是手熟罢了。”",
+                "options": [
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "但微颔之，康肃问曰：“汝亦知射乎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我亦无他，惟手熟尔”的意思是？",
+                "options": [
+                  "我也没有别的奥妙，只是手熟罢了",
+                  "我也没有别人帮忙，只有手熟罢了",
+                  "我也没有别的办法，只能靠手熟罢了",
+                  "我也没有别的本事，只是手熟罢了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "陈尧咨笑着把他打发走了。",
+                "options": [
+                  "康肃笑而遣之",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“康肃笑而遣之”的意思是？",
+                "options": [
+                  "陈尧咨笑着把卖油翁打发走了",
+                  "陈尧咨笑着向卖油翁道歉",
+                  "陈尧咨笑着请卖油翁留下",
+                  "陈尧咨笑着把卖油翁赶走了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "当世无双，公亦以此自矜",
+                  "陈康肃公尧咨善射"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尝射于家圃，有卖油翁释担而立",
+                  "睨之久而不去，见其发矢十中八九"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "康肃笑而遣之",
+                  "陈康肃公尧咨善射"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "当世无双，公亦以此自矜",
+                  "尝射于家圃，有卖油翁释担而立"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "睨之久而不去，见其发矢十中八九",
+                  "但微颔之，康肃问曰：“汝亦知射乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                  "康肃忿然曰：“尔安敢轻吾射"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "陈康肃公尧咨善射",
+                  "当世无双，公亦以此自矜",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "睨之久而不去，见其发矢十中八九",
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zī"
+              },
+              "otherInfo": {
+                "content": "陈康肃公尧__善射",
+                "answer": "咨"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīn"
+              },
+              "otherInfo": {
+                "content": "当世无双，公亦以此自__",
+                "answer": "矜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pǔ"
+              },
+              "otherInfo": {
+                "content": "尝射于家__，有卖油翁释担而立",
+                "answer": "圃"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nì"
+              },
+              "otherInfo": {
+                "content": "__之久而不去，见其发矢十中八九",
+                "answer": "睨"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hàn"
+              },
+              "otherInfo": {
+                "content": "但微__之，康肃问曰：“汝亦知射乎",
+                "answer": "颔"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shú"
+              },
+              "otherInfo": {
+                "content": "吾射不亦精乎？”翁曰：“无他，但手__尔",
+                "answer": "熟"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fèn"
+              },
+              "otherInfo": {
+                "content": "康肃__然曰：“尔安敢轻吾射",
+                "answer": "忿"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó"
+              },
+              "otherInfo": {
+                "content": "翁曰：“以我__油知之。”乃取一葫芦置于地",
+                "answer": "酌"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù"
+              },
+              "otherInfo": {
+                "content": "以钱__其口，徐以杓酌油沥之，自钱孔入",
+                "answer": "覆"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "而钱不湿。因曰：“我亦无他，__手熟尔",
+                "answer": "惟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "陈康肃公尧咨善射，______",
+                "answer": "当世无双，公亦以此自矜"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，当世无双，公亦以此自矜",
+                "answer": "陈康肃公尧咨善射"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "尝射于家圃，有卖油翁释担而立，______",
+                "answer": "睨之久而不去，见其发矢十中八九"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，睨之久而不去，见其发矢十中八九",
+                "answer": "尝射于家圃，有卖油翁释担而立"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "但微颔之，康肃问曰：“汝亦知射乎，______",
+                "answer": "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                "answer": "但微颔之，康肃问曰：“汝亦知射乎"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "康肃忿然曰：“尔安敢轻吾射，______",
+                "answer": "翁曰：“以我酌油知之。”乃取一葫芦置于地"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                "answer": "康肃忿然曰：“尔安敢轻吾射"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以钱覆其口，徐以杓酌油沥之，自钱孔入，______",
+                "answer": "而钱不湿。因曰：“我亦无他，惟手熟尔"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，而钱不湿。因曰：“我亦无他，惟手熟尔",
+                "answer": "以钱覆其口，徐以杓酌油沥之，自钱孔入"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "康肃笑而遣之，______",
+                "answer": "（无下句）"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，康肃笑而遣之",
+                "answer": "（无上句）"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "陈康肃公尧咨善射，当世无双，公亦以此自矜。______，______",
+                "answer": "尝射于家圃，有卖油翁释担而立；睨之久而不去，见其发矢十中八九"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "尝射于家圃，有卖油翁释担而立，睨之久而不去，见其发矢十中八九。______，______",
+                "answer": "但微颔之，康肃问曰：“汝亦知射乎；吾射不亦精乎？”翁曰：“无他，但手熟尔"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "但微颔之，康肃问曰：“汝亦知射乎，吾射不亦精乎？”翁曰：“无他，但手熟尔。______，______",
+                "answer": "康肃忿然曰：“尔安敢轻吾射；翁曰：“以我酌油知之。”乃取一葫芦置于地"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "康肃忿然曰：“尔安敢轻吾射，翁曰：“以我酌油知之。”乃取一葫芦置于地。______，______",
+                "answer": "以钱覆其口，徐以杓酌油沥之，自钱孔入；而钱不湿。因曰：“我亦无他，惟手熟尔"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：“我亦无他，惟手熟尔。______，______",
+                "answer": "康肃笑而遣之；（无下句）"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "康肃笑而遣之",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "陈康肃公尧咨善射",
+                  "睨之久而不去，见其发矢十中八九",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "当世无双，公亦以此自矜",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "当世无双，公亦以此自矜",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "陈康肃公尧咨善射",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                  "康肃笑而遣之",
+                  "睨之久而不去，见其发矢十中八九",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "尝射于家圃，有卖油翁释担而立"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "陈康肃公尧咨善射",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "康肃笑而遣之",
+                  "当世无双，公亦以此自矜",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "睨之久而不去，见其发矢十中八九",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "康肃笑而遣之",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔",
+                  "陈康肃公尧咨善射",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "当世无双，公亦以此自矜",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "睨之久而不去，见其发矢十中八九",
+                  "但微颔之，康肃问曰：“汝亦知射乎"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但微颔之，康肃问曰：“汝亦知射乎",
+                  "康肃笑而遣之",
+                  "当世无双，公亦以此自矜",
+                  "翁曰：“以我酌油知之。”乃取一葫芦置于地",
+                  "睨之久而不去，见其发矢十中八九",
+                  "以钱覆其口，徐以杓酌油沥之，自钱孔入",
+                  "陈康肃公尧咨善射",
+                  "康肃忿然曰：“尔安敢轻吾射",
+                  "尝射于家圃，有卖油翁释担而立",
+                  "而钱不湿。因曰：“我亦无他，惟手熟尔",
+                  "吾射不亦精乎？”翁曰：“无他，但手熟尔"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rì zhào xiāng lú shēng zǐ yān"
+              },
+              "otherInfo": {
+                "line": "日照香炉生紫烟"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo kàn pù bù guà qián chuān"
+              },
+              "otherInfo": {
+                "line": "遥看瀑布挂前川"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi liú zhí xià sān qiān chǐ"
+              },
+              "otherInfo": {
+                "line": "飞流直下三千尺"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí shì yín hé luò jiǔ tiān"
+              },
+              "otherInfo": {
+                "line": "疑是银河落九天"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“日照香炉生紫烟”中“生”的意思是？",
+                "options": [
+                  "产生、升起",
+                  "生存、活着",
+                  "生疏、不熟悉",
+                  "使……生长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥看瀑布挂前川”中“遥”的意思是？",
+                "options": [
+                  "遥远地",
+                  "摇晃地",
+                  "逍遥地",
+                  "遥测地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥看瀑布挂前川”中“川”的意思是？",
+                "options": [
+                  "河流",
+                  "山川",
+                  "平川",
+                  "川流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞流直下三千尺”中“直”的意思是？",
+                "options": [
+                  "笔直地",
+                  "直接地",
+                  "简直",
+                  "正直地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“疑是银河落九天”中“疑”的意思是？",
+                "options": [
+                  "怀疑",
+                  "疑问",
+                  "迟疑",
+                  "疑惑不解"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“疑是银河落九天”中“九天”的意思是？",
+                "options": [
+                  "天的最高处",
+                  "九天之上",
+                  "九重天",
+                  "九天玄女"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太阳照耀香炉峰升起紫色云烟。",
+                "options": [
+                  "日照香炉生紫烟",
+                  "遥看瀑布挂前川",
+                  "飞流直下三千尺",
+                  "疑是银河落九天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“日照香炉生紫烟”的意思是？",
+                "options": [
+                  "太阳照耀香炉峰，升起紫色云烟",
+                  "太阳照在香炉上，冒出紫色烟雾",
+                  "阳光照射香炉，生出紫烟",
+                  "日照香炉峰，紫烟袅袅升起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "远远望去，瀑布像挂在山前的河流。",
+                "options": [
+                  "遥看瀑布挂前川",
+                  "日照香炉生紫烟",
+                  "飞流直下三千尺",
+                  "疑是银河落九天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“遥看瀑布挂前川”的意思是？",
+                "options": [
+                  "远远望去，瀑布像挂在山前的河流",
+                  "远远看见瀑布挂在山川前面",
+                  "遥望瀑布悬挂在前面的河川",
+                  "远看瀑布像白练挂在山前"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "水流飞泻直下，足有三千尺长。",
+                "options": [
+                  "飞流直下三千尺",
+                  "日照香炉生紫烟",
+                  "遥看瀑布挂前川",
+                  "疑是银河落九天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“飞流直下三千尺”的意思是？",
+                "options": [
+                  "水流飞泻直下，足有三千尺长",
+                  "飞流直下，三千尺高",
+                  "瀑布飞流直下三千尺",
+                  "飞泻的水流笔直落下三千尺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "怀疑是银河从九天之上落下来。",
+                "options": [
+                  "疑是银河落九天",
+                  "日照香炉生紫烟",
+                  "遥看瀑布挂前川",
+                  "飞流直下三千尺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“疑是银河落九天”的意思是？",
+                "options": [
+                  "怀疑是银河从九天之上落下来",
+                  "疑似银河从九天落下",
+                  "好像是银河从天上落下来",
+                  "怀疑银河落在九天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥看瀑布挂前川",
+                  "日照香炉生紫烟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "疑是银河落九天",
+                  "飞流直下三千尺"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞流直下三千尺",
+                  "日照香炉生紫烟",
+                  "遥看瀑布挂前川",
+                  "疑是银河落九天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "疑是银河落九天",
+                  "遥看瀑布挂前川",
+                  "飞流直下三千尺",
+                  "日照香炉生紫烟"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhào"
+              },
+              "otherInfo": {
+                "content": "日__香炉生紫烟",
+                "answer": "照"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guà"
+              },
+              "otherInfo": {
+                "content": "遥看瀑布__前川",
+                "answer": "挂"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhí"
+              },
+              "otherInfo": {
+                "content": "飞流__下三千尺",
+                "answer": "直"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "疑是__河落九天",
+                "answer": "银"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日照香炉生紫烟，______",
+                "answer": "遥看瀑布挂前川"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，遥看瀑布挂前川",
+                "answer": "日照香炉生紫烟"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "飞流直下三千尺，______",
+                "answer": "疑是银河落九天"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，疑是银河落九天",
+                "answer": "飞流直下三千尺"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日照香炉生紫烟，遥看瀑布挂前川。______，______",
+                "answer": "飞流直下三千尺，疑是银河落九天"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "疑是银河落九天",
+                  "日照香炉生紫烟",
+                  "飞流直下三千尺",
+                  "遥看瀑布挂前川"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥看瀑布挂前川",
+                  "飞流直下三千尺",
+                  "日照香炉生紫烟",
+                  "疑是银河落九天"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞流直下三千尺",
+                  "疑是银河落九天",
+                  "遥看瀑布挂前川",
+                  "日照香炉生紫烟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "日照香炉生紫烟",
+                  "疑是银河落九天",
+                  "遥看瀑布挂前川",
+                  "飞流直下三千尺"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "疑是银河落九天",
+                  "飞流直下三千尺",
+                  "遥看瀑布挂前川",
+                  "日照香炉生紫烟"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

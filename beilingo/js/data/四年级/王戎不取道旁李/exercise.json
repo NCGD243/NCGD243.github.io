@@ -1,0 +1,1467 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wáng róng qī suì cháng yǔ zhū xiǎo ér yóu"
+              },
+              "otherInfo": {
+                "line": "王戎七岁，尝与诸小儿游。"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kàn dào biān lǐ shù duō zǐ zhé"
+              },
+              "otherInfo": {
+                "line": "看道边李树多子折枝。"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhū ér jìng zǒu qǔ zhī wéi róng bù dòng"
+              },
+              "otherInfo": {
+                "line": "诸儿竞走取之，唯戎不动。"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rén wèn zhī dá yuē shù zài dào biān ér duō zǐ"
+              },
+              "otherInfo": {
+                "line": "人问之，答曰：“树在道边而多子，"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ bì kǔ lǐ"
+              },
+              "otherInfo": {
+                "line": "此必苦李。”"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǔ zhī xìn rán"
+              },
+              "otherInfo": {
+                "line": "取之，信然。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尝”的意思是？",
+                "options": [
+                  "曾经",
+                  "品尝",
+                  "尝试",
+                  "经常"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“游”的意思是？",
+                "options": [
+                  "游玩",
+                  "游泳",
+                  "游说",
+                  "交游"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“折枝”的意思是？",
+                "options": [
+                  "压弯了树枝",
+                  "折断了树枝",
+                  "摘下了树枝",
+                  "砍下了树枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“竞走”的意思是？",
+                "options": [
+                  "争着跑过去",
+                  "比赛走路",
+                  "竞相逃走",
+                  "快步行走"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“唯”的意思是？",
+                "options": [
+                  "只有",
+                  "唯一",
+                  "唯独",
+                  "虽然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“信然”的意思是？",
+                "options": [
+                  "确实如此",
+                  "相信这样",
+                  "书信这样",
+                  "诚信如此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“诸”的意思是？",
+                "options": [
+                  "众多",
+                  "诸位",
+                  "之于",
+                  "各个"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“子”的意思是？",
+                "options": [
+                  "果实",
+                  "儿子",
+                  "种子",
+                  "孩子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“苦”的意思是？",
+                "options": [
+                  "味道苦",
+                  "辛苦",
+                  "痛苦",
+                  "刻苦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“答”的意思是？",
+                "options": [
+                  "回答",
+                  "答应",
+                  "报答",
+                  "答复"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "王戎七岁的时候，曾经和许多小孩一起游玩。",
+                "options": [
+                  "王戎七岁，尝与诸小儿游。",
+                  "看道边李树多子折枝。",
+                  "诸儿竞走取之，唯戎不动。",
+                  "取之，信然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“王戎七岁，尝与诸小儿游”的意思是？",
+                "options": [
+                  "王戎七岁时，曾经和许多小孩一起游玩。",
+                  "王戎七岁时，常常和许多小孩一起游泳。",
+                  "王戎七岁时，曾经和几个小孩一起游历。",
+                  "王戎七岁时，尝试和许多小孩一起交游。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "看到路边的李树结了很多果实，把树枝都压弯了。",
+                "options": [
+                  "看道边李树多子折枝。",
+                  "王戎七岁，尝与诸小儿游。",
+                  "人问之，答曰：“树在道边而多子，此必苦李。”",
+                  "取之，信然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“看道边李树多子折枝”的意思是？",
+                "options": [
+                  "看到路边的李树结了很多果实，把树枝都压弯了。",
+                  "看到路边的李树结了很多果子，树枝都被折断了。",
+                  "看到路边的李树果实很多，孩子们争着去折树枝。",
+                  "看到路边的李树果实很多，树枝垂到了地上。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "许多小孩争着跑过去摘李子，只有王戎没有动。",
+                "options": [
+                  "诸儿竞走取之，唯戎不动。",
+                  "看道边李树多子折枝。",
+                  "王戎七岁，尝与诸小儿游。",
+                  "取之，信然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“诸儿竞走取之，唯戎不动”的意思是？",
+                "options": [
+                  "许多小孩争着跑过去摘李子，只有王戎没有动。",
+                  "许多小孩比赛走路去摘李子，只有王戎站着不动。",
+                  "许多小孩争着跑过去摘李子，王戎唯独不敢动。",
+                  "许多小孩竞相逃走，只有王戎不离开。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有人问他为什么不去摘李子，他回答说：“树长在路边却还有很多果实，这一定是苦李。”",
+                "options": [
+                  "人问之，答曰：“树在道边而多子，此必苦李。”",
+                  "诸儿竞走取之，唯戎不动。",
+                  "看道边李树多子折枝。",
+                  "取之，信然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“人问之，答曰：‘树在道边而多子，此必苦李’”的意思是？",
+                "options": [
+                  "有人问他，他回答说：“树长在路边却还有很多果实，这一定是苦李。”",
+                  "有人问他，他回答说：“树长在路边果实很多，这一定是苦李。”",
+                  "人们问他，他答道：“树在路边果实多，必定是苦李。”",
+                  "有人问他，他回答说：“路边的树果实多，这一定是苦的。”"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "摘下来一尝，确实是这样。",
+                "options": [
+                  "取之，信然。",
+                  "人问之，答曰：“树在道边而多子，此必苦李。”",
+                  "诸儿竞走取之，唯戎不动。",
+                  "王戎七岁，尝与诸小儿游。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“取之，信然”的意思是？",
+                "options": [
+                  "摘下来一尝，确实是这样。",
+                  "摘下来一看，相信是这样。",
+                  "取来李子，相信了王戎。",
+                  "摘下李子，书信果然如此。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "王戎七岁时，曾经和许多小孩一起游玩。",
+                "options": [
+                  "王戎七岁，尝与诸小儿游。",
+                  "看道边李树多子折枝。",
+                  "诸儿竞走取之，唯戎不动。",
+                  "取之，信然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“王戎七岁，尝与诸小儿游”的意思是？",
+                "options": [
+                  "王戎七岁时，曾经和许多小孩一起游玩。",
+                  "王戎七岁时，常常和许多小孩一起游泳。",
+                  "王戎七岁时，曾经和几个小孩一起游历。",
+                  "王戎七岁时，尝试和许多小孩一起交游。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尝与诸小儿游。",
+                  "王戎七岁，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "多子折枝。",
+                  "看道边李树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "唯戎不动。",
+                  "诸儿竞走取之，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "答曰：“树在道边而多子，",
+                  "人问之，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此必苦李。”",
+                  ""
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "信然。",
+                  "取之，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "看道边李树多子折枝。",
+                  "王戎七岁，尝与诸小儿游。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "诸儿竞走取之，唯戎不动。",
+                  "看道边李树多子折枝。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人问之，答曰：“树在道边而多子，",
+                  "诸儿竞走取之，唯戎不动。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此必苦李。”",
+                  "人问之，答曰：“树在道边而多子，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "取之，信然。",
+                  "此必苦李。”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "诸儿竞走取之，唯戎不动。",
+                  "看道边李树多子折枝。",
+                  "王戎七岁，尝与诸小儿游。",
+                  "取之，信然。",
+                  "人问之，答曰：“树在道边而多子，",
+                  "此必苦李。”"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng"
+              },
+              "otherInfo": {
+                "content": "王戎七岁，__与诸小儿游。",
+                "answer": "尝"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhū"
+              },
+              "otherInfo": {
+                "content": "王戎七岁，尝与__小儿游。",
+                "answer": "诸"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhé"
+              },
+              "otherInfo": {
+                "content": "看道边李树多子__枝。",
+                "answer": "折"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "诸儿__走取之，唯戎不动。",
+                "answer": "竞"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "诸儿竞走取之，__戎不动。",
+                "answer": "唯"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dá"
+              },
+              "otherInfo": {
+                "content": "人问之，__曰：“树在道边而多子，",
+                "answer": "答"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "人问之，答曰：“树在道边而多子，此__苦李。”",
+                "answer": "必"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǔ"
+              },
+              "otherInfo": {
+                "content": "人问之，答曰：“树在道边而多子，此必__李。”",
+                "answer": "苦"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǔ"
+              },
+              "otherInfo": {
+                "content": "__之，信然。",
+                "answer": "取"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìn"
+              },
+              "otherInfo": {
+                "content": "取之，__然。",
+                "answer": "信"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "王戎七岁，______",
+                "answer": "尝与诸小儿游。"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，尝与诸小儿游。",
+                "answer": "王戎七岁"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "看道边李树______",
+                "answer": "多子折枝。"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______多子折枝。",
+                "answer": "看道边李树"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "诸儿竞走取之，______",
+                "answer": "唯戎不动。"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，唯戎不动。",
+                "answer": "诸儿竞走取之"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "人问之，______",
+                "answer": "答曰：“树在道边而多子，"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______答曰：“树在道边而多子，",
+                "answer": "人问之，"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此必苦李。”______",
+                "answer": "取之，信然。"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______取之，信然。",
+                "answer": "此必苦李。”"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "王戎七岁，尝与诸小儿游。______",
+                "answer": "看道边李树多子折枝。"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "看道边李树多子折枝。______",
+                "answer": "诸儿竞走取之，唯戎不动。"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "诸儿竞走取之，唯戎不动。______",
+                "answer": "人问之，答曰：“树在道边而多子，"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "人问之，答曰：“树在道边而多子，______",
+                "answer": "此必苦李。”取之，信然。"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "人问之，答曰：“树在道边而多子，______",
+                "answer": "此必苦李。”取之，信然。"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "诸儿竞走取之，唯戎不动。",
+                  "看道边李树多子折枝。",
+                  "王戎七岁，尝与诸小儿游。",
+                  "取之，信然。",
+                  "人问之，答曰：“树在道边而多子，",
+                  "此必苦李。”"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "看道边李树多子折枝。",
+                  "此必苦李。”",
+                  "王戎七岁，尝与诸小儿游。",
+                  "取之，信然。",
+                  "诸儿竞走取之，唯戎不动。",
+                  "人问之，答曰：“树在道边而多子，"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人问之，答曰：“树在道边而多子，",
+                  "王戎七岁，尝与诸小儿游。",
+                  "取之，信然。",
+                  "看道边李树多子折枝。",
+                  "此必苦李。”",
+                  "诸儿竞走取之，唯戎不动。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "取之，信然。",
+                  "诸儿竞走取之，唯戎不动。",
+                  "此必苦李。”",
+                  "王戎七岁，尝与诸小儿游。",
+                  "人问之，答曰：“树在道边而多子，",
+                  "看道边李树多子折枝。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此必苦李。”",
+                  "看道边李树多子折枝。",
+                  "取之，信然。",
+                  "人问之，答曰：“树在道边而多子，",
+                  "王戎七岁，尝与诸小儿游。",
+                  "诸儿竞走取之，唯戎不动。"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

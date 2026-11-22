@@ -1,0 +1,1285 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú yán dú shàng xī lóu"
+              },
+              "otherInfo": {
+                "line": "无言独上西楼"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè rú gōu"
+              },
+              "otherInfo": {
+                "line": "月如钩"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì mò wú tóng shēn yuàn suǒ qīng qiū"
+              },
+              "otherInfo": {
+                "line": "寂寞梧桐深院锁清秋"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn bù duàn lǐ hái luàn"
+              },
+              "otherInfo": {
+                "line": "剪不断，理还乱"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì lí chóu"
+              },
+              "otherInfo": {
+                "line": "是离愁"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bié shì yī bān zī wèi zài xīn tóu"
+              },
+              "otherInfo": {
+                "line": "别是一般滋味在心头"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无言独上西楼”中“独”的意思是？",
+                "options": [
+                  "独自",
+                  "孤独地",
+                  "唯独",
+                  "难道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月如钩”中“如”的意思是？",
+                "options": [
+                  "像",
+                  "如果",
+                  "到……去",
+                  "比得上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寂寞梧桐深院锁清秋”中“锁”的意思是？",
+                "options": [
+                  "锁住、笼罩",
+                  "门锁",
+                  "锁链",
+                  "封锁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“剪不断，理还乱”中“理”的意思是？",
+                "options": [
+                  "整理、梳理",
+                  "道理",
+                  "理会",
+                  "纹理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是离愁”中“是”的意思是？",
+                "options": [
+                  "这（是）",
+                  "判断动词，表肯定",
+                  "正确的",
+                  "凡是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“别是一般滋味在心头”中“一般”的意思是？",
+                "options": [
+                  "一种",
+                  "普通",
+                  "一样",
+                  "通常"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“别是一般滋味在心头”中“别”的意思是？",
+                "options": [
+                  "另外",
+                  "告别",
+                  "区别",
+                  "不要"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寂寞梧桐深院锁清秋”中“深”的意思是？",
+                "options": [
+                  "幽深",
+                  "深度",
+                  "深刻",
+                  "深厚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无言独上西楼”中“言”的意思是？",
+                "options": [
+                  "说话",
+                  "言语",
+                  "言论",
+                  "字"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“剪不断，理还乱”中“还”的意思是？",
+                "options": [
+                  "仍然、依旧",
+                  "归还",
+                  "还是（表选择）",
+                  "更加"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "默默无言，独自一人登上西楼。",
+                "options": [
+                  "无言独上西楼",
+                  "月如钩",
+                  "寂寞梧桐深院锁清秋",
+                  "剪不断，理还乱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无言独上西楼”的意思是？",
+                "options": [
+                  "默默无言，独自登上西楼",
+                  "不说话，独自在西楼饮酒",
+                  "无人陪伴，独自离开西楼",
+                  "沉默不语，独自在西楼徘徊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一弯新月像钩子一样挂在天上。",
+                "options": [
+                  "月如钩",
+                  "无言独上西楼",
+                  "是离愁",
+                  "别是一般滋味在心头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“月如钩”的意思是？",
+                "options": [
+                  "月亮像钩子一样弯",
+                  "月亮像钩子一样明亮",
+                  "月光像钩子一样洒下",
+                  "月亮被钩子挂住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "寂寞的梧桐树，幽深的庭院笼罩着一片清冷的秋色。",
+                "options": [
+                  "寂寞梧桐深院锁清秋",
+                  "无言独上西楼",
+                  "剪不断，理还乱",
+                  "别是一般滋味在心头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“寂寞梧桐深院锁清秋”的意思是？",
+                "options": [
+                  "寂寞的梧桐和幽深的庭院被清冷的秋色笼罩",
+                  "梧桐树寂寞地锁住了深院里的清秋",
+                  "深院锁住了梧桐，清秋寂寞无人",
+                  "梧桐寂寞，深院清秋被锁在门外"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "想要剪断却剪不断，想要整理却越理越乱。",
+                "options": [
+                  "剪不断，理还乱",
+                  "是离愁",
+                  "月如钩",
+                  "无言独上西楼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“剪不断，理还乱”的意思是？",
+                "options": [
+                  "想剪断却剪不断，想整理却越理越乱",
+                  "剪了也断不了，理了也还是乱",
+                  "剪刀剪不断，道理说不清",
+                  "剪断之后又理乱，反复无常"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这（就是）离别之愁。",
+                "options": [
+                  "是离愁",
+                  "别是一般滋味在心头",
+                  "寂寞梧桐深院锁清秋",
+                  "月如钩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“是离愁”的意思是？",
+                "options": [
+                  "这（就）是离别之愁",
+                  "是离别让人忧愁",
+                  "离愁是正确的",
+                  "离别之愁是存在的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "另有一种难以言说的滋味留在心头。",
+                "options": [
+                  "别是一般滋味在心头",
+                  "是离愁",
+                  "剪不断，理还乱",
+                  "无言独上西楼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“别是一般滋味在心头”的意思是？",
+                "options": [
+                  "另有一种难以言说的滋味留在心头",
+                  "别有一番滋味在心头，与离愁不同",
+                  "一般的滋味留在心头，并不特别",
+                  "离别时心头别有一番滋味"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月如钩",
+                  "无言独上西楼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞梧桐深院锁清秋",
+                  "无言独上西楼",
+                  "月如钩"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是离愁",
+                  "剪不断，理还乱"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "别是一般滋味在心头",
+                  "是离愁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是离愁",
+                  "剪不断，理还乱",
+                  "别是一般滋味在心头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞梧桐深院锁清秋",
+                  "无言独上西楼",
+                  "月如钩"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "剪不断，理还乱",
+                  "是离愁",
+                  "别是一般滋味在心头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月如钩",
+                  "无言独上西楼",
+                  "寂寞梧桐深院锁清秋"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是离愁",
+                  "剪不断，理还乱",
+                  "别是一般滋味在心头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "剪不断，理还乱",
+                  "月如钩",
+                  "无言独上西楼",
+                  "寂寞梧桐深院锁清秋",
+                  "是离愁",
+                  "别是一般滋味在心头"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yán"
+              },
+              "otherInfo": {
+                "content": "无__独上西楼",
+                "answer": "言"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōu"
+              },
+              "otherInfo": {
+                "content": "月如__",
+                "answer": "钩"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "__寞梧桐深院锁清秋",
+                "answer": "寂"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ"
+              },
+              "otherInfo": {
+                "content": "寂寞梧桐深院__清秋",
+                "answer": "锁"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "__不断，理还乱",
+                "answer": "剪"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luàn"
+              },
+              "otherInfo": {
+                "content": "剪不断，理还__",
+                "answer": "乱"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóu"
+              },
+              "otherInfo": {
+                "content": "是离__",
+                "answer": "愁"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zī"
+              },
+              "otherInfo": {
+                "content": "别是一般__味在心头",
+                "answer": "滋"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi"
+              },
+              "otherInfo": {
+                "content": "别是一般滋__在心头",
+                "answer": "味"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tóu"
+              },
+              "otherInfo": {
+                "content": "别是一般滋味在心__",
+                "answer": "头"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无言独上西楼，______",
+                "answer": "月如钩"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，月如钩",
+                "answer": "无言独上西楼"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，剪不断，理还乱",
+                "answer": "寂寞梧桐深院锁清秋"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "寂寞梧桐深院锁清秋，______",
+                "answer": "剪不断，理还乱"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剪不断，理还乱，______",
+                "answer": "是离愁"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，是离愁",
+                "answer": "剪不断，理还乱"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是离愁，______",
+                "answer": "别是一般滋味在心头"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，别是一般滋味在心头",
+                "answer": "是离愁"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无言独上西楼，月如钩。______，______",
+                "answer": "寂寞梧桐深院锁清秋，剪不断，理还乱"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "寂寞梧桐深院锁清秋，剪不断，理还乱。______，______",
+                "answer": "是离愁，别是一般滋味在心头"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剪不断，理还乱，是离愁。______",
+                "answer": "别是一般滋味在心头"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月如钩",
+                  "无言独上西楼",
+                  "寂寞梧桐深院锁清秋",
+                  "是离愁",
+                  "剪不断，理还乱",
+                  "别是一般滋味在心头"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "剪不断，理还乱",
+                  "月如钩",
+                  "无言独上西楼",
+                  "别是一般滋味在心头",
+                  "寂寞梧桐深院锁清秋",
+                  "是离愁"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是离愁",
+                  "寂寞梧桐深院锁清秋",
+                  "无言独上西楼",
+                  "月如钩",
+                  "别是一般滋味在心头",
+                  "剪不断，理还乱"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "别是一般滋味在心头",
+                  "无言独上西楼",
+                  "剪不断，理还乱",
+                  "月如钩",
+                  "是离愁",
+                  "寂寞梧桐深院锁清秋"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寂寞梧桐深院锁清秋",
+                  "是离愁",
+                  "月如钩",
+                  "无言独上西楼",
+                  "别是一般滋味在心头",
+                  "剪不断，理还乱"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

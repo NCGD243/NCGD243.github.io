@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú wài táo huā sān liǎng zhī"
+              },
+              "otherInfo": {
+                "line": "竹外桃花三两枝"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn jiāng shuǐ nuǎn yā xiān zhī"
+              },
+              "otherInfo": {
+                "line": "春江水暖鸭先知"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lóu hāo mǎn dì lú yá duǎn"
+              },
+              "otherInfo": {
+                "line": "蒌蒿满地芦芽短"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhèng shì hé tún yù shàng shí"
+              },
+              "otherInfo": {
+                "line": "正是河豚欲上时"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“竹外桃花三两枝”中“三两”的意思是？",
+                "options": [
+                  "两三",
+                  "三和两",
+                  "三加两",
+                  "三或两"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春江水暖鸭先知”中“先知”的意思是？",
+                "options": [
+                  "先知道",
+                  "先知觉",
+                  "先感觉",
+                  "先告知"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蒌蒿满地芦芽短”中“短”的意思是？",
+                "options": [
+                  "短小",
+                  "短缺",
+                  "短浅",
+                  "短促"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“正是河豚欲上时”中“欲”的意思是？",
+                "options": [
+                  "欲望",
+                  "将要",
+                  "想要",
+                  "需要"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“竹外桃花三两枝”中“竹外”的意思是？",
+                "options": [
+                  "竹林外面",
+                  "竹子外面",
+                  "竹林之外",
+                  "竹丛外边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春江水暖鸭先知”中“暖”的意思是？",
+                "options": [
+                  "温暖",
+                  "暖和",
+                  "暖意",
+                  "暖流"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蒌蒿满地芦芽短”中“满”的意思是？",
+                "options": [
+                  "满足",
+                  "充满",
+                  "布满",
+                  "满溢"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“正是河豚欲上时”中“时”的意思是？",
+                "options": [
+                  "时候",
+                  "时机",
+                  "时节",
+                  "时光"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蒌蒿满地芦芽短”中“芦芽”的意思是？",
+                "options": [
+                  "芦苇的嫩芽",
+                  "芦草的根芽",
+                  "芦竹的新芽",
+                  "芦荻的幼芽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“正是河豚欲上时”中“上”的意思是？",
+                "options": [
+                  "向上",
+                  "上游",
+                  "上市",
+                  "上浮"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "竹林外两三枝桃花初放。",
+                "options": [
+                  "竹外桃花三两枝",
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "正是河豚欲上时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春江水暖鸭先知”的意思是？",
+                "options": [
+                  "春天江水变暖，鸭子最先知道",
+                  "春天江水变暖，鸭子最先游过",
+                  "春天江水变暖，鸭子最先下水",
+                  "春天江水变暖，鸭子最先感知"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春天江水回暖，鸭子最先察觉。",
+                "options": [
+                  "竹外桃花三两枝",
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "正是河豚欲上时"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“竹外桃花三两枝”的意思是？",
+                "options": [
+                  "竹林外有两三枝桃花",
+                  "竹林外开着三两枝桃花",
+                  "竹林外桃花只有两三枝",
+                  "竹林外桃花开了三两枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "蒌蒿长满地面，芦芽还很短小。",
+                "options": [
+                  "竹外桃花三两枝",
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "正是河豚欲上时"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“蒌蒿满地芦芽短”的意思是？",
+                "options": [
+                  "蒌蒿铺满地面，芦芽刚刚冒出",
+                  "蒌蒿长满地面，芦芽还很短小",
+                  "蒌蒿满地都是，芦芽又短又小",
+                  "蒌蒿遍布地面，芦芽短而嫩"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "正是河豚将要上市的时候。",
+                "options": [
+                  "竹外桃花三两枝",
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "正是河豚欲上时"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“正是河豚欲上时”的意思是？",
+                "options": [
+                  "正是河豚想要上浮的时候",
+                  "正是河豚将要上市的时候",
+                  "正是河豚准备上游的时候",
+                  "正是河豚将要上钩的时候"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春江水暖鸭先知",
+                  "竹外桃花三两枝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "正是河豚欲上时",
+                  "蒌蒿满地芦芽短"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "竹外桃花三两枝",
+                  "正是河豚欲上时"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "正是河豚欲上时",
+                  "竹外桃花三两枝",
+                  "蒌蒿满地芦芽短",
+                  "春江水暖鸭先知"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo"
+              },
+              "otherInfo": {
+                "content": "竹外__花三两枝",
+                "answer": "桃"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yā"
+              },
+              "otherInfo": {
+                "content": "春江水暖__先知",
+                "answer": "鸭"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hāo"
+              },
+              "otherInfo": {
+                "content": "蒌__满地芦芽短",
+                "answer": "蒿"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tún"
+              },
+              "otherInfo": {
+                "content": "正是河__欲上时",
+                "answer": "豚"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú"
+              },
+              "otherInfo": {
+                "content": "__外桃花三两枝",
+                "answer": "竹"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nuǎn"
+              },
+              "otherInfo": {
+                "content": "春江水__鸭先知",
+                "answer": "暖"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lú"
+              },
+              "otherInfo": {
+                "content": "蒌蒿满地__芽短",
+                "answer": "芦"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "正是河豚__上时",
+                "answer": "欲"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "春江水暖鸭先__",
+                "answer": "知"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duǎn"
+              },
+              "otherInfo": {
+                "content": "蒌蒿满地芦芽__",
+                "answer": "短"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "竹外桃花三两枝，______",
+                "answer": "春江水暖鸭先知"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，春江水暖鸭先知",
+                "answer": "竹外桃花三两枝"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒌蒿满地芦芽短，______",
+                "answer": "正是河豚欲上时"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，正是河豚欲上时",
+                "answer": "蒌蒿满地芦芽短"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "竹外桃花三两枝，春江水暖鸭先知。______，______",
+                "answer": "蒌蒿满地芦芽短，正是河豚欲上时"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "竹外桃花三两枝，春江水暖鸭先知。______，______",
+                "answer": "蒌蒿满地芦芽短，正是河豚欲上时"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "正是河豚欲上时",
+                  "竹外桃花三两枝",
+                  "蒌蒿满地芦芽短",
+                  "春江水暖鸭先知"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短",
+                  "竹外桃花三两枝",
+                  "正是河豚欲上时"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "蒌蒿满地芦芽短",
+                  "正是河豚欲上时",
+                  "春江水暖鸭先知",
+                  "竹外桃花三两枝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "竹外桃花三两枝",
+                  "正是河豚欲上时",
+                  "春江水暖鸭先知",
+                  "蒌蒿满地芦芽短"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春江水暖鸭先知",
+                  "竹外桃花三两枝",
+                  "正是河豚欲上时",
+                  "蒌蒿满地芦芽短"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

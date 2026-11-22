@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn mǔ fāng táng yī jiàn kāi"
+              },
+              "otherInfo": {
+                "line": "半亩方塘一鉴开"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān guāng yún yǐng gòng pái huái"
+              },
+              "otherInfo": {
+                "line": "天光云影共徘徊"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèn qú nà dé qīng rú xǔ"
+              },
+              "otherInfo": {
+                "line": "问渠那得清如许"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi yǒu yuán tóu huó shuǐ lái"
+              },
+              "otherInfo": {
+                "line": "为有源头活水来"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半亩方塘一鉴开”中“鉴”的意思是？",
+                "options": [
+                  "镜子",
+                  "借鉴",
+                  "鉴别",
+                  "观察"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天光云影共徘徊”中“徘徊”的意思是？",
+                "options": [
+                  "来回移动",
+                  "犹豫不决",
+                  "停滞不前",
+                  "反复思考"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“问渠那得清如许”中“渠”的意思是？",
+                "options": [
+                  "它，指方塘",
+                  "水渠",
+                  "他",
+                  "渠道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“问渠那得清如许”中“如许”的意思是？",
+                "options": [
+                  "像这样",
+                  "如果",
+                  "许多",
+                  "允许"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为有源头活水来”中“为”的意思是？",
+                "options": [
+                  "因为",
+                  "为了",
+                  "作为",
+                  "成为"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为有源头活水来”中“源头”的意思是？",
+                "options": [
+                  "水的发源处",
+                  "事情的起点",
+                  "根本原因",
+                  "最初来源"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半亩方塘一鉴开”中“方塘”的意思是？",
+                "options": [
+                  "方形的水塘",
+                  "池塘的方岸",
+                  "方正的池塘",
+                  "水塘的方框"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天光云影共徘徊”中“共”的意思是？",
+                "options": [
+                  "一起",
+                  "总共",
+                  "共同拥有",
+                  "同样"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“问渠那得清如许”中“那得”的意思是？",
+                "options": [
+                  "怎么会",
+                  "哪里得到",
+                  "哪能获得",
+                  "如何取得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为有源头活水来”中“活水”的意思是？",
+                "options": [
+                  "流动的水",
+                  "鲜活的水",
+                  "有生命的水",
+                  "活泼的水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "半亩大的方形池塘像一面镜子一样打开。",
+                "options": [
+                  "半亩方塘一鉴开",
+                  "天光云影共徘徊",
+                  "问渠那得清如许",
+                  "为有源头活水来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“半亩方塘一鉴开”的意思是？",
+                "options": [
+                  "半亩大的方形池塘像一面镜子一样打开",
+                  "半亩大的方形池塘里有一面镜子打开着",
+                  "半亩大的方形池塘边有一面镜子被打开",
+                  "半亩大的方形池塘像一面镜子被收起来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "天空的光辉和云彩的影子一起在池塘中来回移动。",
+                "options": [
+                  "天光云影共徘徊",
+                  "半亩方塘一鉴开",
+                  "问渠那得清如许",
+                  "为有源头活水来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“天光云影共徘徊”的意思是？",
+                "options": [
+                  "天空的光辉和云彩的影子一起在池塘中来回移动",
+                  "天空的光辉和云彩的影子一起在天空中徘徊",
+                  "天空的光辉和云彩的影子一起在池塘边停留",
+                  "天空的光辉和云彩的影子一起在池塘上消散"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "问它怎么会这样清澈呢？",
+                "options": [
+                  "问渠那得清如许",
+                  "为有源头活水来",
+                  "半亩方塘一鉴开",
+                  "天光云影共徘徊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“问渠那得清如许”的意思是？",
+                "options": [
+                  "问它怎么会这样清澈呢",
+                  "问水渠哪里能得到这样的清澈",
+                  "问它哪能得到如此多的清水",
+                  "问它怎么才能变得这样清澈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "是因为有源头不断地送来活水。",
+                "options": [
+                  "为有源头活水来",
+                  "问渠那得清如许",
+                  "半亩方塘一鉴开",
+                  "天光云影共徘徊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“为有源头活水来”的意思是？",
+                "options": [
+                  "是因为有源头不断地送来活水",
+                  "是为了让源头的活水流过来",
+                  "是因为源头有活水要流来",
+                  "是为了有源头的活水到来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天光云影共徘徊",
+                  "半亩方塘一鉴开"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为有源头活水来",
+                  "问渠那得清如许"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问渠那得清如许",
+                  "天光云影共徘徊",
+                  "为有源头活水来",
+                  "半亩方塘一鉴开"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为有源头活水来",
+                  "半亩方塘一鉴开",
+                  "问渠那得清如许",
+                  "天光云影共徘徊"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "半亩方塘一__开",
+                "answer": "鉴"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pái"
+              },
+              "otherInfo": {
+                "content": "天光云影共__徊",
+                "answer": "徘"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qú"
+              },
+              "otherInfo": {
+                "content": "问__那得清如许",
+                "answer": "渠"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán"
+              },
+              "otherInfo": {
+                "content": "为有__头活水来",
+                "answer": "源"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táng"
+              },
+              "otherInfo": {
+                "content": "半亩方__一鉴开",
+                "answer": "塘"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐng"
+              },
+              "otherInfo": {
+                "content": "天光云__共徘徊",
+                "answer": "影"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xǔ"
+              },
+              "otherInfo": {
+                "content": "问渠那得清如__",
+                "answer": "许"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huó"
+              },
+              "otherInfo": {
+                "content": "为有源头__水来",
+                "answer": "活"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǔ"
+              },
+              "otherInfo": {
+                "content": "半__方塘一鉴开",
+                "answer": "亩"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lái"
+              },
+              "otherInfo": {
+                "content": "为有源头活水__",
+                "answer": "来"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半亩方塘一鉴开，______。",
+                "answer": "天光云影共徘徊"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，天光云影共徘徊。",
+                "answer": "半亩方塘一鉴开"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问渠那得清如许，______。",
+                "answer": "为有源头活水来"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，为有源头活水来。",
+                "answer": "问渠那得清如许"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半亩方塘一鉴开，天光云影共徘徊。______，______。",
+                "answer": "问渠那得清如许，为有源头活水来"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问渠那得清如许，为有源头活水来。______，______。",
+                "answer": "问渠那得清如许，为有源头活水来"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为有源头活水来",
+                  "天光云影共徘徊",
+                  "半亩方塘一鉴开",
+                  "问渠那得清如许"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问渠那得清如许",
+                  "半亩方塘一鉴开",
+                  "为有源头活水来",
+                  "天光云影共徘徊"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天光云影共徘徊",
+                  "问渠那得清如许",
+                  "半亩方塘一鉴开",
+                  "为有源头活水来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半亩方塘一鉴开",
+                  "为有源头活水来",
+                  "天光云影共徘徊",
+                  "问渠那得清如许"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为有源头活水来",
+                  "问渠那得清如许",
+                  "天光云影共徘徊",
+                  "半亩方塘一鉴开"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

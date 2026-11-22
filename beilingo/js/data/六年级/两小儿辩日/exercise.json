@@ -1,0 +1,2153 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǒng zǐ dōng yóu"
+              },
+              "otherInfo": {
+                "line": "孔子东游"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn liǎng xiǎo ér biàn dòu"
+              },
+              "otherInfo": {
+                "line": "见两小儿辩斗"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèn qí gù"
+              },
+              "otherInfo": {
+                "line": "问其故"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī ér yuē wǒ yǐ rì shǐ chū shí qù rén jìn"
+              },
+              "otherInfo": {
+                "line": "一儿曰我以日始出时去人近"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér rì zhōng shí yuǎn yě"
+              },
+              "otherInfo": {
+                "line": "而日中时远也"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī ér yǐ rì chū chū yuǎn ér rì zhōng shí jìn yě"
+              },
+              "otherInfo": {
+                "line": "一儿以日初出远而日中时近也"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī ér yuē rì chū chū dà rú chē gài"
+              },
+              "otherInfo": {
+                "line": "一儿曰日初出大如车盖"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí rì zhōng zé rú pán yú"
+              },
+              "otherInfo": {
+                "line": "及日中则如盘盂"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ bù wéi yuǎn zhě xiǎo ér jìn zhě dà hū"
+              },
+              "otherInfo": {
+                "line": "此不为远者小而近者大乎"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī ér yuē rì chū chū cāng cāng liáng liáng"
+              },
+              "otherInfo": {
+                "line": "一儿曰日初出沧沧凉凉"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí qí rì zhōng rú tàn tāng"
+              },
+              "otherInfo": {
+                "line": "及其日中如探汤"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ bù wéi jìn zhě rè ér yuǎn zhě liáng hū"
+              },
+              "otherInfo": {
+                "line": "此不为近者热而远者凉乎"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǒng zǐ bù néng jué yě"
+              },
+              "otherInfo": {
+                "line": "孔子不能决也"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǎng xiǎo ér xiào yuē shú wèi rǔ duō zhī hū"
+              },
+              "otherInfo": {
+                "line": "两小儿笑曰孰为汝多知乎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“辩斗”的意思是？",
+                "options": [
+                  "争论、争辩",
+                  "打斗、搏斗",
+                  "比赛、竞争",
+                  "辩论、演讲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故”的意思是？",
+                "options": [
+                  "原因",
+                  "故意",
+                  "旧的",
+                  "所以"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“去”的意思是？",
+                "options": [
+                  "距离",
+                  "离开",
+                  "前往",
+                  "除去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“日中”的意思是？",
+                "options": [
+                  "正午",
+                  "一天之中",
+                  "太阳中间",
+                  "白天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“车盖”的意思是？",
+                "options": [
+                  "车上的伞盖",
+                  "车轮",
+                  "车厢",
+                  "车辕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“盘盂”的意思是？",
+                "options": [
+                  "盛物的器皿",
+                  "盘子和水盂",
+                  "圆盘和钵",
+                  "餐具"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沧沧凉凉”的意思是？",
+                "options": [
+                  "寒冷清凉",
+                  "苍茫辽阔",
+                  "水波荡漾",
+                  "昏暗不明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“探汤”的意思是？",
+                "options": [
+                  "把手伸进热水里",
+                  "试探汤的味道",
+                  "探取热汤",
+                  "汤水沸腾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“决”的意思是？",
+                "options": [
+                  "判断、裁决",
+                  "决定",
+                  "决斗",
+                  "决断"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孰”的意思是？",
+                "options": [
+                  "谁",
+                  "什么",
+                  "怎么",
+                  "哪里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孔子到东方游历，看见两个小孩在争论。",
+                "options": [
+                  "孔子东游，见两小儿辩斗",
+                  "一儿曰：“我以日始出时去人近”",
+                  "孔子不能决也",
+                  "两小儿笑曰：“孰为汝多知乎？”"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“问其故”的意思是？",
+                "options": [
+                  "问他们争论的原因",
+                  "问他们从哪里来",
+                  "问他们叫什么名字",
+                  "问他们要去哪里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一个小孩说：“我认为太阳刚出来时离人近，而正午时离人远。”",
+                "options": [
+                  "一儿曰：“我以日始出时去人近，而日中时远也。”",
+                  "一儿以日初出远，而日中时近也",
+                  "日初出大如车盖，及日中则如盘盂",
+                  "日初出沧沧凉凉，及其日中如探汤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一儿以日初出远，而日中时近也”的意思是？",
+                "options": [
+                  "另一个小孩认为太阳刚出来时离人远，正午时离人近",
+                  "另一个小孩认为太阳刚出来时离人近，正午时离人远",
+                  "另一个小孩认为太阳刚出来时大，正午时小",
+                  "另一个小孩认为太阳刚出来时凉，正午时热"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太阳刚出来时大得像车盖，到了正午就像盘盂。",
+                "options": [
+                  "日初出大如车盖，及日中则如盘盂",
+                  "日初出沧沧凉凉，及其日中如探汤",
+                  "孔子东游，见两小儿辩斗",
+                  "此不为远者小而近者大乎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此不为远者小而近者大乎”的意思是？",
+                "options": [
+                  "这不正是离人远时小、离人近时大吗",
+                  "这不正是离人远时大、离人近时小吗",
+                  "这不正是离人远时凉、离人近时热吗",
+                  "这不正是离人远时暗、离人近时亮吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太阳刚出来时清凉寒冷，到了正午就像把手伸进热水里。",
+                "options": [
+                  "日初出沧沧凉凉，及其日中如探汤",
+                  "日初出大如车盖，及日中则如盘盂",
+                  "一儿曰：“我以日始出时去人近”",
+                  "孔子不能决也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此不为近者热而远者凉乎”的意思是？",
+                "options": [
+                  "这不正是离人近时热、离人远时凉吗",
+                  "这不正是离人近时凉、离人远时热吗",
+                  "这不正是离人近时大、离人远时小吗",
+                  "这不正是离人近时亮、离人远时暗吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孔子不能判断谁对谁错。",
+                "options": [
+                  "孔子不能决也",
+                  "孔子东游，见两小儿辩斗",
+                  "问其故",
+                  "两小儿笑曰：“孰为汝多知乎？”"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“两小儿笑曰：‘孰为汝多知乎？’”的意思是？",
+                "options": [
+                  "两个小孩笑着说：“谁说你知识渊博呢？”",
+                  "两个小孩笑着说：“谁说你不知道呢？”",
+                  "两个小孩笑着说：“你为什么知道这么多呢？”",
+                  "两个小孩笑着说：“你凭什么说我们错呢？”"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一个小孩说：“我认为太阳刚出来时离人近，而正午时离人远。”",
+                "options": [
+                  "一儿曰：“我以日始出时去人近，而日中时远也。”",
+                  "一儿以日初出远，而日中时近也",
+                  "孔子不能决也",
+                  "日初出大如车盖，及日中则如盘盂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孔子东游，见两小儿辩斗”的意思是？",
+                "options": [
+                  "孔子到东方游历，看见两个小孩在争论",
+                  "孔子到东方游历，看见两个小孩在玩耍",
+                  "孔子到东方游历，听见两个小孩在唱歌",
+                  "孔子到东方游历，遇见两个小孩在问路"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一个小孩说：“太阳刚出来时清凉寒冷，到了正午就像把手伸进热水里。”",
+                "options": [
+                  "一儿曰：“日初出沧沧凉凉，及其日中如探汤。”",
+                  "一儿曰：“日初出大如车盖，及日中则如盘盂。”",
+                  "一儿曰：“我以日始出时去人近，而日中时远也。”",
+                  "孔子不能决也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“日初出大如车盖，及日中则如盘盂”的意思是？",
+                "options": [
+                  "太阳刚出来时大得像车盖，到了正午就像盘盂",
+                  "太阳刚出来时小得像盘盂，到了正午就像车盖",
+                  "太阳刚出来时圆得像车盖，到了正午就像盘子",
+                  "太阳刚出来时亮得像车盖，到了正午就像盘盂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "见两小儿辩斗",
+                  "孔子东游"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问其故",
+                  "孔子东游，见两小儿辩斗"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而日中时远也",
+                  "一儿曰：“我以日始出时去人近"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而日中时近也",
+                  "一儿以日初出远"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为远者小而近者大乎",
+                  "及日中则如盘盂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔子不能决也",
+                  "此不为近者热而远者凉乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两小儿笑曰：“孰为汝多知乎？”",
+                  "孔子不能决也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问其故",
+                  "见两小儿辩斗",
+                  "孔子东游"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而日中时远也",
+                  "一儿曰：“我以日始出时去人近",
+                  "问其故"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而日中时近也",
+                  "一儿以日初出远",
+                  "而日中时远也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖",
+                  "而日中时近也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为远者小而近者大乎",
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉",
+                  "此不为远者小而近者大乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔子不能决也",
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两小儿笑曰：“孰为汝多知乎？”",
+                  "孔子不能决也",
+                  "此不为近者热而远者凉乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问其故",
+                  "而日中时远也",
+                  "孔子东游",
+                  "见两小儿辩斗",
+                  "一儿曰：“我以日始出时去人近"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q21",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一儿以日初出远",
+                  "而日中时近也",
+                  "问其故",
+                  "而日中时远也",
+                  "一儿曰：“我以日始出时去人近"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q22",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖",
+                  "而日中时近也",
+                  "一儿以日初出远",
+                  "而日中时远也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q23",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为远者小而近者大乎",
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖",
+                  "而日中时近也",
+                  "一儿以日初出远"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q24",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉",
+                  "此不为远者小而近者大乎",
+                  "及日中则如盘盂",
+                  "一儿曰：“日初出大如车盖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q25",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉",
+                  "此不为远者小而近者大乎",
+                  "及日中则如盘盂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q26",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔子不能决也",
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉",
+                  "此不为远者小而近者大乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q27",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两小儿笑曰：“孰为汝多知乎？”",
+                  "孔子不能决也",
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤",
+                  "一儿曰：“日初出沧沧凉凉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q28",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一儿曰：“我以日始出时去人近",
+                  "而日中时远也",
+                  "孔子东游",
+                  "见两小儿辩斗",
+                  "问其故",
+                  "一儿以日初出远",
+                  "而日中时近也",
+                  "一儿曰：“日初出大如车盖",
+                  "及日中则如盘盂",
+                  "此不为远者小而近者大乎",
+                  "一儿曰：“日初出沧沧凉凉",
+                  "及其日中如探汤",
+                  "此不为近者热而远者凉乎",
+                  "孔子不能决也",
+                  "两小儿笑曰：“孰为汝多知乎？”"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng"
+              },
+              "otherInfo": {
+                "content": "孔子__游",
+                "answer": "东"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn"
+              },
+              "otherInfo": {
+                "content": "见两小儿__斗",
+                "answer": "辩"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "问其__",
+                "answer": "故"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǐ"
+              },
+              "otherInfo": {
+                "content": "一儿曰我以日__出时去人近",
+                "answer": "始"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuǎn"
+              },
+              "otherInfo": {
+                "content": "而日中时__也",
+                "answer": "远"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chū"
+              },
+              "otherInfo": {
+                "content": "一儿以日__出远",
+                "answer": "初"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gài"
+              },
+              "otherInfo": {
+                "content": "日初出大如车__",
+                "answer": "盖"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "及日中则如盘__",
+                "answer": "盂"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cāng"
+              },
+              "otherInfo": {
+                "content": "日初出__沧凉凉",
+                "answer": "沧"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tāng"
+              },
+              "otherInfo": {
+                "content": "及其日中如探__",
+                "answer": "汤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔子东游，______",
+                "answer": "见两小儿辩斗"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，见两小儿辩斗",
+                "answer": "孔子东游"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问其故，______",
+                "answer": "一儿曰我以日始出时去人近"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一儿曰我以日始出时去人近",
+                "answer": "问其故"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "而日中时远也，______",
+                "answer": "一儿以日初出远"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一儿以日初出远",
+                "answer": "而日中时远也"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日初出大如车盖，______",
+                "answer": "及日中则如盘盂"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，及日中则如盘盂",
+                "answer": "日初出大如车盖"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日初出沧沧凉凉，______",
+                "answer": "及其日中如探汤"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，及其日中如探汤",
+                "answer": "日初出沧沧凉凉"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此不为远者小而近者大乎，______",
+                "answer": "一儿曰日初出沧沧凉凉"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一儿曰日初出沧沧凉凉",
+                "answer": "此不为远者小而近者大乎"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "及其日中如探汤，______",
+                "answer": "此不为近者热而远者凉乎"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，此不为近者热而远者凉乎",
+                "answer": "及其日中如探汤"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔子不能决也，______",
+                "answer": "两小儿笑曰孰为汝多知乎"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，两小儿笑曰孰为汝多知乎",
+                "answer": "孔子不能决也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔子东游，见两小儿辩斗。______，______",
+                "answer": "问其故，一儿曰我以日始出时去人近"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问其故，一儿曰我以日始出时去人近。______，______",
+                "answer": "而日中时远也，一儿以日初出远"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "而日中时远也，一儿以日初出远。______，______",
+                "answer": "一儿曰日初出大如车盖，及日中则如盘盂"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一儿曰日初出大如车盖，及日中则如盘盂。______，______",
+                "answer": "此不为远者小而近者大乎，一儿曰日初出沧沧凉凉"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此不为远者小而近者大乎，一儿曰日初出沧沧凉凉。______，______",
+                "answer": "及其日中如探汤，此不为近者热而远者凉乎"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "及其日中如探汤，此不为近者热而远者凉乎。______，______",
+                "answer": "孔子不能决也，两小儿笑曰孰为汝多知乎"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔子不能决也，两小儿笑曰孰为汝多知乎。______，______",
+                "answer": "孔子不能决也，两小儿笑曰孰为汝多知乎"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问其故",
+                  "一儿曰我以日始出时去人近",
+                  "孔子东游",
+                  "见两小儿辩斗",
+                  "而日中时远也",
+                  "一儿以日初出远",
+                  "日初出大如车盖",
+                  "及日中则如盘盂",
+                  "此不为远者小而近者大乎",
+                  "一儿曰日初出沧沧凉凉",
+                  "及其日中如探汤",
+                  "此不为近者热而远者凉乎",
+                  "孔子不能决也",
+                  "两小儿笑曰孰为汝多知乎"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "见两小儿辩斗",
+                  "而日中时远也",
+                  "孔子东游",
+                  "问其故",
+                  "一儿曰我以日始出时去人近",
+                  "一儿以日初出远",
+                  "及日中则如盘盂",
+                  "日初出大如车盖",
+                  "一儿曰日初出沧沧凉凉",
+                  "此不为远者小而近者大乎",
+                  "此不为近者热而远者凉乎",
+                  "及其日中如探汤",
+                  "两小儿笑曰孰为汝多知乎",
+                  "孔子不能决也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一儿曰我以日始出时去人近",
+                  "孔子东游",
+                  "问其故",
+                  "见两小儿辩斗",
+                  "一儿以日初出远",
+                  "而日中时远也",
+                  "日初出大如车盖",
+                  "及日中则如盘盂",
+                  "此不为远者小而近者大乎",
+                  "一儿曰日初出沧沧凉凉",
+                  "及其日中如探汤",
+                  "此不为近者热而远者凉乎",
+                  "孔子不能决也",
+                  "两小儿笑曰孰为汝多知乎"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔子东游",
+                  "问其故",
+                  "见两小儿辩斗",
+                  "一儿曰我以日始出时去人近",
+                  "而日中时远也",
+                  "一儿以日初出远",
+                  "及日中则如盘盂",
+                  "日初出大如车盖",
+                  "一儿曰日初出沧沧凉凉",
+                  "此不为远者小而近者大乎",
+                  "及其日中如探汤",
+                  "此不为近者热而远者凉乎",
+                  "两小儿笑曰孰为汝多知乎",
+                  "孔子不能决也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "见两小儿辩斗",
+                  "孔子东游",
+                  "一儿曰我以日始出时去人近",
+                  "问其故",
+                  "而日中时远也",
+                  "一儿以日初出远",
+                  "日初出大如车盖",
+                  "及日中则如盘盂",
+                  "此不为远者小而近者大乎",
+                  "一儿曰日初出沧沧凉凉",
+                  "及其日中如探汤",
+                  "此不为近者热而远者凉乎",
+                  "孔子不能决也",
+                  "两小儿笑曰孰为汝多知乎"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

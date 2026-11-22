@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng lián jī chǐ yìn cāng tái"
+              },
+              "otherInfo": {
+                "line": "应怜屐齿印苍苔"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo kòu chái fēi jiǔ bù kāi"
+              },
+              "otherInfo": {
+                "line": "小扣柴扉久不开"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn sè mǎn yuán guān bù zhù"
+              },
+              "otherInfo": {
+                "line": "春色满园关不住"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī zhī hóng xìng chū qiáng lái"
+              },
+              "otherInfo": {
+                "line": "一枝红杏出墙来"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“应怜”的意思是？",
+                "options": [
+                  "应该怜惜",
+                  "应当可怜",
+                  "回应怜爱",
+                  "答应怜悯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“屐齿”的意思是？",
+                "options": [
+                  "木屐底下的齿",
+                  "牙齿的痕迹",
+                  "鞋底的纹路",
+                  "木鞋的带子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“苍苔”的意思是？",
+                "options": [
+                  "青色的苔藓",
+                  "灰白的苔草",
+                  "苍老的树皮",
+                  "深绿的藤蔓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“小扣”的意思是？",
+                "options": [
+                  "轻轻地敲",
+                  "小心地扣住",
+                  "小声地询问",
+                  "略微地叩拜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“柴扉”的意思是？",
+                "options": [
+                  "柴门",
+                  "柴火",
+                  "木栅栏",
+                  "草屋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春色”的意思是？",
+                "options": [
+                  "春天的景色",
+                  "春天的颜色",
+                  "春天的气息",
+                  "春天的时光"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“关不住”的意思是？",
+                "options": [
+                  "关锁不住",
+                  "关闭不了",
+                  "关心不够",
+                  "关口不通"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一枝”的意思是？",
+                "options": [
+                  "一根枝条",
+                  "一棵树木",
+                  "一片花瓣",
+                  "一朵鲜花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“红杏”的意思是？",
+                "options": [
+                  "红色的杏花",
+                  "红色的杏子",
+                  "红梅的别称",
+                  "红桃的果实"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“出墙来”的意思是？",
+                "options": [
+                  "伸出墙外来",
+                  "走出墙外面",
+                  "超出墙头去",
+                  "出现墙根下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大概是园主人爱惜青苔，怕我的木屐踩出印痕。",
+                "options": [
+                  "应怜屐齿印苍苔",
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "一枝红杏出墙来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“应怜屐齿印苍苔”的意思是？",
+                "options": [
+                  "园主人大概爱惜青苔，怕被木屐踩出印痕",
+                  "诗人怜惜青苔，不忍心用木屐去踩踏",
+                  "青苔可怜木屐，主动印上了齿痕",
+                  "诗人抱怨木屐把青苔踩得不成样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我轻轻敲着柴门，很久也没有人来开。",
+                "options": [
+                  "应怜屐齿印苍苔",
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "一枝红杏出墙来"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“小扣柴扉久不开”的意思是？",
+                "options": [
+                  "轻轻敲柴门，敲了很久也没人来开",
+                  "小心地扣住柴门，久久不肯打开",
+                  "小声询问柴门，许久得不到回应",
+                  "略微叩拜柴门，长时间不见开启"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "满园的春色是关锁不住的。",
+                "options": [
+                  "应怜屐齿印苍苔",
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "一枝红杏出墙来"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春色满园关不住”的意思是？",
+                "options": [
+                  "满园春色关锁不住，要向外流露",
+                  "满园春色被关住，无法欣赏到",
+                  "春色布满园子，门却关着不开",
+                  "园中春色虽好，可惜关门谢客"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有一枝红色的杏花伸出墙头来。",
+                "options": [
+                  "应怜屐齿印苍苔",
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "一枝红杏出墙来"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一枝红杏出墙来”的意思是？",
+                "options": [
+                  "一枝红杏伸出墙外，透出满园春色",
+                  "一枝红杏被墙挡住，只能露出墙头",
+                  "一枝红杏从墙外伸进园子里来",
+                  "一枝红杏开在墙根，无人欣赏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小扣柴扉久不开",
+                  "应怜屐齿印苍苔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一枝红杏出墙来",
+                  "春色满园关不住"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "应怜屐齿印苍苔",
+                  "一枝红杏出墙来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一枝红杏出墙来",
+                  "应怜屐齿印苍苔",
+                  "春色满园关不住",
+                  "小扣柴扉久不开"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jī"
+              },
+              "otherInfo": {
+                "content": "应怜__齿印苍苔",
+                "answer": "屐"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tái"
+              },
+              "otherInfo": {
+                "content": "应怜屐齿印苍__",
+                "answer": "苔"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi"
+              },
+              "otherInfo": {
+                "content": "小扣柴__久不开",
+                "answer": "扉"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kòu"
+              },
+              "otherInfo": {
+                "content": "小__柴扉久不开",
+                "answer": "扣"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán"
+              },
+              "otherInfo": {
+                "content": "春色满__关不住",
+                "answer": "园"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhù"
+              },
+              "otherInfo": {
+                "content": "春色满园关不__",
+                "answer": "住"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng"
+              },
+              "otherInfo": {
+                "content": "一枝红__出墙来",
+                "answer": "杏"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáng"
+              },
+              "otherInfo": {
+                "content": "一枝红杏出__来",
+                "answer": "墙"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "应__屐齿印苍苔",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "一__红杏出墙来",
+                "answer": "枝"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "应怜屐齿印苍苔，______。",
+                "answer": "小扣柴扉久不开"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，小扣柴扉久不开。",
+                "answer": "应怜屐齿印苍苔"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春色满园关不住，______。",
+                "answer": "一枝红杏出墙来"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一枝红杏出墙来。",
+                "answer": "春色满园关不住"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "应怜屐齿印苍苔，小扣柴扉久不开。______，______。",
+                "answer": "春色满园关不住，一枝红杏出墙来"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "应怜屐齿印苍苔，小扣柴扉久不开。______，______。",
+                "answer": "春色满园关不住，一枝红杏出墙来"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春色满园关不住",
+                  "应怜屐齿印苍苔",
+                  "一枝红杏出墙来",
+                  "小扣柴扉久不开"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一枝红杏出墙来",
+                  "小扣柴扉久不开",
+                  "应怜屐齿印苍苔",
+                  "春色满园关不住"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小扣柴扉久不开",
+                  "春色满园关不住",
+                  "应怜屐齿印苍苔",
+                  "一枝红杏出墙来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "应怜屐齿印苍苔",
+                  "一枝红杏出墙来",
+                  "小扣柴扉久不开",
+                  "春色满园关不住"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春色满园关不住",
+                  "应怜屐齿印苍苔",
+                  "一枝红杏出墙来",
+                  "小扣柴扉久不开"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

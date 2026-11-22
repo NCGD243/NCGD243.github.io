@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chú hé rì dāng wǔ"
+              },
+              "otherInfo": {
+                "line": "锄禾日当午"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hàn dī hé xià tǔ"
+              },
+              "otherInfo": {
+                "line": "汗滴禾下土"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuí zhī pán zhōng cān"
+              },
+              "otherInfo": {
+                "line": "谁知盘中餐"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì lì jiē xīn kǔ"
+              },
+              "otherInfo": {
+                "line": "粒粒皆辛苦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锄禾”的意思是？",
+                "options": [
+                  "给禾苗除草松土",
+                  "收割成熟的庄稼",
+                  "给禾苗浇水施肥",
+                  "把禾苗移栽到田里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“日当午”的意思是？",
+                "options": [
+                  "太阳正当中午",
+                  "太阳刚刚升起",
+                  "太阳快要落山",
+                  "太阳被云遮住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汗滴”的意思是？",
+                "options": [
+                  "汗水一滴滴落下",
+                  "汗水浸透了衣服",
+                  "汗水在脸上流淌",
+                  "汗水被风吹干了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“禾下土”的意思是？",
+                "options": [
+                  "禾苗下面的泥土",
+                  "禾苗旁边的水沟",
+                  "禾苗上面的露水",
+                  "禾苗周围的杂草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“谁知”的意思是？",
+                "options": [
+                  "有谁知道",
+                  "谁不知道",
+                  "谁都知道",
+                  "谁曾知道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“盘中餐”的意思是？",
+                "options": [
+                  "盘子里的饭菜",
+                  "盘子里剩下的饭",
+                  "盛饭的盘子",
+                  "做饭的厨房"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“粒粒”的意思是？",
+                "options": [
+                  "每一粒粮食",
+                  "一粒一粒地数",
+                  "颗粒饱满的米",
+                  "细小的沙粒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“皆”的意思是？",
+                "options": [
+                  "都",
+                  "只",
+                  "不",
+                  "已"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“辛苦”的意思是？",
+                "options": [
+                  "劳累艰苦",
+                  "心情痛苦",
+                  "生活贫困",
+                  "工作繁忙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“悯农”中“悯”的意思是？",
+                "options": [
+                  "怜悯同情",
+                  "忧愁担心",
+                  "哀伤叹息",
+                  "关怀爱护"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "农民顶着正午的烈日给禾苗除草松土。",
+                "options": [
+                  "锄禾日当午",
+                  "汗滴禾下土",
+                  "谁知盘中餐",
+                  "粒粒皆辛苦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“锄禾日当午”的意思是？",
+                "options": [
+                  "正午烈日下农民在田里除草松土",
+                  "农民从早到晚一直在田里劳作",
+                  "农民在烈日下挑水浇灌禾苗",
+                  "农民在正午时分回家休息吃饭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "汗水一滴滴落进禾苗下面的泥土里。",
+                "options": [
+                  "汗滴禾下土",
+                  "锄禾日当午",
+                  "谁知盘中餐",
+                  "粒粒皆辛苦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“汗滴禾下土”的意思是？",
+                "options": [
+                  "汗水一滴滴落进禾苗下的泥土",
+                  "汗水湿透了农民身上的衣服",
+                  "汗水滴在田埂上的石头上面",
+                  "汗水被正午的太阳很快晒干"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有谁知道盘子里的饭菜是怎么来的呢？",
+                "options": [
+                  "谁知盘中餐",
+                  "粒粒皆辛苦",
+                  "锄禾日当午",
+                  "汗滴禾下土"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“谁知盘中餐”的意思是？",
+                "options": [
+                  "有谁知道盘子里的饭菜来之不易",
+                  "谁知道盘子里的饭菜是什么味道",
+                  "谁知道这盘饭菜是谁做出来的",
+                  "谁知道盘子里的饭菜值多少钱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "每一粒粮食都饱含着农民的辛苦。",
+                "options": [
+                  "粒粒皆辛苦",
+                  "谁知盘中餐",
+                  "锄禾日当午",
+                  "汗滴禾下土"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“粒粒皆辛苦”的意思是？",
+                "options": [
+                  "每一粒粮食都饱含着农民的辛劳",
+                  "每一粒粮食都来之不易要珍惜",
+                  "每一粒粮食都是农民种出来的",
+                  "每一粒粮食都凝聚着许多汗水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汗滴禾下土",
+                  "锄禾日当午"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粒粒皆辛苦",
+                  "谁知盘中餐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汗滴禾下土",
+                  "谁知盘中餐",
+                  "锄禾日当午",
+                  "粒粒皆辛苦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粒粒皆辛苦",
+                  "锄禾日当午",
+                  "谁知盘中餐",
+                  "汗滴禾下土"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chú"
+              },
+              "otherInfo": {
+                "content": "__禾日当午",
+                "answer": "锄"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dāng"
+              },
+              "otherInfo": {
+                "content": "锄禾日__午",
+                "answer": "当"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hàn"
+              },
+              "otherInfo": {
+                "content": "__滴禾下土",
+                "answer": "汗"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dī"
+              },
+              "otherInfo": {
+                "content": "汗__禾下土",
+                "answer": "滴"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuí"
+              },
+              "otherInfo": {
+                "content": "__知盘中餐",
+                "answer": "谁"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cān"
+              },
+              "otherInfo": {
+                "content": "谁知盘中__",
+                "answer": "餐"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "__粒皆辛苦",
+                "answer": "粒"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiē"
+              },
+              "otherInfo": {
+                "content": "粒粒__辛苦",
+                "answer": "皆"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "粒粒皆__苦",
+                "answer": "辛"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǔ"
+              },
+              "otherInfo": {
+                "content": "粒粒皆辛__",
+                "answer": "苦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锄禾日当午，______",
+                "answer": "汗滴禾下土"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，汗滴禾下土",
+                "answer": "锄禾日当午"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谁知盘中餐，______",
+                "answer": "粒粒皆辛苦"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，粒粒皆辛苦",
+                "answer": "谁知盘中餐"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锄禾日当午，汗滴禾下土。______，______",
+                "answer": "谁知盘中餐，粒粒皆辛苦"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "锄禾日当午，汗滴禾下土。______，______",
+                "answer": "谁知盘中餐，粒粒皆辛苦"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汗滴禾下土",
+                  "粒粒皆辛苦",
+                  "锄禾日当午",
+                  "谁知盘中餐"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁知盘中餐",
+                  "锄禾日当午",
+                  "粒粒皆辛苦",
+                  "汗滴禾下土"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粒粒皆辛苦",
+                  "汗滴禾下土",
+                  "谁知盘中餐",
+                  "锄禾日当午"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锄禾日当午",
+                  "谁知盘中餐",
+                  "汗滴禾下土",
+                  "粒粒皆辛苦"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汗滴禾下土",
+                  "谁知盘中餐",
+                  "粒粒皆辛苦",
+                  "锄禾日当午"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

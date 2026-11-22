@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān shān niǎo fēi jué"
+              },
+              "otherInfo": {
+                "line": "千山鸟飞绝"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn jìng rén zōng miè"
+              },
+              "otherInfo": {
+                "line": "万径人踪灭"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū zhōu suō lì wēng"
+              },
+              "otherInfo": {
+                "line": "孤舟蓑笠翁"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú diào hán jiāng xuě"
+              },
+              "otherInfo": {
+                "line": "独钓寒江雪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千山鸟飞绝”中“绝”的意思是？",
+                "options": [
+                  "消失，断绝",
+                  "极高，陡峭",
+                  "独特，罕见",
+                  "越过，穿过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万径人踪灭”中“径”的意思是？",
+                "options": [
+                  "小路",
+                  "直径",
+                  "捷径",
+                  "经过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万径人踪灭”中“踪”的意思是？",
+                "options": [
+                  "脚印，踪迹",
+                  "踪影，消息",
+                  "追随，跟踪",
+                  "行踪，去向"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤舟蓑笠翁”中“孤”的意思是？",
+                "options": [
+                  "孤单，单独",
+                  "幼年丧父",
+                  "辜负，对不起",
+                  "古代王侯自称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤舟蓑笠翁”中“翁”的意思是？",
+                "options": [
+                  "老人",
+                  "渔夫",
+                  "父亲",
+                  "丈夫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独钓寒江雪”中“独”的意思是？",
+                "options": [
+                  "独自，单独",
+                  "唯独，只有",
+                  "难道，岂",
+                  "老而无子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“独钓寒江雪”中“寒”的意思是？",
+                "options": [
+                  "寒冷",
+                  "贫寒",
+                  "害怕",
+                  "冷却"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千山鸟飞绝”中“飞”的意思是？",
+                "options": [
+                  "飞翔",
+                  "飞快",
+                  "意外地",
+                  "高扬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万径人踪灭”中“灭”的意思是？",
+                "options": [
+                  "消失，没有了",
+                  "熄灭",
+                  "消灭",
+                  "淹没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤舟蓑笠翁”中“舟”的意思是？",
+                "options": [
+                  "船",
+                  "车",
+                  "桥",
+                  "岛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所有的山上，鸟儿都飞走了，不见踪影。",
+                "options": [
+                  "千山鸟飞绝",
+                  "万径人踪灭",
+                  "孤舟蓑笠翁",
+                  "独钓寒江雪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千山鸟飞绝”的意思是？",
+                "options": [
+                  "群山之中鸟儿都已飞走，不见踪影",
+                  "群山高耸，鸟儿无法飞越",
+                  "千座山上的鸟儿一齐飞向远方",
+                  "山间鸟儿飞得极高，难以看见"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所有的小路上，都没有人的脚印。",
+                "options": [
+                  "万径人踪灭",
+                  "千山鸟飞绝",
+                  "孤舟蓑笠翁",
+                  "独钓寒江雪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“万径人踪灭”的意思是？",
+                "options": [
+                  "条条小路上都没有人的脚印",
+                  "万条小路被人踩得消失了",
+                  "小路太多，人走不过来",
+                  "人把小路都开辟出来了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "江上一只孤单的小船，船上坐着一位身披蓑衣、头戴斗笠的老人。",
+                "options": [
+                  "孤舟蓑笠翁",
+                  "千山鸟飞绝",
+                  "万径人踪灭",
+                  "独钓寒江雪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孤舟蓑笠翁”的意思是？",
+                "options": [
+                  "孤舟上一位披蓑戴笠的老翁",
+                  "孤舟上一位披蓑戴笠的少年",
+                  "孤舟上一位披蓑戴笠的妇人",
+                  "孤舟上一位披蓑戴笠的渔夫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "独自在寒冷的江面上垂钓，江上正下着雪。",
+                "options": [
+                  "独钓寒江雪",
+                  "千山鸟飞绝",
+                  "万径人踪灭",
+                  "孤舟蓑笠翁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“独钓寒江雪”的意思是？",
+                "options": [
+                  "独自在寒冷的江雪中垂钓",
+                  "独自在寒冷的江边看雪",
+                  "独自在寒冷的江上划船",
+                  "独自在寒冷的江边等人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千山鸟飞绝",
+                  "万径人踪灭"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤舟蓑笠翁",
+                  "独钓寒江雪"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万径人踪灭",
+                  "千山鸟飞绝",
+                  "独钓寒江雪",
+                  "孤舟蓑笠翁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独钓寒江雪",
+                  "孤舟蓑笠翁",
+                  "千山鸟飞绝",
+                  "万径人踪灭"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "千山鸟飞__",
+                "answer": "绝"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zōng"
+              },
+              "otherInfo": {
+                "content": "万径人__灭",
+                "answer": "踪"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suō"
+              },
+              "otherInfo": {
+                "content": "孤舟__笠翁",
+                "answer": "蓑"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "孤舟蓑__翁",
+                "answer": "笠"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "diào"
+              },
+              "otherInfo": {
+                "content": "独__寒江雪",
+                "answer": "钓"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān"
+              },
+              "otherInfo": {
+                "content": "__山鸟飞绝",
+                "answer": "千"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn"
+              },
+              "otherInfo": {
+                "content": "__径人踪灭",
+                "answer": "万"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū"
+              },
+              "otherInfo": {
+                "content": "__舟蓑笠翁",
+                "answer": "孤"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán"
+              },
+              "otherInfo": {
+                "content": "独钓__江雪",
+                "answer": "寒"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "miè"
+              },
+              "otherInfo": {
+                "content": "万径人踪__",
+                "answer": "灭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千山鸟飞绝，______",
+                "answer": "万径人踪灭"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万径人踪灭",
+                "answer": "千山鸟飞绝"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孤舟蓑笠翁，______",
+                "answer": "独钓寒江雪"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，独钓寒江雪",
+                "answer": "孤舟蓑笠翁"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千山鸟飞绝，万径人踪灭。______，______",
+                "answer": "孤舟蓑笠翁，独钓寒江雪"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千山鸟飞绝，万径人踪灭。______，______",
+                "answer": "孤舟蓑笠翁，独钓寒江雪"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独钓寒江雪",
+                  "千山鸟飞绝",
+                  "孤舟蓑笠翁",
+                  "万径人踪灭"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万径人踪灭",
+                  "孤舟蓑笠翁",
+                  "千山鸟飞绝",
+                  "独钓寒江雪"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤舟蓑笠翁",
+                  "独钓寒江雪",
+                  "千山鸟飞绝",
+                  "万径人踪灭"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千山鸟飞绝",
+                  "独钓寒江雪",
+                  "万径人踪灭",
+                  "孤舟蓑笠翁"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "独钓寒江雪",
+                  "万径人踪灭",
+                  "孤舟蓑笠翁",
+                  "千山鸟飞绝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

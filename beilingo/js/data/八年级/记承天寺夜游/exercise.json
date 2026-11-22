@@ -1,0 +1,1669 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán fēng liù nián shí yuè shí èr rì yè"
+              },
+              "otherInfo": {
+                "line": "元丰六年十月十二日夜"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiě yī yù shuì yuè sè rù hù xīn rán qǐ xíng"
+              },
+              "otherInfo": {
+                "line": "解衣欲睡，月色入户，欣然起行"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "niàn wú yǔ wéi lè zhě suì zhì chéng tiān sì xún zhāng huái mín"
+              },
+              "otherInfo": {
+                "line": "念无与为乐者，遂至承天寺寻张怀民"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huái mín yì wèi qǐn xiāng yǔ bù yú zhōng tíng"
+              },
+              "otherInfo": {
+                "line": "怀民亦未寝，相与步于中庭"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng xià rú jī shuǐ kōng míng shuǐ zhōng zǎo xìng jiāo héng"
+              },
+              "otherInfo": {
+                "line": "庭下如积水空明，水中藻、荇交横"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gài zhú bǎi yǐng yě"
+              },
+              "otherInfo": {
+                "line": "盖竹柏影也"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé yè wú yuè hé chù wú zhú bǎi"
+              },
+              "otherInfo": {
+                "line": "何夜无月？何处无竹柏"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn shǎo xián rén rú wú liǎng rén zhě ěr"
+              },
+              "otherInfo": {
+                "line": "但少闲人如吾两人者耳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“解衣欲睡”中“解”的意思是？",
+                "options": [
+                  "脱下",
+                  "解开",
+                  "理解",
+                  "押送"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月色入户”中“户”的意思是？",
+                "options": [
+                  "门",
+                  "窗户",
+                  "人家",
+                  "户口"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欣然起行”中“欣然”的意思是？",
+                "options": [
+                  "高兴的样子",
+                  "突然的样子",
+                  "犹豫的样子",
+                  "疲惫的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“念无与为乐者”中“念”的意思是？",
+                "options": [
+                  "考虑，想到",
+                  "思念",
+                  "诵读",
+                  "惦记"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遂至承天寺寻张怀民”中“遂”的意思是？",
+                "options": [
+                  "于是，就",
+                  "最终",
+                  "顺利",
+                  "跟随"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“怀民亦未寝”中“寝”的意思是？",
+                "options": [
+                  "睡觉",
+                  "寝室",
+                  "停止",
+                  "丑陋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“相与步于中庭”中“相与”的意思是？",
+                "options": [
+                  "共同，一起",
+                  "互相给予",
+                  "相继",
+                  "相处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“庭下如积水空明”中“空明”的意思是？",
+                "options": [
+                  "形容水的澄澈",
+                  "空旷明亮",
+                  "天空明净",
+                  "虚无缥缈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“盖竹柏影也”中“盖”的意思是？",
+                "options": [
+                  "大概是",
+                  "遮盖",
+                  "盖子",
+                  "超过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“但少闲人如吾两人者耳”中“但”的意思是？",
+                "options": [
+                  "只是",
+                  "但是",
+                  "只有",
+                  "仅仅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "元丰六年十月十二日夜晚。",
+                "options": [
+                  "元丰六年十月十二日夜",
+                  "解衣欲睡，月色入户",
+                  "念无与为乐者",
+                  "怀民亦未寝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“元丰六年十月十二日夜”的意思是？",
+                "options": [
+                  "交代了游览的时间",
+                  "描写了月色的皎洁",
+                  "点明了游览的地点",
+                  "抒发了被贬的悲愤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "脱下衣服打算睡觉，月光照进门户，高兴地起来走动。",
+                "options": [
+                  "解衣欲睡，月色入户，欣然起行",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "庭下如积水空明",
+                  "何夜无月？何处无竹柏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“解衣欲睡，月色入户，欣然起行”的意思是？",
+                "options": [
+                  "写作者因月色美好而夜游的兴致",
+                  "写作者因失眠而起身读书",
+                  "写作者因寒冷而添衣",
+                  "写作者因友人来访而出门"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "想到没有可以共同游乐的人，于是到承天寺去找张怀民。",
+                "options": [
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "怀民亦未寝，相与步于中庭",
+                  "但少闲人如吾两人者耳",
+                  "水中藻、荇交横"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“念无与为乐者，遂至承天寺寻张怀民”的意思是？",
+                "options": [
+                  "写作者寻友同游的缘由",
+                  "写作者独自赏月的孤寂",
+                  "写作者对友人的埋怨",
+                  "写作者被贬后的闲居生活"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "张怀民也没有睡觉，我们便一起在院子里散步。",
+                "options": [
+                  "怀民亦未寝，相与步于中庭",
+                  "解衣欲睡，月色入户",
+                  "盖竹柏影也",
+                  "何夜无月？何处无竹柏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“怀民亦未寝，相与步于中庭”的意思是？",
+                "options": [
+                  "写二人心意相通、同游赏月",
+                  "写二人久别重逢、彻夜长谈",
+                  "写二人因公务繁忙而夜行",
+                  "写二人因避雨而留宿寺中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "庭院中的月光像积水一样澄澈，水中的藻、荇交错纵横。",
+                "options": [
+                  "庭下如积水空明，水中藻、荇交横",
+                  "盖竹柏影也",
+                  "但少闲人如吾两人者耳",
+                  "元丰六年十月十二日夜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“庭下如积水空明，水中藻、荇交横”的意思是？",
+                "options": [
+                  "用比喻写月光的澄澈与竹柏影子的交错",
+                  "写庭院中真有积水和藻荇",
+                  "写作者在庭院中看到水草",
+                  "写作者对水中景物的细致观察"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "原来是竹子和柏树的影子。",
+                "options": [
+                  "盖竹柏影也",
+                  "水中藻、荇交横",
+                  "庭下如积水空明",
+                  "相与步于中庭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“盖竹柏影也”的意思是？",
+                "options": [
+                  "点明“藻、荇”实为竹柏之影",
+                  "说明庭院中种有竹柏",
+                  "交代夜游的具体地点",
+                  "补充说明月光的来源"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "哪个夜晚没有月光？哪个地方没有竹子和柏树？",
+                "options": [
+                  "何夜无月？何处无竹柏",
+                  "但少闲人如吾两人者耳",
+                  "念无与为乐者",
+                  "解衣欲睡，月色入户"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“何夜无月？何处无竹柏”的意思是？",
+                "options": [
+                  "以反问强调月色竹柏处处皆有",
+                  "写作者对月夜竹柏的追问",
+                  "写作者对自然景物的好奇",
+                  "写作者对夜游地点的选择"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只是缺少像我们两个这样的闲人罢了。",
+                "options": [
+                  "但少闲人如吾两人者耳",
+                  "何夜无月？何处无竹柏",
+                  "盖竹柏影也",
+                  "怀民亦未寝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“但少闲人如吾两人者耳”的意思是？",
+                "options": [
+                  "抒发作者贬谪中的自我排遣与旷达",
+                  "表达作者对友人稀少的感慨",
+                  "说明作者二人无所事事",
+                  "批评世人不懂赏月"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月色入户，欣然起行",
+                  "解衣欲睡"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遂至承天寺寻张怀民",
+                  "念无与为乐者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "相与步于中庭",
+                  "怀民亦未寝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水中藻、荇交横",
+                  "庭下如积水空明"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "盖竹柏影也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何处无竹柏",
+                  "何夜无月"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但少闲人如吾两人者耳"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月色入户，欣然起行",
+                  "解衣欲睡",
+                  "念无与为乐者",
+                  "遂至承天寺寻张怀民"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "相与步于中庭",
+                  "怀民亦未寝",
+                  "水中藻、荇交横",
+                  "庭下如积水空明"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "盖竹柏影也",
+                  "何处无竹柏",
+                  "何夜无月",
+                  "但少闲人如吾两人者耳"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "盖竹柏影也",
+                  "解衣欲睡",
+                  "但少闲人如吾两人者耳",
+                  "念无与为乐者",
+                  "月色入户，欣然起行",
+                  "相与步于中庭",
+                  "水中藻、荇交横",
+                  "遂至承天寺寻张怀民",
+                  "庭下如积水空明",
+                  "怀民亦未寝",
+                  "何夜无月",
+                  "何处无竹柏"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiě"
+              },
+              "otherInfo": {
+                "content": "__衣欲睡，月色入户，欣然起行",
+                "answer": "解"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "解衣欲睡，月色入户，__然起行",
+                "answer": "欣"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì"
+              },
+              "otherInfo": {
+                "content": "念无与为乐者，__至承天寺寻张怀民",
+                "answer": "遂"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐn"
+              },
+              "otherInfo": {
+                "content": "怀民亦未__，相与步于中庭",
+                "answer": "寝"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "__下如积水空明，水中藻、荇交横",
+                "answer": "庭"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng"
+              },
+              "otherInfo": {
+                "content": "庭下如积水空明，水中藻、__交横",
+                "answer": "荇"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gài"
+              },
+              "otherInfo": {
+                "content": "__竹柏影也",
+                "answer": "盖"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "何夜无__？何处无竹柏",
+                "answer": "月"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǎi"
+              },
+              "otherInfo": {
+                "content": "何夜无月？何处无竹__",
+                "answer": "柏"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xián"
+              },
+              "otherInfo": {
+                "content": "但少__人如吾两人者耳",
+                "answer": "闲"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "元丰六年十月十二日夜，______",
+                "answer": "解衣欲睡，月色入户，欣然起行"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，解衣欲睡，月色入户，欣然起行",
+                "answer": "元丰六年十月十二日夜"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "念无与为乐者，遂至承天寺寻张怀民。______",
+                "answer": "怀民亦未寝，相与步于中庭"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，怀民亦未寝，相与步于中庭",
+                "answer": "念无与为乐者，遂至承天寺寻张怀民"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庭下如积水空明，______",
+                "answer": "水中藻、荇交横"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，水中藻、荇交横",
+                "answer": "庭下如积水空明"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，盖竹柏影也",
+                "answer": "水中藻、荇交横"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水中藻、荇交横，______",
+                "answer": "盖竹柏影也"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何夜无月？______",
+                "answer": "何处无竹柏"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______？何处无竹柏",
+                "answer": "何夜无月"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，但少闲人如吾两人者耳",
+                "answer": "何夜无月？何处无竹柏"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何夜无月？何处无竹柏，______",
+                "answer": "但少闲人如吾两人者耳"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "元丰六年十月十二日夜，解衣欲睡，月色入户，欣然起行。______",
+                "answer": "念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。______",
+                "answer": "庭下如积水空明，水中藻、荇交横"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庭下如积水空明，水中藻、荇交横。______",
+                "answer": "盖竹柏影也"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "盖竹柏影也。______",
+                "answer": "何夜无月？何处无竹柏"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何夜无月？何处无竹柏。______",
+                "answer": "但少闲人如吾两人者耳"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "盖竹柏影也",
+                  "解衣欲睡，月色入户，欣然起行",
+                  "但少闲人如吾两人者耳",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "月色入户，欣然起行",
+                  "相与步于中庭",
+                  "水中藻、荇交横",
+                  "遂至承天寺寻张怀民",
+                  "庭下如积水空明",
+                  "怀民亦未寝",
+                  "何夜无月",
+                  "何处无竹柏"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "怀民亦未寝",
+                  "庭下如积水空明",
+                  "元丰六年十月十二日夜",
+                  "盖竹柏影也",
+                  "何处无竹柏",
+                  "解衣欲睡，月色入户，欣然起行",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "水中藻、荇交横",
+                  "但少闲人如吾两人者耳",
+                  "相与步于中庭",
+                  "何夜无月",
+                  "遂至承天寺寻张怀民"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "相与步于中庭",
+                  "何夜无月",
+                  "盖竹柏影也",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "解衣欲睡，月色入户，欣然起行",
+                  "但少闲人如吾两人者耳",
+                  "遂至承天寺寻张怀民",
+                  "庭下如积水空明",
+                  "元丰六年十月十二日夜",
+                  "水中藻、荇交横",
+                  "怀民亦未寝",
+                  "何处无竹柏"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水中藻、荇交横",
+                  "元丰六年十月十二日夜",
+                  "何处无竹柏",
+                  "怀民亦未寝",
+                  "盖竹柏影也",
+                  "解衣欲睡，月色入户，欣然起行",
+                  "但少闲人如吾两人者耳",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "相与步于中庭",
+                  "庭下如积水空明",
+                  "何夜无月",
+                  "遂至承天寺寻张怀民"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "但少闲人如吾两人者耳",
+                  "庭下如积水空明",
+                  "何处无竹柏",
+                  "解衣欲睡，月色入户，欣然起行",
+                  "怀民亦未寝",
+                  "盖竹柏影也",
+                  "元丰六年十月十二日夜",
+                  "相与步于中庭",
+                  "念无与为乐者，遂至承天寺寻张怀民",
+                  "水中藻、荇交横",
+                  "遂至承天寺寻张怀民",
+                  "何夜无月"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

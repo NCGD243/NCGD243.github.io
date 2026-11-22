@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng méi shí jié jiā jiā yǔ"
+              },
+              "otherInfo": {
+                "line": "黄梅时节家家雨"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng cǎo chí táng chù chù wā"
+              },
+              "otherInfo": {
+                "line": "青草池塘处处蛙"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu yuē bù lái guò yè bàn"
+              },
+              "otherInfo": {
+                "line": "有约不来过夜半"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xián qiāo qí zǐ luò dēng huā"
+              },
+              "otherInfo": {
+                "line": "闲敲棋子落灯花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄梅时节”的意思是？",
+                "options": [
+                  "梅子黄熟的时节",
+                  "梅花盛开的时节",
+                  "黄色梅花开放的时节",
+                  "梅雨连绵的时节"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“家家雨”的意思是？",
+                "options": [
+                  "每家每户都在下雨",
+                  "家家户户都盼着下雨",
+                  "雨声传到每一户人家",
+                  "每家每户都被雨水淋湿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“处处蛙”的意思是？",
+                "options": [
+                  "到处都有蛙鸣声",
+                  "处处都养着青蛙",
+                  "青蛙到处跳来跳去",
+                  "每个地方都有池塘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“有约”的意思是？",
+                "options": [
+                  "事先约定好",
+                  "有了约会",
+                  "有了约束",
+                  "有了约定的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“过夜半”的意思是？",
+                "options": [
+                  "过了半夜",
+                  "度过半个夜晚",
+                  "过了半夜才睡",
+                  "半夜里经过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“闲敲”的意思是？",
+                "options": [
+                  "无聊地敲击",
+                  "悠闲地敲打",
+                  "空闲时敲一敲",
+                  "随意地敲碎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“棋子”的意思是？",
+                "options": [
+                  "下棋用的子儿",
+                  "棋盘上的格子",
+                  "棋局的胜负",
+                  "下棋的招法"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“灯花”的意思是？",
+                "options": [
+                  "灯芯燃烧后结成的花状物",
+                  "灯上装饰的花纹",
+                  "灯光照出的花影",
+                  "灯油燃尽后的残渣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“落”的意思是？",
+                "options": [
+                  "落下",
+                  "失落",
+                  "落空",
+                  "落户"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“约客”的意思是？",
+                "options": [
+                  "邀请客人",
+                  "约束客人",
+                  "与客人相约",
+                  "等候客人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "梅子黄熟的时节，家家户户都笼罩在雨声中。",
+                "options": [
+                  "黄梅时节家家雨",
+                  "青草池塘处处蛙",
+                  "有约不来过夜半",
+                  "闲敲棋子落灯花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“黄梅时节家家雨”的意思是？",
+                "options": [
+                  "梅雨季节阴雨连绵，家家户户都处在雨声中",
+                  "梅子黄熟的时候，家家户户都忙着收梅子",
+                  "黄梅时节雨水稀少，只有少数人家遇到下雨",
+                  "梅雨时节家家户户都盼着天晴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "青草遍地的池塘边，到处都能听到青蛙的叫声。",
+                "options": [
+                  "青草池塘处处蛙",
+                  "黄梅时节家家雨",
+                  "有约不来过夜半",
+                  "闲敲棋子落灯花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“青草池塘处处蛙”的意思是？",
+                "options": [
+                  "长满青草的池塘边，处处传来蛙鸣",
+                  "青草和池塘里到处都是青蛙",
+                  "池塘边长满青草，青蛙却很少鸣叫",
+                  "青草池塘边只有一处有蛙声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "约好的客人没有来，时间已经过了半夜。",
+                "options": [
+                  "有约不来过夜半",
+                  "黄梅时节家家雨",
+                  "青草池塘处处蛙",
+                  "闲敲棋子落灯花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“有约不来过夜半”的意思是？",
+                "options": [
+                  "约好的客人没来，已经过了半夜",
+                  "有了约会却半夜才到",
+                  "约好半夜见面，客人没有来",
+                  "客人来了又走，已过半夜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "无聊地敲着棋子，震落了灯芯结成的灯花。",
+                "options": [
+                  "闲敲棋子落灯花",
+                  "黄梅时节家家雨",
+                  "青草池塘处处蛙",
+                  "有约不来过夜半"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“闲敲棋子落灯花”的意思是？",
+                "options": [
+                  "闲来敲着棋子，灯花被震落下来",
+                  "悠闲地下棋，灯花落在棋盘上",
+                  "敲打棋子催客人，灯花已经落下",
+                  "闲着无事，把灯花敲落在地上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青草池塘处处蛙",
+                  "黄梅时节家家雨"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闲敲棋子落灯花",
+                  "有约不来过夜半"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有约不来过夜半",
+                  "青草池塘处处蛙",
+                  "黄梅时节家家雨",
+                  "闲敲棋子落灯花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闲敲棋子落灯花",
+                  "黄梅时节家家雨",
+                  "有约不来过夜半",
+                  "青草池塘处处蛙"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méi"
+              },
+              "otherInfo": {
+                "content": "黄__时节家家雨",
+                "answer": "梅"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wā"
+              },
+              "otherInfo": {
+                "content": "青草池塘处处__",
+                "answer": "蛙"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuē"
+              },
+              "otherInfo": {
+                "content": "有__不来过夜半",
+                "answer": "约"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiāo"
+              },
+              "otherInfo": {
+                "content": "闲__棋子落灯花",
+                "answer": "敲"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiā"
+              },
+              "otherInfo": {
+                "content": "黄梅时节__家雨",
+                "answer": "家"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chí"
+              },
+              "otherInfo": {
+                "content": "青草__塘处处蛙",
+                "answer": "池"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn"
+              },
+              "otherInfo": {
+                "content": "有约不来过夜__",
+                "answer": "半"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí"
+              },
+              "otherInfo": {
+                "content": "闲敲__子落灯花",
+                "answer": "棋"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dēng"
+              },
+              "otherInfo": {
+                "content": "闲敲棋子落__花",
+                "answer": "灯"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ"
+              },
+              "otherInfo": {
+                "content": "黄梅时节家家__",
+                "answer": "雨"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄梅时节家家雨，______",
+                "answer": "青草池塘处处蛙"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，青草池塘处处蛙",
+                "answer": "黄梅时节家家雨"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "有约不来过夜半，______",
+                "answer": "闲敲棋子落灯花"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，闲敲棋子落灯花",
+                "answer": "有约不来过夜半"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄梅时节家家雨，青草池塘处处蛙。______，______",
+                "answer": "有约不来过夜半，闲敲棋子落灯花"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄梅时节家家雨，青草池塘处处蛙。______，______",
+                "answer": "有约不来过夜半，闲敲棋子落灯花"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闲敲棋子落灯花",
+                  "黄梅时节家家雨",
+                  "有约不来过夜半",
+                  "青草池塘处处蛙"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有约不来过夜半",
+                  "青草池塘处处蛙",
+                  "闲敲棋子落灯花",
+                  "黄梅时节家家雨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青草池塘处处蛙",
+                  "闲敲棋子落灯花",
+                  "黄梅时节家家雨",
+                  "有约不来过夜半"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄梅时节家家雨",
+                  "有约不来过夜半",
+                  "青草池塘处处蛙",
+                  "闲敲棋子落灯花"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闲敲棋子落灯花",
+                  "有约不来过夜半",
+                  "黄梅时节家家雨",
+                  "青草池塘处处蛙"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

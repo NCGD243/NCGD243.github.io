@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí luò shū shū yī jìng shēn"
+              },
+              "otherInfo": {
+                "line": "篱落疏疏一径深"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù tóu xīn lǜ wèi chéng yīn"
+              },
+              "otherInfo": {
+                "line": "树头新绿未成阴"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér tóng jí zǒu zhuī huáng dié"
+              },
+              "otherInfo": {
+                "line": "儿童急走追黄蝶"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi rù cài huā wú chù xún"
+              },
+              "otherInfo": {
+                "line": "飞入菜花无处寻"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“篱落疏疏一径深”中“疏疏”的意思是？",
+                "options": [
+                  "稀疏的样子",
+                  "疏通的样子",
+                  "疏远的样子",
+                  "疏朗的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“篱落疏疏一径深”中“径”的意思是？",
+                "options": [
+                  "小路",
+                  "直径",
+                  "捷径",
+                  "经过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“树头新绿未成阴”中“阴”的意思是？",
+                "options": [
+                  "树荫",
+                  "阴天",
+                  "阴凉",
+                  "阴影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“儿童急走追黄蝶”中“走”的意思是？",
+                "options": [
+                  "跑",
+                  "行走",
+                  "离开",
+                  "逃跑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“儿童急走追黄蝶”中“急”的意思是？",
+                "options": [
+                  "急忙",
+                  "焦急",
+                  "急促",
+                  "紧急"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞入菜花无处寻”中“寻”的意思是？",
+                "options": [
+                  "寻找",
+                  "寻常",
+                  "寻求",
+                  "寻访"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞入菜花无处寻”中“处”的意思是？",
+                "options": [
+                  "地方",
+                  "处理",
+                  "相处",
+                  "处所"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“树头新绿未成阴”中“新绿”的意思是？",
+                "options": [
+                  "新长出的绿叶",
+                  "新绿的颜料",
+                  "新绿的衣裳",
+                  "新绿的草地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“篱落疏疏一径深”中“篱落”的意思是？",
+                "options": [
+                  "篱笆",
+                  "村落",
+                  "院落",
+                  "角落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“儿童急走追黄蝶”中“黄蝶”的意思是？",
+                "options": [
+                  "黄色的蝴蝶",
+                  "黄叶",
+                  "黄花",
+                  "黄蜂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "稀稀落落的篱笆旁，一条小路伸向远方。",
+                "options": [
+                  "篱落疏疏一径深",
+                  "树头新绿未成阴",
+                  "儿童急走追黄蝶",
+                  "飞入菜花无处寻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“篱落疏疏一径深”的意思是？",
+                "options": [
+                  "篱笆稀疏，一条小路伸向远方",
+                  "篱笆倒塌，一条小径被草掩没",
+                  "篱笆密集，一条大路通向村外",
+                  "篱笆稀疏，一条小河绕村流过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "树枝上刚长出的嫩叶还没有形成浓密的树荫。",
+                "options": [
+                  "树头新绿未成阴",
+                  "篱落疏疏一径深",
+                  "儿童急走追黄蝶",
+                  "飞入菜花无处寻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“树头新绿未成阴”的意思是？",
+                "options": [
+                  "树枝上刚长出的嫩叶还没有形成树荫",
+                  "树枝上的绿叶已经长得非常茂密",
+                  "树梢上的新叶在阳光下泛着金光",
+                  "树上的新叶被风吹落铺满地面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "小孩子飞快地奔跑着追赶黄色的蝴蝶。",
+                "options": [
+                  "儿童急走追黄蝶",
+                  "篱落疏疏一径深",
+                  "树头新绿未成阴",
+                  "飞入菜花无处寻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“儿童急走追黄蝶”的意思是？",
+                "options": [
+                  "小孩子飞快地奔跑着追赶黄色的蝴蝶",
+                  "小孩子慢慢地走着观看黄色的蝴蝶",
+                  "小孩子急忙躲开飞来的黄色蝴蝶",
+                  "小孩子着急地寻找丢失的黄蝴蝶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "蝴蝶飞进金黄的菜花丛中，再也找不到了。",
+                "options": [
+                  "飞入菜花无处寻",
+                  "篱落疏疏一径深",
+                  "树头新绿未成阴",
+                  "儿童急走追黄蝶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“飞入菜花无处寻”的意思是？",
+                "options": [
+                  "蝴蝶飞进菜花丛中，再也找不到它了",
+                  "蝴蝶飞进菜花丛中，被孩子一把捉住",
+                  "蝴蝶飞进菜花丛中，停在花上不动了",
+                  "蝴蝶飞进菜花丛中，又向远处飞走了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一径深",
+                  "篱落疏疏"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未成阴",
+                  "树头新绿"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "追黄蝶",
+                  "儿童急走"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无处寻",
+                  "飞入菜花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树头新绿未成阴",
+                  "篱落疏疏一径深"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿童急走追黄蝶",
+                  "树头新绿未成阴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入菜花无处寻",
+                  "儿童急走追黄蝶"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿童急走追黄蝶",
+                  "篱落疏疏一径深",
+                  "飞入菜花无处寻",
+                  "树头新绿未成阴"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí"
+              },
+              "otherInfo": {
+                "content": "__落疏疏一径深",
+                "answer": "篱"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīn"
+              },
+              "otherInfo": {
+                "content": "树头新绿未成__",
+                "answer": "阴"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuī"
+              },
+              "otherInfo": {
+                "content": "儿童急走__黄蝶",
+                "answer": "追"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cài"
+              },
+              "otherInfo": {
+                "content": "飞入__花无处寻",
+                "answer": "菜"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shū"
+              },
+              "otherInfo": {
+                "content": "篱落__疏一径深",
+                "answer": "疏"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ"
+              },
+              "otherInfo": {
+                "content": "树头新__未成阴",
+                "answer": "绿"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí"
+              },
+              "otherInfo": {
+                "content": "儿童__走追黄蝶",
+                "answer": "急"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xún"
+              },
+              "otherInfo": {
+                "content": "飞入菜花无处__",
+                "answer": "寻"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "篱落疏疏一__深",
+                "answer": "径"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng"
+              },
+              "otherInfo": {
+                "content": "儿童急走追__蝶",
+                "answer": "黄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "篱落疏疏一径深，______",
+                "answer": "树头新绿未成阴"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，树头新绿未成阴",
+                "answer": "篱落疏疏一径深"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "儿童急走追黄蝶，______",
+                "answer": "飞入菜花无处寻"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，飞入菜花无处寻",
+                "answer": "儿童急走追黄蝶"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "篱落疏疏一径深，树头新绿未成阴。______，______",
+                "answer": "儿童急走追黄蝶，飞入菜花无处寻"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "树头新绿未成阴，______，______",
+                "answer": "儿童急走追黄蝶，飞入菜花无处寻"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树头新绿未成阴",
+                  "飞入菜花无处寻",
+                  "篱落疏疏一径深",
+                  "儿童急走追黄蝶"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿童急走追黄蝶",
+                  "篱落疏疏一径深",
+                  "飞入菜花无处寻",
+                  "树头新绿未成阴"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "飞入菜花无处寻",
+                  "树头新绿未成阴",
+                  "儿童急走追黄蝶",
+                  "篱落疏疏一径深"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "篱落疏疏一径深",
+                  "儿童急走追黄蝶",
+                  "树头新绿未成阴",
+                  "飞入菜花无处寻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树头新绿未成阴",
+                  "儿童急走追黄蝶",
+                  "篱落疏疏一径深",
+                  "飞入菜花无处寻"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
