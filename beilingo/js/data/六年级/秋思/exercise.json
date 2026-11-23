@@ -1,0 +1,985 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kū téng lǎo shù hūn yā"
+              },
+              "otherInfo": {
+                "line": "枯藤老树昏鸦"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo qiáo liú shuǐ rén jiā"
+              },
+              "otherInfo": {
+                "line": "小桥流水人家"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ dào xī fēng shòu mǎ"
+              },
+              "otherInfo": {
+                "line": "古道西风瘦马"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī yáng xī xià"
+              },
+              "otherInfo": {
+                "line": "夕阳西下"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duàn cháng rén zài tiān yá"
+              },
+              "otherInfo": {
+                "line": "断肠人在天涯"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“枯藤”的意思是？",
+                "options": [
+                  "干枯的藤蔓",
+                  "枯萎的树枝",
+                  "枯黄的落叶",
+                  "干裂的树皮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“昏鸦”的意思是？",
+                "options": [
+                  "黄昏时归巢的乌鸦",
+                  "昏暗中的鸟影",
+                  "昏睡的老鸦",
+                  "昏乱的鸦群"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“古道”的意思是？",
+                "options": [
+                  "古老荒凉的道路",
+                  "古人走过的路",
+                  "年代久远的驿道",
+                  "旧时的官道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“西风”的意思是？",
+                "options": [
+                  "秋风",
+                  "西边的风",
+                  "寒冷的北风",
+                  "傍晚的微风"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“断肠人”的意思是？",
+                "options": [
+                  "形容悲伤到极点的人",
+                  "肠子断裂的病人",
+                  "心肠狠毒的人",
+                  "饥饿难耐的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "干枯的藤蔓缠绕着老树，黄昏时乌鸦归巢。",
+                "options": [
+                  "枯藤老树昏鸦",
+                  "小桥流水人家",
+                  "古道西风瘦马",
+                  "断肠人在天涯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“枯藤老树昏鸦”的意思是？",
+                "options": [
+                  "干枯的藤蔓缠绕老树，黄昏的乌鸦归巢",
+                  "枯死的藤蔓爬满老树，昏睡的乌鸦不飞",
+                  "枯萎的藤条挂着老树，昏迷的乌鸦落地",
+                  "干枯的树枝连着老树，昏暗的乌鸦啼叫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "小桥下流水潺潺，旁边有几户人家。",
+                "options": [
+                  "小桥流水人家",
+                  "枯藤老树昏鸦",
+                  "古道西风瘦马",
+                  "夕阳西下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“小桥流水人家”的意思是？",
+                "options": [
+                  "小桥下流水潺潺，旁边有几户人家",
+                  "小桥横跨流水，人家在桥头开店",
+                  "小桥流水环绕，人家在远处山中",
+                  "小桥下流水湍急，人家已搬走"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "古老的道路上秋风萧瑟，一匹瘦马缓缓前行。",
+                "options": [
+                  "古道西风瘦马",
+                  "枯藤老树昏鸦",
+                  "小桥流水人家",
+                  "断肠人在天涯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“古道西风瘦马”的意思是？",
+                "options": [
+                  "古老道路上秋风萧瑟，一匹瘦马缓缓前行",
+                  "古老道路上西风劲吹，一匹骏马飞奔",
+                  "古老道路上西风停歇，一匹瘦马吃草",
+                  "古老道路上西风渐起，一匹马被牵走"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夕阳向西边落下。",
+                "options": [
+                  "夕阳西下",
+                  "古道西风瘦马",
+                  "断肠人在天涯",
+                  "枯藤老树昏鸦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夕阳西下”的意思是？",
+                "options": [
+                  "夕阳向西边落下",
+                  "夕阳从西边升起",
+                  "夕阳被西边的山遮住",
+                  "夕阳照在西边的路上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "悲伤到极点的人漂泊在天涯。",
+                "options": [
+                  "断肠人在天涯",
+                  "夕阳西下",
+                  "小桥流水人家",
+                  "古道西风瘦马"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“断肠人在天涯”的意思是？",
+                "options": [
+                  "悲伤到极点的人漂泊在天涯",
+                  "肠断的人在天涯治病",
+                  "心肠狠毒的人流落天涯",
+                  "饥饿的人在天涯讨饭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "老树昏鸦枯藤",
+                  "枯藤老树昏鸦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "流水人家小桥",
+                  "小桥流水人家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "瘦马古道西风",
+                  "古道西风瘦马"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西下夕阳",
+                  "夕阳西下"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "在天涯断肠人",
+                  "断肠人在天涯"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小桥流水人家",
+                  "枯藤老树昏鸦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古道西风瘦马",
+                  "小桥流水人家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夕阳西下",
+                  "古道西风瘦马"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "断肠人在天涯",
+                  "夕阳西下"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古道西风瘦马",
+                  "枯藤老树昏鸦",
+                  "断肠人在天涯",
+                  "小桥流水人家",
+                  "夕阳西下"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "téng"
+              },
+              "otherInfo": {
+                "content": "枯__老树昏鸦",
+                "answer": "藤"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáo"
+              },
+              "otherInfo": {
+                "content": "小__流水人家",
+                "answer": "桥"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dào"
+              },
+              "otherInfo": {
+                "content": "古__西风瘦马",
+                "answer": "道"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "夕阳__下",
+                "answer": "西"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng"
+              },
+              "otherInfo": {
+                "content": "断__人在天涯",
+                "answer": "肠"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "枯藤老树昏鸦，______。",
+                "answer": "小桥流水人家"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，小桥流水人家。",
+                "answer": "枯藤老树昏鸦"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古道西风瘦马，______。",
+                "answer": "夕阳西下"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夕阳西下。",
+                "answer": "古道西风瘦马"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夕阳西下，______。",
+                "answer": "断肠人在天涯"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，断肠人在天涯。",
+                "answer": "夕阳西下"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "枯藤老树昏鸦，小桥流水人家。______，______。",
+                "answer": "古道西风瘦马，夕阳西下"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古道西风瘦马，夕阳西下。______，______。",
+                "answer": "夕阳西下，断肠人在天涯"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小桥流水人家",
+                  "断肠人在天涯",
+                  "枯藤老树昏鸦",
+                  "夕阳西下",
+                  "古道西风瘦马"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古道西风瘦马",
+                  "枯藤老树昏鸦",
+                  "断肠人在天涯",
+                  "小桥流水人家",
+                  "夕阳西下"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夕阳西下",
+                  "小桥流水人家",
+                  "古道西风瘦马",
+                  "枯藤老树昏鸦",
+                  "断肠人在天涯"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "断肠人在天涯",
+                  "古道西风瘦马",
+                  "枯藤老树昏鸦",
+                  "夕阳西下",
+                  "小桥流水人家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "枯藤老树昏鸦",
+                  "夕阳西下",
+                  "小桥流水人家",
+                  "断肠人在天涯",
+                  "古道西风瘦马"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

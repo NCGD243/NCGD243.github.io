@@ -1,0 +1,747 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng hǎi cháng yún àn xuě shān"
+              },
+              "otherInfo": {
+                "line": "青海长云暗雪山"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū chéng yáo wàng yù mén guān"
+              },
+              "otherInfo": {
+                "line": "孤城遥望玉门关"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng shā bǎi zhàn chuān jīn jiǎ"
+              },
+              "otherInfo": {
+                "line": "黄沙百战穿金甲"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù pò lóu lán zhōng bù huán"
+              },
+              "otherInfo": {
+                "line": "不破楼兰终不还"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“青海长云暗雪山”中“暗”的意思是？",
+                "options": [
+                  "使……暗淡",
+                  "隐藏",
+                  "夜晚",
+                  "愚昧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤城遥望玉门关”中“遥”的意思是？",
+                "options": [
+                  "遥远地",
+                  "摇晃",
+                  "歌谣",
+                  "逍遥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄沙百战穿金甲”中“穿”的意思是？",
+                "options": [
+                  "磨破",
+                  "穿上",
+                  "穿过",
+                  "贯通"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不破楼兰终不还”中“还”的意思是？",
+                "options": [
+                  "归来",
+                  "归还",
+                  "仍然",
+                  "环绕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "青海湖上长云弥漫，雪山显得暗淡无光。",
+                "options": [
+                  "青海长云暗雪山",
+                  "孤城遥望玉门关",
+                  "黄沙百战穿金甲",
+                  "不破楼兰终不还"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“青海长云暗雪山”的意思是？",
+                "options": [
+                  "青海湖上长云弥漫，雪山显得暗淡无光",
+                  "青海湖边长云遮蔽，雪山被映照得明亮",
+                  "青海湖上乌云密布，雪山完全看不见了",
+                  "青海湖上长云飘散，雪山露出洁白峰顶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从边塞孤城远远地望着玉门关。",
+                "options": [
+                  "孤城遥望玉门关",
+                  "青海长云暗雪山",
+                  "黄沙百战穿金甲",
+                  "不破楼兰终不还"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孤城遥望玉门关”的意思是？",
+                "options": [
+                  "从边塞孤城远远地望着玉门关",
+                  "孤零零的城池遥望着玉门关的守军",
+                  "独自站在城楼上遥望玉门关的方向",
+                  "边塞孤城与玉门关遥遥相对"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在黄沙中身经百战，磨穿了金属铠甲。",
+                "options": [
+                  "黄沙百战穿金甲",
+                  "青海长云暗雪山",
+                  "孤城遥望玉门关",
+                  "不破楼兰终不还"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“黄沙百战穿金甲”的意思是？",
+                "options": [
+                  "在黄沙中身经百战，磨穿了金属铠甲",
+                  "在黄沙中百次战斗，缴获了金色铠甲",
+                  "黄沙漫天中百战百胜，铠甲闪闪发光",
+                  "在黄沙中穿行百里，寻找金色铠甲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不攻破楼兰就绝不回还。",
+                "options": [
+                  "不破楼兰终不还",
+                  "青海长云暗雪山",
+                  "孤城遥望玉门关",
+                  "黄沙百战穿金甲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不破楼兰终不还”的意思是？",
+                "options": [
+                  "不攻破楼兰就绝不回还",
+                  "攻破楼兰之后终于返回家乡",
+                  "不攻破楼兰最终还是要回去",
+                  "楼兰未破，归期一再拖延"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤城遥望玉门关",
+                  "青海长云暗雪山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不破楼兰终不还",
+                  "黄沙百战穿金甲"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄沙百战穿金甲",
+                  "孤城遥望玉门关",
+                  "青海长云暗雪山",
+                  "不破楼兰终不还"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不破楼兰终不还",
+                  "青海长云暗雪山",
+                  "黄沙百战穿金甲",
+                  "孤城遥望玉门关"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hǎi"
+              },
+              "otherInfo": {
+                "content": "青__长云暗雪山",
+                "answer": "海"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān"
+              },
+              "otherInfo": {
+                "content": "孤城遥望玉门__",
+                "answer": "关"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎ"
+              },
+              "otherInfo": {
+                "content": "黄沙百战穿金__",
+                "answer": "甲"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pò"
+              },
+              "otherInfo": {
+                "content": "不__楼兰终不还",
+                "answer": "破"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青海长云暗雪山，______",
+                "answer": "孤城遥望玉门关"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，孤城遥望玉门关",
+                "answer": "青海长云暗雪山"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄沙百战穿金甲，______",
+                "answer": "不破楼兰终不还"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不破楼兰终不还",
+                "answer": "黄沙百战穿金甲"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青海长云暗雪山，孤城遥望玉门关。______，______",
+                "answer": "黄沙百战穿金甲，不破楼兰终不还"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄沙百战穿金甲，不破楼兰终不还。______，______",
+                "answer": "黄沙百战穿金甲，不破楼兰终不还"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄沙百战穿金甲",
+                  "孤城遥望玉门关",
+                  "不破楼兰终不还",
+                  "青海长云暗雪山"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不破楼兰终不还",
+                  "青海长云暗雪山",
+                  "黄沙百战穿金甲",
+                  "孤城遥望玉门关"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤城遥望玉门关",
+                  "黄沙百战穿金甲",
+                  "青海长云暗雪山",
+                  "不破楼兰终不还"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青海长云暗雪山",
+                  "不破楼兰终不还",
+                  "孤城遥望玉门关",
+                  "黄沙百战穿金甲"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄沙百战穿金甲",
+                  "青海长云暗雪山",
+                  "不破楼兰终不还",
+                  "孤城遥望玉门关"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

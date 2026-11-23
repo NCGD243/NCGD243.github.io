@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yún mǔ píng fēng zhú yǐng shēn"
+              },
+              "otherInfo": {
+                "line": "云母屏风烛影深"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng hé jiàn luò xiǎo xīng chén"
+              },
+              "otherInfo": {
+                "line": "长河渐落晓星沉"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng é yīng huǐ tōu líng yào"
+              },
+              "otherInfo": {
+                "line": "嫦娥应悔偷灵药"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì hǎi qīng tiān yè yè xīn"
+              },
+              "otherInfo": {
+                "line": "碧海青天夜夜心"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“云母屏风”的意思是？",
+                "options": [
+                  "用云母石装饰的屏风",
+                  "画着云朵的屏风",
+                  "用云母粉涂饰的屏风",
+                  "云母制成的窗扇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烛影深”中“深”的意思是？",
+                "options": [
+                  "颜色深",
+                  "暗，指烛影暗淡",
+                  "深刻",
+                  "深远"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“长河”的意思是？",
+                "options": [
+                  "长长的河流",
+                  "黄河",
+                  "银河",
+                  "长江"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晓星”的意思是？",
+                "options": [
+                  "早晨的星星",
+                  "拂晓时的星星",
+                  "明亮的星星",
+                  "报晓的星"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“应悔”中“应”的意思是？",
+                "options": [
+                  "应该",
+                  "答应",
+                  "应当，料想",
+                  "回应"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“偷灵药”中“偷”的意思是？",
+                "options": [
+                  "偷窃",
+                  "私自，暗中",
+                  "偷懒",
+                  "偷偷地看"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“碧海”的意思是？",
+                "options": [
+                  "碧绿的大海",
+                  "碧蓝的海",
+                  "指青天如碧海",
+                  "碧色的海水"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜夜心”中“心”的意思是？",
+                "options": [
+                  "心脏",
+                  "心情，心境",
+                  "心思",
+                  "中心"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“屏风”在诗中的作用是？",
+                "options": [
+                  "遮挡视线的家具",
+                  "室内陈设的装饰",
+                  "分隔空间的用具",
+                  "挡风的器具"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“灵药”指的是？",
+                "options": [
+                  "灵验的药",
+                  "神奇的药",
+                  "使人长生不老的药",
+                  "治病的良药"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "云母屏风上烛影暗淡。",
+                "options": [
+                  "云母屏风烛影深",
+                  "长河渐落晓星沉",
+                  "嫦娥应悔偷灵药",
+                  "碧海青天夜夜心"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“云母屏风烛影深”的意思是？",
+                "options": [
+                  "云母屏风上烛影暗淡，室内一片幽暗",
+                  "云母屏风上烛光深深，照得满室通明",
+                  "云母屏风上烛影摇曳，窗外夜色正浓",
+                  "云母屏风上烛影深重，主人已经入睡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "银河渐渐西沉，晨星也快要消失了。",
+                "options": [
+                  "云母屏风烛影深",
+                  "长河渐落晓星沉",
+                  "嫦娥应悔偷灵药",
+                  "碧海青天夜夜心"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“长河渐落晓星沉”的意思是？",
+                "options": [
+                  "银河渐渐西沉，晨星也快要消失了",
+                  "长长的河水缓缓流去，晨星沉入水中",
+                  "银河横贯长空，晨星沉落在河面",
+                  "长河不断下落，晓星沉入河底"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "嫦娥大概后悔当初偷吃了长生不老药。",
+                "options": [
+                  "云母屏风烛影深",
+                  "长河渐落晓星沉",
+                  "嫦娥应悔偷灵药",
+                  "碧海青天夜夜心"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“嫦娥应悔偷灵药”的意思是？",
+                "options": [
+                  "嫦娥大概后悔当初偷吃了长生不老药",
+                  "嫦娥应该后悔偷了灵药却没能长生",
+                  "嫦娥想必悔恨偷药时没有多拿一些",
+                  "嫦娥应当悔改偷灵药的行为"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "面对碧海青天，夜夜孤寂难眠。",
+                "options": [
+                  "云母屏风烛影深",
+                  "长河渐落晓星沉",
+                  "嫦娥应悔偷灵药",
+                  "碧海青天夜夜心"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“碧海青天夜夜心”的意思是？",
+                "options": [
+                  "面对碧海青天，夜夜孤寂难眠",
+                  "碧海青天之下，夜夜思念故乡",
+                  "碧海青天之间，夜夜心潮澎湃",
+                  "碧海青天之上，夜夜心神不宁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烛影深",
+                  "云母屏风"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晓星沉",
+                  "长河渐落"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "偷灵药",
+                  "嫦娥应悔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜夜心",
+                  "碧海青天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "长河渐落晓星沉",
+                  "云母屏风烛影深"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "嫦娥应悔偷灵药",
+                  "长河渐落晓星沉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "碧海青天夜夜心",
+                  "嫦娥应悔偷灵药"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "嫦娥应悔偷灵药",
+                  "云母屏风烛影深",
+                  "碧海青天夜夜心",
+                  "长河渐落晓星沉"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǔ"
+              },
+              "otherInfo": {
+                "content": "云__屏风烛影深",
+                "answer": "母"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chén"
+              },
+              "otherInfo": {
+                "content": "长河渐落晓星__",
+                "answer": "沉"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huǐ"
+              },
+              "otherInfo": {
+                "content": "嫦娥应__偷灵药",
+                "answer": "悔"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "__海青天夜夜心",
+                "answer": "碧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú"
+              },
+              "otherInfo": {
+                "content": "云母屏风__影深",
+                "answer": "烛"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "长河__落晓星沉",
+                "answer": "渐"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tōu"
+              },
+              "otherInfo": {
+                "content": "嫦娥应悔__灵药",
+                "answer": "偷"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè"
+              },
+              "otherInfo": {
+                "content": "碧海青天__夜心",
+                "answer": "夜"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "云母__风烛影深",
+                "answer": "屏"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "碧海__天夜夜心",
+                "answer": "青"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "云母屏风烛影深，______",
+                "answer": "长河渐落晓星沉"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，长河渐落晓星沉",
+                "answer": "云母屏风烛影深"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "嫦娥应悔偷灵药，______",
+                "answer": "碧海青天夜夜心"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，碧海青天夜夜心",
+                "answer": "嫦娥应悔偷灵药"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "云母屏风烛影深，长河渐落晓星沉。______，______",
+                "answer": "嫦娥应悔偷灵药，碧海青天夜夜心"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "嫦娥应悔偷灵药，碧海青天夜夜心。______，______",
+                "answer": "嫦娥应悔偷灵药，碧海青天夜夜心"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "嫦娥应悔偷灵药",
+                  "云母屏风烛影深",
+                  "碧海青天夜夜心",
+                  "长河渐落晓星沉"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "长河渐落晓星沉",
+                  "碧海青天夜夜心",
+                  "云母屏风烛影深",
+                  "嫦娥应悔偷灵药"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "碧海青天夜夜心",
+                  "嫦娥应悔偷灵药",
+                  "长河渐落晓星沉",
+                  "云母屏风烛影深"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云母屏风烛影深",
+                  "碧海青天夜夜心",
+                  "嫦娥应悔偷灵药",
+                  "长河渐落晓星沉"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "嫦娥应悔偷灵药",
+                  "长河渐落晓星沉",
+                  "云母屏风烛影深",
+                  "碧海青天夜夜心"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

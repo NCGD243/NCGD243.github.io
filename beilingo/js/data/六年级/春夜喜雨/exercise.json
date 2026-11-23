@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hǎo yǔ zhī shí jié"
+              },
+              "otherInfo": {
+                "line": "好雨知时节"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dāng chūn nǎi fā shēng"
+              },
+              "otherInfo": {
+                "line": "当春乃发生"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suí fēng qián rù yè"
+              },
+              "otherInfo": {
+                "line": "随风潜入夜"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rùn wù xì wú shēng"
+              },
+              "otherInfo": {
+                "line": "润物细无声"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yě jìng yún jù hēi"
+              },
+              "otherInfo": {
+                "line": "野径云俱黑"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng chuán huǒ dú míng"
+              },
+              "otherInfo": {
+                "line": "江船火独明"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo kàn hóng shī chù"
+              },
+              "otherInfo": {
+                "line": "晓看红湿处"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huā zhòng jǐn guān chéng"
+              },
+              "otherInfo": {
+                "line": "花重锦官城"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“好雨”的“好”的意思是？",
+                "options": [
+                  "美好、令人喜爱",
+                  "喜欢、爱好",
+                  "容易、便于",
+                  "完成、完毕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“当春乃发生”的“乃”的意思是？",
+                "options": [
+                  "于是、就",
+                  "竟然",
+                  "是",
+                  "你"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“随风潜入夜”的“潜”的意思是？",
+                "options": [
+                  "暗暗地、悄悄地",
+                  "潜入水中",
+                  "隐藏身份",
+                  "深深地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“润物细无声”的“润”的意思是？",
+                "options": [
+                  "滋润",
+                  "湿润",
+                  "利润",
+                  "光滑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“野径云俱黑”的“俱”的意思是？",
+                "options": [
+                  "全、都",
+                  "一起",
+                  "具备",
+                  "恐惧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“江船火独明”的“独”的意思是？",
+                "options": [
+                  "独自、唯独",
+                  "孤独",
+                  "难道",
+                  "老而无子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晓看红湿处”的“晓”的意思是？",
+                "options": [
+                  "早晨",
+                  "知道",
+                  "明白",
+                  "天亮前"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“花重锦官城”的“重”的意思是？",
+                "options": [
+                  "沉重、沉甸甸",
+                  "重复",
+                  "重视",
+                  "层"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“当春乃发生”的“发生”的意思是？",
+                "options": [
+                  "使植物萌发、生长",
+                  "事情出现",
+                  "产生矛盾",
+                  "发出声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“花重锦官城”的“锦官城”指？",
+                "options": [
+                  "成都",
+                  "长安",
+                  "洛阳",
+                  "金陵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "好雨知道下雨的节气，正是在春天植物萌发的时候。",
+                "options": [
+                  "好雨知时节，当春乃发生",
+                  "随风潜入夜，润物细无声",
+                  "野径云俱黑，江船火独明",
+                  "晓看红湿处，花重锦官城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“好雨知时节”的意思是？",
+                "options": [
+                  "好雨仿佛懂得下雨的节令",
+                  "好雨知道季节已经变换",
+                  "好雨预报了节气的到来",
+                  "好雨在时节里被人知晓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它随着春风在夜里悄悄落下，无声地滋润着万物。",
+                "options": [
+                  "随风潜入夜，润物细无声",
+                  "好雨知时节，当春乃发生",
+                  "野径云俱黑，江船火独明",
+                  "晓看红湿处，花重锦官城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“润物细无声”的意思是？",
+                "options": [
+                  "细雨无声地滋润着万物",
+                  "万物在细雨中没有声音",
+                  "润湿的东西细得听不见",
+                  "细雨润湿了无声的万物"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "田野间的小路和天上的云都黑沉沉的，只有江上船中的灯火独自明亮。",
+                "options": [
+                  "野径云俱黑，江船火独明",
+                  "好雨知时节，当春乃发生",
+                  "随风潜入夜，润物细无声",
+                  "晓看红湿处，花重锦官城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“江船火独明”的意思是？",
+                "options": [
+                  "江上船中的灯火独自明亮",
+                  "江边的船火特别明亮",
+                  "江船上的火把照亮了江面",
+                  "江上船只的灯火都很明亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "天亮后看那被雨水打湿的红花之处，成都城里定是繁花似锦、沉甸甸地压满枝头。",
+                "options": [
+                  "晓看红湿处，花重锦官城",
+                  "好雨知时节，当春乃发生",
+                  "随风潜入夜，润物细无声",
+                  "野径云俱黑，江船火独明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“花重锦官城”的意思是？",
+                "options": [
+                  "成都城里花朵饱含雨水而显得沉重",
+                  "成都城里的花一层又一层",
+                  "锦官城的花被看重",
+                  "锦官城的花重复开放"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "当春乃发生",
+                  "好雨知时节"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "润物细无声",
+                  "随风潜入夜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江船火独明",
+                  "野径云俱黑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "花重锦官城",
+                  "晓看红湿处"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "随风潜入夜",
+                  "好雨知时节",
+                  "润物细无声",
+                  "当春乃发生"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "野径云俱黑",
+                  "润物细无声",
+                  "随风潜入夜",
+                  "江船火独明"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晓看红湿处",
+                  "江船火独明",
+                  "野径云俱黑",
+                  "花重锦官城"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "花重锦官城",
+                  "随风潜入夜",
+                  "好雨知时节",
+                  "江船火独明",
+                  "润物细无声",
+                  "当春乃发生",
+                  "晓看红湿处",
+                  "野径云俱黑"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jié"
+              },
+              "otherInfo": {
+                "content": "好雨知时__",
+                "answer": "节"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǎi"
+              },
+              "otherInfo": {
+                "content": "当春__发生",
+                "answer": "乃"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qián"
+              },
+              "otherInfo": {
+                "content": "随风__入夜",
+                "answer": "潜"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rùn"
+              },
+              "otherInfo": {
+                "content": "__物细无声",
+                "answer": "润"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "野__云俱黑",
+                "answer": "径"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuán"
+              },
+              "otherInfo": {
+                "content": "江__火独明",
+                "answer": "船"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo"
+              },
+              "otherInfo": {
+                "content": "__看红湿处",
+                "answer": "晓"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhòng"
+              },
+              "otherInfo": {
+                "content": "花__锦官城",
+                "answer": "重"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xì"
+              },
+              "otherInfo": {
+                "content": "润物__无声",
+                "answer": "细"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shī"
+              },
+              "otherInfo": {
+                "content": "晓看红__处",
+                "answer": "湿"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "好雨知时节，______",
+                "answer": "当春乃发生"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，当春乃发生",
+                "answer": "好雨知时节"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "随风潜入夜，______",
+                "answer": "润物细无声"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，润物细无声",
+                "answer": "随风潜入夜"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "野径云俱黑，______",
+                "answer": "江船火独明"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，江船火独明",
+                "answer": "野径云俱黑"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晓看红湿处，______",
+                "answer": "花重锦官城"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，花重锦官城",
+                "answer": "晓看红湿处"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "好雨知时节，当春乃发生。______，______",
+                "answer": "随风潜入夜，润物细无声"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "随风潜入夜，润物细无声。______，______",
+                "answer": "野径云俱黑，江船火独明"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "野径云俱黑，江船火独明。______，______",
+                "answer": "晓看红湿处，花重锦官城"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "野径云俱黑，江船火独明。______，______",
+                "answer": "晓看红湿处，花重锦官城"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "润物细无声",
+                  "晓看红湿处",
+                  "好雨知时节",
+                  "江船火独明",
+                  "当春乃发生",
+                  "野径云俱黑",
+                  "随风潜入夜",
+                  "花重锦官城"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "花重锦官城",
+                  "随风潜入夜",
+                  "野径云俱黑",
+                  "好雨知时节",
+                  "江船火独明",
+                  "当春乃发生",
+                  "晓看红湿处",
+                  "润物细无声"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "当春乃发生",
+                  "江船火独明",
+                  "晓看红湿处",
+                  "好雨知时节",
+                  "润物细无声",
+                  "野径云俱黑",
+                  "花重锦官城",
+                  "随风潜入夜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "野径云俱黑",
+                  "好雨知时节",
+                  "花重锦官城",
+                  "随风潜入夜",
+                  "当春乃发生",
+                  "晓看红湿处",
+                  "润物细无声",
+                  "江船火独明"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晓看红湿处",
+                  "当春乃发生",
+                  "江船火独明",
+                  "润物细无声",
+                  "好雨知时节",
+                  "花重锦官城",
+                  "野径云俱黑",
+                  "随风潜入夜"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

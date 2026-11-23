@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì gǔ féng qiū bēi jì liáo"
+              },
+              "otherInfo": {
+                "line": "自古逢秋悲寂寥"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǒ yán qiū rì shèng chūn zhāo"
+              },
+              "otherInfo": {
+                "line": "我言秋日胜春朝"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qíng kōng yī hè pái yún shàng"
+              },
+              "otherInfo": {
+                "line": "晴空一鹤排云上"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn yǐn shī qíng dào bì xiāo"
+              },
+              "otherInfo": {
+                "line": "便引诗情到碧霄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寂寥”的意思是？",
+                "options": [
+                  "冷清萧条",
+                  "寂静无声",
+                  "孤独寂寞",
+                  "空旷高远"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春朝”的意思是？",
+                "options": [
+                  "春天的早晨",
+                  "春天的朝廷",
+                  "春天的潮水",
+                  "春天的朝拜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“排云”的意思是？",
+                "options": [
+                  "推开云层",
+                  "排列云朵",
+                  "排开云阵",
+                  "排遣愁云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“碧霄”的意思是？",
+                "options": [
+                  "碧蓝的天空",
+                  "碧绿的云霄",
+                  "碧玉的箫管",
+                  "碧色的云霄殿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“诗情”的意思是？",
+                "options": [
+                  "作诗的兴致",
+                  "诗歌的情感",
+                  "诗人的情怀",
+                  "诗中的情意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“逢秋”的意思是？",
+                "options": [
+                  "遇到秋天",
+                  "逢迎秋色",
+                  "恰逢秋收",
+                  "相逢于秋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我言”的意思是？",
+                "options": [
+                  "我说",
+                  "我的言论",
+                  "我进言",
+                  "我言语"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一鹤”的意思是？",
+                "options": [
+                  "一只鹤",
+                  "一群鹤",
+                  "第一只鹤",
+                  "一只白鹤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“便引”的意思是？",
+                "options": [
+                  "就引导",
+                  "方便引来",
+                  "随即引发",
+                  "便邀请"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“胜春朝”的意思是？",
+                "options": [
+                  "胜过春天的早晨",
+                  "战胜春天的朝廷",
+                  "超过春日的朝会",
+                  "尽享春朝的胜景"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自古以来每逢秋天人们就悲叹冷清萧条。",
+                "options": [
+                  "自古逢秋悲寂寥",
+                  "我言秋日胜春朝",
+                  "晴空一鹤排云上",
+                  "便引诗情到碧霄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自古逢秋悲寂寥”的意思是？",
+                "options": [
+                  "自古以来人们遇到秋天就悲叹冷清萧条",
+                  "自古以来人们逢秋便悲叹时光寂寥",
+                  "自古以来悲秋之作都写得寂寥无味",
+                  "自古及今秋天总让人感到寂寞空虚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我说秋天的景色胜过春天的早晨。",
+                "options": [
+                  "我言秋日胜春朝",
+                  "自古逢秋悲寂寥",
+                  "晴空一鹤排云上",
+                  "便引诗情到碧霄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我言秋日胜春朝”的意思是？",
+                "options": [
+                  "我认为秋天的景致胜过春天的早晨",
+                  "我说秋日的收成胜过春日的朝会",
+                  "我言秋色比春朝更加明媚动人",
+                  "我道秋光胜似春朝却无人认同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "晴朗的天空中一只鹤推开云层向上飞去。",
+                "options": [
+                  "晴空一鹤排云上",
+                  "自古逢秋悲寂寥",
+                  "我言秋日胜春朝",
+                  "便引诗情到碧霄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“晴空一鹤排云上”的意思是？",
+                "options": [
+                  "晴朗天空中一只鹤推开云层向上飞",
+                  "晴空里一群鹤排成云阵飞向高处",
+                  "雨过天晴一只鹤从云中降落下来",
+                  "秋空明净一只鹤在云上排成一行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "于是把作诗的兴致引到了碧蓝的天空。",
+                "options": [
+                  "便引诗情到碧霄",
+                  "自古逢秋悲寂寥",
+                  "我言秋日胜春朝",
+                  "晴空一鹤排云上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“便引诗情到碧霄”的意思是？",
+                "options": [
+                  "就把作诗的兴致引到了碧蓝的天空",
+                  "便引来诗友一同仰望碧蓝的云霄",
+                  "于是诗中的情感飞到了碧霄宫中",
+                  "随即引导诗情转向碧绿的云霄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我言秋日胜春朝",
+                  "自古逢秋悲寂寥"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便引诗情到碧霄",
+                  "晴空一鹤排云上"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我言秋日胜春朝",
+                  "晴空一鹤排云上",
+                  "自古逢秋悲寂寥",
+                  "便引诗情到碧霄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便引诗情到碧霄",
+                  "自古逢秋悲寂寥",
+                  "晴空一鹤排云上",
+                  "我言秋日胜春朝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "féng"
+              },
+              "otherInfo": {
+                "content": "自古__秋悲寂寥",
+                "answer": "逢"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèng"
+              },
+              "otherInfo": {
+                "content": "我言秋日__春朝",
+                "answer": "胜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hè"
+              },
+              "otherInfo": {
+                "content": "晴空一__排云上",
+                "answer": "鹤"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "便引诗情到碧__",
+                "answer": "霄"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bēi"
+              },
+              "otherInfo": {
+                "content": "自古逢秋__寂寥",
+                "answer": "悲"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhāo"
+              },
+              "otherInfo": {
+                "content": "我言秋日胜春__",
+                "answer": "朝"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pái"
+              },
+              "otherInfo": {
+                "content": "晴空一鹤__云上",
+                "answer": "排"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐn"
+              },
+              "otherInfo": {
+                "content": "便__诗情到碧霄",
+                "answer": "引"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "自古逢秋悲__寥",
+                "answer": "寂"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "便引诗情到__霄",
+                "answer": "碧"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自古逢秋悲寂寥，______",
+                "answer": "我言秋日胜春朝"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，我言秋日胜春朝",
+                "answer": "自古逢秋悲寂寥"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晴空一鹤排云上，______",
+                "answer": "便引诗情到碧霄"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，便引诗情到碧霄",
+                "answer": "晴空一鹤排云上"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自古逢秋悲寂寥，我言秋日胜春朝。______，______",
+                "answer": "晴空一鹤排云上，便引诗情到碧霄"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我言秋日胜春朝。______，______",
+                "answer": "晴空一鹤排云上，便引诗情到碧霄"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便引诗情到碧霄",
+                  "自古逢秋悲寂寥",
+                  "晴空一鹤排云上",
+                  "我言秋日胜春朝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我言秋日胜春朝",
+                  "便引诗情到碧霄",
+                  "自古逢秋悲寂寥",
+                  "晴空一鹤排云上"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晴空一鹤排云上",
+                  "我言秋日胜春朝",
+                  "便引诗情到碧霄",
+                  "自古逢秋悲寂寥"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自古逢秋悲寂寥",
+                  "便引诗情到碧霄",
+                  "我言秋日胜春朝",
+                  "晴空一鹤排云上"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便引诗情到碧霄",
+                  "晴空一鹤排云上",
+                  "自古逢秋悲寂寥",
+                  "我言秋日胜春朝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

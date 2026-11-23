@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī rén yǐ chéng huáng hè qù"
+              },
+              "otherInfo": {
+                "line": "昔人已乘黄鹤去"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ dì kōng yú huáng hè lóu"
+              },
+              "otherInfo": {
+                "line": "此地空余黄鹤楼"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng hè yī qù bù fù fǎn"
+              },
+              "otherInfo": {
+                "line": "黄鹤一去不复返"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái yún qiān zǎi kōng yōu yōu"
+              },
+              "otherInfo": {
+                "line": "白云千载空悠悠"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qíng chuān lì lì hàn yáng shù"
+              },
+              "otherInfo": {
+                "line": "晴川历历汉阳树"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fāng cǎo qī qī yīng wǔ zhōu"
+              },
+              "otherInfo": {
+                "line": "芳草萋萋鹦鹉洲"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rì mù xiāng guān hé chù shì"
+              },
+              "otherInfo": {
+                "line": "日暮乡关何处是"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān bō jiāng shàng shǐ rén chóu"
+              },
+              "otherInfo": {
+                "line": "烟波江上使人愁"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“昔人”的意思是？",
+                "options": [
+                  "从前的人",
+                  "傍晚的人",
+                  "故乡的人",
+                  "远行的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“空余”的意思是？",
+                "options": [
+                  "只剩下",
+                  "空荡荡地多余",
+                  "白白地留下",
+                  "空闲的余地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不复返”的意思是？",
+                "options": [
+                  "不再回来",
+                  "不再反复",
+                  "不能返回",
+                  "不再归还"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千载”的意思是？",
+                "options": [
+                  "千年",
+                  "千次",
+                  "千岁",
+                  "千载难逢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“历历”的意思是？",
+                "options": [
+                  "清楚分明的样子",
+                  "经历很多的样子",
+                  "严厉的样子",
+                  "稀疏的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“萋萋”的意思是？",
+                "options": [
+                  "草木茂盛的样子",
+                  "凄凉冷落的样子",
+                  "香气浓郁的样子",
+                  "颜色青翠的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乡关”的意思是？",
+                "options": [
+                  "故乡",
+                  "乡村关卡",
+                  "家乡的关口",
+                  "乡间的道路"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烟波”的意思是？",
+                "options": [
+                  "烟雾笼罩的水面",
+                  "像烟一样的波浪",
+                  "炊烟与波涛",
+                  "烟尘与风波"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“使人愁”的意思是？",
+                "options": [
+                  "让人发愁",
+                  "使人忧愁地离开",
+                  "叫人愁苦不堪",
+                  "令人愁眉不展"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄鹤楼”中的“楼”的意思是？",
+                "options": [
+                  "楼房",
+                  "城楼",
+                  "门楼",
+                  "高楼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "传说中的人物已经乘着黄鹤离去。",
+                "options": [
+                  "昔人已乘黄鹤去",
+                  "黄鹤一去不复返",
+                  "此地空余黄鹤楼",
+                  "白云千载空悠悠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此地空余黄鹤楼”的意思是？",
+                "options": [
+                  "这里只剩下空荡荡的黄鹤楼",
+                  "这里白白地多出一座黄鹤楼",
+                  "这里的黄鹤楼空空地闲置着",
+                  "这里空留黄鹤楼供人凭吊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "黄鹤一旦离去就再也没有回来。",
+                "options": [
+                  "黄鹤一去不复返",
+                  "昔人已乘黄鹤去",
+                  "白云千载空悠悠",
+                  "晴川历历汉阳树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白云千载空悠悠”的意思是？",
+                "options": [
+                  "白云千百年来徒然自在地飘荡",
+                  "白云千年以来空空地等待",
+                  "白云载着千年时光悠闲飘过",
+                  "白云千载难逢地悠然出现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "晴朗的江面上汉阳的树木清晰可见。",
+                "options": [
+                  "晴川历历汉阳树",
+                  "芳草萋萋鹦鹉洲",
+                  "日暮乡关何处是",
+                  "烟波江上使人愁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“芳草萋萋鹦鹉洲”的意思是？",
+                "options": [
+                  "鹦鹉洲上芳草长得十分茂盛",
+                  "鹦鹉洲上芳草散发着香气",
+                  "鹦鹉洲上芳草显得凄清冷落",
+                  "鹦鹉洲上芳草颜色青翠欲滴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "天色已晚，故乡在哪里呢？",
+                "options": [
+                  "日暮乡关何处是",
+                  "烟波江上使人愁",
+                  "晴川历历汉阳树",
+                  "白云千载空悠悠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“烟波江上使人愁”的意思是？",
+                "options": [
+                  "江上烟雾笼罩的水面让人发愁",
+                  "江上烟波浩渺使人忧愁地离去",
+                  "江上炊烟与波涛叫人愁苦不堪",
+                  "江上烟尘风波令人愁眉不展"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此地空余黄鹤楼",
+                  "昔人已乘黄鹤去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白云千载空悠悠",
+                  "黄鹤一去不复返"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草萋萋鹦鹉洲",
+                  "晴川历历汉阳树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烟波江上使人愁",
+                  "日暮乡关何处是"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄鹤一去不复返",
+                  "此地空余黄鹤楼",
+                  "昔人已乘黄鹤去",
+                  "白云千载空悠悠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草萋萋鹦鹉洲",
+                  "白云千载空悠悠",
+                  "晴川历历汉阳树",
+                  "黄鹤一去不复返"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "日暮乡关何处是",
+                  "晴川历历汉阳树",
+                  "烟波江上使人愁",
+                  "芳草萋萋鹦鹉洲"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草萋萋鹦鹉洲",
+                  "昔人已乘黄鹤去",
+                  "日暮乡关何处是",
+                  "白云千载空悠悠",
+                  "晴川历历汉阳树",
+                  "黄鹤一去不复返",
+                  "烟波江上使人愁",
+                  "此地空余黄鹤楼"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "昔人已__黄鹤去",
+                "answer": "乘"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "此地空__黄鹤楼",
+                "answer": "余"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǎn"
+              },
+              "otherInfo": {
+                "content": "黄鹤一去不复__",
+                "answer": "返"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǎi"
+              },
+              "otherInfo": {
+                "content": "白云千__空悠悠",
+                "answer": "载"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "晴川__历汉阳树",
+                "answer": "历"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī"
+              },
+              "otherInfo": {
+                "content": "芳草萋__鹦鹉洲",
+                "answer": "萋"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "日__乡关何处是",
+                "answer": "暮"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóu"
+              },
+              "otherInfo": {
+                "content": "烟波江上使人__",
+                "answer": "愁"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yōu"
+              },
+              "otherInfo": {
+                "content": "白云千载空__悠",
+                "answer": "悠"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "芳草萋萋__鹉洲",
+                "answer": "鹦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "昔人已乘黄鹤去，______",
+                "answer": "此地空余黄鹤楼"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，此地空余黄鹤楼",
+                "answer": "昔人已乘黄鹤去"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄鹤一去不复返，______",
+                "answer": "白云千载空悠悠"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白云千载空悠悠",
+                "answer": "黄鹤一去不复返"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晴川历历汉阳树，______",
+                "answer": "芳草萋萋鹦鹉洲"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，芳草萋萋鹦鹉洲",
+                "answer": "晴川历历汉阳树"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日暮乡关何处是，______",
+                "answer": "烟波江上使人愁"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，烟波江上使人愁",
+                "answer": "日暮乡关何处是"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "昔人已乘黄鹤去，此地空余黄鹤楼。______，______",
+                "answer": "黄鹤一去不复返，白云千载空悠悠"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄鹤一去不复返，白云千载空悠悠。______，______",
+                "answer": "晴川历历汉阳树，芳草萋萋鹦鹉洲"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晴川历历汉阳树，芳草萋萋鹦鹉洲。______，______",
+                "answer": "日暮乡关何处是，烟波江上使人愁"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晴川历历汉阳树，芳草萋萋鹦鹉洲。______，______",
+                "answer": "日暮乡关何处是，烟波江上使人愁"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草萋萋鹦鹉洲",
+                  "昔人已乘黄鹤去",
+                  "日暮乡关何处是",
+                  "白云千载空悠悠",
+                  "晴川历历汉阳树",
+                  "黄鹤一去不复返",
+                  "烟波江上使人愁",
+                  "此地空余黄鹤楼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄鹤一去不复返",
+                  "烟波江上使人愁",
+                  "此地空余黄鹤楼",
+                  "晴川历历汉阳树",
+                  "昔人已乘黄鹤去",
+                  "芳草萋萋鹦鹉洲",
+                  "白云千载空悠悠",
+                  "日暮乡关何处是"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "日暮乡关何处是",
+                  "此地空余黄鹤楼",
+                  "白云千载空悠悠",
+                  "昔人已乘黄鹤去",
+                  "烟波江上使人愁",
+                  "黄鹤一去不复返",
+                  "芳草萋萋鹦鹉洲",
+                  "晴川历历汉阳树"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晴川历历汉阳树",
+                  "黄鹤一去不复返",
+                  "烟波江上使人愁",
+                  "昔人已乘黄鹤去",
+                  "芳草萋萋鹦鹉洲",
+                  "日暮乡关何处是",
+                  "白云千载空悠悠",
+                  "此地空余黄鹤楼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白云千载空悠悠",
+                  "芳草萋萋鹦鹉洲",
+                  "昔人已乘黄鹤去",
+                  "日暮乡关何处是",
+                  "黄鹤一去不复返",
+                  "此地空余黄鹤楼",
+                  "晴川历历汉阳树",
+                  "烟波江上使人愁"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

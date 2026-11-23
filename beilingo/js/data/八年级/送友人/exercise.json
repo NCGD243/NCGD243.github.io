@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng shān héng běi guō"
+              },
+              "otherInfo": {
+                "line": "青山横北郭"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái shuǐ rào dōng chéng"
+              },
+              "otherInfo": {
+                "line": "白水绕东城"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ dì yī wéi bié"
+              },
+              "otherInfo": {
+                "line": "此地一为别"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū péng wàn lǐ zhēng"
+              },
+              "otherInfo": {
+                "line": "孤蓬万里征"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú yún yóu zǐ yì"
+              },
+              "otherInfo": {
+                "line": "浮云游子意"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò rì gù rén qíng"
+              },
+              "otherInfo": {
+                "line": "落日故人情"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huī shǒu zì zī qù"
+              },
+              "otherInfo": {
+                "line": "挥手自兹去"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo xiāo bān mǎ míng"
+              },
+              "otherInfo": {
+                "line": "萧萧班马鸣"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“郭”的意思是？",
+                "options": [
+                  "外城",
+                  "城门",
+                  "城墙",
+                  "村落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绕”的意思是？",
+                "options": [
+                  "环绕",
+                  "绕过",
+                  "缠绕",
+                  "围绕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为别”的意思是？",
+                "options": [
+                  "分别",
+                  "告别",
+                  "作为离别",
+                  "成为别离"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤蓬”的意思是？",
+                "options": [
+                  "随风飘转的蓬草",
+                  "孤独的船帆",
+                  "孤单的旅人",
+                  "枯萎的野草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“征”的意思是？",
+                "options": [
+                  "远行",
+                  "征战",
+                  "征收",
+                  "征召"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“游子”的意思是？",
+                "options": [
+                  "离家远游的人",
+                  "游手好闲的人",
+                  "四处游玩的人",
+                  "漂泊的船只"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故人”的意思是？",
+                "options": [
+                  "老朋友",
+                  "已故的人",
+                  "故乡的人",
+                  "旧时的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“兹”的意思是？",
+                "options": [
+                  "此",
+                  "现在",
+                  "这里",
+                  "从此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“萧萧”的意思是？",
+                "options": [
+                  "马嘶鸣声",
+                  "风吹树叶声",
+                  "流水声",
+                  "鸟鸣声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“班马”的意思是？",
+                "options": [
+                  "离群的马",
+                  "斑纹的马",
+                  "班师的马",
+                  "并行的马"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "青翠的山峦横亘在外城的北面。",
+                "options": [
+                  "青山横北郭",
+                  "白水绕东城",
+                  "孤蓬万里征",
+                  "浮云游子意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白水绕东城”的意思是？",
+                "options": [
+                  "清澈的流水环绕着东城",
+                  "白色的水花溅到东城",
+                  "白水从东城边流过",
+                  "东城被白水淹没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在这里我们彼此分别。",
+                "options": [
+                  "此地一为别",
+                  "孤蓬万里征",
+                  "挥手自兹去",
+                  "萧萧班马鸣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孤蓬万里征”的意思是？",
+                "options": [
+                  "像孤蓬一样随风飘转万里远行",
+                  "独自一人征讨万里",
+                  "孤舟万里航行",
+                  "孤单的蓬草生长万里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "浮云飘动就像游子的心意。",
+                "options": [
+                  "浮云游子意",
+                  "落日故人情",
+                  "青山横北郭",
+                  "白水绕东城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“落日故人情”的意思是？",
+                "options": [
+                  "落日缓缓落下，像老朋友依依不舍的情意",
+                  "落日照着老朋友的身影",
+                  "落日时分思念故乡的亲人",
+                  "落日下故人独自伤情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "挥挥手从此离去。",
+                "options": [
+                  "挥手自兹去",
+                  "此地一为别",
+                  "孤蓬万里征",
+                  "萧萧班马鸣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“萧萧班马鸣”的意思是？",
+                "options": [
+                  "离群的马萧萧长鸣",
+                  "风吹马匹发出萧萧声",
+                  "马儿在萧瑟秋风中嘶鸣",
+                  "班师的马萧萧地叫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白水绕东城",
+                  "青山横北郭"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤蓬万里征",
+                  "此地一为别"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落日故人情",
+                  "浮云游子意"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "萧萧班马鸣",
+                  "挥手自兹去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤蓬万里征",
+                  "白水绕东城",
+                  "此地一为别",
+                  "青山横北郭"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落日故人情",
+                  "此地一为别",
+                  "浮云游子意",
+                  "孤蓬万里征"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "萧萧班马鸣",
+                  "浮云游子意",
+                  "挥手自兹去",
+                  "落日故人情"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落日故人情",
+                  "青山横北郭",
+                  "萧萧班马鸣",
+                  "此地一为别",
+                  "白水绕东城",
+                  "挥手自兹去",
+                  "孤蓬万里征",
+                  "浮云游子意"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "héng"
+              },
+              "otherInfo": {
+                "content": "青山__北郭",
+                "answer": "横"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rào"
+              },
+              "otherInfo": {
+                "content": "白水__东城",
+                "answer": "绕"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "此地一__别",
+                "answer": "为"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng"
+              },
+              "otherInfo": {
+                "content": "孤__万里征",
+                "answer": "蓬"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yóu"
+              },
+              "otherInfo": {
+                "content": "浮云__子意",
+                "answer": "游"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "__日故人情",
+                "answer": "落"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huī"
+              },
+              "otherInfo": {
+                "content": "__手自兹去",
+                "answer": "挥"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "__萧班马鸣",
+                "answer": "萧"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bān"
+              },
+              "otherInfo": {
+                "content": "萧萧__马鸣",
+                "answer": "班"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng"
+              },
+              "otherInfo": {
+                "content": "孤蓬万里__",
+                "answer": "征"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青山横北郭，______",
+                "answer": "白水绕东城"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白水绕东城",
+                "answer": "青山横北郭"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此地一为别，______",
+                "answer": "孤蓬万里征"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，孤蓬万里征",
+                "answer": "此地一为别"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浮云游子意，______",
+                "answer": "落日故人情"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，落日故人情",
+                "answer": "浮云游子意"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "挥手自兹去，______",
+                "answer": "萧萧班马鸣"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，萧萧班马鸣",
+                "answer": "挥手自兹去"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青山横北郭，白水绕东城。______，______",
+                "answer": "此地一为别，孤蓬万里征"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此地一为别，孤蓬万里征。______，______",
+                "answer": "浮云游子意，落日故人情"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浮云游子意，落日故人情。______，______",
+                "answer": "挥手自兹去，萧萧班马鸣"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浮云游子意，落日故人情。______，______",
+                "answer": "挥手自兹去，萧萧班马鸣"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孤蓬万里征",
+                  "落日故人情",
+                  "青山横北郭",
+                  "挥手自兹去",
+                  "白水绕东城",
+                  "浮云游子意",
+                  "萧萧班马鸣",
+                  "此地一为别"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浮云游子意",
+                  "此地一为别",
+                  "萧萧班马鸣",
+                  "青山横北郭",
+                  "落日故人情",
+                  "白水绕东城",
+                  "孤蓬万里征",
+                  "挥手自兹去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "挥手自兹去",
+                  "白水绕东城",
+                  "浮云游子意",
+                  "孤蓬万里征",
+                  "青山横北郭",
+                  "萧萧班马鸣",
+                  "此地一为别",
+                  "落日故人情"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落日故人情",
+                  "萧萧班马鸣",
+                  "此地一为别",
+                  "青山横北郭",
+                  "挥手自兹去",
+                  "孤蓬万里征",
+                  "白水绕东城",
+                  "浮云游子意"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此地一为别",
+                  "浮云游子意",
+                  "青山横北郭",
+                  "挥手自兹去",
+                  "孤蓬万里征",
+                  "白水绕东城",
+                  "落日故人情",
+                  "萧萧班马鸣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

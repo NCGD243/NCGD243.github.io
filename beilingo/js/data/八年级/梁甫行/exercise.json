@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bā fāng gè yì qì"
+              },
+              "otherInfo": {
+                "line": "八方各异气"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān lǐ shū fēng yǔ"
+              },
+              "otherInfo": {
+                "line": "千里殊风雨"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù zāi biān hǎi mín"
+              },
+              "otherInfo": {
+                "line": "剧哉边海民"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì shēn yú cǎo shù"
+              },
+              "otherInfo": {
+                "line": "寄身于草墅"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī zǐ xiàng qín shòu"
+              },
+              "otherInfo": {
+                "line": "妻子象禽兽"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xíng zhǐ yī lín zǔ"
+              },
+              "otherInfo": {
+                "line": "行止依林阻"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chái mén hé xiāo tiáo"
+              },
+              "otherInfo": {
+                "line": "柴门何萧条"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú tù xiáng wǒ yǔ"
+              },
+              "otherInfo": {
+                "line": "狐兔翔我宇"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“异气”的意思是？",
+                "options": [
+                  "不同的气候",
+                  "奇异的气味",
+                  "非凡的气质",
+                  "怪异的气氛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“殊”的意思是？",
+                "options": [
+                  "不同",
+                  "特殊",
+                  "超过",
+                  "断绝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“剧”的意思是？",
+                "options": [
+                  "艰难",
+                  "戏剧",
+                  "剧烈",
+                  "迅速"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草墅”的意思是？",
+                "options": [
+                  "草野间的简陋房屋",
+                  "长满草的别墅",
+                  "用草盖的围墙",
+                  "荒废的庭院"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“象”的意思是？",
+                "options": [
+                  "好像",
+                  "大象",
+                  "景象",
+                  "模仿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“林阻”的意思是？",
+                "options": [
+                  "山林险阻之地",
+                  "树林的阻挡",
+                  "林木茂盛",
+                  "道路阻塞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“萧条”的意思是？",
+                "options": [
+                  "冷落荒凉",
+                  "经济衰败",
+                  "草木凋零",
+                  "心情低落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“翔”的意思是？",
+                "options": [
+                  "盘旋行走",
+                  "飞翔",
+                  "跳跃",
+                  "游荡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“宇”的意思是？",
+                "options": [
+                  "房屋",
+                  "天空",
+                  "宇宙",
+                  "屋檐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“行止”的意思是？",
+                "options": [
+                  "行动和停留",
+                  "品行和举止",
+                  "行走和停止",
+                  "行为和止息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "各地气候不同，风雨也各不相同。",
+                "options": [
+                  "八方各异气",
+                  "千里殊风雨",
+                  "剧哉边海民",
+                  "寄身于草墅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千里殊风雨”的意思是？",
+                "options": [
+                  "千里之外风雨不同",
+                  "千里之内风雨交加",
+                  "千里路上风雨兼程",
+                  "千里之外风雨同舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "海边百姓的生活多么艰难啊。",
+                "options": [
+                  "剧哉边海民",
+                  "寄身于草墅",
+                  "妻子象禽兽",
+                  "行止依林阻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“寄身于草墅”的意思是？",
+                "options": [
+                  "栖身在草野的简陋房屋里",
+                  "把身体寄托在草房上",
+                  "寄居在长满草的别墅中",
+                  "将身心交付给草野"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "妻子儿女生活得像禽兽一样。",
+                "options": [
+                  "妻子象禽兽",
+                  "行止依林阻",
+                  "柴门何萧条",
+                  "狐兔翔我宇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“行止依林阻”的意思是？",
+                "options": [
+                  "行动停留都依靠山林险阻之地",
+                  "行走和停止都依傍树林",
+                  "一举一动都受山林阻挡",
+                  "出行和居住都依赖林木"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "柴门多么冷落荒凉。",
+                "options": [
+                  "柴门何萧条",
+                  "狐兔翔我宇",
+                  "八方各异气",
+                  "千里殊风雨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“狐兔翔我宇”的意思是？",
+                "options": [
+                  "狐狸野兔在我屋旁游荡",
+                  "狐狸野兔在我屋上飞翔",
+                  "狐狸野兔在我屋中跳跃",
+                  "狐狸野兔在我屋后奔跑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千里殊风雨",
+                  "八方各异气"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寄身于草墅",
+                  "剧哉边海民"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "行止依林阻",
+                  "妻子象禽兽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "狐兔翔我宇",
+                  "柴门何萧条"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "剧哉边海民",
+                  "千里殊风雨",
+                  "寄身于草墅",
+                  "八方各异气"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "妻子象禽兽",
+                  "寄身于草墅",
+                  "行止依林阻",
+                  "剧哉边海民"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "柴门何萧条",
+                  "行止依林阻",
+                  "狐兔翔我宇",
+                  "妻子象禽兽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "狐兔翔我宇",
+                  "寄身于草墅",
+                  "千里殊风雨",
+                  "柴门何萧条",
+                  "八方各异气",
+                  "行止依林阻",
+                  "剧哉边海民",
+                  "妻子象禽兽"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "八方各__气",
+                "answer": "异"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shū"
+              },
+              "otherInfo": {
+                "content": "千里__风雨",
+                "answer": "殊"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù"
+              },
+              "otherInfo": {
+                "content": "__哉边海民",
+                "answer": "剧"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù"
+              },
+              "otherInfo": {
+                "content": "寄身于草__",
+                "answer": "墅"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qín"
+              },
+              "otherInfo": {
+                "content": "妻子象__兽",
+                "answer": "禽"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǔ"
+              },
+              "otherInfo": {
+                "content": "行止依林__",
+                "answer": "阻"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "柴门何__条",
+                "answer": "萧"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiáng"
+              },
+              "otherInfo": {
+                "content": "狐兔__我宇",
+                "answer": "翔"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ"
+              },
+              "otherInfo": {
+                "content": "狐兔翔我__",
+                "answer": "宇"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biān"
+              },
+              "otherInfo": {
+                "content": "剧哉__海民",
+                "answer": "边"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八方各异气，______",
+                "answer": "千里殊风雨"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，千里殊风雨",
+                "answer": "八方各异气"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剧哉边海民，______",
+                "answer": "寄身于草墅"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寄身于草墅",
+                "answer": "剧哉边海民"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "妻子象禽兽，______",
+                "answer": "行止依林阻"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，行止依林阻",
+                "answer": "妻子象禽兽"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "柴门何萧条，______",
+                "answer": "狐兔翔我宇"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，狐兔翔我宇",
+                "answer": "柴门何萧条"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八方各异气，千里殊风雨。______，______",
+                "answer": "剧哉边海民，寄身于草墅"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剧哉边海民，寄身于草墅。______，______",
+                "answer": "妻子象禽兽，行止依林阻"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "妻子象禽兽，行止依林阻。______，______",
+                "answer": "柴门何萧条，狐兔翔我宇"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "妻子象禽兽，行止依林阻。______，______",
+                "answer": "柴门何萧条，狐兔翔我宇"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "狐兔翔我宇",
+                  "千里殊风雨",
+                  "妻子象禽兽",
+                  "八方各异气",
+                  "柴门何萧条",
+                  "寄身于草墅",
+                  "行止依林阻",
+                  "剧哉边海民"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寄身于草墅",
+                  "行止依林阻",
+                  "八方各异气",
+                  "狐兔翔我宇",
+                  "剧哉边海民",
+                  "千里殊风雨",
+                  "柴门何萧条",
+                  "妻子象禽兽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "妻子象禽兽",
+                  "柴门何萧条",
+                  "千里殊风雨",
+                  "剧哉边海民",
+                  "狐兔翔我宇",
+                  "八方各异气",
+                  "行止依林阻",
+                  "寄身于草墅"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "行止依林阻",
+                  "八方各异气",
+                  "狐兔翔我宇",
+                  "寄身于草墅",
+                  "千里殊风雨",
+                  "妻子象禽兽",
+                  "剧哉边海民",
+                  "柴门何萧条"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "柴门何萧条",
+                  "剧哉边海民",
+                  "行止依林阻",
+                  "千里殊风雨",
+                  "狐兔翔我宇",
+                  "八方各异气",
+                  "寄身于草墅",
+                  "妻子象禽兽"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

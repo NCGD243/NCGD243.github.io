@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xuān shì qiú xián fǎng zhú chén"
+              },
+              "otherInfo": {
+                "line": "宣室求贤访逐臣"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎ shēng cái diào gèng wú lún"
+              },
+              "otherInfo": {
+                "line": "贾生才调更无伦"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě lián yè bàn xū qián xí"
+              },
+              "otherInfo": {
+                "line": "可怜夜半虚前席"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù wèn cāng shēng wèn guǐ shén"
+              },
+              "otherInfo": {
+                "line": "不问苍生问鬼神"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“宣室”的意思是？",
+                "options": [
+                  "汉代未央宫前殿的正室",
+                  "祭祀祖先的宗庙",
+                  "皇帝处理政务的偏殿",
+                  "太学中讲经的厅堂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“求贤”的意思是？",
+                "options": [
+                  "寻求贤才",
+                  "祈求神灵",
+                  "请求宽恕",
+                  "追求功名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“逐臣”的意思是？",
+                "options": [
+                  "被贬逐的臣子",
+                  "追逐君王的臣子",
+                  "驱逐敌国的使臣",
+                  "随行出巡的侍臣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“才调”的意思是？",
+                "options": [
+                  "才华格调",
+                  "调度才能",
+                  "曲调声律",
+                  "才学门第"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无伦”的意思是？",
+                "options": [
+                  "无与伦比",
+                  "不讲伦理",
+                  "没有条理",
+                  "不伦不类"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可怜”的意思是？",
+                "options": [
+                  "可惜",
+                  "可爱",
+                  "怜悯",
+                  "值得同情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“虚前席”中“虚”的意思是？",
+                "options": [
+                  "空出",
+                  "虚假",
+                  "虚弱",
+                  "谦虚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“前席”的意思是？",
+                "options": [
+                  "向前移动坐席",
+                  "前面的宴席",
+                  "铺在前面的席子",
+                  "前人的席位"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“苍生”的意思是？",
+                "options": [
+                  "百姓",
+                  "草木",
+                  "苍天",
+                  "众生"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鬼神”在诗中的意思是？",
+                "options": [
+                  "鬼神之事",
+                  "鬼怪神灵",
+                  "祭祀之礼",
+                  "阴阳之术"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "汉文帝在宣室寻求贤才，召见被贬逐的臣子。",
+                "options": [
+                  "宣室求贤访逐臣",
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "不问苍生问鬼神"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“宣室求贤访逐臣”的意思是？",
+                "options": [
+                  "汉文帝在宣室寻求贤才，召见被贬逐的臣子",
+                  "汉文帝在宣室祭祀祖先，驱逐了朝中旧臣",
+                  "汉文帝在宣室设宴款待群臣，寻访隐士",
+                  "汉文帝在宣室批阅奏章，询问被贬之人的罪状"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "贾谊的才华格调更是无与伦比。",
+                "options": [
+                  "宣室求贤访逐臣",
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "不问苍生问鬼神"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“贾生才调更无伦”的意思是？",
+                "options": [
+                  "贾谊的才华格调更是无与伦比",
+                  "贾谊的官职爵位更是无人能比",
+                  "贾谊的谈吐风度更加不合常理",
+                  "贾谊的政见主张更加不被采纳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "可惜半夜里白白地向前移动坐席（倾听）。",
+                "options": [
+                  "宣室求贤访逐臣",
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "不问苍生问鬼神"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可怜夜半虚前席”的意思是？",
+                "options": [
+                  "可惜半夜里白白地向前移动坐席倾听",
+                  "可怜半夜里空着前面的坐席无人入座",
+                  "可惜半夜里虚设了前面的宴席",
+                  "可怜半夜里白白地铺开前边的席子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不询问百姓生计，却询问鬼神之事。",
+                "options": [
+                  "宣室求贤访逐臣",
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "不问苍生问鬼神"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不问苍生问鬼神”的意思是？",
+                "options": [
+                  "不询问百姓生计，却询问鬼神之事",
+                  "不询问苍天旨意，却询问鬼神祸福",
+                  "不询问草木荣枯，却询问鬼神祭祀",
+                  "不询问众生疾苦，却询问鬼神来历"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贾生才调更无伦",
+                  "宣室求贤访逐臣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不问苍生问鬼神",
+                  "可怜夜半虚前席"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "宣室求贤访逐臣",
+                  "不问苍生问鬼神"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不问苍生问鬼神",
+                  "宣室求贤访逐臣",
+                  "可怜夜半虚前席",
+                  "贾生才调更无伦"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xuān"
+              },
+              "otherInfo": {
+                "content": "__室求贤访逐臣",
+                "answer": "宣"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǎng"
+              },
+              "otherInfo": {
+                "content": "宣室求贤__逐臣",
+                "answer": "访"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lún"
+              },
+              "otherInfo": {
+                "content": "贾生才调更无__",
+                "answer": "伦"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cái"
+              },
+              "otherInfo": {
+                "content": "贾生__调更无伦",
+                "answer": "才"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "可__夜半虚前席",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xí"
+              },
+              "otherInfo": {
+                "content": "可怜夜半虚前__",
+                "answer": "席"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cāng"
+              },
+              "otherInfo": {
+                "content": "不问__生问鬼神",
+                "answer": "苍"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guǐ"
+              },
+              "otherInfo": {
+                "content": "不问苍生问__神",
+                "answer": "鬼"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shén"
+              },
+              "otherInfo": {
+                "content": "不问苍生问鬼__",
+                "answer": "神"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú"
+              },
+              "otherInfo": {
+                "content": "宣室求贤访__臣",
+                "answer": "逐"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "宣室求贤访逐臣，______",
+                "answer": "贾生才调更无伦"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，贾生才调更无伦",
+                "answer": "宣室求贤访逐臣"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可怜夜半虚前席，______",
+                "answer": "不问苍生问鬼神"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不问苍生问鬼神",
+                "answer": "可怜夜半虚前席"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "宣室求贤访逐臣，贾生才调更无伦。______，______",
+                "answer": "可怜夜半虚前席，不问苍生问鬼神"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "宣室求贤访逐臣，贾生才调更无伦。______，______",
+                "answer": "可怜夜半虚前席，不问苍生问鬼神"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贾生才调更无伦",
+                  "不问苍生问鬼神",
+                  "宣室求贤访逐臣",
+                  "可怜夜半虚前席"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可怜夜半虚前席",
+                  "宣室求贤访逐臣",
+                  "不问苍生问鬼神",
+                  "贾生才调更无伦"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不问苍生问鬼神",
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "宣室求贤访逐臣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宣室求贤访逐臣",
+                  "可怜夜半虚前席",
+                  "贾生才调更无伦",
+                  "不问苍生问鬼神"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贾生才调更无伦",
+                  "可怜夜半虚前席",
+                  "不问苍生问鬼神",
+                  "宣室求贤访逐臣"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

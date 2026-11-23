@@ -1,0 +1,5099 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tài háng wáng wū èr shān fāng qī bǎi lǐ gāo wàn rèn"
+              },
+              "otherInfo": {
+                "line": "太行、王屋二山，方七百里，高万仞"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "běn zài jì zhōu zhī nán hé yáng zhī běi"
+              },
+              "otherInfo": {
+                "line": "本在冀州之南，河阳之北"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "běi shān yú gōng zhě jiǔ shí shì miàn shān ér jū"
+              },
+              "otherInfo": {
+                "line": "北山愚公者，年且九十，面山而居"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng shān běi zhī sāi chū rù zhī yū yě"
+              },
+              "otherInfo": {
+                "line": "惩山北之塞，出入之迂也"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù shì ér móu yuē wú yǔ rǔ bì lì píng xiǎn"
+              },
+              "otherInfo": {
+                "line": "聚室而谋曰：吾与汝毕力平险"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǐ tōng yù nán dá yú hàn yīn kě hū"
+              },
+              "otherInfo": {
+                "line": "指通豫南，达于汉阴，可乎"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zá rán xiāng xǔ qí qī xiàn yí yuē"
+              },
+              "otherInfo": {
+                "line": "杂然相许。其妻献疑曰"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ jūn zhī lì céng bù néng sǔn kuí fù zhī qiū"
+              },
+              "otherInfo": {
+                "line": "以君之力，曾不能损魁父之丘"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rú tài háng wáng wū hé qiě yān zhì tǔ shí"
+              },
+              "otherInfo": {
+                "line": "如太行、王屋何？且焉置土石"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zá yuē tóu zhū bó hǎi zhī wěi yǐn tǔ zhī běi"
+              },
+              "otherInfo": {
+                "line": "杂曰：投诸渤海之尾，隐土之北"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì shuài zǐ sūn hè dān zhě sān fū kòu shí kěn rǎng"
+              },
+              "otherInfo": {
+                "line": "遂率子孙荷担者三夫，叩石垦壤"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jī běn yùn yú bó hǎi zhī wěi"
+              },
+              "otherInfo": {
+                "line": "箕畚运于渤海之尾"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lín rén jīng chéng shì zhī shuāng qī yǒu yí nán"
+              },
+              "otherInfo": {
+                "line": "邻人京城氏之孀妻有遗男"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǐ chèn tiào wǎng zhù zhī hán shǔ yì jié"
+              },
+              "otherInfo": {
+                "line": "始龀，跳往助之。寒暑易节"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé qū zhì sǒu xiào ér zhǐ zhī yuē"
+              },
+              "otherInfo": {
+                "line": "河曲智叟笑而止之曰"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèn yǐ rǔ zhī bù huì"
+              },
+              "otherInfo": {
+                "line": "甚矣，汝之不惠"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ cán nián yú lì céng bù néng huǐ shān zhī máo"
+              },
+              "otherInfo": {
+                "line": "以残年余力，曾不能毁山之一毛"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí rú tǔ shí hé běi shān yú gōng cháng xī yuē"
+              },
+              "otherInfo": {
+                "line": "其如土石何？北山愚公长息曰"
+              }
+            },
+            {
+              "id": "s1l1q19",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rǔ xīn zhī gù bù kě chè"
+              },
+              "otherInfo": {
+                "line": "汝心之固，固不可彻"
+              }
+            },
+            {
+              "id": "s1l1q20",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "céng bù ruò shuāng qī ruò zǐ"
+              },
+              "otherInfo": {
+                "line": "曾不若孀妻弱子"
+              }
+            },
+            {
+              "id": "s1l1q21",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī wǒ zhī sǐ yǒu zǐ cún yān"
+              },
+              "otherInfo": {
+                "line": "虽我之死，有子存焉"
+              }
+            },
+            {
+              "id": "s1l1q22",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǐ yòu shēng sūn sūn yòu shēng zǐ"
+              },
+              "otherInfo": {
+                "line": "子又生孙，孙又生子"
+              }
+            },
+            {
+              "id": "s1l1q23",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǐ zǐ sūn sūn wú qióng kuì yě"
+              },
+              "otherInfo": {
+                "line": "子子孙孙无穷匮也"
+              }
+            },
+            {
+              "id": "s1l1q24",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér shān bù jiā zēng hé kǔ ér bù píng"
+              },
+              "otherInfo": {
+                "line": "而山不加增，何苦而不平"
+              }
+            },
+            {
+              "id": "s1l1q25",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé qū zhì sǒu wáng yǐ yìng"
+              },
+              "otherInfo": {
+                "line": "河曲智叟亡以应"
+              }
+            },
+            {
+              "id": "s1l1q26",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cāo shé zhī shén wén zhī jù qí bù yǐ yě"
+              },
+              "otherInfo": {
+                "line": "操蛇之神闻之，惧其不已也"
+              }
+            },
+            {
+              "id": "s1l1q27",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gào zhī yú dì dì gǎn qí chéng"
+              },
+              "otherInfo": {
+                "line": "告之于帝。帝感其诚"
+              }
+            },
+            {
+              "id": "s1l1q28",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mìng kuā é shì èr zǐ fù èr shān"
+              },
+              "otherInfo": {
+                "line": "命夸娥氏二子负二山"
+              }
+            },
+            {
+              "id": "s1l1q29",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī cuò shuò dōng yī cuò yōng nán"
+              },
+              "otherInfo": {
+                "line": "一厝朔东，一厝雍南"
+              }
+            },
+            {
+              "id": "s1l1q30",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì cǐ jì zhī nán hàn zhī yīn wú lǒng duàn yān"
+              },
+              "otherInfo": {
+                "line": "自此，冀之南，汉之阴，无陇断焉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惩山北之塞”中“惩”的意思是？",
+                "options": [
+                  "苦于",
+                  "惩罚",
+                  "警戒",
+                  "治理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“出入之迂也”中“迂”的意思是？",
+                "options": [
+                  "曲折绕远",
+                  "迂腐",
+                  "缓慢",
+                  "艰难"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“吾与汝毕力平险”中“毕”的意思是？",
+                "options": [
+                  "尽、全",
+                  "完毕",
+                  "毕竟",
+                  "毕业"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“曾不能损魁父之丘”中“曾”的意思是？",
+                "options": [
+                  "竟、却",
+                  "曾经",
+                  "增加",
+                  "重叠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“且焉置土石”中“焉”的意思是？",
+                "options": [
+                  "哪里",
+                  "于此",
+                  "语气词",
+                  "怎么"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“始龀，跳往助之”中“龀”的意思是？",
+                "options": [
+                  "换牙",
+                  "童年",
+                  "牙齿",
+                  "咬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“甚矣，汝之不惠”中“惠”的意思是？",
+                "options": [
+                  "同“慧”，聪明",
+                  "恩惠",
+                  "实惠",
+                  "贤惠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汝心之固，固不可彻”中“彻”的意思是？",
+                "options": [
+                  "通达，这里指改变",
+                  "彻底",
+                  "贯通",
+                  "清澈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“子子孙孙无穷匮也”中“匮”的意思是？",
+                "options": [
+                  "穷尽",
+                  "匮乏",
+                  "缺乏",
+                  "柜子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河曲智叟亡以应”中“亡”的意思是？",
+                "options": [
+                  "同“无”，没有",
+                  "逃亡",
+                  "死亡",
+                  "丢失"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太行、王屋两座山，方圆七百里，高七八千丈。",
+                "options": [
+                  "太行、王屋二山，方七百里，高万仞",
+                  "本在冀州之南，河阳之北",
+                  "北山愚公者，年且九十，面山而居",
+                  "惩山北之塞，出入之迂也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“本在冀州之南，河阳之北”的意思是？",
+                "options": [
+                  "两座山原来位于冀州的南面、河阳的北面",
+                  "两座山本来在冀州的北面、河阳的南面",
+                  "两座山现在位于冀州以南、黄河以北",
+                  "两座山原本在黄河以南、冀州以北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "北山有个叫愚公的人，年纪将近九十岁，面对着山居住。",
+                "options": [
+                  "北山愚公者，年且九十，面山而居",
+                  "惩山北之塞，出入之迂也",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "指通豫南，达于汉阴，可乎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“惩山北之塞，出入之迂也”的意思是？",
+                "options": [
+                  "他苦于山北面道路阻塞，出来进去都要绕远",
+                  "他惩罚了山北面阻塞道路的人，进出十分迂腐",
+                  "他担心山北面太狭窄，进出时被人迂回阻拦",
+                  "他因山北面堵塞而生气，于是绕道进出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "全家人聚在一起商量说：我和你们尽全力铲平险峻的大山。",
+                "options": [
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "指通豫南，达于汉阴，可乎",
+                  "杂然相许。其妻献疑曰",
+                  "以君之力，曾不能损魁父之丘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“指通豫南，达于汉阴，可乎”的意思是？",
+                "options": [
+                  "让道路一直通到豫州南部，到达汉水南岸，可以吗",
+                  "用手指着豫州南部，一直到达汉水北岸，行吗",
+                  "指引通往豫州南部的路，再到达汉水南岸，好吗",
+                  "直通豫州南面，抵达汉水北面，能够做到吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大家纷纷表示赞同。他的妻子提出疑问说。",
+                "options": [
+                  "杂然相许。其妻献疑曰",
+                  "以君之力，曾不能损魁父之丘",
+                  "如太行、王屋何？且焉置土石",
+                  "杂曰：投诸渤海之尾，隐土之北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“以君之力，曾不能损魁父之丘”的意思是？",
+                "options": [
+                  "凭您的力气，连魁父这样的小山都不能削减",
+                  "凭您的力量，曾经不能损坏魁父这座土丘",
+                  "用您的力气，竟然不能铲平魁父那样的山丘",
+                  "靠您的力量，还不能搬走魁父这座小山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "能把太行、王屋怎么样呢？况且把土石放到哪里去呢？",
+                "options": [
+                  "如太行、王屋何？且焉置土石",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "箕畚运于渤海之尾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“杂曰：投诸渤海之尾，隐土之北”的意思是？",
+                "options": [
+                  "大家纷纷说：把土石扔到渤海的边上、隐土的北面",
+                  "大家杂乱地说：把土石投到渤海尽头、隐土南面",
+                  "众人七嘴八舌：把土石抛进渤海，藏在北边土里",
+                  "大家回答说：把它们丢到渤海之尾和隐土以北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "于是率领子孙中能挑担子的三个人，敲石头挖泥土。",
+                "options": [
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "箕畚运于渤海之尾",
+                  "邻人京城氏之孀妻有遗男",
+                  "始龀，跳往助之。寒暑易节"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“箕畚运于渤海之尾”的意思是？",
+                "options": [
+                  "用箕畚把土石运到渤海的边上",
+                  "用簸箕和畚箕运到渤海尽头",
+                  "把箕畚运到渤海之尾去装土",
+                  "用箕畚装土运往渤海以北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "邻居京城氏的寡妇有个遗腹子。",
+                "options": [
+                  "邻人京城氏之孀妻有遗男",
+                  "始龀，跳往助之。寒暑易节",
+                  "河曲智叟笑而止之曰",
+                  "甚矣，汝之不惠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“始龀，跳往助之。寒暑易节”的意思是？",
+                "options": [
+                  "刚换牙，跳着去帮助他们。冬夏换季",
+                  "刚开始换牙，就跳着去帮助他。寒暑交替",
+                  "才到换牙的年龄，便蹦跳着去帮忙。一年四季",
+                  "刚刚换牙，就跑去帮助他们。寒来暑往"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "河曲智叟笑着阻止他说。",
+                "options": [
+                  "河曲智叟笑而止之曰",
+                  "甚矣，汝之不惠",
+                  "以残年余力，曾不能毁山之一毛",
+                  "其如土石何？北山愚公长息曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“甚矣，汝之不惠”的意思是？",
+                "options": [
+                  "你太不聪明了",
+                  "你非常不贤惠",
+                  "你太过分了，不仁惠",
+                  "你很不实惠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "凭你残余的岁月、剩下的力气，连山上的一棵草都毁不掉。",
+                "options": [
+                  "以残年余力，曾不能毁山之一毛",
+                  "其如土石何？北山愚公长息曰",
+                  "汝心之固，固不可彻",
+                  "曾不若孀妻弱子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“其如土石何？北山愚公长息曰”的意思是？",
+                "options": [
+                  "又能把泥土石头怎么样呢？北山愚公长叹说",
+                  "那土石该怎么办呢？北山愚公长久叹息说",
+                  "难道能把土石怎么样？北山愚公长长地休息后说",
+                  "土石又能如何呢？北山愚公长跪着说"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你思想顽固，顽固到了不能改变的地步。",
+                "options": [
+                  "汝心之固，固不可彻",
+                  "曾不若孀妻弱子",
+                  "虽我之死，有子存焉",
+                  "子又生孙，孙又生子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“曾不若孀妻弱子”的意思是？",
+                "options": [
+                  "竟然比不上寡妇和小孩",
+                  "曾经不如寡妇和幼子",
+                  "连寡妇和小孩都不如从前",
+                  "还不像寡妇和弱小的孩子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使我死了，还有儿子在呀。",
+                "options": [
+                  "虽我之死，有子存焉",
+                  "子又生孙，孙又生子",
+                  "子子孙孙无穷匮也",
+                  "而山不加增，何苦而不平"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“子又生孙，孙又生子”的意思是？",
+                "options": [
+                  "儿子又生孙子，孙子又生儿子",
+                  "儿子又生孙子，孙子又生孙子",
+                  "子孙又生儿子，儿子又生孙子",
+                  "儿子生孙子，孙子生重孙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "子子孙孙没有穷尽。",
+                "options": [
+                  "子子孙孙无穷匮也",
+                  "而山不加增，何苦而不平",
+                  "河曲智叟亡以应",
+                  "操蛇之神闻之，惧其不已也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“而山不加增，何苦而不平”的意思是？",
+                "options": [
+                  "可是山不会增高，还愁挖不平吗",
+                  "但是山不再增加，何必辛苦去挖平",
+                  "然而山不增高，为什么苦于不平呢",
+                  "可是山不增加，何苦去铲平它呢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q25",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "河曲智叟没有话来回答。",
+                "options": [
+                  "河曲智叟亡以应",
+                  "操蛇之神闻之，惧其不已也",
+                  "告之于帝。帝感其诚",
+                  "命夸娥氏二子负二山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q26",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“操蛇之神闻之，惧其不已也”的意思是？",
+                "options": [
+                  "手里拿着蛇的山神听说了这件事，怕他不停地挖下去",
+                  "操纵蛇的神听说后，害怕他不停止",
+                  "拿着蛇的山神听到后，担心他不肯休息",
+                  "操蛇之神听说此事，惧怕他已经停止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q27",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "向天帝报告了这件事。天帝被他的诚心感动。",
+                "options": [
+                  "告之于帝。帝感其诚",
+                  "命夸娥氏二子负二山",
+                  "一厝朔东，一厝雍南",
+                  "自此，冀之南，汉之阴，无陇断焉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q28",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“命夸娥氏二子负二山”的意思是？",
+                "options": [
+                  "命令大力神夸娥氏的两个儿子背走了两座山",
+                  "命令夸娥氏的两个儿子背着两座山",
+                  "让夸娥氏的二儿子背负两座山",
+                  "派夸娥氏的两个儿子挖走两座山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q29",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一座放在朔方东部，一座放在雍州南部。",
+                "options": [
+                  "一厝朔东，一厝雍南",
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "命夸娥氏二子负二山",
+                  "告之于帝。帝感其诚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q30",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自此，冀之南，汉之阴，无陇断焉”的意思是？",
+                "options": [
+                  "从此，冀州的南部、汉水的南岸，再也没有山冈阻隔了",
+                  "从此，冀州的南面、汉水的北岸，没有高山阻断了",
+                  "从这时起，冀州以南、汉水以北，不再有丘陵隔断",
+                  "从此以后，冀州南部到汉水南岸，没有田垄阻隔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "高万仞",
+                  "太行、王屋二山",
+                  "方七百里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "河阳之北",
+                  "本在冀州之南"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "面山而居",
+                  "北山愚公者",
+                  "年且九十"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "出入之迂也",
+                  "惩山北之塞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吾与汝毕力平险",
+                  "聚室而谋曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "达于汉阴",
+                  "指通豫南",
+                  "可乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其妻献疑曰",
+                  "杂然相许"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曾不能损魁父之丘",
+                  "以君之力"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "且焉置土石",
+                  "如太行、王屋何"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "隐土之北",
+                  "杂曰",
+                  "投诸渤海之尾"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "叩石垦壤",
+                  "遂率子孙荷担者三夫"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "箕畚运于渤海之尾"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有遗男",
+                  "邻人京城氏之孀妻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "跳往助之",
+                  "始龀",
+                  "寒暑易节"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "笑而止之曰",
+                  "河曲智叟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "汝之不惠",
+                  "甚矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曾不能毁山之一毛",
+                  "以残年余力"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "北山愚公长息曰",
+                  "其如土石何"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "固不可彻",
+                  "汝心之固"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曾不若孀妻弱子"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q21",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有子存焉",
+                  "虽我之死"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q22",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孙又生子",
+                  "子又生孙"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q23",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无穷匮也",
+                  "子子孙孙"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q24",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何苦而不平",
+                  "而山不加增"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q25",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "亡以应",
+                  "河曲智叟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q26",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惧其不已也",
+                  "操蛇之神闻之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q27",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "帝感其诚",
+                  "告之于帝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q28",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "命夸娥氏二子负二山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q29",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一厝雍南",
+                  "一厝朔东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q30",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无陇断焉",
+                  "自此",
+                  "冀之南",
+                  "汉之阴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q31",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "本在冀州之南，河阳之北",
+                  "太行、王屋二山，方七百里，高万仞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q32",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惩山北之塞，出入之迂也",
+                  "北山愚公者，年且九十，面山而居"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q33",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "指通豫南，达于汉阴，可乎",
+                  "聚室而谋曰：吾与汝毕力平险"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q34",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以君之力，曾不能损魁父之丘",
+                  "杂然相许。其妻献疑曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q35",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "如太行、王屋何？且焉置土石"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q36",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "箕畚运于渤海之尾",
+                  "遂率子孙荷担者三夫，叩石垦壤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q37",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "始龀，跳往助之。寒暑易节",
+                  "邻人京城氏之孀妻有遗男"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q38",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "甚矣，汝之不惠",
+                  "河曲智叟笑而止之曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q39",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其如土石何？北山愚公长息曰",
+                  "以残年余力，曾不能毁山之一毛"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q40",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曾不若孀妻弱子",
+                  "汝心之固，固不可彻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q41",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子又生孙，孙又生子",
+                  "虽我之死，有子存焉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q42",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而山不加增，何苦而不平",
+                  "子子孙孙无穷匮也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q43",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "操蛇之神闻之，惧其不已也",
+                  "河曲智叟亡以应"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q44",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "告之于帝。帝感其诚",
+                  "操蛇之神闻之，惧其不已也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q45",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一厝朔东，一厝雍南",
+                  "命夸娥氏二子负二山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q46",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "一厝朔东，一厝雍南"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q47",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "本在冀州之南，河阳之北",
+                  "惩山北之塞，出入之迂也",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "北山愚公者，年且九十，面山而居",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "指通豫南，达于汉阴，可乎",
+                  "杂然相许。其妻献疑曰",
+                  "以君之力，曾不能损魁父之丘",
+                  "如太行、王屋何？且焉置土石",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "箕畚运于渤海之尾",
+                  "邻人京城氏之孀妻有遗男",
+                  "始龀，跳往助之。寒暑易节",
+                  "河曲智叟笑而止之曰",
+                  "甚矣，汝之不惠",
+                  "以残年余力，曾不能毁山之一毛",
+                  "其如土石何？北山愚公长息曰",
+                  "汝心之固，固不可彻",
+                  "曾不若孀妻弱子",
+                  "虽我之死，有子存焉",
+                  "子又生孙，孙又生子",
+                  "子子孙孙无穷匮也",
+                  "而山不加增，何苦而不平",
+                  "河曲智叟亡以应",
+                  "操蛇之神闻之，惧其不已也",
+                  "告之于帝。帝感其诚",
+                  "命夸娥氏二子负二山",
+                  "一厝朔东，一厝雍南",
+                  "自此，冀之南，汉之阴，无陇断焉"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rèn"
+              },
+              "otherInfo": {
+                "content": "太行、王屋二山，方七百里，高万__",
+                "answer": "仞"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "本在__州之南，河阳之北",
+                "answer": "冀"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiě"
+              },
+              "otherInfo": {
+                "content": "北山愚公者，年__九十，面山而居",
+                "answer": "且"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sè"
+              },
+              "otherInfo": {
+                "content": "惩山北之__，出入之迂也",
+                "answer": "塞"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎn"
+              },
+              "otherInfo": {
+                "content": "聚室而谋曰：吾与汝毕力平__",
+                "answer": "险"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "指通__南，达于汉阴，可乎",
+                "answer": "豫"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "杂然相许。其妻__疑曰",
+                "answer": "献"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kuí"
+              },
+              "otherInfo": {
+                "content": "以君之力，曾不能损__父之丘",
+                "answer": "魁"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān"
+              },
+              "otherInfo": {
+                "content": "如太行、王屋何？且__置土石",
+                "answer": "焉"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhū"
+              },
+              "otherInfo": {
+                "content": "杂曰：投__渤海之尾，隐土之北",
+                "answer": "诸"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "太行、王屋二山，方七百里，______",
+                "answer": "高万仞"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，方七百里，高万仞",
+                "answer": "太行、王屋二山"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "本在冀州之南，______",
+                "answer": "河阳之北"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，河阳之北",
+                "answer": "本在冀州之南"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "北山愚公者，年且九十，______",
+                "answer": "面山而居"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，年且九十，面山而居",
+                "answer": "北山愚公者"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惩山北之塞，______",
+                "answer": "出入之迂也"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，出入之迂也",
+                "answer": "惩山北之塞"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "聚室而谋曰：______",
+                "answer": "吾与汝毕力平险"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______：吾与汝毕力平险",
+                "answer": "聚室而谋曰"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "指通豫南，______，可乎",
+                "answer": "达于汉阴"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，达于汉阴，可乎",
+                "answer": "指通豫南"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杂然相许。______",
+                "answer": "其妻献疑曰"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。其妻献疑曰",
+                "answer": "杂然相许"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以君之力，______",
+                "answer": "曾不能损魁父之丘"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，曾不能损魁父之丘",
+                "answer": "以君之力"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如太行、王屋何？______",
+                "answer": "且焉置土石"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______？且焉置土石",
+                "answer": "如太行、王屋何"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杂曰：______",
+                "answer": "投诸渤海之尾，隐土之北"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______：投诸渤海之尾，隐土之北",
+                "answer": "杂曰"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂率子孙荷担者三夫，______",
+                "answer": "叩石垦壤"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，叩石垦壤",
+                "answer": "遂率子孙荷担者三夫"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "箕畚运于渤海之尾",
+                "answer": "箕畚运于渤海之尾"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______",
+                "answer": "箕畚运于渤海之尾"
+              }
+            },
+            {
+              "id": "s4l1q25",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "邻人京城氏之孀妻______",
+                "answer": "有遗男"
+              }
+            },
+            {
+              "id": "s4l1q26",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______有遗男",
+                "answer": "邻人京城氏之孀妻"
+              }
+            },
+            {
+              "id": "s4l1q27",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "始龀，跳往助之。______",
+                "answer": "寒暑易节"
+              }
+            },
+            {
+              "id": "s4l1q28",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，跳往助之。寒暑易节",
+                "answer": "始龀"
+              }
+            },
+            {
+              "id": "s4l1q29",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "河曲智叟______",
+                "answer": "笑而止之曰"
+              }
+            },
+            {
+              "id": "s4l1q30",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______笑而止之曰",
+                "answer": "河曲智叟"
+              }
+            },
+            {
+              "id": "s4l1q31",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "甚矣，______",
+                "answer": "汝之不惠"
+              }
+            },
+            {
+              "id": "s4l1q32",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，汝之不惠",
+                "answer": "甚矣"
+              }
+            },
+            {
+              "id": "s4l1q33",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以残年余力，______",
+                "answer": "曾不能毁山之一毛"
+              }
+            },
+            {
+              "id": "s4l1q34",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，曾不能毁山之一毛",
+                "answer": "以残年余力"
+              }
+            },
+            {
+              "id": "s4l1q35",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其如土石何？______",
+                "answer": "北山愚公长息曰"
+              }
+            },
+            {
+              "id": "s4l1q36",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______？北山愚公长息曰",
+                "answer": "其如土石何"
+              }
+            },
+            {
+              "id": "s4l1q37",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "汝心之固，______",
+                "answer": "固不可彻"
+              }
+            },
+            {
+              "id": "s4l1q38",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，固不可彻",
+                "answer": "汝心之固"
+              }
+            },
+            {
+              "id": "s4l1q39",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "曾不若孀妻弱子",
+                "answer": "曾不若孀妻弱子"
+              }
+            },
+            {
+              "id": "s4l1q40",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______",
+                "answer": "曾不若孀妻弱子"
+              }
+            },
+            {
+              "id": "s4l1q41",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽我之死，______",
+                "answer": "有子存焉"
+              }
+            },
+            {
+              "id": "s4l1q42",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，有子存焉",
+                "answer": "虽我之死"
+              }
+            },
+            {
+              "id": "s4l1q43",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子又生孙，______",
+                "answer": "孙又生子"
+              }
+            },
+            {
+              "id": "s4l1q44",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，孙又生子",
+                "answer": "子又生孙"
+              }
+            },
+            {
+              "id": "s4l1q45",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子子孙孙______",
+                "answer": "无穷匮也"
+              }
+            },
+            {
+              "id": "s4l1q46",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______无穷匮也",
+                "answer": "子子孙孙"
+              }
+            },
+            {
+              "id": "s4l1q47",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "而山不加增，______",
+                "answer": "何苦而不平"
+              }
+            },
+            {
+              "id": "s4l1q48",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，何苦而不平",
+                "answer": "而山不加增"
+              }
+            },
+            {
+              "id": "s4l1q49",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "河曲智叟______",
+                "answer": "亡以应"
+              }
+            },
+            {
+              "id": "s4l1q50",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______亡以应",
+                "answer": "河曲智叟"
+              }
+            },
+            {
+              "id": "s4l1q51",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "操蛇之神闻之，______",
+                "answer": "惧其不已也"
+              }
+            },
+            {
+              "id": "s4l1q52",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，惧其不已也",
+                "answer": "操蛇之神闻之"
+              }
+            },
+            {
+              "id": "s4l1q53",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "告之于帝。______",
+                "answer": "帝感其诚"
+              }
+            },
+            {
+              "id": "s4l1q54",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。帝感其诚",
+                "answer": "告之于帝"
+              }
+            },
+            {
+              "id": "s4l1q55",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "命夸娥氏二子负二山",
+                "answer": "命夸娥氏二子负二山"
+              }
+            },
+            {
+              "id": "s4l1q56",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______",
+                "answer": "命夸娥氏二子负二山"
+              }
+            },
+            {
+              "id": "s4l1q57",
+              "type": "spell",
+              "covered": [
+                [
+                  29,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一厝朔东，______",
+                "answer": "一厝雍南"
+              }
+            },
+            {
+              "id": "s4l1q58",
+              "type": "spell",
+              "covered": [
+                [
+                  29,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一厝雍南",
+                "answer": "一厝朔东"
+              }
+            },
+            {
+              "id": "s4l1q59",
+              "type": "spell",
+              "covered": [
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自此，冀之南，汉之阴，______",
+                "answer": "无陇断焉"
+              }
+            },
+            {
+              "id": "s4l1q60",
+              "type": "spell",
+              "covered": [
+                [
+                  30,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，冀之南，汉之阴，无陇断焉",
+                "answer": "自此"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "太行、王屋二山，方七百里，高万仞。______，______",
+                "answer": "本在冀州之南，河阳之北"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "本在冀州之南，河阳之北。______，______，______",
+                "answer": "北山愚公者，年且九十，面山而居"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "北山愚公者，年且九十，面山而居。______，______",
+                "answer": "惩山北之塞，出入之迂也"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惩山北之塞，出入之迂也。______：______",
+                "answer": "聚室而谋曰：吾与汝毕力平险"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "聚室而谋曰：吾与汝毕力平险。______，______，______",
+                "answer": "指通豫南，达于汉阴，可乎"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "指通豫南，达于汉阴，可乎？______。______",
+                "answer": "杂然相许。其妻献疑曰"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杂然相许。其妻献疑曰。______，______",
+                "answer": "以君之力，曾不能损魁父之丘"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以君之力，曾不能损魁父之丘。______？______",
+                "answer": "如太行、王屋何？且焉置土石"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如太行、王屋何？且焉置土石？______：______，______",
+                "answer": "杂曰：投诸渤海之尾，隐土之北"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杂曰：投诸渤海之尾，隐土之北。______，______",
+                "answer": "遂率子孙荷担者三夫，叩石垦壤"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂率子孙荷担者三夫，叩石垦壤。______",
+                "answer": "箕畚运于渤海之尾"
+              }
+            },
+            {
+              "id": "s4l2q12",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "箕畚运于渤海之尾。______，______",
+                "answer": "邻人京城氏之孀妻有遗男"
+              }
+            },
+            {
+              "id": "s4l2q13",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "邻人京城氏之孀妻有遗男。______，______。______",
+                "answer": "始龀，跳往助之。寒暑易节"
+              }
+            },
+            {
+              "id": "s4l2q14",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "始龀，跳往助之。寒暑易节。______，______",
+                "answer": "河曲智叟笑而止之曰"
+              }
+            },
+            {
+              "id": "s4l2q15",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "河曲智叟笑而止之曰。______，______",
+                "answer": "甚矣，汝之不惠"
+              }
+            },
+            {
+              "id": "s4l2q16",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "甚矣，汝之不惠。______，______",
+                "answer": "以残年余力，曾不能毁山之一毛"
+              }
+            },
+            {
+              "id": "s4l2q17",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以残年余力，曾不能毁山之一毛。______？______",
+                "answer": "其如土石何？北山愚公长息曰"
+              }
+            },
+            {
+              "id": "s4l2q18",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其如土石何？北山愚公长息曰。______，______",
+                "answer": "汝心之固，固不可彻"
+              }
+            },
+            {
+              "id": "s4l2q19",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "汝心之固，固不可彻。______",
+                "answer": "曾不若孀妻弱子"
+              }
+            },
+            {
+              "id": "s4l2q20",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "曾不若孀妻弱子。______，______",
+                "answer": "虽我之死，有子存焉"
+              }
+            },
+            {
+              "id": "s4l2q21",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽我之死，有子存焉。______，______",
+                "answer": "子又生孙，孙又生子"
+              }
+            },
+            {
+              "id": "s4l2q22",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子又生孙，孙又生子。______，______",
+                "answer": "子子孙孙无穷匮也"
+              }
+            },
+            {
+              "id": "s4l2q23",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子子孙孙无穷匮也。______，______",
+                "answer": "而山不加增，何苦而不平"
+              }
+            },
+            {
+              "id": "s4l2q24",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "而山不加增，何苦而不平？______，______",
+                "answer": "河曲智叟亡以应"
+              }
+            },
+            {
+              "id": "s4l2q25",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "河曲智叟亡以应。______，______",
+                "answer": "操蛇之神闻之，惧其不已也"
+              }
+            },
+            {
+              "id": "s4l2q26",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "操蛇之神闻之，惧其不已也。______，______",
+                "answer": "告之于帝。帝感其诚"
+              }
+            },
+            {
+              "id": "s4l2q27",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "告之于帝。帝感其诚。______",
+                "answer": "命夸娥氏二子负二山"
+              }
+            },
+            {
+              "id": "s4l2q28",
+              "type": "spell",
+              "covered": [
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "命夸娥氏二子负二山。______，______",
+                "answer": "一厝朔东，一厝雍南"
+              }
+            },
+            {
+              "id": "s4l2q29",
+              "type": "spell",
+              "covered": [
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一厝朔东，一厝雍南。______，______，______，______",
+                "answer": "自此，冀之南，汉之阴，无陇断焉"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ],
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ],
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惩山北之塞，出入之迂也",
+                  "子又生孙，孙又生子",
+                  "河曲智叟笑而止之曰",
+                  "本在冀州之南，河阳之北",
+                  "曾不若孀妻弱子",
+                  "箕畚运于渤海之尾",
+                  "以残年余力，曾不能毁山之一毛",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "北山愚公者，年且九十，面山而居",
+                  "子子孙孙无穷匮也",
+                  "命夸娥氏二子负二山",
+                  "如太行、王屋何？且焉置土石",
+                  "始龀，跳往助之。寒暑易节",
+                  "一厝朔东，一厝雍南",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "汝心之固，固不可彻",
+                  "告之于帝。帝感其诚",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "虽我之死，有子存焉",
+                  "其如土石何？北山愚公长息曰",
+                  "邻人京城氏之孀妻有遗男",
+                  "操蛇之神闻之，惧其不已也",
+                  "以君之力，曾不能损魁父之丘",
+                  "河曲智叟亡以应",
+                  "而山不加增，何苦而不平",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "杂然相许。其妻献疑曰",
+                  "甚矣，汝之不惠",
+                  "指通豫南，达于汉阴，可乎"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ],
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ],
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子子孙孙无穷匮也",
+                  "河曲智叟亡以应",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "始龀，跳往助之。寒暑易节",
+                  "以君之力，曾不能损魁父之丘",
+                  "虽我之死，有子存焉",
+                  "惩山北之塞，出入之迂也",
+                  "一厝朔东，一厝雍南",
+                  "邻人京城氏之孀妻有遗男",
+                  "其如土石何？北山愚公长息曰",
+                  "本在冀州之南，河阳之北",
+                  "而山不加增，何苦而不平",
+                  "命夸娥氏二子负二山",
+                  "甚矣，汝之不惠",
+                  "北山愚公者，年且九十，面山而居",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "子又生孙，孙又生子",
+                  "告之于帝。帝感其诚",
+                  "汝心之固，固不可彻",
+                  "箕畚运于渤海之尾",
+                  "操蛇之神闻之，惧其不已也",
+                  "曾不若孀妻弱子",
+                  "指通豫南，达于汉阴，可乎",
+                  "河曲智叟笑而止之曰",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "以残年余力，曾不能毁山之一毛",
+                  "杂然相许。其妻献疑曰",
+                  "如太行、王屋何？且焉置土石"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ],
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ],
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "河曲智叟亡以应",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "子又生孙，孙又生子",
+                  "惩山北之塞，出入之迂也",
+                  "命夸娥氏二子负二山",
+                  "杂然相许。其妻献疑曰",
+                  "曾不若孀妻弱子",
+                  "本在冀州之南，河阳之北",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "其如土石何？北山愚公长息曰",
+                  "子子孙孙无穷匮也",
+                  "始龀，跳往助之。寒暑易节",
+                  "汝心之固，固不可彻",
+                  "北山愚公者，年且九十，面山而居",
+                  "一厝朔东，一厝雍南",
+                  "以残年余力，曾不能毁山之一毛",
+                  "邻人京城氏之孀妻有遗男",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "而山不加增，何苦而不平",
+                  "箕畚运于渤海之尾",
+                  "甚矣，汝之不惠",
+                  "指通豫南，达于汉阴，可乎",
+                  "告之于帝。帝感其诚",
+                  "虽我之死，有子存焉",
+                  "操蛇之神闻之，惧其不已也",
+                  "如太行、王屋何？且焉置土石",
+                  "河曲智叟笑而止之曰",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "以君之力，曾不能损魁父之丘"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ],
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ],
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以君之力，曾不能损魁父之丘",
+                  "子子孙孙无穷匮也",
+                  "河曲智叟笑而止之曰",
+                  "本在冀州之南，河阳之北",
+                  "虽我之死，有子存焉",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "惩山北之塞，出入之迂也",
+                  "命夸娥氏二子负二山",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "北山愚公者，年且九十，面山而居",
+                  "始龀，跳往助之。寒暑易节",
+                  "其如土石何？北山愚公长息曰",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "一厝朔东，一厝雍南",
+                  "曾不若孀妻弱子",
+                  "指通豫南，达于汉阴，可乎",
+                  "子又生孙，孙又生子",
+                  "邻人京城氏之孀妻有遗男",
+                  "汝心之固，固不可彻",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "而山不加增，何苦而不平",
+                  "杂然相许。其妻献疑曰",
+                  "操蛇之神闻之，惧其不已也",
+                  "箕畚运于渤海之尾",
+                  "甚矣，汝之不惠",
+                  "如太行、王屋何？且焉置土石",
+                  "告之于帝。帝感其诚",
+                  "以残年余力，曾不能毁山之一毛",
+                  "河曲智叟亡以应",
+                  "自此，冀之南，汉之阴，无陇断焉"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ],
+                [
+                  29,
+                  1
+                ],
+                [
+                  29,
+                  2
+                ],
+                [
+                  30,
+                  1
+                ],
+                [
+                  30,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自此，冀之南，汉之阴，无陇断焉",
+                  "聚室而谋曰：吾与汝毕力平险",
+                  "子又生孙，孙又生子",
+                  "河曲智叟亡以应",
+                  "太行、王屋二山，方七百里，高万仞",
+                  "以残年余力，曾不能毁山之一毛",
+                  "北山愚公者，年且九十，面山而居",
+                  "杂然相许。其妻献疑曰",
+                  "命夸娥氏二子负二山",
+                  "惩山北之塞，出入之迂也",
+                  "曾不若孀妻弱子",
+                  "本在冀州之南，河阳之北",
+                  "其如土石何？北山愚公长息曰",
+                  "箕畚运于渤海之尾",
+                  "指通豫南，达于汉阴，可乎",
+                  "虽我之死，有子存焉",
+                  "一厝朔东，一厝雍南",
+                  "邻人京城氏之孀妻有遗男",
+                  "而山不加增，何苦而不平",
+                  "汝心之固，固不可彻",
+                  "始龀，跳往助之。寒暑易节",
+                  "如太行、王屋何？且焉置土石",
+                  "子子孙孙无穷匮也",
+                  "遂率子孙荷担者三夫，叩石垦壤",
+                  "告之于帝。帝感其诚",
+                  "甚矣，汝之不惠",
+                  "杂曰：投诸渤海之尾，隐土之北",
+                  "操蛇之神闻之，惧其不已也",
+                  "河曲智叟笑而止之曰",
+                  "以君之力，曾不能损魁父之丘"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

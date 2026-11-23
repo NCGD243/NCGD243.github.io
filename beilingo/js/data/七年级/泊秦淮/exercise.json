@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān lǒng hán shuǐ yuè lǒng shā"
+              },
+              "otherInfo": {
+                "line": "烟笼寒水月笼沙"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè bó qín huái jìn jiǔ jiā"
+              },
+              "otherInfo": {
+                "line": "夜泊秦淮近酒家"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shāng nǚ bù zhī wáng guó hèn"
+              },
+              "otherInfo": {
+                "line": "商女不知亡国恨"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gé jiāng yóu chàng hòu tíng huā"
+              },
+              "otherInfo": {
+                "line": "隔江犹唱后庭花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烟笼寒水月笼沙”中“笼”的意思是？",
+                "options": [
+                  "笼罩",
+                  "笼子",
+                  "收拢",
+                  "点燃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜泊秦淮近酒家”中“泊”的意思是？",
+                "options": [
+                  "停船靠岸",
+                  "湖泊",
+                  "漂泊流浪",
+                  "淡泊名利"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜泊秦淮近酒家”中“近”的意思是？",
+                "options": [
+                  "靠近",
+                  "亲近",
+                  "近来",
+                  "浅近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“商女不知亡国恨”中“商女”的意思是？",
+                "options": [
+                  "以卖唱为生的歌女",
+                  "经商的女子",
+                  "商人的女儿",
+                  "宫中女官"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“商女不知亡国恨”中“恨”的意思是？",
+                "options": [
+                  "遗憾",
+                  "仇恨",
+                  "怨恨",
+                  "痛恨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“隔江犹唱后庭花”中“犹”的意思是？",
+                "options": [
+                  "还，仍然",
+                  "犹豫",
+                  "如同",
+                  "尚且"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“隔江犹唱后庭花”中“后庭花”指的是？",
+                "options": [
+                  "歌曲名，南朝陈后主所作",
+                  "庭院中开的花",
+                  "后宫的花园",
+                  "一种花卉的名称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烟笼寒水月笼沙”中“寒水”的意思是？",
+                "options": [
+                  "寒冷的水面",
+                  "冬天的河水",
+                  "冰凉的水",
+                  "寒凉的水汽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜泊秦淮近酒家”中“秦淮”指的是？",
+                "options": [
+                  "秦淮河",
+                  "秦淮人家",
+                  "秦朝和淮河",
+                  "秦淮一带"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“商女不知亡国恨”中“亡国”的意思是？",
+                "options": [
+                  "国家灭亡",
+                  "逃亡国外",
+                  "亡失国土",
+                  "死亡之国"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "烟雾笼罩着寒水，月光笼罩着白沙。",
+                "options": [
+                  "烟笼寒水月笼沙",
+                  "夜泊秦淮近酒家",
+                  "商女不知亡国恨",
+                  "隔江犹唱后庭花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“烟笼寒水月笼沙”的意思是？",
+                "options": [
+                  "烟雾笼罩寒水，月光笼罩白沙，描绘秦淮河朦胧清冷的夜景",
+                  "烟雾和月光都笼罩着沙滩，写出白天水边的明亮景色",
+                  "寒水上升起烟雾，月光照在沙上，表现诗人内心的喜悦",
+                  "烟雾笼罩着寒水，月影映在沙上，说明当时天气十分晴朗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夜晚船停泊在秦淮河畔，靠近酒家。",
+                "options": [
+                  "夜泊秦淮近酒家",
+                  "烟笼寒水月笼沙",
+                  "商女不知亡国恨",
+                  "隔江犹唱后庭花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜泊秦淮近酒家”的意思是？",
+                "options": [
+                  "夜晚船停泊在秦淮河畔，靠近酒家",
+                  "夜里在秦淮河边饮酒，直到靠近酒家才停",
+                  "夜晚停船在秦淮河上，远远望见酒家",
+                  "夜里住宿在秦淮的酒家里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "歌女不懂得亡国的悲恨。",
+                "options": [
+                  "商女不知亡国恨",
+                  "隔江犹唱后庭花",
+                  "烟笼寒水月笼沙",
+                  "夜泊秦淮近酒家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“商女不知亡国恨”的意思是？",
+                "options": [
+                  "歌女不懂得亡国的悲恨",
+                  "商人的女儿不知道国家的仇恨",
+                  "歌女不知道亡国后该恨谁",
+                  "商女不记得亡国的旧恨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "隔着江水还在唱《后庭花》。",
+                "options": [
+                  "隔江犹唱后庭花",
+                  "商女不知亡国恨",
+                  "夜泊秦淮近酒家",
+                  "烟笼寒水月笼沙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“隔江犹唱后庭花”的意思是？",
+                "options": [
+                  "隔着江水还在唱《后庭花》这支曲子",
+                  "隔着江大声唱后庭的花",
+                  "在江对岸唱起庭中的花",
+                  "隔着江水唱完后又去采后庭花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月笼沙",
+                  "烟笼寒水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "近酒家",
+                  "夜泊秦淮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "亡国恨",
+                  "商女不知"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "后庭花",
+                  "隔江犹唱"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜泊秦淮近酒家",
+                  "烟笼寒水月笼沙"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "商女不知亡国恨",
+                  "夜泊秦淮近酒家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "隔江犹唱后庭花",
+                  "商女不知亡国恨"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "商女不知亡国恨",
+                  "烟笼寒水月笼沙",
+                  "隔江犹唱后庭花",
+                  "夜泊秦淮近酒家"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǒng"
+              },
+              "otherInfo": {
+                "content": "烟__寒水月笼沙",
+                "answer": "笼"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bó"
+              },
+              "otherInfo": {
+                "content": "夜__秦淮近酒家",
+                "answer": "泊"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shāng"
+              },
+              "otherInfo": {
+                "content": "__女不知亡国恨",
+                "answer": "商"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "隔江犹唱后__花",
+                "answer": "庭"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán"
+              },
+              "otherInfo": {
+                "content": "烟笼__水月笼沙",
+                "answer": "寒"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huái"
+              },
+              "otherInfo": {
+                "content": "夜泊秦__近酒家",
+                "answer": "淮"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wáng"
+              },
+              "otherInfo": {
+                "content": "商女不知__国恨",
+                "answer": "亡"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yóu"
+              },
+              "otherInfo": {
+                "content": "隔江__唱后庭花",
+                "answer": "犹"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shā"
+              },
+              "otherInfo": {
+                "content": "烟笼寒水月笼__",
+                "answer": "沙"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chàng"
+              },
+              "otherInfo": {
+                "content": "隔江犹__后庭花",
+                "answer": "唱"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "烟笼寒水月笼沙，______",
+                "answer": "夜泊秦淮近酒家"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夜泊秦淮近酒家",
+                "answer": "烟笼寒水月笼沙"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "商女不知亡国恨，______",
+                "answer": "隔江犹唱后庭花"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，隔江犹唱后庭花",
+                "answer": "商女不知亡国恨"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "烟笼寒水月笼沙，夜泊秦淮近酒家。______，______",
+                "answer": "商女不知亡国恨，隔江犹唱后庭花"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜泊秦淮近酒家，______，______",
+                "answer": "商女不知亡国恨，隔江犹唱后庭花"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "商女不知亡国恨",
+                  "烟笼寒水月笼沙",
+                  "隔江犹唱后庭花",
+                  "夜泊秦淮近酒家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜泊秦淮近酒家",
+                  "隔江犹唱后庭花",
+                  "烟笼寒水月笼沙",
+                  "商女不知亡国恨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "隔江犹唱后庭花",
+                  "商女不知亡国恨",
+                  "夜泊秦淮近酒家",
+                  "烟笼寒水月笼沙"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烟笼寒水月笼沙",
+                  "隔江犹唱后庭花",
+                  "夜泊秦淮近酒家",
+                  "商女不知亡国恨"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "商女不知亡国恨",
+                  "夜泊秦淮近酒家",
+                  "烟笼寒水月笼沙",
+                  "隔江犹唱后庭花"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

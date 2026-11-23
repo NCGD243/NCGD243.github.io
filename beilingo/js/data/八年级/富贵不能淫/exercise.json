@@ -1,0 +1,1741 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐng chūn yuē gōng sūn yǎn qǐ bù chéng rén zhī yǒng hū"
+              },
+              "otherInfo": {
+                "line": "景春曰公孙衍张仪岂不诚大丈夫哉"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī nù ér zhū hóu jù ān jū ér tiān xià xī"
+              },
+              "otherInfo": {
+                "line": "一怒而诸侯惧安居而天下熄"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mèng zǐ yuē shì yān dé wéi dà zhàng fū hū"
+              },
+              "otherInfo": {
+                "line": "孟子曰是焉得为大丈夫乎"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǐ wèi xué lǐ hū zhàng fū zhī guān yě"
+              },
+              "otherInfo": {
+                "line": "子未学礼乎丈夫之冠也"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù mìng zhī mǔ mìng zhī nǚ zǐ zhī jià yě"
+              },
+              "otherInfo": {
+                "line": "父命之母命之女子之嫁也"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǔ mìng zhī wǎng zhī sòng zhī mén jiè zhī yuē"
+              },
+              "otherInfo": {
+                "line": "母命之往之送之门戒之曰"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎng zhī rǔ jiā bì jìng bì jiè wú wéi fū zǐ"
+              },
+              "otherInfo": {
+                "line": "往之女家必敬必戒无违夫子"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ shùn wéi zhèng zhě qiè fù zhī dào yě"
+              },
+              "otherInfo": {
+                "line": "以顺为正者妾妇之道也"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jū tiān xià zhī guǎng jū lì tiān xià zhī zhèng wèi"
+              },
+              "otherInfo": {
+                "line": "居天下之广居立天下之正位"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xíng tiān xià zhī dà dào dé zhì yǔ mín yóu zhī"
+              },
+              "otherInfo": {
+                "line": "行天下之大道得志与民由之"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù dé zhì dú xíng qí dào fù guì bù néng yín"
+              },
+              "otherInfo": {
+                "line": "不得志独行其道富贵不能淫"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pín jiàn bù néng yí wēi wǔ bù néng qū cǐ zhī wèi dà zhàng fū"
+              },
+              "otherInfo": {
+                "line": "贫贱不能移威武不能屈此之谓大丈夫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“岂不诚大丈夫哉”中“诚”的意思是？",
+                "options": [
+                  "确实",
+                  "诚心",
+                  "诚实",
+                  "如果"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“安居而天下熄”中“熄”的意思是？",
+                "options": [
+                  "熄灭",
+                  "太平",
+                  "休息",
+                  "停止"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是焉得为大丈夫乎”中“焉”的意思是？",
+                "options": [
+                  "哪里",
+                  "怎么",
+                  "于此",
+                  "于是"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“丈夫之冠也”中“冠”的意思是？",
+                "options": [
+                  "帽子",
+                  "冠军",
+                  "行冠礼",
+                  "戴帽"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“往之女家”中“女”的意思是？",
+                "options": [
+                  "女子",
+                  "女儿",
+                  "你",
+                  "同“汝”，你"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“以顺为正者”中“正”的意思是？",
+                "options": [
+                  "正确",
+                  "正直",
+                  "准则",
+                  "纠正"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“居天下之广居”中第一个“居”的意思是？",
+                "options": [
+                  "居住",
+                  "占据",
+                  "处于",
+                  "住所"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“得志与民由之”中“由”的意思是？",
+                "options": [
+                  "自由",
+                  "缘由",
+                  "遵从",
+                  "经过"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“富贵不能淫”中“淫”的意思是？",
+                "options": [
+                  "淫乱",
+                  "迷惑",
+                  "过度",
+                  "放纵"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“威武不能屈”中“屈”的意思是？",
+                "options": [
+                  "委屈",
+                  "屈服",
+                  "使……屈服",
+                  "弯曲"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "景春说公孙衍、张仪难道不是真正的大丈夫吗？",
+                "options": [
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "一怒而诸侯惧安居而天下熄",
+                  "孟子曰是焉得为大丈夫乎",
+                  "子未学礼乎丈夫之冠也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一怒而诸侯惧安居而天下熄”的意思是？",
+                "options": [
+                  "他们一发怒诸侯就害怕，他们安静下来天下就太平",
+                  "他们一发怒诸侯就害怕，他们安居家中天下就熄灭战火",
+                  "他们一愤怒诸侯就恐惧，他们安睡天下就停止争斗",
+                  "他们一发怒诸侯就畏惧，他们安居天下就休息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孟子说这怎么能算大丈夫呢？",
+                "options": [
+                  "孟子曰是焉得为大丈夫乎",
+                  "子未学礼乎丈夫之冠也",
+                  "父命之母命之女子之嫁也",
+                  "以顺为正者妾妇之道也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“子未学礼乎丈夫之冠也”的意思是？",
+                "options": [
+                  "你没有学过礼吗？男子行冠礼的时候",
+                  "你没有学过礼吗？男子戴帽子的时候",
+                  "你没有学过礼吗？丈夫做官的时候",
+                  "你没有学过礼吗？男子成年的时候"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "父亲给予训导，母亲给予训导，女子出嫁的时候。",
+                "options": [
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“母命之往之送之门戒之曰”的意思是？",
+                "options": [
+                  "母亲训导她，送她到门口，告诫她说",
+                  "母亲命令她，前往送到门口，警告她说",
+                  "母亲吩咐她，去时送到门前，劝诫她说",
+                  "母亲教导她，走时送出大门，提醒她说"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "到了你丈夫家，一定要恭敬，一定要谨慎，不要违背你的丈夫。",
+                "options": [
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“以顺为正者妾妇之道也”的意思是？",
+                "options": [
+                  "把顺从当作准则的，是妇女遵循的规则",
+                  "把顺利当作正确的，是妻妾的做法",
+                  "以和顺为正直的，是女子之道",
+                  "把顺从作为正道的，是妾妇的途径"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "住在天下最宽广的住宅里，站在天下最正确的位置上。",
+                "options": [
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“行天下之大道得志与民由之”的意思是？",
+                "options": [
+                  "走天下最宽广的道路，得志的时候和百姓一同遵循",
+                  "走天下的大路，实现志向和百姓一起走",
+                  "行天下的大道，得志时与人民自由",
+                  "走天下的大道，得志后让百姓跟从"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不得志的时候独自走自己的道路，富贵不能使他迷惑。",
+                "options": [
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“贫贱不能移威武不能屈此之谓大丈夫”的意思是？",
+                "options": [
+                  "贫贱不能使他改变，威武不能使他屈服，这样才叫做大丈夫",
+                  "贫穷不能使他移动，威严不能使他委屈，这才叫大丈夫",
+                  "贫贱不能使他迁移，武力不能使他弯曲，这就是大丈夫",
+                  "贫困不能使他改变，威势不能使他退缩，这称为大丈夫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一怒而诸侯惧安居而天下熄",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子未学礼乎丈夫之冠也",
+                  "孟子曰是焉得为大丈夫乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "父命之母命之女子之嫁也",
+                  "子未学礼乎丈夫之冠也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "往之女家必敬必戒无违夫子",
+                  "母命之往之送之门戒之曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以顺为正者妾妇之道也",
+                  "往之女家必敬必戒无违夫子"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "行天下之大道得志与民由之",
+                  "居天下之广居立天下之正位"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不得志独行其道富贵不能淫",
+                  "行天下之大道得志与民由之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "不得志独行其道富贵不能淫"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孟子曰是焉得为大丈夫乎",
+                  "一怒而诸侯惧安居而天下熄",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "子未学礼乎丈夫之冠也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "父命之母命之女子之嫁也",
+                  "子未学礼乎丈夫之冠也",
+                  "孟子曰是焉得为大丈夫乎",
+                  "一怒而诸侯惧安居而天下熄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "往之女家必敬必戒无违夫子",
+                  "母命之往之送之门戒之曰",
+                  "父命之母命之女子之嫁也",
+                  "子未学礼乎丈夫之冠也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以顺为正者妾妇之道也",
+                  "往之女家必敬必戒无违夫子",
+                  "母命之往之送之门戒之曰",
+                  "父命之母命之女子之嫁也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "行天下之大道得志与民由之",
+                  "居天下之广居立天下之正位",
+                  "以顺为正者妾妇之道也",
+                  "往之女家必敬必戒无违夫子"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不得志独行其道富贵不能淫",
+                  "行天下之大道得志与民由之",
+                  "居天下之广居立天下之正位",
+                  "以顺为正者妾妇之道也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "不得志独行其道富贵不能淫",
+                  "行天下之大道得志与民由之",
+                  "居天下之广居立天下之正位"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一怒而诸侯惧安居而天下熄",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "孟子曰是焉得为大丈夫乎",
+                  "子未学礼乎丈夫之冠也",
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "景春曰公孙衍张仪岂不__大丈夫哉",
+                "answer": "诚"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù"
+              },
+              "otherInfo": {
+                "content": "一怒而诸侯__安居而天下熄",
+                "answer": "惧"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān"
+              },
+              "otherInfo": {
+                "content": "孟子曰是__得为大丈夫乎",
+                "answer": "焉"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān"
+              },
+              "otherInfo": {
+                "content": "子未学礼乎丈夫之__也",
+                "answer": "冠"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mìng"
+              },
+              "otherInfo": {
+                "content": "父__之母命之女子之嫁也",
+                "answer": "命"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiè"
+              },
+              "otherInfo": {
+                "content": "母命之往之送之门__之曰",
+                "answer": "戒"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "往之女家必敬必戒无__夫子",
+                "answer": "违"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shùn"
+              },
+              "otherInfo": {
+                "content": "以__为正者妾妇之道也",
+                "answer": "顺"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guǎng"
+              },
+              "otherInfo": {
+                "content": "居天下之__居立天下之正位",
+                "answer": "广"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "不得志独行其道富贵不能__",
+                "answer": "淫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "景春曰公孙衍张仪岂不诚大丈夫哉，______。",
+                "answer": "一怒而诸侯惧安居而天下熄"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一怒而诸侯惧安居而天下熄。",
+                "answer": "景春曰公孙衍张仪岂不诚大丈夫哉"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孟子曰是焉得为大丈夫乎，______。",
+                "answer": "子未学礼乎丈夫之冠也"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，子未学礼乎丈夫之冠也。",
+                "answer": "孟子曰是焉得为大丈夫乎"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "父命之母命之女子之嫁也，______。",
+                "answer": "母命之往之送之门戒之曰"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，母命之往之送之门戒之曰。",
+                "answer": "父命之母命之女子之嫁也"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "往之女家必敬必戒无违夫子，______。",
+                "answer": "以顺为正者妾妇之道也"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，以顺为正者妾妇之道也。",
+                "answer": "往之女家必敬必戒无违夫子"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "居天下之广居立天下之正位，______。",
+                "answer": "行天下之大道得志与民由之"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，行天下之大道得志与民由之。",
+                "answer": "居天下之广居立天下之正位"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不得志独行其道富贵不能淫，______。",
+                "answer": "贫贱不能移威武不能屈此之谓大丈夫"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，贫贱不能移威武不能屈此之谓大丈夫。",
+                "answer": "不得志独行其道富贵不能淫"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "景春曰公孙衍张仪岂不诚大丈夫哉，一怒而诸侯惧安居而天下熄。______，______。",
+                "answer": "孟子曰是焉得为大丈夫乎子未学礼乎丈夫之冠也"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孟子曰是焉得为大丈夫乎，子未学礼乎丈夫之冠也。______，______。",
+                "answer": "父命之母命之女子之嫁也母命之往之送之门戒之曰"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "父命之母命之女子之嫁也，母命之往之送之门戒之曰。______，______。",
+                "answer": "往之女家必敬必戒无违夫子以顺为正者妾妇之道也"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "往之女家必敬必戒无违夫子，以顺为正者妾妇之道也。______，______。",
+                "answer": "居天下之广居立天下之正位行天下之大道得志与民由之"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "居天下之广居立天下之正位，行天下之大道得志与民由之。______，______。",
+                "answer": "不得志独行其道富贵不能淫贫贱不能移威武不能屈此之谓大丈夫"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "居天下之广居立天下之正位，行天下之大道得志与民由之。______，______。",
+                "answer": "不得志独行其道富贵不能淫贫贱不能移威武不能屈此之谓大丈夫"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一怒而诸侯惧安居而天下熄",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "子未学礼乎丈夫之冠也",
+                  "孟子曰是焉得为大丈夫乎",
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孟子曰是焉得为大丈夫乎",
+                  "一怒而诸侯惧安居而天下熄",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "子未学礼乎丈夫之冠也",
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子未学礼乎丈夫之冠也",
+                  "孟子曰是焉得为大丈夫乎",
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "一怒而诸侯惧安居而天下熄"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也",
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "一怒而诸侯惧安居而天下熄",
+                  "孟子曰是焉得为大丈夫乎",
+                  "子未学礼乎丈夫之冠也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "居天下之广居立天下之正位",
+                  "行天下之大道得志与民由之",
+                  "不得志独行其道富贵不能淫",
+                  "贫贱不能移威武不能屈此之谓大丈夫",
+                  "景春曰公孙衍张仪岂不诚大丈夫哉",
+                  "一怒而诸侯惧安居而天下熄",
+                  "孟子曰是焉得为大丈夫乎",
+                  "子未学礼乎丈夫之冠也",
+                  "父命之母命之女子之嫁也",
+                  "母命之往之送之门戒之曰",
+                  "往之女家必敬必戒无违夫子",
+                  "以顺为正者妾妇之道也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

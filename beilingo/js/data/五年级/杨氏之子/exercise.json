@@ -1,0 +1,1618 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liáng guó yáng shì zǐ jiǔ suì"
+              },
+              "otherInfo": {
+                "line": "梁国杨氏子九岁"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shèn cōng huì"
+              },
+              "otherInfo": {
+                "line": "甚聪惠"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǒng jūn píng yì qí fù"
+              },
+              "otherInfo": {
+                "line": "孔君平诣其父"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù bù zài"
+              },
+              "otherInfo": {
+                "line": "父不在"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǎi hū ér chū"
+              },
+              "otherInfo": {
+                "line": "乃呼儿出"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi shè guǒ"
+              },
+              "otherInfo": {
+                "line": "为设果"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guǒ yǒu yáng méi"
+              },
+              "otherInfo": {
+                "line": "果有杨梅"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǒng zhǐ yǐ shì ér"
+              },
+              "otherInfo": {
+                "line": "孔指以示儿"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ shì jūn jiā guǒ"
+              },
+              "otherInfo": {
+                "line": "此是君家果"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér yìng shēng dá yuē"
+              },
+              "otherInfo": {
+                "line": "儿应声答曰"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi wén kǒng què shì fū zǐ jiā qín"
+              },
+              "otherInfo": {
+                "line": "未闻孔雀是夫子家禽"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“甚聪惠”中“惠”的意思是？",
+                "options": [
+                  "同“慧”，智慧",
+                  "恩惠，好处",
+                  "温和，柔顺",
+                  "赠送，给予"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孔君平诣其父”中“诣”的意思是？",
+                "options": [
+                  "拜访",
+                  "到达",
+                  "学问所达到的程度",
+                  "前往朝廷"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乃呼儿出”中“乃”的意思是？",
+                "options": [
+                  "于是，就",
+                  "竟然",
+                  "你的",
+                  "是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为设果”中“设”的意思是？",
+                "options": [
+                  "摆放，摆设",
+                  "设立，建立",
+                  "假设",
+                  "设计"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孔指以示儿”中“示”的意思是？",
+                "options": [
+                  "给……看",
+                  "表示",
+                  "示范",
+                  "告示"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“此是君家果”中“君”的意思是？",
+                "options": [
+                  "对对方的尊称，您",
+                  "君主，帝王",
+                  "君子",
+                  "封号"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“儿应声答曰”中“应声”的意思是？",
+                "options": [
+                  "随着声音，马上",
+                  "答应一声",
+                  "大声回应",
+                  "应和声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“未闻孔雀是夫子家禽”中“闻”的意思是？",
+                "options": [
+                  "听说",
+                  "闻到气味",
+                  "闻名",
+                  "见闻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“未闻孔雀是夫子家禽”中“夫子”的意思是？",
+                "options": [
+                  "对男子的敬称，您",
+                  "老师",
+                  "孔子",
+                  "有学问的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“梁国杨氏子九岁”中“氏”的意思是？",
+                "options": [
+                  "姓氏，表示家族",
+                  "古代贵族标志宗族系统的称号",
+                  "对已婚妇女的称呼",
+                  "官名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "梁国有一户姓杨的人家，家里有个九岁的儿子。",
+                "options": [
+                  "梁国杨氏子九岁",
+                  "孔君平诣其父",
+                  "父不在，乃呼儿出",
+                  "为设果，果有杨梅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“甚聪惠”的意思是？",
+                "options": [
+                  "非常聪明，有智慧",
+                  "十分恩惠，待人宽厚",
+                  "特别温和，性情柔顺",
+                  "很有学问，知书达理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孔君平来拜访他的父亲。",
+                "options": [
+                  "孔君平诣其父",
+                  "父不在，乃呼儿出",
+                  "为设果，果有杨梅",
+                  "孔指以示儿曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“父不在，乃呼儿出”的意思是？",
+                "options": [
+                  "父亲不在家，于是把孩子叫出来",
+                  "父亲不在家，就自己出去了",
+                  "父亲不在了，于是叫儿子出去",
+                  "父亲不让叫，孩子自己跑出来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孩子为孔君平摆上水果，水果中有杨梅。",
+                "options": [
+                  "为设果，果有杨梅",
+                  "孔指以示儿曰",
+                  "此是君家果",
+                  "儿应声答曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“孔指以示儿曰”的意思是？",
+                "options": [
+                  "孔君平指着杨梅给孩子看，说",
+                  "孔君平指着孩子给杨梅看，说",
+                  "孔君平指着果子给客人看，说",
+                  "孔君平指着孩子对父亲说"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这是你家的果子。",
+                "options": [
+                  "此是君家果",
+                  "未闻孔雀是夫子家禽",
+                  "儿应声答曰",
+                  "孔指以示儿曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此是君家果”的意思是？",
+                "options": [
+                  "这是您家的果子",
+                  "这是君子家的果子",
+                  "这是君王赏赐的果子",
+                  "这是您家种的果树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "孩子马上回答说。",
+                "options": [
+                  "儿应声答曰",
+                  "未闻孔雀是夫子家禽",
+                  "此是君家果",
+                  "孔指以示儿曰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“未闻孔雀是夫子家禽”的意思是？",
+                "options": [
+                  "没有听说过孔雀是您家的鸟",
+                  "没有见过孔雀是您家养的禽",
+                  "不曾听说孔雀是夫子家的家禽",
+                  "没有听说孔雀是您家的家禽鸟兽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "没有听说过孔雀是您家的鸟。",
+                "options": [
+                  "未闻孔雀是夫子家禽",
+                  "此是君家果",
+                  "儿应声答曰",
+                  "梁国杨氏子九岁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“梁国杨氏子九岁”的意思是？",
+                "options": [
+                  "梁国姓杨的人家有个九岁的儿子",
+                  "梁国杨家第九个儿子",
+                  "梁国杨氏的儿子九岁那年",
+                  "梁国杨家的孩子排行第九"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "甚聪惠",
+                  "梁国杨氏子九岁"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔君平诣其父",
+                  "父不在"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乃呼儿出",
+                  "为设果"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "果有杨梅",
+                  "孔指以示儿"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此是君家果",
+                  "儿应声答曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未闻孔雀是夫子家禽",
+                  "梁国杨氏子九岁",
+                  "甚聪惠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "父不在",
+                  "孔君平诣其父",
+                  "乃呼儿出"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为设果",
+                  "乃呼儿出",
+                  "果有杨梅"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔指以示儿",
+                  "果有杨梅",
+                  "此是君家果"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿应声答曰",
+                  "此是君家果",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为设果",
+                  "梁国杨氏子九岁",
+                  "孔君平诣其父",
+                  "父不在",
+                  "乃呼儿出",
+                  "甚聪惠",
+                  "果有杨梅",
+                  "孔指以示儿",
+                  "此是君家果",
+                  "儿应声答曰",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liáng"
+              },
+              "otherInfo": {
+                "content": "__国杨氏子九岁",
+                "answer": "梁"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huì"
+              },
+              "otherInfo": {
+                "content": "甚聪__",
+                "answer": "惠"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "孔君平__其父",
+                "answer": "诣"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǎi"
+              },
+              "otherInfo": {
+                "content": "父不在，__呼儿出",
+                "answer": "乃"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shè"
+              },
+              "otherInfo": {
+                "content": "为__果",
+                "answer": "设"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng"
+              },
+              "otherInfo": {
+                "content": "果有__梅",
+                "answer": "杨"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì"
+              },
+              "otherInfo": {
+                "content": "孔指以__儿",
+                "answer": "示"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jūn"
+              },
+              "otherInfo": {
+                "content": "此是__家果",
+                "answer": "君"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yìng"
+              },
+              "otherInfo": {
+                "content": "儿__声答曰",
+                "answer": "应"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qín"
+              },
+              "otherInfo": {
+                "content": "未闻孔雀是夫子家__",
+                "answer": "禽"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "梁国杨氏子九岁，______",
+                "answer": "甚聪惠"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，甚聪惠",
+                "answer": "梁国杨氏子九岁"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔君平诣其父，______",
+                "answer": "父不在"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，父不在",
+                "answer": "孔君平诣其父"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乃呼儿出，______",
+                "answer": "为设果"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，为设果",
+                "answer": "乃呼儿出"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "果有杨梅，______",
+                "answer": "孔指以示儿"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，孔指以示儿",
+                "answer": "果有杨梅"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此是君家果，______",
+                "answer": "儿应声答曰"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，儿应声答曰",
+                "answer": "此是君家果"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "未闻孔雀是夫子家禽，______",
+                "answer": "未闻孔雀是夫子家禽"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "梁国杨氏子九岁，甚聪惠。______，______。",
+                "answer": "孔君平诣其父，父不在"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孔君平诣其父，父不在。______，______。",
+                "answer": "乃呼儿出，为设果"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乃呼儿出，为设果。______，______。",
+                "answer": "果有杨梅，孔指以示儿"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "果有杨梅，孔指以示儿。______，______。",
+                "answer": "此是君家果，儿应声答曰"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此是君家果，儿应声答曰。______，______。",
+                "answer": "未闻孔雀是夫子家禽，未闻孔雀是夫子家禽"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为设果",
+                  "梁国杨氏子九岁",
+                  "孔君平诣其父",
+                  "父不在",
+                  "乃呼儿出",
+                  "甚聪惠",
+                  "果有杨梅",
+                  "孔指以示儿",
+                  "此是君家果",
+                  "儿应声答曰",
+                  "未闻孔雀是夫子家禽",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "孔指以示儿",
+                  "此是君家果",
+                  "梁国杨氏子九岁",
+                  "乃呼儿出",
+                  "未闻孔雀是夫子家禽",
+                  "父不在",
+                  "果有杨梅",
+                  "甚聪惠",
+                  "孔君平诣其父",
+                  "儿应声答曰",
+                  "为设果",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "儿应声答曰",
+                  "果有杨梅",
+                  "父不在",
+                  "梁国杨氏子九岁",
+                  "为设果",
+                  "孔君平诣其父",
+                  "未闻孔雀是夫子家禽",
+                  "乃呼儿出",
+                  "此是君家果",
+                  "甚聪惠",
+                  "孔指以示儿",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未闻孔雀是夫子家禽",
+                  "此是君家果",
+                  "孔君平诣其父",
+                  "为设果",
+                  "甚聪惠",
+                  "儿应声答曰",
+                  "梁国杨氏子九岁",
+                  "孔指以示儿",
+                  "父不在",
+                  "果有杨梅",
+                  "乃呼儿出",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乃呼儿出",
+                  "未闻孔雀是夫子家禽",
+                  "孔指以示儿",
+                  "梁国杨氏子九岁",
+                  "儿应声答曰",
+                  "为设果",
+                  "父不在",
+                  "此是君家果",
+                  "甚聪惠",
+                  "果有杨梅",
+                  "孔君平诣其父",
+                  "未闻孔雀是夫子家禽"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

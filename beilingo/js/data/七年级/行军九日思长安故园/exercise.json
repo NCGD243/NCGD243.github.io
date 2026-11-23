@@ -1,0 +1,761 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáng yù dēng gāo qù"
+              },
+              "otherInfo": {
+                "line": "强欲登高去"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú rén sòng jiǔ lái"
+              },
+              "otherInfo": {
+                "line": "无人送酒来"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo lián gù yuán jú"
+              },
+              "otherInfo": {
+                "line": "遥怜故园菊"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng bàng zhàn chǎng kāi"
+              },
+              "otherInfo": {
+                "line": "应傍战场开"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“强欲”的意思是？",
+                "options": [
+                  "勉强想要",
+                  "强壮有力",
+                  "强迫别人",
+                  "坚决拒绝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“登高”的意思是？",
+                "options": [
+                  "重阳节登高的习俗",
+                  "登上高处眺望远方",
+                  "攀登山峰锻炼身体",
+                  "升官发财的比喻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“送酒”的意思是？",
+                "options": [
+                  "送来美酒",
+                  "送别饮酒",
+                  "赠送酒器",
+                  "运送酒水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遥怜”的意思是？",
+                "options": [
+                  "远远地怜惜",
+                  "遥远得可怜",
+                  "远远地喜爱",
+                  "遥望而怜悯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故园”的意思是？",
+                "options": [
+                  "故乡的家园",
+                  "旧时的花园",
+                  "已经荒废的园子",
+                  "朋友家的庭院"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“傍”的意思是？",
+                "options": [
+                  "靠近",
+                  "依靠",
+                  "傍晚",
+                  "陪伴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“战场”的意思是？",
+                "options": [
+                  "交战的地方",
+                  "打猎的场所",
+                  "练兵的空地",
+                  "比武的擂台"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“应”的意思是？",
+                "options": [
+                  "应当",
+                  "答应",
+                  "回应",
+                  "应该责备"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“开”的意思是？",
+                "options": [
+                  "开放",
+                  "开始",
+                  "开辟",
+                  "分开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“九日”的意思是？",
+                "options": [
+                  "农历九月初九重阳节",
+                  "九月九日这一天",
+                  "第九个日子",
+                  "九个太阳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "重阳佳节，我勉强想要去登高，却没有人送酒来。",
+                "options": [
+                  "强欲登高去，无人送酒来",
+                  "遥怜故园菊，应傍战场开",
+                  "待到重阳日，还来就菊花",
+                  "独在异乡为异客，每逢佳节倍思亲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“强欲登高去”的意思是？",
+                "options": [
+                  "勉强想要去登高，写出战乱中无心过节的无奈",
+                  "身体强壮，想要登上高处",
+                  "强迫自己离开家乡去登高",
+                  "坚决要登上高处远望故乡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我远远地怜惜故乡园中的菊花，它应当正靠近战场开放。",
+                "options": [
+                  "遥怜故园菊，应傍战场开",
+                  "强欲登高去，无人送酒来",
+                  "不是花中偏爱菊，此花开尽更无花",
+                  "丛菊两开他日泪，孤舟一系故园心"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无人送酒来”的意思是？",
+                "options": [
+                  "没有人送酒来，暗用陶渊明重阳得酒的典故写处境凄凉",
+                  "没有人来送别，只好独自饮酒",
+                  "送来的酒没有人喝",
+                  "没有人送酒，是因为酒已经喝完了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无人送酒来",
+                  "强欲登高去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "应傍战场开",
+                  "遥怜故园菊"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥怜故园菊",
+                  "无人送酒来",
+                  "强欲登高去",
+                  "应傍战场开"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "应傍战场开",
+                  "强欲登高去",
+                  "遥怜故园菊",
+                  "无人送酒来"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáng"
+              },
+              "otherInfo": {
+                "content": "__欲登高去",
+                "answer": "强"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sòng"
+              },
+              "otherInfo": {
+                "content": "无人__酒来",
+                "answer": "送"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "遥__故园菊",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàng"
+              },
+              "otherInfo": {
+                "content": "应__战场开",
+                "answer": "傍"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "强欲登高去，______",
+                "answer": "无人送酒来"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无人送酒来",
+                "answer": "强欲登高去"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遥怜故园菊，______",
+                "answer": "应傍战场开"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，应傍战场开",
+                "answer": "遥怜故园菊"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "强欲登高去，无人送酒来。______，______。",
+                "answer": "遥怜故园菊，应傍战场开"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "应傍战场开",
+                  "强欲登高去",
+                  "遥怜故园菊",
+                  "无人送酒来"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥怜故园菊",
+                  "无人送酒来",
+                  "应傍战场开",
+                  "强欲登高去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无人送酒来",
+                  "应傍战场开",
+                  "强欲登高去",
+                  "遥怜故园菊"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "强欲登高去",
+                  "应傍战场开",
+                  "无人送酒来",
+                  "遥怜故园菊"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遥怜故园菊",
+                  "强欲登高去",
+                  "应傍战场开",
+                  "无人送酒来"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

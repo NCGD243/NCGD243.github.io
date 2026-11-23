@@ -1,0 +1,993 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rén xián guì huā luò"
+              },
+              "otherInfo": {
+                "line": "人闲桂花落"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè jìng chūn shān kōng"
+              },
+              "otherInfo": {
+                "line": "夜静春山空"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè chū jīng shān niǎo"
+              },
+              "otherInfo": {
+                "line": "月出惊山鸟"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí míng chūn jiàn zhōng"
+              },
+              "otherInfo": {
+                "line": "时鸣春涧中"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人闲桂花落”中“闲”的意思是？",
+                "options": [
+                  "安静、悠闲",
+                  "空闲的时间",
+                  "与正事无关的",
+                  "平常、普通"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜静春山空”中“空”的意思是？",
+                "options": [
+                  "空旷、寂静",
+                  "天空",
+                  "白白地",
+                  "空洞无内容"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月出惊山鸟”中“惊”的意思是？",
+                "options": [
+                  "惊动、使受惊",
+                  "惊喜",
+                  "惊讶",
+                  "惊慌"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时鸣春涧中”中“时”的意思是？",
+                "options": [
+                  "不时、偶尔",
+                  "当时",
+                  "时常、经常",
+                  "按时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时鸣春涧中”中“涧”的意思是？",
+                "options": [
+                  "山间流水的沟",
+                  "山涧的石头",
+                  "溪边的草地",
+                  "山谷中的小路"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人闲桂花落”中“桂花”在诗中指？",
+                "options": [
+                  "春桂的花",
+                  "秋天的桂花",
+                  "桂花树的叶子",
+                  "桂花的香气"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月出惊山鸟”中“月出”的意思是？",
+                "options": [
+                  "月亮升起",
+                  "月亮出来照亮",
+                  "月亮离开云层",
+                  "月亮落下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜静春山空”中“春山”的意思是？",
+                "options": [
+                  "春天的山",
+                  "春天的山林",
+                  "春夜的山",
+                  "春天的山谷"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时鸣春涧中”中“鸣”的意思是？",
+                "options": [
+                  "鸟叫",
+                  "鸣叫的鸟",
+                  "发出声响",
+                  "鸣谢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人闲桂花落”中“落”的意思是？",
+                "options": [
+                  "飘落",
+                  "落下",
+                  "降落",
+                  "失落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "人声寂静，桂花轻轻飘落。",
+                "options": [
+                  "人闲桂花落",
+                  "夜静春山空",
+                  "月出惊山鸟",
+                  "时鸣春涧中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“人闲桂花落”的意思是？",
+                "options": [
+                  "人心闲静，桂花悄然飘落",
+                  "人闲下来，去摘桂花",
+                  "人闲着无事，看桂花落下",
+                  "人闲散，桂花落了一地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夜色静谧，春天的山野显得空旷寂静。",
+                "options": [
+                  "夜静春山空",
+                  "人闲桂花落",
+                  "月出惊山鸟",
+                  "时鸣春涧中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜静春山空”的意思是？",
+                "options": [
+                  "夜已深静，春山显得空旷",
+                  "夜里安静，春山空无一人",
+                  "春夜寂静，山中空无一物",
+                  "夜晚静下来，春山空空荡荡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "月亮升起，惊动了山中的鸟儿。",
+                "options": [
+                  "月出惊山鸟",
+                  "时鸣春涧中",
+                  "人闲桂花落",
+                  "夜静春山空"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“月出惊山鸟”的意思是？",
+                "options": [
+                  "月亮升起，惊动了山中的鸟",
+                  "月亮出来，山鸟受惊飞走",
+                  "月光照出，山鸟被惊醒",
+                  "月出东方，山鸟惊叫不已"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鸟儿不时在春天的山涧中鸣叫。",
+                "options": [
+                  "时鸣春涧中",
+                  "月出惊山鸟",
+                  "人闲桂花落",
+                  "夜静春山空"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“时鸣春涧中”的意思是？",
+                "options": [
+                  "不时在春天的山涧中鸣叫",
+                  "时常在春涧中鸣叫",
+                  "按时在春涧中鸣叫",
+                  "偶尔在春山中鸣叫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桂花落人闲",
+                  "夜静春山空"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春山空夜静",
+                  "月出惊山鸟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惊山鸟月出",
+                  "时鸣春涧中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人闲桂花落",
+                  "春山空夜静",
+                  "月出惊山鸟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜静春山空",
+                  "惊山鸟月出",
+                  "时鸣春涧中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时鸣春涧中",
+                  "人闲桂花落",
+                  "月出惊山鸟",
+                  "夜静春山空"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xián"
+              },
+              "otherInfo": {
+                "content": "人__桂花落",
+                "answer": "闲"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "夜__春山空",
+                "answer": "静"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng"
+              },
+              "otherInfo": {
+                "content": "月出__山鸟",
+                "answer": "惊"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "时鸣春__中",
+                "answer": "涧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guì"
+              },
+              "otherInfo": {
+                "content": "人闲__花落",
+                "answer": "桂"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kōng"
+              },
+              "otherInfo": {
+                "content": "夜静春山__",
+                "answer": "空"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chū"
+              },
+              "otherInfo": {
+                "content": "月__惊山鸟",
+                "answer": "出"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "时__春涧中",
+                "answer": "鸣"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "人闲桂花__",
+                "answer": "落"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn"
+              },
+              "otherInfo": {
+                "content": "时鸣__涧中",
+                "answer": "春"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "人闲桂花落，______",
+                "answer": "夜静春山空"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夜静春山空",
+                "answer": "人闲桂花落"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月出惊山鸟，______",
+                "answer": "时鸣春涧中"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，时鸣春涧中",
+                "answer": "月出惊山鸟"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "人闲桂花落，夜静春山空。______，______",
+                "answer": "月出惊山鸟，时鸣春涧中"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夜静春山空，月出惊山鸟。______，______",
+                "answer": "月出惊山鸟，时鸣春涧中"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时鸣春涧中",
+                  "人闲桂花落",
+                  "月出惊山鸟",
+                  "夜静春山空"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月出惊山鸟",
+                  "夜静春山空",
+                  "时鸣春涧中",
+                  "人闲桂花落"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜静春山空",
+                  "时鸣春涧中",
+                  "人闲桂花落",
+                  "月出惊山鸟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人闲桂花落",
+                  "月出惊山鸟",
+                  "夜静春山空",
+                  "时鸣春涧中"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月出惊山鸟",
+                  "人闲桂花落",
+                  "时鸣春涧中",
+                  "夜静春山空"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn chéng wú chù bù fēi huā"
+              },
+              "otherInfo": {
+                "line": "春城无处不飞花"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán shí dōng fēng yù liǔ xié"
+              },
+              "otherInfo": {
+                "line": "寒食东风御柳斜"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rì mù hàn gōng chuán là zhú"
+              },
+              "otherInfo": {
+                "line": "日暮汉宫传蜡烛"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng yān sàn rù wǔ hóu jiā"
+              },
+              "otherInfo": {
+                "line": "轻烟散入五侯家"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春城”的意思是？",
+                "options": [
+                  "春天的京城",
+                  "春天的城墙",
+                  "春天的城市",
+                  "春天的城池"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞花”的意思是？",
+                "options": [
+                  "落花飘飞",
+                  "花瓣飞舞",
+                  "花朵开放",
+                  "花絮飞扬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寒食”的意思是？",
+                "options": [
+                  "寒食节",
+                  "寒冷的食物",
+                  "吃冷食",
+                  "寒食习俗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“御柳”的意思是？",
+                "options": [
+                  "皇宫中的柳树",
+                  "御花园的柳树",
+                  "御赐的柳树",
+                  "御道旁的柳树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“斜”的意思是？",
+                "options": [
+                  "倾斜",
+                  "歪斜",
+                  "斜阳",
+                  "斜风"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“日暮”的意思是？",
+                "options": [
+                  "傍晚",
+                  "日落",
+                  "黄昏",
+                  "暮色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汉宫”的意思是？",
+                "options": [
+                  "汉朝皇宫",
+                  "汉代的宫殿",
+                  "汉宫遗址",
+                  "汉家宫阙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“传蜡烛”的意思是？",
+                "options": [
+                  "传递蜡烛",
+                  "传送蜡烛",
+                  "传递烛火",
+                  "传赐蜡烛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻烟”的意思是？",
+                "options": [
+                  "轻淡的烟雾",
+                  "袅袅的炊烟",
+                  "淡淡的烟气",
+                  "轻轻的烟尘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“五侯”的意思是？",
+                "options": [
+                  "五侯之家",
+                  "五个诸侯",
+                  "五等诸侯",
+                  "五侯贵族"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春天的京城里，没有一处不飘飞着落花。",
+                "options": [
+                  "春城无处不飞花",
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛",
+                  "轻烟散入五侯家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春城无处不飞花”的意思是？",
+                "options": [
+                  "春天的京城处处落花飘飞",
+                  "春天的城墙外花瓣飞舞",
+                  "春天的城市里花开遍地",
+                  "春天的城池中飞絮漫天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "寒食节时，东风把皇宫中的柳枝吹得倾斜。",
+                "options": [
+                  "春城无处不飞花",
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛",
+                  "轻烟散入五侯家"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“寒食东风御柳斜”的意思是？",
+                "options": [
+                  "寒食节东风吹拂，皇宫柳枝倾斜",
+                  "寒食节东风吹来，御花园柳树歪斜",
+                  "寒食节东风劲吹，御道柳枝斜垂",
+                  "寒食节东风送暖，御赐柳枝倾斜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚时分，汉朝皇宫里传递着蜡烛。",
+                "options": [
+                  "春城无处不飞花",
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛",
+                  "轻烟散入五侯家"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“日暮汉宫传蜡烛”的意思是？",
+                "options": [
+                  "傍晚汉朝皇宫传递蜡烛",
+                  "日落时汉宫传送烛火",
+                  "黄昏时汉宫传赐蜡烛",
+                  "暮色中汉宫传递烛光"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "轻淡的烟雾散入五侯贵族之家。",
+                "options": [
+                  "春城无处不飞花",
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛",
+                  "轻烟散入五侯家"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“轻烟散入五侯家”的意思是？",
+                "options": [
+                  "轻淡的烟雾散入五侯之家",
+                  "袅袅炊烟飘进五侯府邸",
+                  "淡淡的烟气散入五个诸侯家",
+                  "轻轻的烟尘飞入五侯贵族家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寒食东风御柳斜",
+                  "春城无处不飞花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻烟散入五侯家",
+                  "日暮汉宫传蜡烛"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "日暮汉宫传蜡烛",
+                  "寒食东风御柳斜",
+                  "春城无处不飞花",
+                  "轻烟散入五侯家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻烟散入五侯家",
+                  "春城无处不飞花",
+                  "日暮汉宫传蜡烛",
+                  "寒食东风御柳斜"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "春__无处不飞花",
+                "answer": "城"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié"
+              },
+              "otherInfo": {
+                "content": "寒食东风御柳__",
+                "answer": "斜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "日__汉宫传蜡烛",
+                "answer": "暮"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sàn"
+              },
+              "otherInfo": {
+                "content": "轻烟__入五侯家",
+                "answer": "散"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春城无处不飞花，______。",
+                "answer": "寒食东风御柳斜"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寒食东风御柳斜。",
+                "answer": "春城无处不飞花"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日暮汉宫传蜡烛，______。",
+                "answer": "轻烟散入五侯家"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，轻烟散入五侯家。",
+                "answer": "日暮汉宫传蜡烛"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春城无处不飞花，寒食东风御柳斜。______，______。",
+                "answer": "日暮汉宫传蜡烛，轻烟散入五侯家"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻烟散入五侯家",
+                  "春城无处不飞花",
+                  "日暮汉宫传蜡烛",
+                  "寒食东风御柳斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寒食东风御柳斜",
+                  "轻烟散入五侯家",
+                  "春城无处不飞花",
+                  "日暮汉宫传蜡烛"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "日暮汉宫传蜡烛",
+                  "春城无处不飞花",
+                  "轻烟散入五侯家",
+                  "寒食东风御柳斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春城无处不飞花",
+                  "轻烟散入五侯家",
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寒食东风御柳斜",
+                  "日暮汉宫传蜡烛",
+                  "轻烟散入五侯家",
+                  "春城无处不飞花"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

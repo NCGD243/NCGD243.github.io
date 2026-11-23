@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng sì niáng jiā huā mǎn xī"
+              },
+              "otherInfo": {
+                "line": "黄四娘家花满蹊"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān duǒ wàn duǒ yā zhī dī"
+              },
+              "otherInfo": {
+                "line": "千朵万朵压枝低"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liú lián xì dié shí shí wǔ"
+              },
+              "otherInfo": {
+                "line": "留连戏蝶时时舞"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì zài jiāo yīng qià qià tí"
+              },
+              "otherInfo": {
+                "line": "自在娇莺恰恰啼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄四娘家花满蹊”中“蹊”的意思是？",
+                "options": [
+                  "小路",
+                  "溪流",
+                  "山崖",
+                  "篱笆"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千朵万朵压枝低”中“压”的意思是？",
+                "options": [
+                  "覆盖",
+                  "重压",
+                  "逼近",
+                  "压抑"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“留连戏蝶时时舞”中“留连”的意思是？",
+                "options": [
+                  "留恋不舍",
+                  "流连忘返",
+                  "徘徊不前",
+                  "盘桓逗留"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自在娇莺恰恰啼”中“恰恰”的意思是？",
+                "options": [
+                  "刚好",
+                  "恰好",
+                  "和谐动听",
+                  "频频不断"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千朵万朵压枝低”中“低”的意思是？",
+                "options": [
+                  "低下",
+                  "低垂",
+                  "低沉",
+                  "低矮"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自在娇莺恰恰啼”中“娇”的意思是？",
+                "options": [
+                  "娇嫩",
+                  "娇媚",
+                  "娇弱",
+                  "娇气"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“留连戏蝶时时舞”中“戏”的意思是？",
+                "options": [
+                  "戏耍",
+                  "嬉戏",
+                  "戏曲",
+                  "戏弄"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄四娘家花满蹊”中“满”的意思是？",
+                "options": [
+                  "满足",
+                  "充满",
+                  "布满",
+                  "满溢"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自在娇莺恰恰啼”中“啼”的意思是？",
+                "options": [
+                  "啼哭",
+                  "鸣叫",
+                  "啼叫",
+                  "哀鸣"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“留连戏蝶时时舞”中“时时”的意思是？",
+                "options": [
+                  "时常",
+                  "时时",
+                  "不时",
+                  "时时处处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "黄四娘家的小路上开满了花。",
+                "options": [
+                  "黄四娘家花满蹊",
+                  "千朵万朵压枝低",
+                  "留连戏蝶时时舞",
+                  "自在娇莺恰恰啼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“黄四娘家花满蹊”的意思是？",
+                "options": [
+                  "黄四娘家的小路上开满了花",
+                  "黄四娘家的溪水边开满了花",
+                  "黄四娘家的篱笆旁开满了花",
+                  "黄四娘家的庭院里开满了花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "千万朵花沉甸甸地把枝条压弯了。",
+                "options": [
+                  "千朵万朵压枝低",
+                  "黄四娘家花满蹊",
+                  "留连戏蝶时时舞",
+                  "自在娇莺恰恰啼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千朵万朵压枝低”的意思是？",
+                "options": [
+                  "千万朵花把枝条压得低垂下来",
+                  "千万朵花被枝条压得低垂下来",
+                  "千万朵花在低矮的枝条上开放",
+                  "千万朵花把低处的枝条压弯了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "留恋花丛的蝴蝶不停地飞舞。",
+                "options": [
+                  "留连戏蝶时时舞",
+                  "自在娇莺恰恰啼",
+                  "黄四娘家花满蹊",
+                  "千朵万朵压枝低"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“留连戏蝶时时舞”的意思是？",
+                "options": [
+                  "留恋花丛的蝴蝶时时飞舞",
+                  "留恋花丛的蝴蝶偶尔飞舞",
+                  "留恋花丛的蝴蝶翩翩起舞",
+                  "留恋花丛的蝴蝶不停追逐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自由自在的娇莺和谐地鸣叫。",
+                "options": [
+                  "自在娇莺恰恰啼",
+                  "留连戏蝶时时舞",
+                  "黄四娘家花满蹊",
+                  "千朵万朵压枝低"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自在娇莺恰恰啼”的意思是？",
+                "options": [
+                  "自由自在的娇莺和谐地鸣叫",
+                  "自由自在的娇莺恰好地鸣叫",
+                  "自由自在的娇莺频频地鸣叫",
+                  "自由自在的娇莺婉转地啼哭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "花满蹊黄四娘家",
+                  "压枝低千朵万朵"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时时舞留连戏蝶",
+                  "恰恰啼自在娇莺"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "压枝低千朵万朵",
+                  "花满蹊黄四娘家",
+                  "恰恰啼自在娇莺",
+                  "时时舞留连戏蝶"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "恰恰啼自在娇莺",
+                  "花满蹊黄四娘家",
+                  "时时舞留连戏蝶",
+                  "压枝低千朵万朵"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "黄四娘家花满__",
+                "answer": "蹊"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yā"
+              },
+              "otherInfo": {
+                "content": "千朵万朵__枝低",
+                "answer": "压"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dié"
+              },
+              "otherInfo": {
+                "content": "留连戏__时时舞",
+                "answer": "蝶"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "自在娇__恰恰啼",
+                "answer": "莺"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "niáng"
+              },
+              "otherInfo": {
+                "content": "黄四__家花满蹊",
+                "answer": "娘"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duǒ"
+              },
+              "otherInfo": {
+                "content": "千__万朵压枝低",
+                "answer": "朵"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǔ"
+              },
+              "otherInfo": {
+                "content": "留连戏蝶时时__",
+                "answer": "舞"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "自在娇莺恰恰__",
+                "answer": "啼"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǎn"
+              },
+              "otherInfo": {
+                "content": "黄四娘家花__蹊",
+                "answer": "满"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qià"
+              },
+              "otherInfo": {
+                "content": "自在娇莺__恰啼",
+                "answer": "恰"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄四娘家花满蹊，______",
+                "answer": "千朵万朵压枝低"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，千朵万朵压枝低",
+                "answer": "黄四娘家花满蹊"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "留连戏蝶时时舞，______",
+                "answer": "自在娇莺恰恰啼"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，自在娇莺恰恰啼",
+                "answer": "留连戏蝶时时舞"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄四娘家花满蹊，千朵万朵压枝低。______，______",
+                "answer": "留连戏蝶时时舞，自在娇莺恰恰啼"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千朵万朵压枝低。______，______",
+                "answer": "留连戏蝶时时舞，自在娇莺恰恰啼"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自在娇莺恰恰啼",
+                  "黄四娘家花满蹊",
+                  "留连戏蝶时时舞",
+                  "千朵万朵压枝低"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千朵万朵压枝低",
+                  "留连戏蝶时时舞",
+                  "黄四娘家花满蹊",
+                  "自在娇莺恰恰啼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "留连戏蝶时时舞",
+                  "自在娇莺恰恰啼",
+                  "千朵万朵压枝低",
+                  "黄四娘家花满蹊"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄四娘家花满蹊",
+                  "自在娇莺恰恰啼",
+                  "千朵万朵压枝低",
+                  "留连戏蝶时时舞"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自在娇莺恰恰啼",
+                  "留连戏蝶时时舞",
+                  "黄四娘家花满蹊",
+                  "千朵万朵压枝低"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,897 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù yuán dōng wàng lù màn màn"
+              },
+              "otherInfo": {
+                "line": "故园东望路漫漫"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuāng xiù lóng zhōng lèi bù gān"
+              },
+              "otherInfo": {
+                "line": "双袖龙钟泪不干"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mǎ shàng xiāng féng wú zhǐ bǐ"
+              },
+              "otherInfo": {
+                "line": "马上相逢无纸笔"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng jūn chuán yǔ bào píng ān"
+              },
+              "otherInfo": {
+                "line": "凭君传语报平安"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故园”的意思是？",
+                "options": [
+                  "故乡",
+                  "旧日园林",
+                  "故人",
+                  "原来的院子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“漫漫”的意思是？",
+                "options": [
+                  "路途遥远没有尽头",
+                  "水势浩大",
+                  "时间长久",
+                  "心情散漫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“龙钟”的意思是？",
+                "options": [
+                  "沾湿的样子",
+                  "年老体衰",
+                  "钟声悠长",
+                  "行动迟缓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“凭”的意思是？",
+                "options": [
+                  "请求、烦请",
+                  "凭借",
+                  "依靠",
+                  "任凭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“传语”的意思是？",
+                "options": [
+                  "捎口信",
+                  "传递语言",
+                  "传说",
+                  "转告话语"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“相逢”的意思是？",
+                "options": [
+                  "相遇",
+                  "相认",
+                  "相送",
+                  "相别"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“平安”的意思是？",
+                "options": [
+                  "平安无事",
+                  "平静安稳",
+                  "平安到达",
+                  "安好无恙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“纸笔”的意思是？",
+                "options": [
+                  "纸张和笔",
+                  "书信",
+                  "文具",
+                  "文章"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东望”的意思是？",
+                "options": [
+                  "向东眺望",
+                  "东边望去",
+                  "望见东方",
+                  "东张西望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“泪不干”的意思是？",
+                "options": [
+                  "泪水不断",
+                  "眼泪不干涸",
+                  "泪痕未干",
+                  "泪流不止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "回头向东望故乡，路途遥远漫长。",
+                "options": [
+                  "故园东望路漫漫",
+                  "双袖龙钟泪不干",
+                  "马上相逢无纸笔",
+                  "凭君传语报平安"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“故园东望路漫漫”的意思是？",
+                "options": [
+                  "向东遥望故乡，只觉路途遥远漫长",
+                  "回到故乡向东看，道路宽阔平坦",
+                  "故乡的东边有条漫长的路",
+                  "站在故园向东望，路上行人稀少"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "两只袖子都沾湿了，泪水还流个不停。",
+                "options": [
+                  "双袖龙钟泪不干",
+                  "故园东望路漫漫",
+                  "马上相逢无纸笔",
+                  "凭君传语报平安"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“双袖龙钟泪不干”的意思是？",
+                "options": [
+                  "双袖被泪水沾湿，泪水流个不停",
+                  "双袖沾满泥水，久久不肯干",
+                  "年老体衰，双袖下垂泪难止",
+                  "双袖湿透，是因为汗水不断"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "双袖龙钟泪不干",
+                  "故园东望路漫漫"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "凭君传语报平安",
+                  "马上相逢无纸笔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "马上相逢无纸笔",
+                  "双袖龙钟泪不干",
+                  "故园东望路漫漫",
+                  "凭君传语报平安"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "凭君传语报平安",
+                  "故园东望路漫漫",
+                  "马上相逢无纸笔",
+                  "双袖龙钟泪不干"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "__园东望路漫漫",
+                "answer": "故"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lèi"
+              },
+              "otherInfo": {
+                "content": "双袖龙钟__不干",
+                "answer": "泪"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "féng"
+              },
+              "otherInfo": {
+                "content": "马上相__无纸笔",
+                "answer": "逢"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "__君传语报平安",
+                "answer": "凭"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "màn"
+              },
+              "otherInfo": {
+                "content": "故园东望路__ __",
+                "answer": "漫"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lóng"
+              },
+              "otherInfo": {
+                "content": "双袖__钟泪不干",
+                "answer": "龙"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǐ"
+              },
+              "otherInfo": {
+                "content": "马上相逢无__笔",
+                "answer": "纸"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuán"
+              },
+              "otherInfo": {
+                "content": "凭君__语报平安",
+                "answer": "传"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàng"
+              },
+              "otherInfo": {
+                "content": "故园东__路漫漫",
+                "answer": "望"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ān"
+              },
+              "otherInfo": {
+                "content": "凭君传语报平__",
+                "answer": "安"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故园东望路漫漫，______。",
+                "answer": "双袖龙钟泪不干"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，双袖龙钟泪不干。",
+                "answer": "故园东望路漫漫"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "马上相逢无纸笔，______。",
+                "answer": "凭君传语报平安"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，凭君传语报平安。",
+                "answer": "马上相逢无纸笔"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故园东望路漫漫，双袖龙钟泪不干。______，______。",
+                "answer": "马上相逢无纸笔，凭君传语报平安"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故园东望路漫漫，双袖龙钟泪不干。______，______。",
+                "answer": "马上相逢无纸笔，凭君传语报平安"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "双袖龙钟泪不干",
+                  "凭君传语报平安",
+                  "故园东望路漫漫",
+                  "马上相逢无纸笔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "马上相逢无纸笔",
+                  "故园东望路漫漫",
+                  "凭君传语报平安",
+                  "双袖龙钟泪不干"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "凭君传语报平安",
+                  "双袖龙钟泪不干",
+                  "马上相逢无纸笔",
+                  "故园东望路漫漫"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故园东望路漫漫",
+                  "马上相逢无纸笔",
+                  "双袖龙钟泪不干",
+                  "凭君传语报平安"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "双袖龙钟泪不干",
+                  "马上相逢无纸笔",
+                  "故园东望路漫漫",
+                  "凭君传语报平安"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

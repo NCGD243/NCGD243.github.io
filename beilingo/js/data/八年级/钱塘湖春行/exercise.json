@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū shān sì běi jiǎ tíng xī"
+              },
+              "otherInfo": {
+                "line": "孤山寺北贾亭西"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ miàn chū píng yún jiǎo dī"
+              },
+              "otherInfo": {
+                "line": "水面初平云脚低"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐ chù zǎo yīng zhēng nuǎn shù"
+              },
+              "otherInfo": {
+                "line": "几处早莺争暖树"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuí jiā xīn yàn zhuó chūn ní"
+              },
+              "otherInfo": {
+                "line": "谁家新燕啄春泥"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luàn huā jiàn yù mí rén yǎn"
+              },
+              "otherInfo": {
+                "line": "乱花渐欲迷人眼"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiǎn cǎo cái néng mò mǎ tí"
+              },
+              "otherInfo": {
+                "line": "浅草才能没马蹄"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì ài hú dōng xíng bù zú"
+              },
+              "otherInfo": {
+                "line": "最爱湖东行不足"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ yáng yīn lǐ bái shā dī"
+              },
+              "otherInfo": {
+                "line": "绿杨阴里白沙堤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“初平”的意思是？",
+                "options": [
+                  "刚刚涨平",
+                  "最初平定",
+                  "初次平坦",
+                  "当初平和"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“云脚低”中“脚”的意思是？",
+                "options": [
+                  "云层低垂接近地面",
+                  "行走的脚步",
+                  "物体的底部",
+                  "山脚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“暖树”的意思是？",
+                "options": [
+                  "向阳温暖的树",
+                  "被火烤热的树",
+                  "春天开花的树",
+                  "枝叶茂密的树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“啄春泥”中“啄”的意思是？",
+                "options": [
+                  "鸟类用嘴取食或衔取",
+                  "用锄头挖土",
+                  "用嘴咬住不放",
+                  "啄木鸟敲击树木"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渐欲”的意思是？",
+                "options": [
+                  "渐渐将要",
+                  "逐渐欲望",
+                  "慢慢想要",
+                  "已经将要"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“才能”的意思是？",
+                "options": [
+                  "刚刚能够",
+                  "才华能力",
+                  "方才可以",
+                  "只能"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“没马蹄”中“没”的意思是？",
+                "options": [
+                  "淹没、盖过",
+                  "没有",
+                  "消失",
+                  "沉没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“行不足”的意思是？",
+                "options": [
+                  "游赏不够",
+                  "行走不足",
+                  "路程不够",
+                  "行为不足"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“阴里”的意思是？",
+                "options": [
+                  "树荫里面",
+                  "阴暗的地方",
+                  "阴天里",
+                  "背阴处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白沙堤”中“堤”的意思是？",
+                "options": [
+                  "沿河湖修筑的挡水建筑",
+                  "堤防的简称",
+                  "河岸",
+                  "土坡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从孤山寺的北面到贾公亭的西面，湖水刚刚涨平，云层低垂接近地面。",
+                "options": [
+                  "孤山寺北贾亭西，水面初平云脚低",
+                  "几处早莺争暖树，谁家新燕啄春泥",
+                  "乱花渐欲迷人眼，浅草才能没马蹄",
+                  "最爱湖东行不足，绿杨阴里白沙堤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水面初平云脚低”的意思是？",
+                "options": [
+                  "湖水刚刚涨平，云层低垂接近地面",
+                  "水面平静如镜，云朵高高飘在天上",
+                  "春水初涨，云脚被湖水打湿",
+                  "湖面初平，云层压得很低很低"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "几处早来的黄莺争着飞向向阳的暖树，谁家新来的燕子衔着春泥筑巢。",
+                "options": [
+                  "几处早莺争暖树，谁家新燕啄春泥",
+                  "孤山寺北贾亭西，水面初平云脚低",
+                  "乱花渐欲迷人眼，浅草才能没马蹄",
+                  "最爱湖东行不足，绿杨阴里白沙堤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“几处早莺争暖树”的意思是？",
+                "options": [
+                  "几处早来的黄莺争着飞向向阳的暖树",
+                  "几处早来的黄莺在暖树上争斗",
+                  "几处黄莺争抢着温暖的树巢",
+                  "早春的黄莺争着在暖树上鸣叫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "纷繁的花朵渐渐要让人眼花缭乱，浅浅的春草刚刚能够没过马蹄。",
+                "options": [
+                  "乱花渐欲迷人眼，浅草才能没马蹄",
+                  "孤山寺北贾亭西，水面初平云脚低",
+                  "几处早莺争暖树，谁家新燕啄春泥",
+                  "最爱湖东行不足，绿杨阴里白沙堤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“浅草才能没马蹄”的意思是？",
+                "options": [
+                  "浅浅的春草刚刚能够没过马蹄",
+                  "浅浅的草只能遮住马的蹄子",
+                  "春草很浅，马蹄踏上去就陷没了",
+                  "草色浅淡，马蹄被草淹没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "最喜爱湖东的景色游赏不够，绿杨树荫里是白沙堤。",
+                "options": [
+                  "最爱湖东行不足，绿杨阴里白沙堤",
+                  "孤山寺北贾亭西，水面初平云脚低",
+                  "几处早莺争暖树，谁家新燕啄春泥",
+                  "乱花渐欲迷人眼，浅草才能没马蹄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“绿杨阴里白沙堤”的意思是？",
+                "options": [
+                  "绿杨树荫里是白沙堤",
+                  "绿杨树荫下有一条白色的沙堤",
+                  "绿杨的阴影落在白沙堤上",
+                  "绿杨阴里藏着白色的沙堤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水面初平云脚低",
+                  "孤山寺北贾亭西"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁家新燕啄春泥",
+                  "几处早莺争暖树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浅草才能没马蹄",
+                  "乱花渐欲迷人眼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绿杨阴里白沙堤",
+                  "最爱湖东行不足"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁家新燕啄春泥",
+                  "水面初平云脚低",
+                  "几处早莺争暖树",
+                  "孤山寺北贾亭西"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浅草才能没马蹄",
+                  "谁家新燕啄春泥",
+                  "乱花渐欲迷人眼",
+                  "几处早莺争暖树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绿杨阴里白沙堤",
+                  "浅草才能没马蹄",
+                  "最爱湖东行不足",
+                  "乱花渐欲迷人眼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁家新燕啄春泥",
+                  "绿杨阴里白沙堤",
+                  "孤山寺北贾亭西",
+                  "浅草才能没马蹄",
+                  "几处早莺争暖树",
+                  "水面初平云脚低",
+                  "最爱湖东行不足",
+                  "乱花渐欲迷人眼"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū"
+              },
+              "otherInfo": {
+                "content": "__山寺北贾亭西",
+                "answer": "孤"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dī"
+              },
+              "otherInfo": {
+                "content": "水面初平云脚__",
+                "answer": "低"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīng"
+              },
+              "otherInfo": {
+                "content": "几处早__争暖树",
+                "answer": "莺"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó"
+              },
+              "otherInfo": {
+                "content": "谁家新燕__春泥",
+                "answer": "啄"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "乱花__欲迷人眼",
+                "answer": "渐"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "浅草才能__马蹄",
+                "answer": "没"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zú"
+              },
+              "otherInfo": {
+                "content": "最爱湖东行不__",
+                "answer": "足"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīn"
+              },
+              "otherInfo": {
+                "content": "绿杨__里白沙堤",
+                "answer": "阴"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng"
+              },
+              "otherInfo": {
+                "content": "几处早莺__暖树",
+                "answer": "争"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dī"
+              },
+              "otherInfo": {
+                "content": "绿杨阴里白沙__",
+                "answer": "堤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孤山寺北贾亭西，______",
+                "answer": "水面初平云脚低"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，水面初平云脚低",
+                "answer": "孤山寺北贾亭西"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "几处早莺争暖树，______",
+                "answer": "谁家新燕啄春泥"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，谁家新燕啄春泥",
+                "answer": "几处早莺争暖树"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乱花渐欲迷人眼，______",
+                "answer": "浅草才能没马蹄"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，浅草才能没马蹄",
+                "answer": "乱花渐欲迷人眼"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "最爱湖东行不足，______",
+                "answer": "绿杨阴里白沙堤"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，绿杨阴里白沙堤",
+                "answer": "最爱湖东行不足"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "孤山寺北贾亭西，水面初平云脚低。______，______。",
+                "answer": "几处早莺争暖树，谁家新燕啄春泥"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "几处早莺争暖树，谁家新燕啄春泥。______，______。",
+                "answer": "乱花渐欲迷人眼，浅草才能没马蹄"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乱花渐欲迷人眼，浅草才能没马蹄。______，______。",
+                "answer": "最爱湖东行不足，绿杨阴里白沙堤"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乱花渐欲迷人眼，浅草才能没马蹄。______，______。",
+                "answer": "最爱湖东行不足，绿杨阴里白沙堤"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "谁家新燕啄春泥",
+                  "绿杨阴里白沙堤",
+                  "孤山寺北贾亭西",
+                  "浅草才能没马蹄",
+                  "几处早莺争暖树",
+                  "水面初平云脚低",
+                  "最爱湖东行不足",
+                  "乱花渐欲迷人眼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乱花渐欲迷人眼",
+                  "水面初平云脚低",
+                  "最爱湖东行不足",
+                  "几处早莺争暖树",
+                  "绿杨阴里白沙堤",
+                  "孤山寺北贾亭西",
+                  "谁家新燕啄春泥",
+                  "浅草才能没马蹄"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浅草才能没马蹄",
+                  "几处早莺争暖树",
+                  "绿杨阴里白沙堤",
+                  "孤山寺北贾亭西",
+                  "谁家新燕啄春泥",
+                  "乱花渐欲迷人眼",
+                  "水面初平云脚低",
+                  "最爱湖东行不足"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "最爱湖东行不足",
+                  "谁家新燕啄春泥",
+                  "水面初平云脚低",
+                  "乱花渐欲迷人眼",
+                  "孤山寺北贾亭西",
+                  "浅草才能没马蹄",
+                  "几处早莺争暖树",
+                  "绿杨阴里白沙堤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绿杨阴里白沙堤",
+                  "孤山寺北贾亭西",
+                  "浅草才能没马蹄",
+                  "谁家新燕啄春泥",
+                  "最爱湖东行不足",
+                  "几处早莺争暖树",
+                  "乱花渐欲迷人眼",
+                  "水面初平云脚低"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

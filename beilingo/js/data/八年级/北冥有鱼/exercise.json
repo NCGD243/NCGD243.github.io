@@ -1,0 +1,1751 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "běi míng yǒu yú"
+              },
+              "otherInfo": {
+                "line": "北冥有鱼"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí míng wéi kūn"
+              },
+              "otherInfo": {
+                "line": "其名为鲲"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kūn zhī dà bù zhī qí jǐ qiān lǐ yě"
+              },
+              "otherInfo": {
+                "line": "鲲之大，不知其几千里也"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huà ér wéi niǎo qí míng wéi péng"
+              },
+              "otherInfo": {
+                "line": "化而为鸟，其名为鹏"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng zhī bèi bù zhī qí jǐ qiān lǐ yě"
+              },
+              "otherInfo": {
+                "line": "鹏之背，不知其几千里也"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nù ér fēi qí yì ruò chuí tiān zhī yún"
+              },
+              "otherInfo": {
+                "line": "怒而飞，其翼若垂天之云"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì niǎo yě hǎi yùn zé jiāng xǐ yú nán míng"
+              },
+              "otherInfo": {
+                "line": "是鸟也，海运则将徙于南冥"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán míng zhě tiān chí yě"
+              },
+              "otherInfo": {
+                "line": "南冥者，天池也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“北冥有鱼”中“冥”的意思是？",
+                "options": [
+                  "大海",
+                  "昏暗",
+                  "深远",
+                  "北方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“其名为鲲”中“名”的意思是？",
+                "options": [
+                  "名字",
+                  "命名",
+                  "名声",
+                  "说出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“怒而飞”中“怒”的意思是？",
+                "options": [
+                  "愤怒",
+                  "振奋",
+                  "责怪",
+                  "气势"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“其翼若垂天之云”中“垂”的意思是？",
+                "options": [
+                  "垂下",
+                  "悬挂",
+                  "低垂",
+                  "垂落"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“海运则将徙于南冥”中“徙”的意思是？",
+                "options": [
+                  "迁移",
+                  "迁徙",
+                  "搬移",
+                  "转移"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南冥者，天池也”中“池”的意思是？",
+                "options": [
+                  "水池",
+                  "池塘",
+                  "护城河",
+                  "海"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“化而为鸟”中“化”的意思是？",
+                "options": [
+                  "变化",
+                  "教化",
+                  "融化",
+                  "化解"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鹏之背”中“之”的用法是？",
+                "options": [
+                  "代词，它",
+                  "助词，的",
+                  "动词，到",
+                  "助词，取消句子独立性"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是鸟也”中“是”的意思是？",
+                "options": [
+                  "这",
+                  "是",
+                  "正确",
+                  "判断词"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天池”在文中的意思是？",
+                "options": [
+                  "天上的池子",
+                  "天然形成的水池",
+                  "天子的池苑",
+                  "天山的湖泊"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "北方大海里有一条鱼。",
+                "options": [
+                  "北冥有鱼",
+                  "其名为鲲",
+                  "化而为鸟",
+                  "南冥者，天池也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“其名为鲲”的意思是？",
+                "options": [
+                  "它的名字叫作鲲",
+                  "它被称为大鱼",
+                  "它的名声像鲲",
+                  "它命名自己为鲲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鲲非常巨大，不知道有几千里。",
+                "options": [
+                  "鲲之大，不知其几千里也",
+                  "鹏之背，不知其几千里也",
+                  "其翼若垂天之云",
+                  "海运则将徙于南冥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“化而为鸟，其名为鹏”的意思是？",
+                "options": [
+                  "变化成鸟，它的名字叫作鹏",
+                  "教化鸟类，它的名字叫鹏",
+                  "化作飞鸟，它的名声像鹏",
+                  "变成鸟后，它命名为鹏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鹏的脊背，不知道有几千里。",
+                "options": [
+                  "鹏之背，不知其几千里也",
+                  "鲲之大，不知其几千里也",
+                  "其翼若垂天之云",
+                  "怒而飞，其翼若垂天之云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“怒而飞，其翼若垂天之云”的意思是？",
+                "options": [
+                  "振奋而飞，翅膀像悬挂在天空的云",
+                  "愤怒而飞，翅膀像天边的云",
+                  "鼓翅而飞，翅膀像垂落的云",
+                  "奋力而飞，翅膀像天上的云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这只鸟，海水运动时就将迁往南海。",
+                "options": [
+                  "是鸟也，海运则将徙于南冥",
+                  "化而为鸟，其名为鹏",
+                  "怒而飞，其翼若垂天之云",
+                  "南冥者，天池也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“是鸟也，海运则将徙于南冥”的意思是？",
+                "options": [
+                  "这只鸟，海水运动时就将迁往南海",
+                  "这是鸟，海上运输时就飞往南海",
+                  "这鸟啊，海运时将要迁徙到南方",
+                  "此鸟也，海动时便迁往南冥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "南海，是天然形成的水池。",
+                "options": [
+                  "南冥者，天池也",
+                  "北冥有鱼",
+                  "其名为鲲",
+                  "海运则将徙于南冥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“南冥者，天池也”的意思是？",
+                "options": [
+                  "南海，是天然形成的水池",
+                  "南海，是天上的池子",
+                  "南冥，是天子的池苑",
+                  "南海，是天山的水池"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知其几千里也",
+                  "鲲之大"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鹏",
+                  "化而为鸟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知其几千里也",
+                  "鹏之背"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其翼若垂天之云",
+                  "怒而飞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "海运则将徙于南冥",
+                  "是鸟也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼",
+                  "不知其几千里也",
+                  "鲲之大"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鹏",
+                  "化而为鸟",
+                  "不知其几千里也",
+                  "鹏之背"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其翼若垂天之云",
+                  "怒而飞",
+                  "海运则将徙于南冥",
+                  "是鸟也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天池也",
+                  "南冥者",
+                  "其名为鲲",
+                  "北冥有鱼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知其几千里也",
+                  "鲲之大",
+                  "其名为鹏",
+                  "化而为鸟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不知其几千里也",
+                  "鹏之背",
+                  "其翼若垂天之云",
+                  "怒而飞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "海运则将徙于南冥",
+                  "是鸟也",
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼",
+                  "不知其几千里也",
+                  "鲲之大",
+                  "其名为鹏",
+                  "化而为鸟",
+                  "不知其几千里也",
+                  "鹏之背",
+                  "其翼若垂天之云",
+                  "怒而飞",
+                  "海运则将徙于南冥",
+                  "是鸟也",
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "北__有鱼",
+                "answer": "冥"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kūn"
+              },
+              "otherInfo": {
+                "content": "其名为__",
+                "answer": "鲲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐ"
+              },
+              "otherInfo": {
+                "content": "鲲之大，不知其__千里也",
+                "answer": "几"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "péng"
+              },
+              "otherInfo": {
+                "content": "化而为鸟，其名为__",
+                "answer": "鹏"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bèi"
+              },
+              "otherInfo": {
+                "content": "鹏之__，不知其几千里也",
+                "answer": "背"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "怒而飞，其__若垂天之云",
+                "answer": "翼"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yùn"
+              },
+              "otherInfo": {
+                "content": "是鸟也，海__则将徙于南冥",
+                "answer": "运"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xǐ"
+              },
+              "otherInfo": {
+                "content": "是鸟也，海运则将__于南冥",
+                "answer": "徙"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chí"
+              },
+              "otherInfo": {
+                "content": "南冥者，天__也",
+                "answer": "池"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "南__者，天池也",
+                "answer": "冥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "北冥有鱼，______",
+                "answer": "其名为鲲"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，其名为鲲",
+                "answer": "北冥有鱼"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鲲之大，______",
+                "answer": "不知其几千里也"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不知其几千里也",
+                "answer": "鲲之大"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "化而为鸟，______",
+                "answer": "其名为鹏"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，其名为鹏",
+                "answer": "化而为鸟"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鹏之背，______",
+                "answer": "不知其几千里也"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不知其几千里也",
+                "answer": "鹏之背"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "怒而飞，______",
+                "answer": "其翼若垂天之云"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，其翼若垂天之云",
+                "answer": "怒而飞"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是鸟也，______",
+                "answer": "海运则将徙于南冥"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，海运则将徙于南冥",
+                "answer": "是鸟也"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南冥者，______",
+                "answer": "天池也"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，天池也",
+                "answer": "南冥者"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "北冥有鱼，其名为鲲。______，______",
+                "answer": "鲲之大，不知其几千里也"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鲲之大，不知其几千里也。______，______",
+                "answer": "化而为鸟，其名为鹏"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "化而为鸟，其名为鹏。______，______",
+                "answer": "鹏之背，不知其几千里也"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鹏之背，不知其几千里也。______，______",
+                "answer": "怒而飞，其翼若垂天之云"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "怒而飞，其翼若垂天之云。______，______",
+                "answer": "是鸟也，海运则将徙于南冥"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是鸟也，海运则将徙于南冥。______，______",
+                "answer": "南冥者，天池也"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是鸟也，海运则将徙于南冥。______，______",
+                "answer": "南冥者，天池也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼",
+                  "不知其几千里也",
+                  "鲲之大",
+                  "其名为鹏",
+                  "化而为鸟",
+                  "不知其几千里也",
+                  "鹏之背",
+                  "其翼若垂天之云",
+                  "怒而飞",
+                  "海运则将徙于南冥",
+                  "是鸟也",
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "北冥有鱼",
+                  "其名为鲲",
+                  "鲲之大",
+                  "不知其几千里也",
+                  "化而为鸟",
+                  "其名为鹏",
+                  "鹏之背",
+                  "不知其几千里也",
+                  "怒而飞",
+                  "其翼若垂天之云",
+                  "是鸟也",
+                  "海运则将徙于南冥",
+                  "南冥者",
+                  "天池也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼",
+                  "不知其几千里也",
+                  "鲲之大",
+                  "其名为鹏",
+                  "化而为鸟",
+                  "不知其几千里也",
+                  "鹏之背",
+                  "其翼若垂天之云",
+                  "怒而飞",
+                  "海运则将徙于南冥",
+                  "是鸟也",
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "北冥有鱼",
+                  "其名为鲲",
+                  "鲲之大",
+                  "不知其几千里也",
+                  "化而为鸟",
+                  "其名为鹏",
+                  "鹏之背",
+                  "不知其几千里也",
+                  "怒而飞",
+                  "其翼若垂天之云",
+                  "是鸟也",
+                  "海运则将徙于南冥",
+                  "南冥者",
+                  "天池也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其名为鲲",
+                  "北冥有鱼",
+                  "不知其几千里也",
+                  "鲲之大",
+                  "其名为鹏",
+                  "化而为鸟",
+                  "不知其几千里也",
+                  "鹏之背",
+                  "其翼若垂天之云",
+                  "怒而飞",
+                  "海运则将徙于南冥",
+                  "是鸟也",
+                  "天池也",
+                  "南冥者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

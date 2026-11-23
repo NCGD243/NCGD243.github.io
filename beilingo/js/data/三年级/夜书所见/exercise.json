@@ -1,0 +1,897 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo xiāo wú yè sòng hán shēng"
+              },
+              "otherInfo": {
+                "line": "萧萧梧叶送寒声"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng shàng qiū fēng dòng kè qíng"
+              },
+              "otherInfo": {
+                "line": "江上秋风动客情"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī yǒu ér tóng tiāo cù zhī"
+              },
+              "otherInfo": {
+                "line": "知有儿童挑促织"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè shēn lí luò yī dēng míng"
+              },
+              "otherInfo": {
+                "line": "夜深篱落一灯明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“萧萧”的意思是？",
+                "options": [
+                  "形容风声",
+                  "形容雨声",
+                  "形容落叶声",
+                  "形容流水声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“梧叶”的意思是？",
+                "options": [
+                  "梧桐树的叶子",
+                  "枫树的叶子",
+                  "柳树的叶子",
+                  "银杏树的叶子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“客情”的意思是？",
+                "options": [
+                  "旅客的思乡之情",
+                  "客人的热情",
+                  "做客的心情",
+                  "待客的礼数"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“挑”的意思是？",
+                "options": [
+                  "用细长东西拨动",
+                  "挑选",
+                  "挑担",
+                  "挑拨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“促织”指的是？",
+                "options": [
+                  "蟋蟀",
+                  "纺织娘",
+                  "蝉",
+                  "蚂蚱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“篱落”的意思是？",
+                "options": [
+                  "篱笆",
+                  "村落",
+                  "院落",
+                  "角落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“动”的意思是？",
+                "options": [
+                  "触动",
+                  "移动",
+                  "动听",
+                  "劳动"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“知有”的意思是？",
+                "options": [
+                  "料想有",
+                  "知道有",
+                  "通知有",
+                  "知觉有"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“送寒声”的意思是？",
+                "options": [
+                  "送来寒冷的声音",
+                  "送走寒凉的声音",
+                  "送出寒暄的声音",
+                  "送别寒士的声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一灯明”的意思是？",
+                "options": [
+                  "一盏灯亮着",
+                  "一盏灯明亮",
+                  "一盏灯照明",
+                  "一盏灯明白"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "秋风吹动梧桐叶，送来阵阵寒意。",
+                "options": [
+                  "萧萧梧叶送寒声",
+                  "江上秋风动客情",
+                  "知有儿童挑促织",
+                  "夜深篱落一灯明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“江上秋风动客情”的意思是？",
+                "options": [
+                  "江上秋风触动了旅客的思乡之情",
+                  "江上秋风使客人感到寒冷",
+                  "江上秋风让船客加快了行程",
+                  "江上秋风把客船吹得摇晃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "料想有儿童在拨弄蟋蟀。",
+                "options": [
+                  "知有儿童挑促织",
+                  "萧萧梧叶送寒声",
+                  "江上秋风动客情",
+                  "夜深篱落一灯明"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜深篱落一灯明”的意思是？",
+                "options": [
+                  "夜深了，篱笆边有一盏灯亮着",
+                  "夜深了，篱笆边有一盏灯熄灭了",
+                  "夜深了，篱笆边有一轮明月照着",
+                  "夜深了，篱笆边有一堆篝火燃着"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江上秋风动客情",
+                  "萧萧梧叶送寒声"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜深篱落一灯明",
+                  "知有儿童挑促织"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "知有儿童挑促织",
+                  "江上秋风动客情",
+                  "萧萧梧叶送寒声",
+                  "夜深篱落一灯明"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜深篱落一灯明",
+                  "萧萧梧叶送寒声",
+                  "知有儿童挑促织",
+                  "江上秋风动客情"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "__萧梧叶送寒声",
+                "answer": "萧"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú"
+              },
+              "otherInfo": {
+                "content": "萧萧__叶送寒声",
+                "answer": "梧"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dòng"
+              },
+              "otherInfo": {
+                "content": "江上秋风__客情",
+                "answer": "动"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kè"
+              },
+              "otherInfo": {
+                "content": "江上秋风动__情",
+                "answer": "客"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiāo"
+              },
+              "otherInfo": {
+                "content": "知有儿童__促织",
+                "answer": "挑"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cù"
+              },
+              "otherInfo": {
+                "content": "知有儿童挑__织",
+                "answer": "促"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí"
+              },
+              "otherInfo": {
+                "content": "夜深__落一灯明",
+                "answer": "篱"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dēng"
+              },
+              "otherInfo": {
+                "content": "夜深篱落一__明",
+                "answer": "灯"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sòng"
+              },
+              "otherInfo": {
+                "content": "萧萧梧叶__寒声",
+                "answer": "送"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "夜深篱落一灯__",
+                "answer": "明"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "萧萧梧叶送寒声，______。",
+                "answer": "江上秋风动客情"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，江上秋风动客情。",
+                "answer": "萧萧梧叶送寒声"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "知有儿童挑促织，______。",
+                "answer": "夜深篱落一灯明"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夜深篱落一灯明。",
+                "answer": "知有儿童挑促织"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "萧萧梧叶送寒声，江上秋风动客情。______，______。",
+                "answer": "知有儿童挑促织，夜深篱落一灯明"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "萧萧梧叶送寒声，江上秋风动客情。______，______。",
+                "answer": "知有儿童挑促织，夜深篱落一灯明"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜深篱落一灯明",
+                  "萧萧梧叶送寒声",
+                  "知有儿童挑促织",
+                  "江上秋风动客情"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江上秋风动客情",
+                  "夜深篱落一灯明",
+                  "萧萧梧叶送寒声",
+                  "知有儿童挑促织"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "知有儿童挑促织",
+                  "江上秋风动客情",
+                  "夜深篱落一灯明",
+                  "萧萧梧叶送寒声"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "萧萧梧叶送寒声",
+                  "夜深篱落一灯明",
+                  "江上秋风动客情",
+                  "知有儿童挑促织"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江上秋风动客情",
+                  "知有儿童挑促织",
+                  "萧萧梧叶送寒声",
+                  "夜深篱落一灯明"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

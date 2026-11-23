@@ -1,0 +1,2709 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì sān xiá qī bǎi lǐ zhōng"
+              },
+              "otherInfo": {
+                "line": "自三峡七百里中"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǎng àn lián shān lüè wú quē chù"
+              },
+              "otherInfo": {
+                "line": "两岸连山，略无阙处"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóng yán dié zhàng yǐn tiān bì rì"
+              },
+              "otherInfo": {
+                "line": "重岩叠嶂，隐天蔽日"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì fēi tíng wǔ yè fēn bú jiàn xī yuè"
+              },
+              "otherInfo": {
+                "line": "自非亭午夜分，不见曦月"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì yú xià shuǐ xiāng líng yán sù zǔ jué"
+              },
+              "otherInfo": {
+                "line": "至于夏水襄陵，沿溯阻绝"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huò wáng mìng jí xuān yǒu shí zhāo fā bái dì"
+              },
+              "otherInfo": {
+                "line": "或王命急宣，有时朝发白帝"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù dào jiāng líng qí jiān qiān èr bǎi lǐ"
+              },
+              "otherInfo": {
+                "line": "暮到江陵，其间千二百里"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī chéng bēn yù fēng bù yǐ jí yě"
+              },
+              "otherInfo": {
+                "line": "虽乘奔御风，不以疾也"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn dōng zhī shí zé sù tuān lǜ tán huí qīng dào yǐng"
+              },
+              "otherInfo": {
+                "line": "春冬之时，则素湍绿潭，回清倒影"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué yǎn duō shēng guài bǎi xuán quán pù bù fēi shù qí jiān"
+              },
+              "otherInfo": {
+                "line": "绝𪩘多生怪柏，悬泉瀑布，飞漱其间"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng róng jùn mào liáng duō qù wèi"
+              },
+              "otherInfo": {
+                "line": "清荣峻茂，良多趣味"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "měi zhì qíng chū shuāng dàn lín hán jiàn sù"
+              },
+              "otherInfo": {
+                "line": "每至晴初霜旦，林寒涧肃"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng yǒu gāo yuán cháng xiào shǔ yǐn qī yì"
+              },
+              "otherInfo": {
+                "line": "常有高猿长啸，属引凄异"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kōng gǔ chuán xiǎng āi zhuǎn jiǔ jué"
+              },
+              "otherInfo": {
+                "line": "空谷传响，哀转久绝"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù yú zhě gē yuē bā dōng sān xiá wū xiá cháng"
+              },
+              "otherInfo": {
+                "line": "故渔者歌曰：“巴东三峡巫峡长"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán míng sān shēng lèi zhān cháng"
+              },
+              "otherInfo": {
+                "line": "猿鸣三声泪沾裳”"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“略无阙处”中“略”的意思是？",
+                "options": [
+                  "大概",
+                  "丝毫",
+                  "掠夺",
+                  "简略"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“自非亭午夜分”中“自”的意思是？",
+                "options": [
+                  "自己",
+                  "从",
+                  "如果",
+                  "自然"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“虽乘奔御风”中“奔”的意思是？",
+                "options": [
+                  "奔跑",
+                  "飞奔的马",
+                  "奔逃",
+                  "奔波"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不以疾也”中“疾”的意思是？",
+                "options": [
+                  "疾病",
+                  "痛恨",
+                  "快",
+                  "急躁"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“良多趣味”中“良”的意思是？",
+                "options": [
+                  "善良",
+                  "很",
+                  "良好",
+                  "百姓"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“属引凄异”中“属”的意思是？",
+                "options": [
+                  "属于",
+                  "连接",
+                  "嘱托",
+                  "类别"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“哀转久绝”中“绝”的意思是？",
+                "options": [
+                  "断绝",
+                  "消失",
+                  "绝对",
+                  "横渡"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沿溯阻绝”中“溯”的意思是？",
+                "options": [
+                  "顺流而下",
+                  "逆流而上",
+                  "追溯",
+                  "游泳"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“素湍绿潭”中“素”的意思是？",
+                "options": [
+                  "朴素",
+                  "白色",
+                  "平素",
+                  "素养"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“飞漱其间”中“漱”的意思是？",
+                "options": [
+                  "漱口",
+                  "冲刷",
+                  "咳嗽",
+                  "洗涤"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在三峡七百里中，两岸都是相连的山，完全没有中断的地方。",
+                "options": [
+                  "自三峡七百里中，两岸连山，略无阙处",
+                  "重岩叠嶂，隐天蔽日",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "每至晴初霜旦，林寒涧肃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自非亭午夜分，不见曦月”的意思是？",
+                "options": [
+                  "如果不是正午和半夜，就看不见太阳和月亮",
+                  "从正午到半夜，都看不见太阳和月亮",
+                  "除了正午和半夜，其他时候都能看见太阳和月亮",
+                  "正午和半夜时分，太阳和月亮同时出现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "到了夏天江水漫上山陵，上行和下行的航道都被阻断。",
+                "options": [
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "空谷传响，哀转久绝",
+                  "悬泉瀑布，飞漱其间"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“虽乘奔御风，不以疾也”的意思是？",
+                "options": [
+                  "即使骑着飞奔的马、驾着风，也没有这样快",
+                  "虽然骑着马、驾着风，但还是不够快",
+                  "即使骑马乘风而行，也比不上船行的速度",
+                  "虽然奔马和疾风都很快，却都不能持久"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春天和冬天的时候，白色的急流、碧绿的深潭，回旋着清波，倒映着各种景物的影子。",
+                "options": [
+                  "每至晴初霜旦，林寒涧肃",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "常有高猿长啸，属引凄异"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“清荣峻茂，良多趣味”的意思是？",
+                "options": [
+                  "水清、树荣、山高、草盛，实在有很多趣味",
+                  "清波荡漾、草木茂盛，让人感到十分有趣",
+                  "清澈的江水、繁荣的草木，趣味良多",
+                  "水清树荣、山峻草茂，但趣味并不多"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "每到天刚放晴的时候或下霜的早晨，树林和山涧显出一片清凉和寂静。",
+                "options": [
+                  "或王命急宣，有时朝发白帝",
+                  "每至晴初霜旦，林寒涧肃",
+                  "自非亭午夜分，不见曦月",
+                  "故渔者歌曰：“巴东三峡巫峡长”"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“空谷传响，哀转久绝”的意思是？",
+                "options": [
+                  "空旷的山谷传来回声，悲哀婉转，很久才消失",
+                  "空荡的山谷里传来响声，哀伤得久久不能停止",
+                  "山谷中回声不断，悲哀的调子转了又转",
+                  "空旷的山谷传来回响，哀怨的声音很快就消失了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "极高的山峰上多生长着奇形怪状的柏树，悬泉和瀑布在那里飞流冲荡。",
+                "options": [
+                  "重岩叠嶂，隐天蔽日",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "两岸连山，略无阙处",
+                  "林寒涧肃，常有高猿长啸"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“常有高猿长啸，属引凄异”的意思是？",
+                "options": [
+                  "常常有高处的猿猴拉长声音啼叫，声音连续不断，凄凉怪异",
+                  "经常有高大的猿猴大声吼叫，声音断断续续，十分凄惨",
+                  "时常有猿猴在高处长鸣，声音连接不断，异常悲凉",
+                  "常常有高处的猿猴长声啼叫，声音时断时续，凄厉奇异"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所以打鱼的人唱道：“巴东三峡巫峡长，猿鸣三声泪沾裳。”",
+                "options": [
+                  "故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳”",
+                  "或王命急宣，有时朝发白帝，暮到江陵",
+                  "其间千二百里，虽乘奔御风，不以疾也",
+                  "自三峡七百里中，两岸连山，略无阙处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“或王命急宣，有时朝发白帝，暮到江陵”的意思是？",
+                "options": [
+                  "有时皇帝的命令要紧急传达，早晨从白帝城出发，傍晚就到了江陵",
+                  "或者皇帝的命令紧急宣布，有时早上从白帝城出发，晚上到达江陵",
+                  "有时王命紧急传达，偶尔早晨从白帝城出发，夜里才到江陵",
+                  "如果有王命紧急宣布，便早晨从白帝城出发，傍晚赶到江陵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这中间有一千二百里，即使骑着飞奔的马、驾着风，也没有这样快。",
+                "options": [
+                  "自非亭午夜分，不见曦月",
+                  "其间千二百里，虽乘奔御风，不以疾也",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "空谷传响，哀转久绝"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“重岩叠嶂，隐天蔽日”的意思是？",
+                "options": [
+                  "层层的悬崖、排排的峭壁，把天空和太阳都遮蔽了",
+                  "重重的岩石和山嶂，隐藏在天日之间",
+                  "山岩重叠、山峰如屏障，遮住了天空却露出太阳",
+                  "层叠的山岩像屏障一样，把太阳遮住而天空可见"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "层层的悬崖、排排的峭壁，把天空和太阳都遮蔽了。",
+                "options": [
+                  "重岩叠嶂，隐天蔽日",
+                  "绝𪩘多生怪柏，悬泉瀑布",
+                  "每至晴初霜旦，林寒涧肃",
+                  "常有高猿长啸，属引凄异"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“两岸连山，略无阙处”的意思是？",
+                "options": [
+                  "两岸都是相连的山，完全没有中断的地方",
+                  "两岸的山连接在一起，稍微有些缺口",
+                  "两岸群山连绵，几乎没有断开的地方",
+                  "两岸的山彼此相连，一点空缺也没有"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两岸连山，略无阙处",
+                  "自三峡七百里中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "隐天蔽日",
+                  "重岩叠嶂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不见曦月",
+                  "自非亭午夜分"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沿溯阻绝",
+                  "至于夏水襄陵"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有时朝发白帝",
+                  "或王命急宣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其间千二百里",
+                  "暮到江陵"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不以疾也",
+                  "虽乘奔御风"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "则素湍绿潭，回清倒影",
+                  "春冬之时"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "悬泉瀑布，飞漱其间",
+                  "绝𪩘多生怪柏"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "良多趣味",
+                  "清荣峻茂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "林寒涧肃",
+                  "每至晴初霜旦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "属引凄异",
+                  "常有高猿长啸"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "哀转久绝",
+                  "空谷传响"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猿鸣三声泪沾裳",
+                  "故渔者歌曰：“巴东三峡巫峡长"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "两岸连山，略无阙处",
+                  "自三峡七百里中",
+                  "重岩叠嶂，隐天蔽日",
+                  "自非亭午夜分，不见曦月"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "沿溯阻绝",
+                  "至于夏水襄陵",
+                  "有时朝发白帝",
+                  "或王命急宣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其间千二百里",
+                  "暮到江陵",
+                  "虽乘奔御风",
+                  "不以疾也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "则素湍绿潭，回清倒影",
+                  "春冬之时",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "清荣峻茂，良多趣味"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "林寒涧肃",
+                  "每至晴初霜旦",
+                  "属引凄异",
+                  "常有高猿长啸"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "空谷传响，哀转久绝",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "猿鸣三声泪沾裳”",
+                  "每至晴初霜旦，林寒涧肃"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q21",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "重岩叠嶂，隐天蔽日",
+                  "自三峡七百里中",
+                  "两岸连山，略无阙处",
+                  "自非亭午夜分，不见曦月",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "或王命急宣，有时朝发白帝",
+                  "暮到江陵，其间千二百里",
+                  "虽乘奔御风，不以疾也",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "清荣峻茂，良多趣味",
+                  "每至晴初霜旦，林寒涧肃",
+                  "常有高猿长啸，属引凄异",
+                  "空谷传响，哀转久绝",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "猿鸣三声泪沾裳”"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quē"
+              },
+              "otherInfo": {
+                "content": "两岸连山，略无__处",
+                "answer": "阙"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhàng"
+              },
+              "otherInfo": {
+                "content": "重岩叠__，隐天蔽日",
+                "answer": "嶂"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "自非亭午夜分，不见__月",
+                "answer": "曦"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù"
+              },
+              "otherInfo": {
+                "content": "至于夏水襄陵，沿__阻绝",
+                "answer": "溯"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāng"
+              },
+              "otherInfo": {
+                "content": "至于夏水__陵，沿溯阻绝",
+                "answer": "襄"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "虽乘奔__风，不以疾也",
+                "answer": "御"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tuān"
+              },
+              "otherInfo": {
+                "content": "春冬之时，则素__绿潭，回清倒影",
+                "answer": "湍"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎn"
+              },
+              "otherInfo": {
+                "content": "绝__多生怪柏，悬泉瀑布，飞漱其间",
+                "answer": "𪩘"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù"
+              },
+              "otherInfo": {
+                "content": "悬泉瀑布，飞__其间",
+                "answer": "漱"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǔ"
+              },
+              "otherInfo": {
+                "content": "常有高猿长啸，__引凄异",
+                "answer": "属"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自三峡七百里中，______",
+                "answer": "两岸连山，略无阙处"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，略无阙处",
+                "answer": "两岸连山"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "重岩叠嶂，______",
+                "answer": "隐天蔽日"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，隐天蔽日",
+                "answer": "重岩叠嶂"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自非亭午夜分，______",
+                "answer": "不见曦月"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不见曦月",
+                "answer": "自非亭午夜分"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "至于夏水襄陵，______",
+                "answer": "沿溯阻绝"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，沿溯阻绝",
+                "answer": "至于夏水襄陵"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "或王命急宣，______",
+                "answer": "有时朝发白帝"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，有时朝发白帝",
+                "answer": "或王命急宣"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "暮到江陵，______",
+                "answer": "其间千二百里"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，其间千二百里",
+                "answer": "暮到江陵"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽乘奔御风，______",
+                "answer": "不以疾也"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不以疾也",
+                "answer": "虽乘奔御风"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春冬之时，______",
+                "answer": "则素湍绿潭，回清倒影"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，则素湍绿潭，回清倒影",
+                "answer": "春冬之时"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "绝𪩘多生怪柏，______",
+                "answer": "悬泉瀑布，飞漱其间"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，悬泉瀑布，飞漱其间",
+                "answer": "绝𪩘多生怪柏"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "清荣峻茂，______",
+                "answer": "良多趣味"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，良多趣味",
+                "answer": "清荣峻茂"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "每至晴初霜旦，______",
+                "answer": "林寒涧肃"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，林寒涧肃",
+                "answer": "每至晴初霜旦"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "常有高猿长啸，______",
+                "answer": "属引凄异"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，属引凄异",
+                "answer": "常有高猿长啸"
+              }
+            },
+            {
+              "id": "s4l1q25",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "空谷传响，______",
+                "answer": "哀转久绝"
+              }
+            },
+            {
+              "id": "s4l1q26",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，哀转久绝",
+                "answer": "空谷传响"
+              }
+            },
+            {
+              "id": "s4l1q27",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故渔者歌曰：“巴东三峡巫峡长，______”",
+                "answer": "猿鸣三声泪沾裳"
+              }
+            },
+            {
+              "id": "s4l1q28",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故渔者歌曰：“______，猿鸣三声泪沾裳”",
+                "answer": "巴东三峡巫峡长"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自三峡七百里中，两岸连山，略无阙处。______，______。",
+                "answer": "重岩叠嶂，隐天蔽日"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "重岩叠嶂，隐天蔽日。______，______。",
+                "answer": "自非亭午夜分，不见曦月"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自非亭午夜分，不见曦月。______，______。",
+                "answer": "至于夏水襄陵，沿溯阻绝"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "至于夏水襄陵，沿溯阻绝。______，______。",
+                "answer": "或王命急宣，有时朝发白帝"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "或王命急宣，有时朝发白帝。______，______。",
+                "answer": "暮到江陵，其间千二百里"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "暮到江陵，其间千二百里。______，______。",
+                "answer": "虽乘奔御风，不以疾也"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽乘奔御风，不以疾也。______，______。",
+                "answer": "春冬之时，则素湍绿潭，回清倒影"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春冬之时，则素湍绿潭，回清倒影。______，______。",
+                "answer": "绝𪩘多生怪柏，悬泉瀑布，飞漱其间"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "绝𪩘多生怪柏，悬泉瀑布，飞漱其间。______，______。",
+                "answer": "清荣峻茂，良多趣味"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "清荣峻茂，良多趣味。______，______。",
+                "answer": "每至晴初霜旦，林寒涧肃"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "每至晴初霜旦，林寒涧肃。______，______。",
+                "answer": "常有高猿长啸，属引凄异"
+              }
+            },
+            {
+              "id": "s4l2q12",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "常有高猿长啸，属引凄异。______，______。",
+                "answer": "空谷传响，哀转久绝"
+              }
+            },
+            {
+              "id": "s4l2q13",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "空谷传响，哀转久绝。______，______。",
+                "answer": "故渔者歌曰：“巴东三峡巫峡长，猿鸣三声泪沾裳”"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "自三峡七百里中",
+                  "空谷传响，哀转久绝",
+                  "每至晴初霜旦，林寒涧肃",
+                  "虽乘奔御风，不以疾也",
+                  "重岩叠嶂，隐天蔽日",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "清荣峻茂，良多趣味",
+                  "两岸连山，略无阙处",
+                  "暮到江陵，其间千二百里",
+                  "常有高猿长啸，属引凄异",
+                  "自非亭午夜分，不见曦月",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "或王命急宣，有时朝发白帝",
+                  "猿鸣三声泪沾裳”"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "或王命急宣，有时朝发白帝",
+                  "自非亭午夜分，不见曦月",
+                  "清荣峻茂，良多趣味",
+                  "每至晴初霜旦，林寒涧肃",
+                  "空谷传响，哀转久绝",
+                  "重岩叠嶂，隐天蔽日",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "两岸连山，略无阙处",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "虽乘奔御风，不以疾也",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "猿鸣三声泪沾裳”",
+                  "自三峡七百里中",
+                  "暮到江陵，其间千二百里",
+                  "常有高猿长啸，属引凄异"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "常有高猿长啸，属引凄异",
+                  "两岸连山，略无阙处",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "自非亭午夜分，不见曦月",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "虽乘奔御风，不以疾也",
+                  "空谷传响，哀转久绝",
+                  "重岩叠嶂，隐天蔽日",
+                  "暮到江陵，其间千二百里",
+                  "每至晴初霜旦，林寒涧肃",
+                  "猿鸣三声泪沾裳”",
+                  "至于夏水襄陵，沿溯阻绝",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "自三峡七百里中",
+                  "清荣峻茂，良多趣味",
+                  "或王命急宣，有时朝发白帝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "清荣峻茂，良多趣味",
+                  "每至晴初霜旦，林寒涧肃",
+                  "自三峡七百里中",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "或王命急宣，有时朝发白帝",
+                  "空谷传响，哀转久绝",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "猿鸣三声泪沾裳”",
+                  "重岩叠嶂，隐天蔽日",
+                  "暮到江陵，其间千二百里",
+                  "自非亭午夜分，不见曦月",
+                  "常有高猿长啸，属引凄异",
+                  "两岸连山，略无阙处",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "虽乘奔御风，不以疾也",
+                  "至于夏水襄陵，沿溯阻绝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "至于夏水襄陵，沿溯阻绝",
+                  "常有高猿长啸，属引凄异",
+                  "故渔者歌曰：“巴东三峡巫峡长",
+                  "重岩叠嶂，隐天蔽日",
+                  "空谷传响，哀转久绝",
+                  "自三峡七百里中",
+                  "虽乘奔御风，不以疾也",
+                  "每至晴初霜旦，林寒涧肃",
+                  "猿鸣三声泪沾裳”",
+                  "春冬之时，则素湍绿潭，回清倒影",
+                  "两岸连山，略无阙处",
+                  "清荣峻茂，良多趣味",
+                  "自非亭午夜分，不见曦月",
+                  "暮到江陵，其间千二百里",
+                  "绝𪩘多生怪柏，悬泉瀑布，飞漱其间",
+                  "或王命急宣，有时朝发白帝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

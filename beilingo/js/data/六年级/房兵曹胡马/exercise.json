@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú mǎ dà wǎn zú"
+              },
+              "otherInfo": {
+                "line": "胡马大宛足"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng léng shòu gǔ chéng"
+              },
+              "otherInfo": {
+                "line": "锋棱瘦骨成"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú pī shuāng ěr jùn"
+              },
+              "otherInfo": {
+                "line": "竹批双耳峻"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng rù sì tí qīng"
+              },
+              "otherInfo": {
+                "line": "风入四蹄轻"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ xiàng wú kōng kuò"
+              },
+              "otherInfo": {
+                "line": "所向无空阔"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēn kān tuō sǐ shēng"
+              },
+              "otherInfo": {
+                "line": "真堪托死生"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo téng yǒu rú cǐ"
+              },
+              "otherInfo": {
+                "line": "骁腾有如此"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn lǐ kě héng xíng"
+              },
+              "otherInfo": {
+                "line": "万里可横行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“大宛”的意思是？",
+                "options": [
+                  "西域古国名，以产良马著称",
+                  "大宛马奔跑的姿势",
+                  "马匹体形宽大的样子",
+                  "古代对骏马的通称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“锋棱”的意思是？",
+                "options": [
+                  "骨骼突出、棱角分明的样子",
+                  "刀剑锋利的刃口",
+                  "马匹奔跑时扬起的尘土",
+                  "马鬃竖立如锋刃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“竹批”的意思是？",
+                "options": [
+                  "像竹筒削尖一样，形容马耳峻峭挺立",
+                  "用竹条抽打马匹",
+                  "竹子劈开后的细条",
+                  "马耳下垂如竹叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“峻”的意思是？",
+                "options": [
+                  "高耸、陡峭，这里形容马耳挺立",
+                  "严厉、苛刻",
+                  "险峻的山路",
+                  "急速、猛烈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“入”的意思是？",
+                "options": [
+                  "进入、灌入，这里形容风从蹄间穿过",
+                  "收入、获得",
+                  "参加、加入",
+                  "合乎、符合"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“空阔”的意思是？",
+                "options": [
+                  "空旷辽阔之地",
+                  "天空高远",
+                  "空虚寂寞",
+                  "宽阔的街道"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“堪”的意思是？",
+                "options": [
+                  "能够、可以",
+                  "忍受、承受",
+                  "值得、配得上",
+                  "胜任、担当"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“托死生”的意思是？",
+                "options": [
+                  "把生死大事托付给它",
+                  "托付生死之交的朋友",
+                  "逃避生死考验",
+                  "为生死之事所托累"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“骁腾”的意思是？",
+                "options": [
+                  "勇猛奔腾",
+                  "骁勇善战的将领",
+                  "腾空跃起的姿态",
+                  "马匹嘶鸣的声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“横行”的意思是？",
+                "options": [
+                  "纵横驰骋，无所阻挡",
+                  "横行霸道，胡作非为",
+                  "横穿道路",
+                  "横向排列"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这匹胡马体形宽大，是西域大宛出产的良马。",
+                "options": [
+                  "胡马大宛足",
+                  "锋棱瘦骨成",
+                  "竹批双耳峻",
+                  "风入四蹄轻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“锋棱瘦骨成”的意思是？",
+                "options": [
+                  "马匹瘦削，骨骼突出，棱角分明，显得神骏",
+                  "马匹瘦弱不堪，难以负重",
+                  "马骨像刀锋一样锋利，能伤人",
+                  "马匹骨架宽大，肌肉丰满"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它的两只耳朵像削尖的竹筒一样高高挺立，十分峻峭。",
+                "options": [
+                  "竹批双耳峻",
+                  "胡马大宛足",
+                  "所向无空阔",
+                  "骁腾有如此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“风入四蹄轻”的意思是？",
+                "options": [
+                  "马奔跑时四蹄轻快，仿佛有风灌入蹄间",
+                  "风吹入马蹄，使马感到寒冷",
+                  "马的四蹄被风托起，不能着地",
+                  "风从四个方向吹来，马站立不稳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它奔驰所向，没有空旷辽阔之地能阻挡它。",
+                "options": [
+                  "所向无空阔",
+                  "万里可横行",
+                  "风入四蹄轻",
+                  "真堪托死生"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“真堪托死生”的意思是？",
+                "options": [
+                  "这匹马确实可以把生死大事托付给它",
+                  "这匹马真能替人承受生死",
+                  "这匹马值得为它付出生命",
+                  "这匹马真能托起生死轮回"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "它勇猛奔腾有如此气概，可以纵横驰骋万里。",
+                "options": [
+                  "骁腾有如此",
+                  "胡马大宛足",
+                  "竹批双耳峻",
+                  "所向无空阔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“万里可横行”的意思是？",
+                "options": [
+                  "可以纵横驰骋万里，无所阻挡",
+                  "可以在万里之外横行霸道",
+                  "可以横着走一万里路",
+                  "万里之外也可以横渡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "锋棱瘦骨成",
+                  "胡马大宛足"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风入四蹄轻",
+                  "竹批双耳峻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "真堪托死生",
+                  "所向无空阔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万里可横行",
+                  "骁腾有如此"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "竹批双耳峻",
+                  "锋棱瘦骨成",
+                  "胡马大宛足",
+                  "风入四蹄轻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所向无空阔",
+                  "风入四蹄轻",
+                  "真堪托死生",
+                  "竹批双耳峻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "骁腾有如此",
+                  "真堪托死生",
+                  "万里可横行",
+                  "所向无空阔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风入四蹄轻",
+                  "万里可横行",
+                  "胡马大宛足",
+                  "真堪托死生",
+                  "锋棱瘦骨成",
+                  "所向无空阔",
+                  "竹批双耳峻",
+                  "骁腾有如此"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎn"
+              },
+              "otherInfo": {
+                "content": "胡马大__足",
+                "answer": "宛"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "léng"
+              },
+              "otherInfo": {
+                "content": "锋__瘦骨成",
+                "answer": "棱"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pī"
+              },
+              "otherInfo": {
+                "content": "竹__双耳峻",
+                "answer": "批"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "风入四__轻",
+                "answer": "蹄"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kuò"
+              },
+              "otherInfo": {
+                "content": "所向无空__",
+                "answer": "阔"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kān"
+              },
+              "otherInfo": {
+                "content": "真__托死生",
+                "answer": "堪"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "__腾有如此",
+                "answer": "骁"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "héng"
+              },
+              "otherInfo": {
+                "content": "万里可__行",
+                "answer": "横"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jùn"
+              },
+              "otherInfo": {
+                "content": "竹批双耳__",
+                "answer": "峻"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "téng"
+              },
+              "otherInfo": {
+                "content": "骁__有如此",
+                "answer": "腾"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "胡马大宛足，______",
+                "answer": "锋棱瘦骨成"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，锋棱瘦骨成",
+                "answer": "胡马大宛足"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "竹批双耳峻，______",
+                "answer": "风入四蹄轻"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，风入四蹄轻",
+                "answer": "竹批双耳峻"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所向无空阔，______",
+                "answer": "真堪托死生"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，真堪托死生",
+                "answer": "所向无空阔"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "骁腾有如此，______",
+                "answer": "万里可横行"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万里可横行",
+                "answer": "骁腾有如此"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "胡马大宛足，锋棱瘦骨成。______，______",
+                "answer": "竹批双耳峻，风入四蹄轻"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "竹批双耳峻，风入四蹄轻。______，______",
+                "answer": "所向无空阔，真堪托死生"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所向无空阔，真堪托死生。______，______",
+                "answer": "骁腾有如此，万里可横行"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所向无空阔，真堪托死生。______，______",
+                "answer": "骁腾有如此，万里可横行"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "风入四蹄轻",
+                  "真堪托死生",
+                  "胡马大宛足",
+                  "骁腾有如此",
+                  "竹批双耳峻",
+                  "万里可横行",
+                  "锋棱瘦骨成",
+                  "所向无空阔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所向无空阔",
+                  "锋棱瘦骨成",
+                  "万里可横行",
+                  "竹批双耳峻",
+                  "胡马大宛足",
+                  "风入四蹄轻",
+                  "骁腾有如此",
+                  "真堪托死生"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "竹批双耳峻",
+                  "骁腾有如此",
+                  "锋棱瘦骨成",
+                  "所向无空阔",
+                  "胡马大宛足",
+                  "万里可横行",
+                  "风入四蹄轻",
+                  "真堪托死生"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "真堪托死生",
+                  "胡马大宛足",
+                  "万里可横行",
+                  "竹批双耳峻",
+                  "锋棱瘦骨成",
+                  "所向无空阔",
+                  "骁腾有如此",
+                  "风入四蹄轻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "骁腾有如此",
+                  "风入四蹄轻",
+                  "所向无空阔",
+                  "胡马大宛足",
+                  "真堪托死生",
+                  "竹批双耳峻",
+                  "万里可横行",
+                  "锋棱瘦骨成"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

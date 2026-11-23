@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dà mò shā rú xuě"
+              },
+              "otherInfo": {
+                "line": "大漠沙如雪"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān shān yuè sì gōu"
+              },
+              "otherInfo": {
+                "line": "燕山月似钩"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé dāng jīn luò nǎo"
+              },
+              "otherInfo": {
+                "line": "何当金络脑"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kuài zǒu tà qīng qiū"
+              },
+              "otherInfo": {
+                "line": "快走踏清秋"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“大漠”的意思是？",
+                "options": [
+                  "广阔的沙漠",
+                  "巨大的湖泊",
+                  "遥远的边关",
+                  "荒凉的古城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“燕山”的意思是？",
+                "options": [
+                  "燕山山脉",
+                  "燕国的山",
+                  "燕子栖息的山",
+                  "北方边塞的山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“钩”的意思是？",
+                "options": [
+                  "弯刀",
+                  "钩子",
+                  "月亮",
+                  "马具"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“何当”的意思是？",
+                "options": [
+                  "何时才能",
+                  "为什么",
+                  "何必",
+                  "如何担当"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“金络脑”的意思是？",
+                "options": [
+                  "黄金做的马笼头",
+                  "金色的脑袋",
+                  "贵重的马鞍",
+                  "华丽的马鞭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“快走”的意思是？",
+                "options": [
+                  "飞快地跑",
+                  "赶快离开",
+                  "愉快地行走",
+                  "轻快地散步"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“清秋”的意思是？",
+                "options": [
+                  "清爽的秋天",
+                  "清冷的秋夜",
+                  "清朝的秋天",
+                  "凄清的秋色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“踏”的意思是？",
+                "options": [
+                  "踩",
+                  "踢",
+                  "跳",
+                  "跨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“沙如雪”的意思是？",
+                "options": [
+                  "沙子像雪一样白",
+                  "沙地上覆盖着雪",
+                  "沙尘像雪片飞舞",
+                  "沙粒像雪一样轻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月似钩”的意思是？",
+                "options": [
+                  "月亮像弯钩",
+                  "月亮像钩子挂在天上",
+                  "月光像钩子一样锋利",
+                  "月亮被云遮成钩形"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "广阔的沙漠在月光下像雪一样白。",
+                "options": [
+                  "大漠沙如雪",
+                  "燕山月似钩",
+                  "何当金络脑",
+                  "快走踏清秋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“大漠沙如雪”的意思是？",
+                "options": [
+                  "沙漠里的沙子在月光下像雪一样白",
+                  "沙漠里下了一场大雪",
+                  "沙漠的沙子像雪一样冰冷",
+                  "沙漠被雪覆盖成一片白色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "燕山上的月亮像弯钩一样。",
+                "options": [
+                  "燕山月似钩",
+                  "大漠沙如雪",
+                  "何当金络脑",
+                  "快走踏清秋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“燕山月似钩”的意思是？",
+                "options": [
+                  "燕山上的月亮像弯钩",
+                  "燕山上的月亮像钩子一样锋利",
+                  "燕山上的月亮被云遮成钩形",
+                  "燕山上的月亮像钩子挂在树梢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "什么时候才能给马戴上黄金做的笼头。",
+                "options": [
+                  "何当金络脑",
+                  "快走踏清秋",
+                  "大漠沙如雪",
+                  "燕山月似钩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“何当金络脑”的意思是？",
+                "options": [
+                  "什么时候才能给马戴上黄金做的笼头",
+                  "为什么给马戴上黄金做的笼头",
+                  "何必给马戴上黄金做的笼头",
+                  "如何给马戴上黄金做的笼头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "飞快地奔跑在清爽的秋天里。",
+                "options": [
+                  "快走踏清秋",
+                  "何当金络脑",
+                  "大漠沙如雪",
+                  "燕山月似钩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“快走踏清秋”的意思是？",
+                "options": [
+                  "飞快地奔跑在清爽的秋天里",
+                  "赶快离开清爽的秋天",
+                  "愉快地行走在清冷的秋夜",
+                  "轻快地散步在清朝的秋天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕山月似钩",
+                  "大漠沙如雪"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "快走踏清秋",
+                  "何当金络脑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕山月似钩",
+                  "何当金络脑",
+                  "大漠沙如雪",
+                  "快走踏清秋"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "快走踏清秋",
+                  "大漠沙如雪",
+                  "何当金络脑",
+                  "燕山月似钩"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "大__沙如雪",
+                "answer": "漠"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōu"
+              },
+              "otherInfo": {
+                "content": "燕山月似__",
+                "answer": "钩"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "何当金__脑",
+                "answer": "络"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tà"
+              },
+              "otherInfo": {
+                "content": "快走__清秋",
+                "answer": "踏"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shā"
+              },
+              "otherInfo": {
+                "content": "大漠__如雪",
+                "answer": "沙"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "燕山__似钩",
+                "answer": "月"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǎo"
+              },
+              "otherInfo": {
+                "content": "何当金络__",
+                "answer": "脑"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "快走踏__秋",
+                "answer": "清"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rú"
+              },
+              "otherInfo": {
+                "content": "大漠沙__雪",
+                "answer": "如"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū"
+              },
+              "otherInfo": {
+                "content": "快走踏清__",
+                "answer": "秋"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大漠沙如雪，______。",
+                "answer": "燕山月似钩"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，燕山月似钩。",
+                "answer": "大漠沙如雪"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "何当金络脑，______。",
+                "answer": "快走踏清秋"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，快走踏清秋。",
+                "answer": "何当金络脑"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大漠沙如雪，燕山月似钩。______，______。",
+                "answer": "何当金络脑，快走踏清秋"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大漠沙如雪，燕山月似钩。______，______。",
+                "answer": "何当金络脑，快走踏清秋"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕山月似钩",
+                  "快走踏清秋",
+                  "大漠沙如雪",
+                  "何当金络脑"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何当金络脑",
+                  "大漠沙如雪",
+                  "快走踏清秋",
+                  "燕山月似钩"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "快走踏清秋",
+                  "燕山月似钩",
+                  "何当金络脑",
+                  "大漠沙如雪"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "大漠沙如雪",
+                  "何当金络脑",
+                  "燕山月似钩",
+                  "快走踏清秋"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "何当金络脑",
+                  "燕山月似钩",
+                  "快走踏清秋",
+                  "大漠沙如雪"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sān wàn lǐ hé dōng rù hǎi"
+              },
+              "otherInfo": {
+                "line": "三万里河东入海"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǔ qiān rèn yuè shàng mó tiān"
+              },
+              "otherInfo": {
+                "line": "五千仞岳上摩天"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí mín lèi jìn hú chén lǐ"
+              },
+              "otherInfo": {
+                "line": "遗民泪尽胡尘里"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán wàng wáng shī yòu yī nián"
+              },
+              "otherInfo": {
+                "line": "南望王师又一年"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“三万里河东入海”中“河”的意思是？",
+                "options": [
+                  "黄河",
+                  "银河",
+                  "运河",
+                  "淮河"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“五千仞岳上摩天”中“岳”的意思是？",
+                "options": [
+                  "高山",
+                  "五岳中的华山",
+                  "山岳的泛称",
+                  "西岳华山"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“五千仞岳上摩天”中“摩天”的意思是？",
+                "options": [
+                  "触摸天空",
+                  "遮蔽天空",
+                  "比天还高",
+                  "接近天空"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遗民泪尽胡尘里”中“遗民”的意思是？",
+                "options": [
+                  "被遗弃的百姓",
+                  "沦陷区的宋朝百姓",
+                  "逃亡的难民",
+                  "遗留的后代"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遗民泪尽胡尘里”中“胡尘”的意思是？",
+                "options": [
+                  "胡人扬起的尘土",
+                  "金兵铁蹄下的战尘",
+                  "北方的风沙",
+                  "胡地的烟尘"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南望王师又一年”中“王师”的意思是？",
+                "options": [
+                  "朝廷的军队",
+                  "帝王的老师",
+                  "君王的师傅",
+                  "王室的卫队"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“南望王师又一年”中“又”的意思是？",
+                "options": [
+                  "再一次",
+                  "又一次（表示重复）",
+                  "另外",
+                  "更加"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“三万里河东入海”中“东”的用法是？",
+                "options": [
+                  "名词，东方",
+                  "名词作状语，向东",
+                  "动词，向东流",
+                  "形容词，东边的"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“五千仞岳上摩天”中“上”的用法是？",
+                "options": [
+                  "名词，上面",
+                  "名词作状语，向上",
+                  "动词，上升",
+                  "形容词，高处的"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遗民泪尽胡尘里”中“尽”的意思是？",
+                "options": [
+                  "完，流干",
+                  "全部",
+                  "尽头",
+                  "竭尽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "三万里长的黄河向东流入大海。",
+                "options": [
+                  "三万里河东入海",
+                  "五千仞岳上摩天",
+                  "黄河远上白云间",
+                  "九曲黄河万里沙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“三万里河东入海”的意思是？",
+                "options": [
+                  "黄河绵延三万里，向东奔流入海",
+                  "黄河有三万里长，一直流到东海",
+                  "三万里外的河东地区流入大海",
+                  "黄河向东流了三万里才入海"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "五千仞高的华山向上直插云天。",
+                "options": [
+                  "五千仞岳上摩天",
+                  "三万里河东入海",
+                  "会当凌绝顶，一览众山小",
+                  "横看成岭侧成峰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“五千仞岳上摩天”的意思是？",
+                "options": [
+                  "五千仞高的华山向上直插云天",
+                  "五岳高五千仞，向上能摸到天",
+                  "五千仞高的山岳上达天庭",
+                  "华山有五千仞，上面接着天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "沦陷区的百姓在金兵的铁蹄下眼泪流干。",
+                "options": [
+                  "遗民泪尽胡尘里",
+                  "南望王师又一年",
+                  "国破山河在，城春草木深",
+                  "感时花溅泪，恨别鸟惊心"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“遗民泪尽胡尘里”的意思是？",
+                "options": [
+                  "沦陷区的百姓在金兵铁蹄下眼泪流干",
+                  "被遗弃的百姓在胡地的尘土中哭干了泪",
+                  "逃亡的百姓在风沙中流尽了眼泪",
+                  "遗留的百姓在金人的尘土里哭泣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "向南盼望朝廷的军队收复失地，又过了一年。",
+                "options": [
+                  "南望王师又一年",
+                  "遗民泪尽胡尘里",
+                  "王师北定中原日，家祭无忘告乃翁",
+                  "但使龙城飞将在，不教胡马度阴山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“南望王师又一年”的意思是？",
+                "options": [
+                  "向南盼望朝廷军队收复失地，又过了一年",
+                  "向南望着朝廷的军队，已经一年了",
+                  "南方的军队又打了一年仗",
+                  "盼望南方的军队一年又一年"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "五千仞岳上摩天",
+                  "三万里河东入海"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南望王师又一年",
+                  "遗民泪尽胡尘里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遗民泪尽胡尘里",
+                  "三万里河东入海",
+                  "五千仞岳上摩天",
+                  "南望王师又一年"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南望王师又一年",
+                  "五千仞岳上摩天",
+                  "遗民泪尽胡尘里",
+                  "三万里河东入海"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé"
+              },
+              "otherInfo": {
+                "content": "三万里__东入海",
+                "answer": "河"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mó"
+              },
+              "otherInfo": {
+                "content": "五千仞岳上__天",
+                "answer": "摩"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "__民泪尽胡尘里",
+                "answer": "遗"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàng"
+              },
+              "otherInfo": {
+                "content": "南__王师又一年",
+                "answer": "望"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rù"
+              },
+              "otherInfo": {
+                "content": "三万里河东__海",
+                "answer": "入"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rèn"
+              },
+              "otherInfo": {
+                "content": "五千__岳上摩天",
+                "answer": "仞"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lèi"
+              },
+              "otherInfo": {
+                "content": "遗民__尽胡尘里",
+                "answer": "泪"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shī"
+              },
+              "otherInfo": {
+                "content": "南望王__又一年",
+                "answer": "师"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chén"
+              },
+              "otherInfo": {
+                "content": "遗民泪尽胡__里",
+                "answer": "尘"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nián"
+              },
+              "otherInfo": {
+                "content": "南望王师又一__",
+                "answer": "年"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "三万里河东入海，______",
+                "answer": "五千仞岳上摩天"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，五千仞岳上摩天",
+                "answer": "三万里河东入海"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遗民泪尽胡尘里，______",
+                "answer": "南望王师又一年"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，南望王师又一年",
+                "answer": "遗民泪尽胡尘里"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "三万里河东入海，五千仞岳上摩天。______，______",
+                "answer": "遗民泪尽胡尘里，南望王师又一年"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "五千仞岳上摩天，三万里河东入海。______，______",
+                "answer": "遗民泪尽胡尘里，南望王师又一年"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南望王师又一年",
+                  "三万里河东入海",
+                  "遗民泪尽胡尘里",
+                  "五千仞岳上摩天"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遗民泪尽胡尘里",
+                  "五千仞岳上摩天",
+                  "南望王师又一年",
+                  "三万里河东入海"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "五千仞岳上摩天",
+                  "南望王师又一年",
+                  "三万里河东入海",
+                  "遗民泪尽胡尘里"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "三万里河东入海",
+                  "遗民泪尽胡尘里",
+                  "五千仞岳上摩天",
+                  "南望王师又一年"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南望王师又一年",
+                  "遗民泪尽胡尘里",
+                  "三万里河东入海",
+                  "五千仞岳上摩天"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

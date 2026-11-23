@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hēi yún yā chéng chéng yù cuī"
+              },
+              "otherInfo": {
+                "line": "黑云压城城欲摧"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎ guāng xiàng rì jīn lín kāi"
+              },
+              "otherInfo": {
+                "line": "甲光向日金鳞开"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎo shēng mǎn tiān qiū sè lǐ"
+              },
+              "otherInfo": {
+                "line": "角声满天秋色里"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sài shàng yàn zhī níng yè zǐ"
+              },
+              "otherInfo": {
+                "line": "塞上燕脂凝夜紫"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn juǎn hóng qí lín yì shuǐ"
+              },
+              "otherInfo": {
+                "line": "半卷红旗临易水"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuāng zhòng gǔ hán shēng bù qǐ"
+              },
+              "otherInfo": {
+                "line": "霜重鼓寒声不起"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bào jūn huáng jīn tái shàng yì"
+              },
+              "otherInfo": {
+                "line": "报君黄金台上意"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí xié yù lóng wèi jūn sǐ"
+              },
+              "otherInfo": {
+                "line": "提携玉龙为君死"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黑云压城城欲摧”中“摧”的意思是？",
+                "options": [
+                  "摧毁、崩塌",
+                  "催促、逼迫",
+                  "折断、弯曲",
+                  "忧伤、悲摧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“甲光向日金鳞开”中“甲光”的意思是？",
+                "options": [
+                  "铠甲反射的光芒",
+                  "甲等的荣光",
+                  "士兵的号令",
+                  "日出的霞光"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“角声满天秋色里”中“角声”的意思是？",
+                "options": [
+                  "号角的声音",
+                  "角落的声响",
+                  "角色的唱腔",
+                  "角斗的呐喊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“塞上燕脂凝夜紫”中“燕脂”的意思是？",
+                "options": [
+                  "胭脂，这里指血迹",
+                  "燕子的脂膏",
+                  "一种红色的颜料",
+                  "燕地的脂粉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半卷红旗临易水”中“临”的意思是？",
+                "options": [
+                  "逼近、来到",
+                  "面临、面对",
+                  "临时、暂且",
+                  "登临、登上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“霜重鼓寒声不起”中“不起”的意思是？",
+                "options": [
+                  "鼓声低沉不扬",
+                  "不起身站立",
+                  "不兴起战事",
+                  "不产生敬意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“报君黄金台上意”中“报”的意思是？",
+                "options": [
+                  "报答",
+                  "报告",
+                  "报复",
+                  "报效"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“提携玉龙为君死”中“玉龙”的意思是？",
+                "options": [
+                  "宝剑",
+                  "玉制的龙",
+                  "骏马",
+                  "玉佩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黑云压城城欲摧”中“欲”的意思是？",
+                "options": [
+                  "将要",
+                  "欲望",
+                  "想要",
+                  "贪欲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“霜重鼓寒声不起”中“重”的意思是？",
+                "options": [
+                  "厚重、浓重",
+                  "重复、再次",
+                  "重视、看重",
+                  "沉重、笨重"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "敌军压境，城池将要被攻破。",
+                "options": [
+                  "黑云压城城欲摧",
+                  "甲光向日金鳞开",
+                  "角声满天秋色里",
+                  "半卷红旗临易水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“甲光向日金鳞开”的意思是？",
+                "options": [
+                  "铠甲迎着日光闪出鱼鳞般的金光",
+                  "士兵披甲在阳光下整齐列队",
+                  "日光照射下城门缓缓打开",
+                  "金色的鳞片在阳光下闪闪发亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "号角声响彻秋日的天空，边塞上血迹凝结成暗紫色。",
+                "options": [
+                  "角声满天秋色里，塞上燕脂凝夜紫",
+                  "半卷红旗临易水，霜重鼓寒声不起",
+                  "黑云压城城欲摧，甲光向日金鳞开",
+                  "报君黄金台上意，提携玉龙为君死"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“塞上燕脂凝夜紫”的意思是？",
+                "options": [
+                  "边塞上战士的血迹在夜色中凝成紫色",
+                  "边塞的胭脂在夜里凝结成紫色",
+                  "塞外的燕子衔着紫色脂粉飞过",
+                  "边塞的晚霞在夜里凝成紫色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "红旗半卷，部队逼近易水；霜重鼓寒，鼓声低沉不扬。",
+                "options": [
+                  "半卷红旗临易水，霜重鼓寒声不起",
+                  "角声满天秋色里，塞上燕脂凝夜紫",
+                  "黑云压城城欲摧，甲光向日金鳞开",
+                  "报君黄金台上意，提携玉龙为君死"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“半卷红旗临易水”的意思是？",
+                "options": [
+                  "红旗半卷，部队逼近易水",
+                  "红旗半卷，在易水边休息",
+                  "红旗半卷，渡过易水撤退",
+                  "红旗半卷，易水边送别"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "为了报答君王在黄金台上的知遇之恩，将士们手提宝剑愿为君王战死。",
+                "options": [
+                  "报君黄金台上意，提携玉龙为君死",
+                  "半卷红旗临易水，霜重鼓寒声不起",
+                  "角声满天秋色里，塞上燕脂凝夜紫",
+                  "黑云压城城欲摧，甲光向日金鳞开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“提携玉龙为君死”的意思是？",
+                "options": [
+                  "手提宝剑愿为君王战死",
+                  "牵着玉龙为君王赴死",
+                  "带着玉佩为君王殉葬",
+                  "骑着骏马为君王效死"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "甲光向日金鳞开",
+                  "黑云压城城欲摧"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "塞上燕脂凝夜紫",
+                  "角声满天秋色里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜重鼓寒声不起",
+                  "半卷红旗临易水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "提携玉龙为君死",
+                  "报君黄金台上意"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "甲光向日金鳞开",
+                  "黑云压城城欲摧",
+                  "塞上燕脂凝夜紫",
+                  "角声满天秋色里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜重鼓寒声不起",
+                  "半卷红旗临易水",
+                  "塞上燕脂凝夜紫",
+                  "角声满天秋色里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "提携玉龙为君死",
+                  "报君黄金台上意",
+                  "霜重鼓寒声不起",
+                  "半卷红旗临易水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜重鼓寒声不起",
+                  "黑云压城城欲摧",
+                  "提携玉龙为君死",
+                  "甲光向日金鳞开",
+                  "报君黄金台上意",
+                  "半卷红旗临易水",
+                  "塞上燕脂凝夜紫",
+                  "角声满天秋色里"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuī"
+              },
+              "otherInfo": {
+                "content": "黑云压城城欲__",
+                "answer": "摧"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lín"
+              },
+              "otherInfo": {
+                "content": "甲光向日金__开",
+                "answer": "鳞"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎo"
+              },
+              "otherInfo": {
+                "content": "__声满天秋色里",
+                "answer": "角"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "níng"
+              },
+              "otherInfo": {
+                "content": "塞上燕脂__夜紫",
+                "answer": "凝"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn"
+              },
+              "otherInfo": {
+                "content": "半__红旗临易水",
+                "answer": "卷"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhòng"
+              },
+              "otherInfo": {
+                "content": "霜__鼓寒声不起",
+                "answer": "重"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bào"
+              },
+              "otherInfo": {
+                "content": "__君黄金台上意",
+                "answer": "报"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié"
+              },
+              "otherInfo": {
+                "content": "提__玉龙为君死",
+                "answer": "携"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kāi"
+              },
+              "otherInfo": {
+                "content": "甲光向日金鳞__",
+                "answer": "开"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "报君黄金台上__",
+                "answer": "意"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黑云压城城欲摧，______。",
+                "answer": "甲光向日金鳞开"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，甲光向日金鳞开。",
+                "answer": "黑云压城城欲摧"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "角声满天秋色里，______。",
+                "answer": "塞上燕脂凝夜紫"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，塞上燕脂凝夜紫。",
+                "answer": "角声满天秋色里"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半卷红旗临易水，______。",
+                "answer": "霜重鼓寒声不起"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，霜重鼓寒声不起。",
+                "answer": "半卷红旗临易水"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "报君黄金台上意，______。",
+                "answer": "提携玉龙为君死"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，提携玉龙为君死。",
+                "answer": "报君黄金台上意"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黑云压城城欲摧，甲光向日金鳞开。______，______。",
+                "answer": "角声满天秋色里，塞上燕脂凝夜紫"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "角声满天秋色里，塞上燕脂凝夜紫。______，______。",
+                "answer": "半卷红旗临易水，霜重鼓寒声不起"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半卷红旗临易水，霜重鼓寒声不起。______，______。",
+                "answer": "报君黄金台上意，提携玉龙为君死"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半卷红旗临易水，霜重鼓寒声不起。______，______。",
+                "answer": "报君黄金台上意，提携玉龙为君死"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜重鼓寒声不起",
+                  "黑云压城城欲摧",
+                  "提携玉龙为君死",
+                  "甲光向日金鳞开",
+                  "报君黄金台上意",
+                  "半卷红旗临易水",
+                  "塞上燕脂凝夜紫",
+                  "角声满天秋色里"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "角声满天秋色里",
+                  "报君黄金台上意",
+                  "黑云压城城欲摧",
+                  "霜重鼓寒声不起",
+                  "甲光向日金鳞开",
+                  "提携玉龙为君死",
+                  "半卷红旗临易水",
+                  "塞上燕脂凝夜紫"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半卷红旗临易水",
+                  "甲光向日金鳞开",
+                  "塞上燕脂凝夜紫",
+                  "黑云压城城欲摧",
+                  "提携玉龙为君死",
+                  "角声满天秋色里",
+                  "报君黄金台上意",
+                  "霜重鼓寒声不起"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "塞上燕脂凝夜紫",
+                  "提携玉龙为君死",
+                  "角声满天秋色里",
+                  "黑云压城城欲摧",
+                  "霜重鼓寒声不起",
+                  "甲光向日金鳞开",
+                  "半卷红旗临易水",
+                  "报君黄金台上意"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "报君黄金台上意",
+                  "黑云压城城欲摧",
+                  "霜重鼓寒声不起",
+                  "塞上燕脂凝夜紫",
+                  "甲光向日金鳞开",
+                  "提携玉龙为君死",
+                  "角声满天秋色里",
+                  "半卷红旗临易水"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

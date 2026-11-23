@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn wài hū chuán shōu jì běi"
+              },
+              "otherInfo": {
+                "line": "剑外忽传收蓟北"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chū wén tì lèi mǎn yī shang"
+              },
+              "otherInfo": {
+                "line": "初闻涕泪满衣裳"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què kàn qī zǐ chóu hé zài"
+              },
+              "otherInfo": {
+                "line": "却看妻子愁何在"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "màn juǎn shī shū xǐ yù kuáng"
+              },
+              "otherInfo": {
+                "line": "漫卷诗书喜欲狂"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái rì fàng gē xū zòng jiǔ"
+              },
+              "otherInfo": {
+                "line": "白日放歌须纵酒"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng chūn zuò bàn hǎo huán xiāng"
+              },
+              "otherInfo": {
+                "line": "青春作伴好还乡"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí cóng bā xiá chuān wū xiá"
+              },
+              "otherInfo": {
+                "line": "即从巴峡穿巫峡"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn xià xiāng yáng xiàng luò yáng"
+              },
+              "otherInfo": {
+                "line": "便下襄阳向洛阳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“剑外忽传收蓟北”中“剑外”的意思是？",
+                "options": [
+                  "剑门关以南，指诗人当时所在的蜀地",
+                  "剑门关以北，指叛军盘踞的河北",
+                  "泛指边塞关隘",
+                  "指京城长安一带"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“初闻涕泪满衣裳”中“涕泪”的意思是？",
+                "options": [
+                  "鼻涕和眼泪",
+                  "眼泪",
+                  "汗水",
+                  "雨水"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“却看妻子愁何在”中“妻子”的意思是？",
+                "options": [
+                  "妻子和儿女",
+                  "妻子",
+                  "家人和仆人",
+                  "亲戚朋友"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“漫卷诗书喜欲狂”中“漫”的意思是？",
+                "options": [
+                  "随意地",
+                  "漫长地",
+                  "弥漫地",
+                  "徒然地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白日放歌须纵酒”中“纵酒”的意思是？",
+                "options": [
+                  "纵情饮酒",
+                  "放纵酒量",
+                  "酿造美酒",
+                  "戒酒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“青春作伴好还乡”中“青春”的意思是？",
+                "options": [
+                  "春天的景物",
+                  "年轻的时候",
+                  "青春年华",
+                  "青色的春天"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“即从巴峡穿巫峡”中“即”的意思是？",
+                "options": [
+                  "立即",
+                  "即使",
+                  "靠近",
+                  "就是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“便下襄阳向洛阳”中“向”的意思是？",
+                "options": [
+                  "奔向",
+                  "方向",
+                  "从前",
+                  "接近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“初闻涕泪满衣裳”中“初”的意思是？",
+                "options": [
+                  "刚刚",
+                  "当初",
+                  "初次",
+                  "开始"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“却看妻子愁何在”中“却”的意思是？",
+                "options": [
+                  "回头看",
+                  "但是",
+                  "退却",
+                  "再"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "剑门关外忽然传来官军收复蓟北的消息。",
+                "options": [
+                  "剑外忽传收蓟北",
+                  "初闻涕泪满衣裳",
+                  "即从巴峡穿巫峡",
+                  "便下襄阳向洛阳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“初闻涕泪满衣裳”的意思是？",
+                "options": [
+                  "刚听到消息，眼泪洒满了衣裳",
+                  "刚听到消息，汗水湿透了衣裳",
+                  "刚听到消息，雨水打湿了衣裳",
+                  "刚听到消息，泪水沾湿了衣襟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "回头看妻子儿女，往日的忧愁不知去了哪里。",
+                "options": [
+                  "却看妻子愁何在",
+                  "漫卷诗书喜欲狂",
+                  "白日放歌须纵酒",
+                  "青春作伴好还乡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“漫卷诗书喜欲狂”的意思是？",
+                "options": [
+                  "随意卷起诗书，高兴得快要发狂",
+                  "慢慢卷起诗书，心中有些发狂",
+                  "胡乱收拾诗书，欢喜得难以自持",
+                  "漫不经心地翻书，喜欢得发狂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "白天放声高歌，应当纵情饮酒。",
+                "options": [
+                  "白日放歌须纵酒",
+                  "青春作伴好还乡",
+                  "即从巴峡穿巫峡",
+                  "便下襄阳向洛阳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“青春作伴好还乡”的意思是？",
+                "options": [
+                  "春天的景物作伴，正好返回故乡",
+                  "年轻时的伙伴相伴，正好回家乡",
+                  "趁着青春年华，正好回故乡",
+                  "青春作伴，喜欢回到家乡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "立即从巴峡穿过巫峡。",
+                "options": [
+                  "即从巴峡穿巫峡",
+                  "便下襄阳向洛阳",
+                  "剑外忽传收蓟北",
+                  "初闻涕泪满衣裳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“便下襄阳向洛阳”的意思是？",
+                "options": [
+                  "就顺流而下到襄阳，再奔向洛阳",
+                  "就离开襄阳，走向洛阳",
+                  "便从襄阳出发，回到洛阳",
+                  "便下到襄阳，面向洛阳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "初闻涕泪满衣裳",
+                  "剑外忽传收蓟北"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "漫卷诗书喜欲狂",
+                  "却看妻子愁何在"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青春作伴好还乡",
+                  "白日放歌须纵酒"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便下襄阳向洛阳",
+                  "即从巴峡穿巫峡"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "却看妻子愁何在",
+                  "初闻涕泪满衣裳",
+                  "剑外忽传收蓟北",
+                  "漫卷诗书喜欲狂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白日放歌须纵酒",
+                  "漫卷诗书喜欲狂",
+                  "青春作伴好还乡",
+                  "却看妻子愁何在"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "即从巴峡穿巫峡",
+                  "青春作伴好还乡",
+                  "便下襄阳向洛阳",
+                  "白日放歌须纵酒"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便下襄阳向洛阳",
+                  "初闻涕泪满衣裳",
+                  "白日放歌须纵酒",
+                  "剑外忽传收蓟北",
+                  "即从巴峡穿巫峡",
+                  "却看妻子愁何在",
+                  "青春作伴好还乡",
+                  "漫卷诗书喜欲狂"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "剑外忽传收__北",
+                "answer": "蓟"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tì"
+              },
+              "otherInfo": {
+                "content": "初闻__泪满衣裳",
+                "answer": "涕"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóu"
+              },
+              "otherInfo": {
+                "content": "却看妻子__何在",
+                "answer": "愁"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "juǎn"
+              },
+              "otherInfo": {
+                "content": "漫__诗书喜欲狂",
+                "answer": "卷"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zòng"
+              },
+              "otherInfo": {
+                "content": "白日放歌须__酒",
+                "answer": "纵"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn"
+              },
+              "otherInfo": {
+                "content": "青春作__好还乡",
+                "answer": "伴"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiá"
+              },
+              "otherInfo": {
+                "content": "即从巴峡穿巫__",
+                "answer": "峡"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāng"
+              },
+              "otherInfo": {
+                "content": "便下__阳向洛阳",
+                "answer": "襄"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shang"
+              },
+              "otherInfo": {
+                "content": "初闻涕泪满衣__",
+                "answer": "裳"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "便下襄阳向__阳",
+                "answer": "洛"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剑外忽传收蓟北，______",
+                "answer": "初闻涕泪满衣裳"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，初闻涕泪满衣裳",
+                "answer": "剑外忽传收蓟北"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "却看妻子愁何在，______",
+                "answer": "漫卷诗书喜欲狂"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，漫卷诗书喜欲狂",
+                "answer": "却看妻子愁何在"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "白日放歌须纵酒，______",
+                "answer": "青春作伴好还乡"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，青春作伴好还乡",
+                "answer": "白日放歌须纵酒"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "即从巴峡穿巫峡，______",
+                "answer": "便下襄阳向洛阳"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，便下襄阳向洛阳",
+                "answer": "即从巴峡穿巫峡"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "剑外忽传收蓟北，初闻涕泪满衣裳。______，______",
+                "answer": "却看妻子愁何在，漫卷诗书喜欲狂"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "却看妻子愁何在，漫卷诗书喜欲狂。______，______",
+                "answer": "白日放歌须纵酒，青春作伴好还乡"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "白日放歌须纵酒，青春作伴好还乡。______，______",
+                "answer": "即从巴峡穿巫峡，便下襄阳向洛阳"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "却看妻子愁何在，漫卷诗书喜欲狂。白日放歌须纵酒，青春作伴好还乡。______，______",
+                "answer": "即从巴峡穿巫峡，便下襄阳向洛阳"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "漫卷诗书喜欲狂",
+                  "即从巴峡穿巫峡",
+                  "初闻涕泪满衣裳",
+                  "青春作伴好还乡",
+                  "却看妻子愁何在",
+                  "剑外忽传收蓟北",
+                  "便下襄阳向洛阳",
+                  "白日放歌须纵酒"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白日放歌须纵酒",
+                  "却看妻子愁何在",
+                  "便下襄阳向洛阳",
+                  "剑外忽传收蓟北",
+                  "青春作伴好还乡",
+                  "漫卷诗书喜欲狂",
+                  "即从巴峡穿巫峡",
+                  "初闻涕泪满衣裳"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "初闻涕泪满衣裳",
+                  "青春作伴好还乡",
+                  "却看妻子愁何在",
+                  "便下襄阳向洛阳",
+                  "剑外忽传收蓟北",
+                  "白日放歌须纵酒",
+                  "漫卷诗书喜欲狂",
+                  "即从巴峡穿巫峡"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "即从巴峡穿巫峡",
+                  "漫卷诗书喜欲狂",
+                  "剑外忽传收蓟北",
+                  "白日放歌须纵酒",
+                  "初闻涕泪满衣裳",
+                  "便下襄阳向洛阳",
+                  "却看妻子愁何在",
+                  "青春作伴好还乡"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青春作伴好还乡",
+                  "剑外忽传收蓟北",
+                  "便下襄阳向洛阳",
+                  "却看妻子愁何在",
+                  "白日放歌须纵酒",
+                  "初闻涕泪满衣裳",
+                  "即从巴峡穿巫峡",
+                  "漫卷诗书喜欲狂"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

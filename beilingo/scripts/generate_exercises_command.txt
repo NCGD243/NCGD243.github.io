@@ -1,0 +1,55 @@
+你是一名古诗文题库工程师。请依据统编版初中语文教材，为指定古诗生成一份可直接用于背诗网站的题库 JSON。
+
+【一、诗文范围（唯一可替换处）】
+诗题：{{诗名}}
+作者：（由你依据统编版教材确定）
+联数：N（由你依据教材确定该诗联数，后续题量全部由 N 推导）
+
+【二、顶层结构与字段顺序】
+顶层必须是 {"sections": {"s1": ..., "s2": ..., "s3": ..., "s4": ...}}。
+每个 section 对象必须包含 "name" 字段，取值固定：s1="感知"，s2="理解"，s3="字形"，s4="默写"。不得省略。
+每个 lesson 必须含 name、id、shuffle、questions 四个字段，顺序固定。
+每道题字段及顺序固定：id、type、covered、prompt、pinyinInfo、otherInfo。
+id 格式 "s{节号}l{课号}q{题号}"，题号从 1 连续编号。
+type 只能取 read / option / order / spell。
+covered 为二维数组，每个子数组为 [couplet_index, line_index]，couplet_index 从 1 开始，line_index 为 1 或 2。
+pinyinInfo 仅 read 和需要拼音的 spell 题出现，格式 {"show": true|false, "pinyin": "..."}；option 与 order 不出现此字段。不需要 pinyinInfo 的题不要写该字段（不要写 null）。
+输出必须是合法 JSON，不要注释，不要 markdown 代码块外的多余文字，只输出 JSON 本身。
+拼音必须带声调且准确。
+
+【三、各 section 规则】
+s1 感知：1 课，shuffle=false。共 2N 题，type=read，prompt="朗读"。按第1联上句、第1联下句、第2联上句……第N联下句顺序出题。所有 read 题的 covered 必须是空数组 []。pinyinInfo={"show": true, "pinyin": "整句拼音，带声调，音节间空格"}。otherInfo={"line": "该句原文"}。
+
+s2 理解：
+- s2l1：shuffle=true，共 10 题（若 2N<10，则取 2N 题），type=option，prompt="选词义"。选取重点字词，尽量分散在不同联，同一句最多出 1 题。covered=[]。otherInfo={"content": "“某词”的意思是？", "options": [四个选项], "answer": [正确索引]}。options 长度必须为 4，answer 为数组。
+- s2l2：shuffle=true，共 2N 题，type=option。每联 2 题：1 题 prompt="选诗句"，1 题 prompt="选意思"。covered=[]。
+  · 选诗句题：content 必须是该联的白话翻译。四个选项必须是四句不同的诗句，干扰诗句应来自本诗其他联或同作者/同题材的常见诗句。answer 为正确诗句索引。
+  · 选意思题：content 为““本联某句”的意思是？”。四个释义要分别对应不同的理解偏差。
+  · 四个选项之间不能是近义改写或包含关系；正确项与每个干扰项必须在语义类别上有明确区别；干扰项不能“一眼假”。
+- s2l3：shuffle=false，共 2N 题，type=order，prompt="排序"。前 N 题为单联排序；接着 N-1 题为相邻两联合并排序；最后 1 题为全诗排序。所有 lines 必须打乱。
+
+s3 字形：1 课，shuffle=true，共 10 题（若 2N<10，则取 2N 题），type=spell，prompt="填写句子"。尽量分散在不同联，同一句最多挖 1 个字。covered 为该字所在句的位置 [[couplet_index, line_index]]。pinyinInfo={"show": true, "pinyin": "只写被挖的那个字的拼音，带声调"}。otherInfo={"content": "含 __（两个下划线）的句子", "answer": "被挖的字"}。空格用 “__”。
+
+s4 默写：
+- s4l1：shuffle=true，共 2N 题，type=spell，prompt="填写句子"。每联 2 题（给上句填下句、给下句填上句）。pinyinInfo={"show": false}。covered 只含被填写的那一句的位置。空格用 “______”（六个下划线）。
+- s4l2：shuffle=true，共 N 题，type=spell，prompt="填写句子"。第 k 题（k=1..N-1）给出第 k 联填第 k+1 联；第 N 题给出第 N-1 联填第 N 联。pinyinInfo={"show": false}。covered 只含需要填写的那一联两句的位置。answer 不重复且不含第一联作为答案。空格用 “______”。
+- s4l3：shuffle=false，共 5 题，type=order，prompt="排序"。每题 covered 为全部 2N 句位置，otherInfo={"lines": [打乱后的全诗 2N 句]}。
+
+【四、选择题选项差异化要求】
+四个选项之间不能是近义改写或包含关系。正确项与每个干扰项必须在语义类别上有明确区别。干扰项不能“一眼假”。四个选项长度、语气尽量接近。同一题内四个选项不得有两个意思相同或相近。选诗句题：四个选项必须是四句不同的诗句。选意思题：四个释义要分别对应不同的理解偏差。
+
+【五、自检 12 条】
+1. 顶层只有 sections，且 s1~s4 齐全。
+2. 每个 lesson 含 name、id、shuffle、questions 四字段且顺序固定。
+3. 每题字段顺序为 id、type、covered、prompt、pinyinInfo、otherInfo；不需要 pinyinInfo 的题不出现该字段。
+4. id 格式正确，题号从 1 连续编号。
+5. s1 所有 read 题 covered 均为 []。
+6. s2 所有题 covered 均为 []。
+7. s3 每题 covered 恰为 1 个位置，pinyin 只写被挖单字拼音。
+8. s4l1 每题 covered 恰为 1 个位置，且不写成 [[k,1],[k,2]]。
+9. s4l2 每题 covered 恰为 2 个位置，answer 不重复且不含第一联作为答案。
+10. s2l3 前 N 题为单联、接着 N-1 题为相邻两联、最后 1 题为全诗；所有 order 的 lines 均已打乱。
+11. s2l2 共 2N 题，每联 2 题；s2l1 共 10 题（或 2N 题）且同一句最多 1 题。
+12. 所有 option 的 options 长度为 4，answer 为数组；拼音带声调且准确；输出为合法 JSON。
+
+现在只输出 JSON 本身。诗题：{{诗名}}

@@ -1,0 +1,1219 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dù yuǎn jīng mén wài"
+              },
+              "otherInfo": {
+                "line": "渡远荆门外"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lái cóng chǔ guó yóu"
+              },
+              "otherInfo": {
+                "line": "来从楚国游"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān suí píng yě jìn"
+              },
+              "otherInfo": {
+                "line": "山随平野尽"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng rù dà huāng liú"
+              },
+              "otherInfo": {
+                "line": "江入大荒流"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè xià fēi tiān jìng"
+              },
+              "otherInfo": {
+                "line": "月下飞天镜"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yún shēng jié hǎi lóu"
+              },
+              "otherInfo": {
+                "line": "云生结海楼"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "réng lián gù xiāng shuǐ"
+              },
+              "otherInfo": {
+                "line": "仍怜故乡水"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wàn lǐ sòng xíng zhōu"
+              },
+              "otherInfo": {
+                "line": "万里送行舟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渡远荆门外”中“渡”的意思是？",
+                "options": [
+                  "渡过、乘船经过",
+                  "渡口、码头",
+                  "拯救、超度",
+                  "测量、丈量"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“来从楚国游”中“从”的意思是？",
+                "options": [
+                  "跟随、随从",
+                  "顺从、听从",
+                  "从事、参与",
+                  "自从、由此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山随平野尽”中“尽”的意思是？",
+                "options": [
+                  "消失、终尽",
+                  "全部、都",
+                  "竭尽、用尽",
+                  "尽头、终点"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“江入大荒流”中“大荒”的意思是？",
+                "options": [
+                  "广阔荒远的原野",
+                  "荒凉的边塞",
+                  "荒芜的田地",
+                  "远古的时代"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月下飞天镜”中“天镜”的意思是？",
+                "options": [
+                  "天上的镜子，喻指明月",
+                  "天空的倒影",
+                  "天边的明镜",
+                  "天宫的镜台"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“云生结海楼”中“海楼”的意思是？",
+                "options": [
+                  "海市蜃楼",
+                  "海边的楼阁",
+                  "海上的船只",
+                  "海中的岛屿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“仍怜故乡水”中“怜”的意思是？",
+                "options": [
+                  "喜爱、爱惜",
+                  "可怜、同情",
+                  "怜悯、哀怜",
+                  "疼爱、怜惜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“万里送行舟”中“行舟”的意思是？",
+                "options": [
+                  "行驶的船",
+                  "远行的旅人",
+                  "划船的动作",
+                  "送行的舟车"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "乘船远行，经过荆门山之外，来到楚地游历。",
+                "options": [
+                  "渡远荆门外，来从楚国游",
+                  "山随平野尽，江入大荒流",
+                  "月下飞天镜，云生结海楼",
+                  "仍怜故乡水，万里送行舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“渡远荆门外”的意思是？",
+                "options": [
+                  "远渡荆门山之外",
+                  "在荆门外渡口停船",
+                  "从荆门渡口远望",
+                  "渡过遥远的荆门山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "山峦随着平坦的原野展开而渐渐消失，江水流入广阔荒远的原野。",
+                "options": [
+                  "山随平野尽，江入大荒流",
+                  "渡远荆门外，来从楚国游",
+                  "月下飞天镜，云生结海楼",
+                  "仍怜故乡水，万里送行舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“来从楚国游”的意思是？",
+                "options": [
+                  "来到楚地游历",
+                  "跟随楚国人游玩",
+                  "从楚国出发远游",
+                  "来去楚地之间游览"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "月亮倒映在水中，如同飞下的天上明镜；云彩升起，结成海市蜃楼般的奇景。",
+                "options": [
+                  "月下飞天镜，云生结海楼",
+                  "山随平野尽，江入大荒流",
+                  "渡远荆门外，来从楚国游",
+                  "仍怜故乡水，万里送行舟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山随平野尽”的意思是？",
+                "options": [
+                  "山峦随着平野的展开而消失",
+                  "山峦随着平野的尽头而出现",
+                  "山峦跟随平野一起延伸",
+                  "山峦在平野尽头处耸立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我依然喜爱故乡的水，它不远万里送我的行舟远行。",
+                "options": [
+                  "仍怜故乡水，万里送行舟",
+                  "月下飞天镜，云生结海楼",
+                  "山随平野尽，江入大荒流",
+                  "渡远荆门外，来从楚国游"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“江入大荒流”的意思是？",
+                "options": [
+                  "江水流入广阔荒远的原野",
+                  "江水流入荒凉的边塞",
+                  "江水在大荒中干涸",
+                  "江水从大荒中流出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "来从楚国游",
+                  "渡远荆门外"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江入大荒流",
+                  "山随平野尽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云生结海楼",
+                  "月下飞天镜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万里送行舟",
+                  "仍怜故乡水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江入大荒流",
+                  "山随平野尽",
+                  "来从楚国游",
+                  "渡远荆门外"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云生结海楼",
+                  "月下飞天镜",
+                  "江入大荒流",
+                  "山随平野尽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "万里送行舟",
+                  "仍怜故乡水",
+                  "云生结海楼",
+                  "月下飞天镜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云生结海楼",
+                  "万里送行舟",
+                  "渡远荆门外",
+                  "山随平野尽",
+                  "月下飞天镜",
+                  "来从楚国游",
+                  "江入大荒流",
+                  "仍怜故乡水"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jīng"
+              },
+              "otherInfo": {
+                "content": "渡远__门外",
+                "answer": "荆"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chǔ"
+              },
+              "otherInfo": {
+                "content": "来从__国游",
+                "answer": "楚"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yě"
+              },
+              "otherInfo": {
+                "content": "山随平__尽",
+                "answer": "野"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huāng"
+              },
+              "otherInfo": {
+                "content": "江入大__流",
+                "answer": "荒"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "月下飞天__",
+                "answer": "镜"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lóu"
+              },
+              "otherInfo": {
+                "content": "云生结海__",
+                "answer": "楼"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "仍__故乡水",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "万里送行__",
+                "answer": "舟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "渡远荆门外，______",
+                "answer": "来从楚国游"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，来从楚国游",
+                "answer": "渡远荆门外"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山随平野尽，______",
+                "answer": "江入大荒流"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，江入大荒流",
+                "answer": "山随平野尽"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月下飞天镜，______",
+                "answer": "云生结海楼"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，云生结海楼",
+                "answer": "月下飞天镜"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "仍怜故乡水，______",
+                "answer": "万里送行舟"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，万里送行舟",
+                "answer": "仍怜故乡水"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "渡远荆门外，来从楚国游。______，______。",
+                "answer": "山随平野尽，江入大荒流"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山随平野尽，江入大荒流。______，______。",
+                "answer": "月下飞天镜，云生结海楼"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月下飞天镜，云生结海楼。______，______。",
+                "answer": "仍怜故乡水，万里送行舟"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月下飞天镜，云生结海楼。______，______。",
+                "answer": "仍怜故乡水，万里送行舟"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "云生结海楼",
+                  "渡远荆门外",
+                  "万里送行舟",
+                  "山随平野尽",
+                  "月下飞天镜",
+                  "来从楚国游",
+                  "江入大荒流",
+                  "仍怜故乡水"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "仍怜故乡水",
+                  "江入大荒流",
+                  "月下飞天镜",
+                  "来从楚国游",
+                  "山随平野尽",
+                  "万里送行舟",
+                  "渡远荆门外",
+                  "云生结海楼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山随平野尽",
+                  "万里送行舟",
+                  "来从楚国游",
+                  "云生结海楼",
+                  "渡远荆门外",
+                  "仍怜故乡水",
+                  "月下飞天镜",
+                  "江入大荒流"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月下飞天镜",
+                  "渡远荆门外",
+                  "仍怜故乡水",
+                  "江入大荒流",
+                  "云生结海楼",
+                  "山随平野尽",
+                  "来从楚国游",
+                  "万里送行舟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "来从楚国游",
+                  "云生结海楼",
+                  "山随平野尽",
+                  "万里送行舟",
+                  "渡远荆门外",
+                  "月下飞天镜",
+                  "仍怜故乡水",
+                  "江入大荒流"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

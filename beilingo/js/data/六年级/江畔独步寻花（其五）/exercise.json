@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng shī tǎ qián jiāng shuǐ dōng"
+              },
+              "otherInfo": {
+                "line": "黄师塔前江水东"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn guāng lǎn kùn yǐ wēi fēng"
+              },
+              "otherInfo": {
+                "line": "春光懒困倚微风"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo huā yī cù kāi wú zhǔ"
+              },
+              "otherInfo": {
+                "line": "桃花一簇开无主"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě ài shēn hóng ài qiǎn hóng"
+              },
+              "otherInfo": {
+                "line": "可爱深红爱浅红"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄师塔前江水东”中“东”的意思是？",
+                "options": [
+                  "向东流去",
+                  "东边的人家",
+                  "东面的高塔",
+                  "东方日出之处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春光懒困倚微风”中“懒困”的意思是？",
+                "options": [
+                  "慵懒困倦",
+                  "懒惰贫困",
+                  "懒散困守",
+                  "困乏欲睡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春光懒困倚微风”中“倚”的意思是？",
+                "options": [
+                  "倚靠",
+                  "倚仗",
+                  "偏斜",
+                  "依恋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃花一簇开无主”中“一簇”的意思是？",
+                "options": [
+                  "一丛",
+                  "一朵",
+                  "一枝",
+                  "一片"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃花一簇开无主”中“无主”的意思是？",
+                "options": [
+                  "没有主人",
+                  "没有主意",
+                  "无人做主",
+                  "没有主题"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可爱深红爱浅红”中“可爱”的意思是？",
+                "options": [
+                  "值得喜爱",
+                  "天真可爱",
+                  "令人怜爱",
+                  "活泼可爱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可爱深红爱浅红”中“浅红”的意思是？",
+                "options": [
+                  "颜色较淡的红",
+                  "浅浅的红晕",
+                  "浅淡的红色",
+                  "浅显的红意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春光懒困倚微风”中“春光”的意思是？",
+                "options": [
+                  "春天的风光",
+                  "春天的光阴",
+                  "春天的阳光",
+                  "春天的景色"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“黄师塔前江水东”中“黄师塔”指的是？",
+                "options": [
+                  "一座塔名",
+                  "一位僧人",
+                  "一处地名",
+                  "一座寺庙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃花一簇开无主”中“开”的意思是？",
+                "options": [
+                  "绽放",
+                  "开辟",
+                  "开始",
+                  "开怀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "黄师塔前，江水向东流去。",
+                "options": [
+                  "黄师塔前江水东",
+                  "春光懒困倚微风",
+                  "桃花一簇开无主",
+                  "可爱深红爱浅红"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“黄师塔前江水东”的意思是？",
+                "options": [
+                  "黄师塔前，江水向东流去",
+                  "黄师塔东边，江水缓缓流淌",
+                  "黄师塔前，江水已经流尽",
+                  "黄师塔东面，有人临江而立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春光让人慵懒困倦，倚着微风休息。",
+                "options": [
+                  "春光懒困倚微风",
+                  "黄师塔前江水东",
+                  "桃花一簇开无主",
+                  "可爱深红爱浅红"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春光懒困倚微风”的意思是？",
+                "options": [
+                  "春光让人慵懒困倦，倚着微风休息",
+                  "春光里人懒懒地靠着栏杆",
+                  "春风微拂，人困倦得想睡",
+                  "春光困住了微风，使人慵懒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一丛桃花盛开，却没有主人。",
+                "options": [
+                  "桃花一簇开无主",
+                  "黄师塔前江水东",
+                  "春光懒困倚微风",
+                  "可爱深红爱浅红"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“桃花一簇开无主”的意思是？",
+                "options": [
+                  "一丛桃花盛开，却没有主人",
+                  "一簇桃花开在主人家的院子里",
+                  "桃花开得零乱，无人照管",
+                  "一树桃花独自开放，无人欣赏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "是喜爱深红的，还是喜爱浅红的呢？",
+                "options": [
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东",
+                  "春光懒困倚微风",
+                  "桃花一簇开无主"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可爱深红爱浅红”的意思是？",
+                "options": [
+                  "是喜爱深红的，还是喜爱浅红的呢",
+                  "深红的可爱，浅红的也可爱",
+                  "可爱的是深红，浅红并不可爱",
+                  "爱深红的人多，爱浅红的人少"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春光懒困倚微风",
+                  "黄师塔前江水东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱深红爱浅红",
+                  "桃花一簇开无主"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花一簇开无主",
+                  "春光懒困倚微风",
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东",
+                  "春光懒困倚微风",
+                  "桃花一簇开无主"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tǎ"
+              },
+              "otherInfo": {
+                "content": "黄师__前江水东",
+                "answer": "塔"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǎn"
+              },
+              "otherInfo": {
+                "content": "春光__困倚微风",
+                "answer": "懒"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ"
+              },
+              "otherInfo": {
+                "content": "春光懒困__微风",
+                "answer": "倚"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cù"
+              },
+              "otherInfo": {
+                "content": "桃花一__开无主",
+                "answer": "簇"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǔ"
+              },
+              "otherInfo": {
+                "content": "桃花一簇开无__",
+                "answer": "主"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ài"
+              },
+              "otherInfo": {
+                "content": "可__深红爱浅红",
+                "answer": "爱"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiǎn"
+              },
+              "otherInfo": {
+                "content": "可爱深红爱__红",
+                "answer": "浅"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng"
+              },
+              "otherInfo": {
+                "content": "黄师塔前江水__",
+                "answer": "东"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēi"
+              },
+              "otherInfo": {
+                "content": "春光懒困倚__风",
+                "answer": "微"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "可爱深红爱浅__",
+                "answer": "红"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄师塔前江水东，______",
+                "answer": "春光懒困倚微风"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，春光懒困倚微风",
+                "answer": "黄师塔前江水东"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "桃花一簇开无主，______",
+                "answer": "可爱深红爱浅红"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，可爱深红爱浅红",
+                "answer": "桃花一簇开无主"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄师塔前江水东，春光懒困倚微风。______，______",
+                "answer": "桃花一簇开无主，可爱深红爱浅红"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春光懒困倚微风。______，______",
+                "answer": "桃花一簇开无主，可爱深红爱浅红"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东",
+                  "桃花一簇开无主",
+                  "春光懒困倚微风"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春光懒困倚微风",
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东",
+                  "桃花一簇开无主"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花一簇开无主",
+                  "春光懒困倚微风",
+                  "可爱深红爱浅红",
+                  "黄师塔前江水东"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄师塔前江水东",
+                  "桃花一簇开无主",
+                  "春光懒困倚微风",
+                  "可爱深红爱浅红"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可爱深红爱浅红",
+                  "桃花一簇开无主",
+                  "春光懒困倚微风",
+                  "黄师塔前江水东"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

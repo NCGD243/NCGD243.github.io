@@ -1,0 +1,1568 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐ guó yǒu rén yōu tiān dì bēng zhuì"
+              },
+              "otherInfo": {
+                "line": "杞国有人忧天地崩坠"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēn wáng suǒ jì"
+              },
+              "otherInfo": {
+                "line": "身亡所寄"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fèi qǐn shí"
+              },
+              "otherInfo": {
+                "line": "废寝食"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yòu yǒu yōu bǐ zhī suǒ yǐ wáng zhě"
+              },
+              "otherInfo": {
+                "line": "又有忧彼之所亡者"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīn wǎng xiǎo zhī"
+              },
+              "otherInfo": {
+                "line": "因往晓之"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuē tiān jī ěr"
+              },
+              "otherInfo": {
+                "line": "曰天积耳"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wáng chù wáng qì"
+              },
+              "otherInfo": {
+                "line": "亡处亡气"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ruò qū shēn hū xī"
+              },
+              "otherInfo": {
+                "line": "若屈伸呼吸"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng rì zài tiān zhōng xíng zhǐ"
+              },
+              "otherInfo": {
+                "line": "终日在天中行止"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nài hé yōu bēng zhuì hū"
+              },
+              "otherInfo": {
+                "line": "奈何忧崩坠乎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忧”的意思是？",
+                "options": [
+                  "担忧",
+                  "忧愁",
+                  "忧伤",
+                  "忧虑"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“崩坠”的意思是？",
+                "options": [
+                  "崩塌坠落",
+                  "崩溃堕落",
+                  "崩裂坠毁",
+                  "倒塌掉落"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寄”的意思是？",
+                "options": [
+                  "寄托",
+                  "寄居",
+                  "依附",
+                  "存放"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“废寝食”的意思是？",
+                "options": [
+                  "睡不着觉吃不下饭",
+                  "废弃寝室和食物",
+                  "停止睡觉和饮食",
+                  "荒废寝宫与膳食"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晓”的意思是？",
+                "options": [
+                  "开导",
+                  "知道",
+                  "天亮",
+                  "明白"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“积”的意思是？",
+                "options": [
+                  "聚积",
+                  "积累",
+                  "堆积",
+                  "积蓄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“亡”的意思是？",
+                "options": [
+                  "没有",
+                  "死亡",
+                  "逃亡",
+                  "丢失"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“若”的意思是？",
+                "options": [
+                  "你",
+                  "如果",
+                  "好像",
+                  "如同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“行止”的意思是？",
+                "options": [
+                  "行动和停留",
+                  "行走和停止",
+                  "行为和举止",
+                  "行进和止息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“奈何”的意思是？",
+                "options": [
+                  "为什么",
+                  "怎么办",
+                  "如何",
+                  "怎么"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "杞国有个人担忧天塌地陷。",
+                "options": [
+                  "杞国有人忧天地崩坠",
+                  "又有忧彼之所亡者",
+                  "因往晓之",
+                  "奈何忧崩坠乎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“身亡所寄”的意思是？",
+                "options": [
+                  "身体没有地方寄托",
+                  "身体死亡无处安葬",
+                  "自身逃亡无处投奔",
+                  "身躯丢失无处寻找"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "又有一个担忧那所没有的人。",
+                "options": [
+                  "又有忧彼之所亡者",
+                  "杞国有人忧天地崩坠",
+                  "因往晓之",
+                  "曰天积耳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“因往晓之”的意思是？",
+                "options": [
+                  "于是前去开导他",
+                  "因此前往知晓他",
+                  "趁机过去告诉他",
+                  "就前去明白他"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "说天是聚积的气罢了。",
+                "options": [
+                  "曰天积耳",
+                  "亡处亡气",
+                  "若屈伸呼吸",
+                  "终日在天中行止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“亡处亡气”的意思是？",
+                "options": [
+                  "没有地方没有气",
+                  "死亡的地方没有气",
+                  "逃亡之处没有空气",
+                  "丢失的地方没有气息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你屈伸呼吸。",
+                "options": [
+                  "若屈伸呼吸",
+                  "终日在天中行止",
+                  "奈何忧崩坠乎",
+                  "因往晓之"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“终日在天中行止”的意思是？",
+                "options": [
+                  "整天在天中行动和停留",
+                  "从早到晚在天上行走停止",
+                  "一天到晚在天中行进止息",
+                  "整日里在天上行为和举止"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "为什么担忧崩塌坠落呢？",
+                "options": [
+                  "奈何忧崩坠乎",
+                  "曰天积耳",
+                  "亡处亡气",
+                  "若屈伸呼吸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“奈何忧崩坠乎”的意思是？",
+                "options": [
+                  "为什么担忧崩塌坠落呢",
+                  "怎么办担忧崩溃堕落呢",
+                  "如何担忧崩裂坠毁呢",
+                  "怎么担忧倒塌掉落呢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "身亡所寄",
+                  "杞国有人忧天地崩坠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "废寝食",
+                  "身亡所寄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "因往晓之",
+                  "又有忧彼之所亡者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曰天积耳",
+                  "因往晓之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "亡处亡气",
+                  "曰天积耳"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若屈伸呼吸",
+                  "亡处亡气"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "终日在天中行止",
+                  "若屈伸呼吸"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "奈何忧崩坠乎",
+                  "终日在天中行止"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "废寝食",
+                  "身亡所寄",
+                  "杞国有人忧天地崩坠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "因往晓之",
+                  "又有忧彼之所亡者",
+                  "废寝食",
+                  "身亡所寄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曰天积耳",
+                  "因往晓之",
+                  "又有忧彼之所亡者",
+                  "废寝食"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "亡处亡气",
+                  "曰天积耳",
+                  "因往晓之",
+                  "又有忧彼之所亡者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若屈伸呼吸",
+                  "亡处亡气",
+                  "曰天积耳",
+                  "因往晓之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "终日在天中行止",
+                  "若屈伸呼吸",
+                  "亡处亡气",
+                  "曰天积耳"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "奈何忧崩坠乎",
+                  "终日在天中行止",
+                  "若屈伸呼吸",
+                  "亡处亡气"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "奈何忧崩坠乎",
+                  "终日在天中行止",
+                  "若屈伸呼吸",
+                  "亡处亡气",
+                  "曰天积耳",
+                  "因往晓之",
+                  "又有忧彼之所亡者",
+                  "废寝食",
+                  "身亡所寄",
+                  "杞国有人忧天地崩坠"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐ"
+              },
+              "otherInfo": {
+                "content": "__国有人忧天地崩坠",
+                "answer": "杞"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "身亡所__",
+                "answer": "寄"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qǐn"
+              },
+              "otherInfo": {
+                "content": "废__食",
+                "answer": "寝"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wáng"
+              },
+              "otherInfo": {
+                "content": "又有忧彼之所__者",
+                "answer": "亡"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo"
+              },
+              "otherInfo": {
+                "content": "因往__之",
+                "answer": "晓"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jī"
+              },
+              "otherInfo": {
+                "content": "曰天__耳",
+                "answer": "积"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qì"
+              },
+              "otherInfo": {
+                "content": "亡处亡__",
+                "answer": "气"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qū"
+              },
+              "otherInfo": {
+                "content": "若__伸呼吸",
+                "answer": "屈"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng"
+              },
+              "otherInfo": {
+                "content": "__日在天中行止",
+                "answer": "终"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nài"
+              },
+              "otherInfo": {
+                "content": "__何忧崩坠乎",
+                "answer": "奈"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杞国有人忧天地崩坠，______。",
+                "answer": "身亡所寄"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，身亡所寄。",
+                "answer": "杞国有人忧天地崩坠"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "废寝食，______。",
+                "answer": "又有忧彼之所亡者"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，又有忧彼之所亡者。",
+                "answer": "废寝食"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "因往晓之，______。",
+                "answer": "曰天积耳"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，曰天积耳。",
+                "answer": "因往晓之"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "亡处亡气，______。",
+                "answer": "若屈伸呼吸"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，若屈伸呼吸。",
+                "answer": "亡处亡气"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "终日在天中行止，______。",
+                "answer": "奈何忧崩坠乎"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，奈何忧崩坠乎。",
+                "answer": "终日在天中行止"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杞国有人忧天地崩坠，身亡所寄。______，______。",
+                "answer": "废寝食，又有忧彼之所亡者"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "废寝食，又有忧彼之所亡者。______，______。",
+                "answer": "因往晓之，曰天积耳"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "因往晓之，曰天积耳。______，______。",
+                "answer": "亡处亡气，若屈伸呼吸"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "亡处亡气，若屈伸呼吸。______，______。",
+                "answer": "终日在天中行止，奈何忧崩坠乎"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "亡处亡气，若屈伸呼吸。______，______。",
+                "answer": "终日在天中行止，奈何忧崩坠乎"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "奈何忧崩坠乎",
+                  "身亡所寄",
+                  "曰天积耳",
+                  "废寝食",
+                  "终日在天中行止",
+                  "杞国有人忧天地崩坠",
+                  "若屈伸呼吸",
+                  "因往晓之",
+                  "亡处亡气",
+                  "又有忧彼之所亡者"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "因往晓之",
+                  "终日在天中行止",
+                  "又有忧彼之所亡者",
+                  "奈何忧崩坠乎",
+                  "杞国有人忧天地崩坠",
+                  "亡处亡气",
+                  "曰天积耳",
+                  "若屈伸呼吸",
+                  "身亡所寄",
+                  "废寝食"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若屈伸呼吸",
+                  "废寝食",
+                  "奈何忧崩坠乎",
+                  "因往晓之",
+                  "身亡所寄",
+                  "终日在天中行止",
+                  "杞国有人忧天地崩坠",
+                  "曰天积耳",
+                  "又有忧彼之所亡者",
+                  "亡处亡气"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "亡处亡气",
+                  "杞国有人忧天地崩坠",
+                  "奈何忧崩坠乎",
+                  "又有忧彼之所亡者",
+                  "若屈伸呼吸",
+                  "曰天积耳",
+                  "废寝食",
+                  "身亡所寄",
+                  "因往晓之",
+                  "终日在天中行止"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "曰天积耳",
+                  "身亡所寄",
+                  "终日在天中行止",
+                  "废寝食",
+                  "奈何忧崩坠乎",
+                  "因往晓之",
+                  "杞国有人忧天地崩坠",
+                  "若屈伸呼吸",
+                  "又有忧彼之所亡者",
+                  "亡处亡气"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

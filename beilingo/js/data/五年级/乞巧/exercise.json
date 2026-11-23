@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī xī jīn xiāo kàn bì xiāo"
+              },
+              "otherInfo": {
+                "line": "七夕今宵看碧霄"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān niú zhī nǚ dù hé qiáo"
+              },
+              "otherInfo": {
+                "line": "牵牛织女渡河桥"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiā jiā qǐ qiǎo wàng qiū yuè"
+              },
+              "otherInfo": {
+                "line": "家家乞巧望秋月"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuān jìn hóng sī jǐ wàn tiáo"
+              },
+              "otherInfo": {
+                "line": "穿尽红丝几万条"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“今宵”的意思是？",
+                "options": [
+                  "今天晚上",
+                  "今天早晨",
+                  "今年春天",
+                  "今夜之后"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“碧霄”的意思是？",
+                "options": [
+                  "碧蓝的天空",
+                  "碧绿的江水",
+                  "青色的山峦",
+                  "深蓝的海洋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渡”的意思是？",
+                "options": [
+                  "渡过、横越",
+                  "停泊、靠岸",
+                  "沉没、淹没",
+                  "观望、等待"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乞巧”的意思是？",
+                "options": [
+                  "向织女乞求灵巧的手艺",
+                  "向月神祈求美满姻缘",
+                  "向天神祈求五谷丰登",
+                  "向牛郎乞求放牧技巧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“望”的意思是？",
+                "options": [
+                  "仰望、眺望",
+                  "盼望、希望",
+                  "埋怨、责怪",
+                  "拜访、探望"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“穿尽”的意思是？",
+                "options": [
+                  "穿完、穿遍",
+                  "穿过、穿透",
+                  "穿戴整齐",
+                  "穿针引线"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“红丝”的意思是？",
+                "options": [
+                  "红色的丝线",
+                  "红色的丝绸",
+                  "红色的丝带",
+                  "红色的丝竹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“几万条”的意思是？",
+                "options": [
+                  "几万根（形容极多）",
+                  "几万条道路",
+                  "几万次来回",
+                  "几万个夜晚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“牵牛织女”指的是？",
+                "options": [
+                  "牵牛星与织女星（神话人物）",
+                  "放牛娃与织布女",
+                  "牵牛花与织女草",
+                  "牛郎与织女的儿女"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河桥”在诗中指的是？",
+                "options": [
+                  "银河上的鹊桥",
+                  "河面上的木桥",
+                  "护城河上的石桥",
+                  "黄河上的浮桥"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "七夕的今晚，人们仰望碧蓝的夜空。",
+                "options": [
+                  "七夕今宵看碧霄",
+                  "牵牛织女渡河桥",
+                  "家家乞巧望秋月",
+                  "穿尽红丝几万条"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“七夕今宵看碧霄”的意思是？",
+                "options": [
+                  "七夕的今晚，人们仰望碧蓝的夜空",
+                  "七夕的清晨，人们眺望碧绿的山峦",
+                  "七夕的今晚，人们俯看碧绿的江水",
+                  "七夕的白天，人们仰望碧蓝的天空"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "牵牛星和织女星在银河的鹊桥上相会。",
+                "options": [
+                  "牵牛织女渡河桥",
+                  "七夕今宵看碧霄",
+                  "家家乞巧望秋月",
+                  "穿尽红丝几万条"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“牵牛织女渡河桥”的意思是？",
+                "options": [
+                  "牵牛星和织女星在银河的鹊桥上相会",
+                  "牵牛花和织女草在河桥边生长",
+                  "放牛娃和织布女走过河上的木桥",
+                  "牛郎和织女在黄河的浮桥上分别"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "家家户户的女子仰望秋月，向织女乞求灵巧。",
+                "options": [
+                  "家家乞巧望秋月",
+                  "七夕今宵看碧霄",
+                  "牵牛织女渡河桥",
+                  "穿尽红丝几万条"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“家家乞巧望秋月”的意思是？",
+                "options": [
+                  "家家户户的女子仰望秋月，向织女乞求灵巧",
+                  "家家户户的男子仰望秋月，祈求五谷丰登",
+                  "家家户户的女子俯看秋水，盼望亲人归来",
+                  "家家户户的老人仰望秋月，思念远方儿女"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "穿完了数不清的红丝线，足有几万条。",
+                "options": [
+                  "穿尽红丝几万条",
+                  "七夕今宵看碧霄",
+                  "牵牛织女渡河桥",
+                  "家家乞巧望秋月"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“穿尽红丝几万条”的意思是？",
+                "options": [
+                  "穿完了数不清的红丝线，足有几万条",
+                  "穿过了几万条红色的丝绸道路",
+                  "穿好了几万件红色的丝织衣裳",
+                  "穿针引线几万次，只绣成一条红丝带"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牵牛织女渡河桥",
+                  "七夕今宵看碧霄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "穿尽红丝几万条",
+                  "家家乞巧望秋月"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牵牛织女渡河桥",
+                  "家家乞巧望秋月",
+                  "七夕今宵看碧霄",
+                  "穿尽红丝几万条"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "穿尽红丝几万条",
+                  "七夕今宵看碧霄",
+                  "家家乞巧望秋月",
+                  "牵牛织女渡河桥"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "七__今宵看碧霄",
+                "answer": "夕"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáo"
+              },
+              "otherInfo": {
+                "content": "牵牛织女渡河__",
+                "answer": "桥"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiǎo"
+              },
+              "otherInfo": {
+                "content": "家家乞__望秋月",
+                "answer": "巧"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī"
+              },
+              "otherInfo": {
+                "content": "穿尽红__几万条",
+                "answer": "丝"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "七夕今__看碧霄",
+                "answer": "宵"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dù"
+              },
+              "otherInfo": {
+                "content": "牵牛织女__河桥",
+                "answer": "渡"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "家家乞巧望秋__",
+                "answer": "月"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuān"
+              },
+              "otherInfo": {
+                "content": "__尽红丝几万条",
+                "answer": "穿"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "七夕今宵看__霄",
+                "answer": "碧"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiáo"
+              },
+              "otherInfo": {
+                "content": "穿尽红丝几万__",
+                "answer": "条"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "七夕今宵看碧霄，______",
+                "answer": "牵牛织女渡河桥"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，牵牛织女渡河桥",
+                "answer": "七夕今宵看碧霄"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "家家乞巧望秋月，______",
+                "answer": "穿尽红丝几万条"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，穿尽红丝几万条",
+                "answer": "家家乞巧望秋月"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "七夕今宵看碧霄，牵牛织女渡河桥。______，______",
+                "answer": "家家乞巧望秋月，穿尽红丝几万条"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "七夕今宵看碧霄，牵牛织女渡河桥。______，______",
+                "answer": "家家乞巧望秋月，穿尽红丝几万条"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "穿尽红丝几万条",
+                  "七夕今宵看碧霄",
+                  "家家乞巧望秋月",
+                  "牵牛织女渡河桥"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "家家乞巧望秋月",
+                  "牵牛织女渡河桥",
+                  "穿尽红丝几万条",
+                  "七夕今宵看碧霄"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牵牛织女渡河桥",
+                  "穿尽红丝几万条",
+                  "七夕今宵看碧霄",
+                  "家家乞巧望秋月"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "七夕今宵看碧霄",
+                  "家家乞巧望秋月",
+                  "牵牛织女渡河桥",
+                  "穿尽红丝几万条"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "穿尽红丝几万条",
+                  "牵牛织女渡河桥",
+                  "家家乞巧望秋月",
+                  "七夕今宵看碧霄"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

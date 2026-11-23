@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū cóng rào shè sì táo jiā"
+              },
+              "otherInfo": {
+                "line": "秋丛绕舍似陶家"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn rào lí biān rì jiàn xiá"
+              },
+              "otherInfo": {
+                "line": "遍绕篱边日渐斜"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bú shì huā zhōng piān ài jú"
+              },
+              "otherInfo": {
+                "line": "不是花中偏爱菊"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ huā kāi jìn gèng wú huā"
+              },
+              "otherInfo": {
+                "line": "此花开尽更无花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋丛绕舍似陶家”中“舍”的意思是？",
+                "options": [
+                  "房屋",
+                  "舍弃",
+                  "施舍",
+                  "宿舍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遍绕篱边日渐斜”中“遍”的意思是？",
+                "options": [
+                  "全部、到处",
+                  "一次",
+                  "偏颇",
+                  "普遍"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遍绕篱边日渐斜”中“斜”的意思是？",
+                "options": [
+                  "倾斜",
+                  "西斜",
+                  "不正",
+                  "歪斜"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不是花中偏爱菊”中“偏”的意思是？",
+                "options": [
+                  "偏偏",
+                  "特别",
+                  "偏斜",
+                  "偏向"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“此花开尽更无花”中“尽”的意思是？",
+                "options": [
+                  "完、凋谢",
+                  "尽头",
+                  "尽量",
+                  "尽管"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“此花开尽更无花”中“更”的意思是？",
+                "options": [
+                  "更加",
+                  "再",
+                  "更换",
+                  "经历"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋丛绕舍似陶家”中“似”的意思是？",
+                "options": [
+                  "相似",
+                  "好像",
+                  "似乎",
+                  "类似"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋丛绕舍似陶家”中“绕”的意思是？",
+                "options": [
+                  "围绕",
+                  "缠绕",
+                  "绕过",
+                  "环绕"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遍绕篱边日渐斜”中“篱”的意思是？",
+                "options": [
+                  "篱笆",
+                  "竹篱",
+                  "藩篱",
+                  "樊篱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不是花中偏爱菊”中“爱”的意思是？",
+                "options": [
+                  "喜爱",
+                  "爱情",
+                  "爱护",
+                  "爱惜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一丛丛秋菊环绕着房屋，好像到了陶渊明的家。",
+                "options": [
+                  "秋丛绕舍似陶家",
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊",
+                  "此花开尽更无花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“秋丛绕舍似陶家”的意思是？",
+                "options": [
+                  "秋菊环绕房屋，好像到了陶渊明的家",
+                  "秋菊开满庭院，好像陶渊明亲手栽种",
+                  "秋菊围绕房舍，仿佛陶渊明在此居住",
+                  "秋菊丛生屋旁，好似陶渊明归隐田园"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我绕着篱笆观赏菊花，不知不觉太阳渐渐西斜。",
+                "options": [
+                  "秋丛绕舍似陶家",
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊",
+                  "此花开尽更无花"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“遍绕篱边日渐斜”的意思是？",
+                "options": [
+                  "绕着篱笆走遍，太阳渐渐西斜",
+                  "绕着篱笆观赏，太阳已经落山",
+                  "沿着篱笆散步，天色渐渐变暗",
+                  "围着篱笆转圈，日影渐渐偏斜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "并非百花之中我特别偏爱菊花。",
+                "options": [
+                  "秋丛绕舍似陶家",
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊",
+                  "此花开尽更无花"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不是花中偏爱菊”的意思是？",
+                "options": [
+                  "不是百花之中我特别偏爱菊花",
+                  "百花之中我并不偏爱菊花",
+                  "不是花中只有我偏爱菊花",
+                  "并非花中偏爱菊花的是我"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只是因为菊花凋谢之后，就再也没有别的花可赏了。",
+                "options": [
+                  "秋丛绕舍似陶家",
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊",
+                  "此花开尽更无花"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此花开尽更无花”的意思是？",
+                "options": [
+                  "这花凋谢之后，就再也没有别的花了",
+                  "这花开放之后，就再没有别的花",
+                  "这花凋谢之后，别的花才开放",
+                  "这花开放之后，别的花都凋谢了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遍绕篱边日渐斜",
+                  "秋丛绕舍似陶家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此花开尽更无花",
+                  "不是花中偏爱菊"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不是花中偏爱菊",
+                  "遍绕篱边日渐斜",
+                  "秋丛绕舍似陶家",
+                  "此花开尽更无花"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此花开尽更无花",
+                  "秋丛绕舍似陶家",
+                  "不是花中偏爱菊",
+                  "遍绕篱边日渐斜"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cóng"
+              },
+              "otherInfo": {
+                "content": "秋__绕舍似陶家",
+                "answer": "丛"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiá"
+              },
+              "otherInfo": {
+                "content": "遍绕篱边日渐__",
+                "answer": "斜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "piān"
+              },
+              "otherInfo": {
+                "content": "不是花中__爱菊",
+                "answer": "偏"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn"
+              },
+              "otherInfo": {
+                "content": "此花开__更无花",
+                "answer": "尽"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo"
+              },
+              "otherInfo": {
+                "content": "秋丛绕舍似__家",
+                "answer": "陶"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lí"
+              },
+              "otherInfo": {
+                "content": "遍绕__边日渐斜",
+                "answer": "篱"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jú"
+              },
+              "otherInfo": {
+                "content": "不是花中偏爱__",
+                "answer": "菊"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gèng"
+              },
+              "otherInfo": {
+                "content": "此花开尽__无花",
+                "answer": "更"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shè"
+              },
+              "otherInfo": {
+                "content": "秋丛绕__似陶家",
+                "answer": "舍"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn"
+              },
+              "otherInfo": {
+                "content": "遍绕篱边日__斜",
+                "answer": "渐"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "秋丛绕舍似陶家，______",
+                "answer": "遍绕篱边日渐斜"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，遍绕篱边日渐斜",
+                "answer": "秋丛绕舍似陶家"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不是花中偏爱菊，______",
+                "answer": "此花开尽更无花"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，此花开尽更无花",
+                "answer": "不是花中偏爱菊"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "秋丛绕舍似陶家，遍绕篱边日渐斜。______，______",
+                "answer": "不是花中偏爱菊，此花开尽更无花"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不是花中偏爱菊，此花开尽更无花。______，______",
+                "answer": "不是花中偏爱菊，此花开尽更无花"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此花开尽更无花",
+                  "秋丛绕舍似陶家",
+                  "不是花中偏爱菊",
+                  "遍绕篱边日渐斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊",
+                  "秋丛绕舍似陶家",
+                  "此花开尽更无花"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不是花中偏爱菊",
+                  "此花开尽更无花",
+                  "遍绕篱边日渐斜",
+                  "秋丛绕舍似陶家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋丛绕舍似陶家",
+                  "此花开尽更无花",
+                  "遍绕篱边日渐斜",
+                  "不是花中偏爱菊"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遍绕篱边日渐斜",
+                  "秋丛绕舍似陶家",
+                  "此花开尽更无花",
+                  "不是花中偏爱菊"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo shù zhī chūn bù jiǔ guī"
+              },
+              "otherInfo": {
+                "line": "草树知春不久归"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǎi bān hóng zǐ dòu fāng fēi"
+              },
+              "otherInfo": {
+                "line": "百般红紫斗芳菲"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng huā yú jiá wú cái sī"
+              },
+              "otherInfo": {
+                "line": "杨花榆荚无才思"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi jiě màn tiān zuò xuě fēi"
+              },
+              "otherInfo": {
+                "line": "惟解漫天作雪飞"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草树知春不久归”中“归”的意思是？",
+                "options": [
+                  "返回",
+                  "归去，指春天结束",
+                  "归还",
+                  "归属"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“百般红紫斗芳菲”中“斗”的意思是？",
+                "options": [
+                  "争斗",
+                  "比赛",
+                  "争奇斗艳",
+                  "打斗"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“百般红紫斗芳菲”中“芳菲”的意思是？",
+                "options": [
+                  "花草的芳香",
+                  "花草的美丽",
+                  "花草的香气和颜色",
+                  "花草繁盛"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杨花榆荚无才思”中“杨花”的意思是？",
+                "options": [
+                  "杨树的花",
+                  "柳絮",
+                  "杨梅的花",
+                  "白杨的花"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杨花榆荚无才思”中“才思”的意思是？",
+                "options": [
+                  "才华和思想",
+                  "才气和文思",
+                  "才能和思考",
+                  "才华和思路"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惟解漫天作雪飞”中“惟”的意思是？",
+                "options": [
+                  "只有",
+                  "思考",
+                  "唯一",
+                  "但是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惟解漫天作雪飞”中“解”的意思是？",
+                "options": [
+                  "解开",
+                  "理解",
+                  "懂得，知道",
+                  "解释"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“草树知春不久归”中“不久”的意思是？",
+                "options": [
+                  "不长时间",
+                  "很快",
+                  "不久之后",
+                  "时间不长"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“百般红紫斗芳菲”中“百般”的意思是？",
+                "options": [
+                  "一百种",
+                  "各种各样",
+                  "百倍",
+                  "许多种"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“杨花榆荚无才思”中“榆荚”的意思是？",
+                "options": [
+                  "榆树的果实",
+                  "榆树的叶子",
+                  "榆树的花",
+                  "榆树的种子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "花草树木知道春天不久就要归去。",
+                "options": [
+                  "草树知春不久归",
+                  "百般红紫斗芳菲",
+                  "杨花榆荚无才思",
+                  "惟解漫天作雪飞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“草树知春不久归”的意思是？",
+                "options": [
+                  "花草树木知道春天不久就要返回",
+                  "花草树木知道春天不久就要结束",
+                  "花草树木不知道春天何时归来",
+                  "花草树木知道春天已经归去"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "各种颜色的花草争奇斗艳，竞相开放。",
+                "options": [
+                  "草树知春不久归",
+                  "百般红紫斗芳菲",
+                  "杨花榆荚无才思",
+                  "惟解漫天作雪飞"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“百般红紫斗芳菲”的意思是？",
+                "options": [
+                  "各种颜色的花草争奇斗艳",
+                  "各种颜色的花草互相打斗",
+                  "各种颜色的花草散发芳香",
+                  "各种颜色的花草竞相凋谢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "柳絮和榆荚没有才气和文思。",
+                "options": [
+                  "草树知春不久归",
+                  "百般红紫斗芳菲",
+                  "杨花榆荚无才思",
+                  "惟解漫天作雪飞"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“杨花榆荚无才思”的意思是？",
+                "options": [
+                  "柳絮和榆荚没有才华和思想",
+                  "柳絮和榆荚没有才气和文思",
+                  "柳絮和榆荚没有才能和思考",
+                  "柳絮和榆荚没有才华和思路"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只知道漫天飞舞，像雪花一样飘落。",
+                "options": [
+                  "草树知春不久归",
+                  "百般红紫斗芳菲",
+                  "杨花榆荚无才思",
+                  "惟解漫天作雪飞"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“惟解漫天作雪飞”的意思是？",
+                "options": [
+                  "只知道漫天飞舞，像雪花一样飘落",
+                  "只懂得漫天飞舞，像雪花一样飘落",
+                  "只知道漫天飞舞，像雪一样融化",
+                  "只懂得漫天飞舞，像雪一样洁白"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百般红紫斗芳菲",
+                  "草树知春不久归"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟解漫天作雪飞",
+                  "杨花榆荚无才思"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "杨花榆荚无才思",
+                  "百般红紫斗芳菲",
+                  "草树知春不久归",
+                  "惟解漫天作雪飞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟解漫天作雪飞",
+                  "草树知春不久归",
+                  "杨花榆荚无才思",
+                  "百般红紫斗芳菲"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guī"
+              },
+              "otherInfo": {
+                "content": "草树知春不久__",
+                "answer": "归"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dòu"
+              },
+              "otherInfo": {
+                "content": "百般红紫__芳菲",
+                "answer": "斗"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiá"
+              },
+              "otherInfo": {
+                "content": "杨花榆__无才思",
+                "answer": "荚"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "__解漫天作雪飞",
+                "answer": "惟"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎo"
+              },
+              "otherInfo": {
+                "content": "__树知春不久归",
+                "answer": "草"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēi"
+              },
+              "otherInfo": {
+                "content": "百般红紫斗芳__",
+                "answer": "菲"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sī"
+              },
+              "otherInfo": {
+                "content": "杨花榆荚无才__",
+                "answer": "思"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "màn"
+              },
+              "otherInfo": {
+                "content": "惟解__天作雪飞",
+                "answer": "漫"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "草树__春不久归",
+                "answer": "知"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xuě"
+              },
+              "otherInfo": {
+                "content": "惟解漫天作__飞",
+                "answer": "雪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草树知春不久归，______",
+                "answer": "百般红紫斗芳菲"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，百般红紫斗芳菲",
+                "answer": "草树知春不久归"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "杨花榆荚无才思，______",
+                "answer": "惟解漫天作雪飞"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，惟解漫天作雪飞",
+                "answer": "杨花榆荚无才思"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草树知春不久归，百般红紫斗芳菲。______，______",
+                "answer": "杨花榆荚无才思，惟解漫天作雪飞"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "草树知春不久归，百般红紫斗芳菲。______，______",
+                "answer": "杨花榆荚无才思，惟解漫天作雪飞"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟解漫天作雪飞",
+                  "草树知春不久归",
+                  "杨花榆荚无才思",
+                  "百般红紫斗芳菲"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百般红紫斗芳菲",
+                  "惟解漫天作雪飞",
+                  "草树知春不久归",
+                  "杨花榆荚无才思"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "杨花榆荚无才思",
+                  "百般红紫斗芳菲",
+                  "惟解漫天作雪飞",
+                  "草树知春不久归"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "草树知春不久归",
+                  "惟解漫天作雪飞",
+                  "百般红紫斗芳菲",
+                  "杨花榆荚无才思"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惟解漫天作雪飞",
+                  "杨花榆荚无才思",
+                  "草树知春不久归",
+                  "百般红紫斗芳菲"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

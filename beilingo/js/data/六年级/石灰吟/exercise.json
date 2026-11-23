@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān chuí wàn záo chū shēn shān"
+              },
+              "otherInfo": {
+                "line": "千锤万凿出深山"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liè huǒ fén shāo ruò děng xián"
+              },
+              "otherInfo": {
+                "line": "烈火焚烧若等闲"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fěn gǔ suì shēn hún bù pà"
+              },
+              "otherInfo": {
+                "line": "粉骨碎身浑不怕"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yào liú qīng bái zài rén jiān"
+              },
+              "otherInfo": {
+                "line": "要留清白在人间"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千锤万凿”的意思是？",
+                "options": [
+                  "多次锤击、多次开凿，形容开采石灰石非常艰难",
+                  "用锤子敲打金属，制作器具",
+                  "反复推敲文章的字句",
+                  "在石头上雕刻花纹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“出深山”的意思是？",
+                "options": [
+                  "从深山里开采出来",
+                  "走出深山去远行",
+                  "离开深山隐居",
+                  "从深山逃出来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“烈火焚烧”的意思是？",
+                "options": [
+                  "用猛烈的火烧",
+                  "在烈火中取暖",
+                  "用火把照明",
+                  "把火扑灭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“若等闲”的意思是？",
+                "options": [
+                  "好像平常事一样，表示毫不在意",
+                  "好像闲人一样无所事事",
+                  "等到空闲的时候",
+                  "如同闲谈一般轻松"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“粉骨碎身”的意思是？",
+                "options": [
+                  "身体粉碎，形容牺牲得很彻底",
+                  "把骨头磨成粉，用来制药",
+                  "把身体弄脏，显得狼狈",
+                  "骨头碎裂后重新接好"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浑不怕”的意思是？",
+                "options": [
+                  "全都不怕",
+                  "浑身发抖害怕",
+                  "糊涂地害怕",
+                  "害怕得浑身是汗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“清白”的意思是？",
+                "options": [
+                  "石灰洁白的颜色，也比喻清白的品格",
+                  "清楚明白地说明",
+                  "贫穷而没有财物",
+                  "白天光线明亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人间”的意思是？",
+                "options": [
+                  "人世间",
+                  "房间里面",
+                  "人与人之间",
+                  "人家中间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“要留”的意思是？",
+                "options": [
+                  "要留下",
+                  "要挽留",
+                  "要保留意见",
+                  "要留给别人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“焚烧”的意思是？",
+                "options": [
+                  "烧毁",
+                  "焚香",
+                  "燃烧的火把",
+                  "烤火取暖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "石灰石经过多次锤击开凿，才从深山里开采出来。",
+                "options": [
+                  "千锤万凿出深山",
+                  "烈火焚烧若等闲",
+                  "粉骨碎身浑不怕",
+                  "要留清白在人间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千锤万凿出深山”的意思是？",
+                "options": [
+                  "石灰石经过无数次锤击开凿，才从深山里开采出来",
+                  "石灰石在深山里被锤子敲打，发出很大的声响",
+                  "人们在深山里用锤子凿石头，寻找宝藏",
+                  "深山里的石头被锤子凿开后运往城市"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "石灰石被猛烈的火烧，却把它当作平常事一样。",
+                "options": [
+                  "千锤万凿出深山",
+                  "烈火焚烧若等闲",
+                  "粉骨碎身浑不怕",
+                  "要留清白在人间"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“烈火焚烧若等闲”的意思是？",
+                "options": [
+                  "石灰石被猛烈的火烧，却把它当作平常事一样",
+                  "烈火燃烧时，石灰石像闲人一样站在旁边",
+                  "用烈火焚烧闲杂的物品，毫不费力",
+                  "烈火把石灰石烧得干干净净，什么也不剩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使身体粉碎，也全都不怕。",
+                "options": [
+                  "千锤万凿出深山",
+                  "烈火焚烧若等闲",
+                  "粉骨碎身浑不怕",
+                  "要留清白在人间"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“粉骨碎身浑不怕”的意思是？",
+                "options": [
+                  "即使身体粉碎，也全都不怕",
+                  "把骨头磨成粉，身体弄碎，心里很害怕",
+                  "浑身是伤，却装作不怕的样子",
+                  "害怕得骨头都碎了，身体也发抖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "要把清白留在人世间。",
+                "options": [
+                  "千锤万凿出深山",
+                  "烈火焚烧若等闲",
+                  "粉骨碎身浑不怕",
+                  "要留清白在人间"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“要留清白在人间”的意思是？",
+                "options": [
+                  "要把清白留在人世间",
+                  "要留在人间，把话说清楚明白",
+                  "要保留清白的名声，离开人间",
+                  "要在人间留下白色的痕迹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烈火焚烧若等闲",
+                  "千锤万凿出深山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "要留清白在人间",
+                  "粉骨碎身浑不怕"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烈火焚烧若等闲",
+                  "千锤万凿出深山",
+                  "要留清白在人间",
+                  "粉骨碎身浑不怕"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粉骨碎身浑不怕",
+                  "烈火焚烧若等闲",
+                  "要留清白在人间",
+                  "千锤万凿出深山"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuí"
+              },
+              "otherInfo": {
+                "content": "千__万凿出深山",
+                "answer": "锤"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "záo"
+              },
+              "otherInfo": {
+                "content": "千锤万__出深山",
+                "answer": "凿"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fén"
+              },
+              "otherInfo": {
+                "content": "烈火__烧若等闲",
+                "answer": "焚"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shāo"
+              },
+              "otherInfo": {
+                "content": "烈火焚__若等闲",
+                "answer": "烧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì"
+              },
+              "otherInfo": {
+                "content": "粉骨__身浑不怕",
+                "answer": "碎"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hún"
+              },
+              "otherInfo": {
+                "content": "粉骨碎身__不怕",
+                "answer": "浑"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liú"
+              },
+              "otherInfo": {
+                "content": "要__清白在人间",
+                "answer": "留"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "要留__白在人间",
+                "answer": "清"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái"
+              },
+              "otherInfo": {
+                "content": "要留清__在人间",
+                "answer": "白"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān"
+              },
+              "otherInfo": {
+                "content": "要留清白在人__",
+                "answer": "间"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千锤万凿出深山，______。",
+                "answer": "烈火焚烧若等闲"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，烈火焚烧若等闲。",
+                "answer": "千锤万凿出深山"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "粉骨碎身浑不怕，______。",
+                "answer": "要留清白在人间"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，要留清白在人间。",
+                "answer": "粉骨碎身浑不怕"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千锤万凿出深山，烈火焚烧若等闲。______，______。",
+                "answer": "粉骨碎身浑不怕，要留清白在人间"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千锤万凿出深山，烈火焚烧若等闲。______，______。",
+                "answer": "粉骨碎身浑不怕，要留清白在人间"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粉骨碎身浑不怕",
+                  "千锤万凿出深山",
+                  "要留清白在人间",
+                  "烈火焚烧若等闲"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "要留清白在人间",
+                  "烈火焚烧若等闲",
+                  "千锤万凿出深山",
+                  "粉骨碎身浑不怕"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "烈火焚烧若等闲",
+                  "要留清白在人间",
+                  "粉骨碎身浑不怕",
+                  "千锤万凿出深山"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千锤万凿出深山",
+                  "粉骨碎身浑不怕",
+                  "烈火焚烧若等闲",
+                  "要留清白在人间"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "粉骨碎身浑不怕",
+                  "要留清白在人间",
+                  "千锤万凿出深山",
+                  "烈火焚烧若等闲"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

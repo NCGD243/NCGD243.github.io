@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè luò wū tí shuāng mǎn tiān"
+              },
+              "otherInfo": {
+                "line": "月落乌啼霜满天"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng fēng yú huǒ duì chóu mián"
+              },
+              "otherInfo": {
+                "line": "江枫渔火对愁眠"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū sū chéng wài hán shān sì"
+              },
+              "otherInfo": {
+                "line": "姑苏城外寒山寺"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yè bàn zhōng shēng dào kè chuán"
+              },
+              "otherInfo": {
+                "line": "夜半钟声到客船"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月落”的意思是？",
+                "options": [
+                  "月亮西沉",
+                  "月光洒落",
+                  "月圆之夜",
+                  "月色朦胧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乌啼”的意思是？",
+                "options": [
+                  "乌鸦鸣叫",
+                  "乌黑啼哭",
+                  "乌篷船响",
+                  "乌鸟栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“霜满天”的意思是？",
+                "options": [
+                  "寒霜弥漫天空",
+                  "霜降满天星斗",
+                  "霜花铺满地面",
+                  "霜气凝结成团"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“江枫”的意思是？",
+                "options": [
+                  "江边枫树",
+                  "江上枫叶",
+                  "江畔枫桥",
+                  "江中枫影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渔火”的意思是？",
+                "options": [
+                  "渔船上的灯火",
+                  "渔人燃起的篝火",
+                  "江边渔家的炊火",
+                  "捕鱼照明的火把"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“对愁眠”的意思是？",
+                "options": [
+                  "面对愁绪难以入眠",
+                  "对着愁人一同安睡",
+                  "相对发愁然后入睡",
+                  "满怀愁怨昏昏睡去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“姑苏”的意思是？",
+                "options": [
+                  "苏州的别称",
+                  "姑苏山名",
+                  "姑苏台名",
+                  "苏州城门名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寒山寺”的意思是？",
+                "options": [
+                  "苏州的一座寺庙名",
+                  "寒冷的山间寺庙",
+                  "山名与寺名的合称",
+                  "寒山和尚所建之寺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜半”的意思是？",
+                "options": [
+                  "半夜时分",
+                  "夜晚一半",
+                  "夜将尽时",
+                  "入夜不久"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“客船”的意思是？",
+                "options": [
+                  "旅客乘坐的船",
+                  "客居他乡的船",
+                  "载客渡人的船",
+                  "客商运货的船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "月亮西沉，乌鸦啼叫，寒霜弥漫天空。",
+                "options": [
+                  "月落乌啼霜满天",
+                  "江枫渔火对愁眠",
+                  "姑苏城外寒山寺",
+                  "夜半钟声到客船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“月落乌啼霜满天”的意思是？",
+                "options": [
+                  "月亮落下，乌鸦啼叫，寒霜弥漫天空",
+                  "月亮升起，乌鸦归巢，霜气布满地面",
+                  "月光明亮，乌鸟啼鸣，霜花落满枝头",
+                  "月色昏暗，乌篷船过，霜降铺满江面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "江边枫树与渔火相对，我满怀愁绪难以入眠。",
+                "options": [
+                  "江枫渔火对愁眠",
+                  "月落乌啼霜满天",
+                  "姑苏城外寒山寺",
+                  "夜半钟声到客船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“江枫渔火对愁眠”的意思是？",
+                "options": [
+                  "江边枫树与渔火相对，我满怀愁绪难以入眠",
+                  "江上枫叶与渔火相映，我对着愁人渐渐入睡",
+                  "江畔枫桥与渔火相伴，我驱散愁绪安然入梦",
+                  "江中枫影与渔火交错，我愁绪满怀昏沉睡去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "姑苏城外那座寒山寺。",
+                "options": [
+                  "姑苏城外寒山寺",
+                  "月落乌啼霜满天",
+                  "江枫渔火对愁眠",
+                  "夜半钟声到客船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“姑苏城外寒山寺”的意思是？",
+                "options": [
+                  "姑苏城外有一座寒山寺",
+                  "姑苏城外的寒山和寺庙",
+                  "寒山寺坐落在姑苏城内",
+                  "姑苏城外的山寺很寒冷"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "半夜时分，钟声传到了旅客乘坐的船上。",
+                "options": [
+                  "夜半钟声到客船",
+                  "月落乌啼霜满天",
+                  "江枫渔火对愁眠",
+                  "姑苏城外寒山寺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夜半钟声到客船”的意思是？",
+                "options": [
+                  "半夜时分，钟声传到了旅客乘坐的船上",
+                  "半夜时分，钟声从客船上响起",
+                  "夜将尽时，钟声送客船远行",
+                  "入夜不久，钟声引客船停泊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜满天",
+                  "月落乌啼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "对愁眠",
+                  "江枫渔火"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寒山寺",
+                  "姑苏城外"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "到客船",
+                  "夜半钟声"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江枫渔火对愁眠",
+                  "月落乌啼霜满天"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "姑苏城外寒山寺",
+                  "江枫渔火对愁眠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜半钟声到客船",
+                  "姑苏城外寒山寺"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江枫渔火对愁眠",
+                  "夜半钟声到客船",
+                  "月落乌啼霜满天",
+                  "姑苏城外寒山寺"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "月__乌啼霜满天",
+                "answer": "落"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "江枫渔火对愁眠",
+                "answer": "眠"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sū"
+              },
+              "otherInfo": {
+                "content": "姑__城外寒山寺",
+                "answer": "苏"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng"
+              },
+              "otherInfo": {
+                "content": "夜半__声到客船",
+                "answer": "钟"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wū"
+              },
+              "otherInfo": {
+                "content": "月落__啼霜满天",
+                "answer": "乌"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng"
+              },
+              "otherInfo": {
+                "content": "江__渔火对愁眠",
+                "answer": "枫"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì"
+              },
+              "otherInfo": {
+                "content": "姑苏城外寒山__",
+                "answer": "寺"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuán"
+              },
+              "otherInfo": {
+                "content": "夜半钟声到客__",
+                "answer": "船"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuāng"
+              },
+              "otherInfo": {
+                "content": "月落乌啼__满天",
+                "answer": "霜"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mián"
+              },
+              "otherInfo": {
+                "content": "江枫渔火对愁__",
+                "answer": "眠"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月落乌啼霜满天，______",
+                "answer": "江枫渔火对愁眠"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，江枫渔火对愁眠",
+                "answer": "月落乌啼霜满天"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "姑苏城外寒山寺，______",
+                "answer": "夜半钟声到客船"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夜半钟声到客船",
+                "answer": "姑苏城外寒山寺"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "月落乌啼霜满天，江枫渔火对愁眠。______，______",
+                "answer": "姑苏城外寒山寺，夜半钟声到客船"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "姑苏城外寒山寺，夜半钟声到客船。______，______",
+                "answer": "姑苏城外寒山寺，夜半钟声到客船"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江枫渔火对愁眠",
+                  "夜半钟声到客船",
+                  "月落乌啼霜满天",
+                  "姑苏城外寒山寺"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "姑苏城外寒山寺",
+                  "月落乌啼霜满天",
+                  "夜半钟声到客船",
+                  "江枫渔火对愁眠"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夜半钟声到客船",
+                  "江枫渔火对愁眠",
+                  "姑苏城外寒山寺",
+                  "月落乌啼霜满天"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "月落乌啼霜满天",
+                  "姑苏城外寒山寺",
+                  "江枫渔火对愁眠",
+                  "夜半钟声到客船"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "江枫渔火对愁眠",
+                  "姑苏城外寒山寺",
+                  "夜半钟声到客船",
+                  "月落乌啼霜满天"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

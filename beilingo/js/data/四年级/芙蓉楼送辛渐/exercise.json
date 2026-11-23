@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán yǔ lián jiāng yè rù wú"
+              },
+              "otherInfo": {
+                "line": "寒雨连江夜入吴"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng míng sòng kè chǔ shān gū"
+              },
+              "otherInfo": {
+                "line": "平明送客楚山孤"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò yáng qīn yǒu rú xiāng wèn"
+              },
+              "otherInfo": {
+                "line": "洛阳亲友如相问"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī piàn bīng xīn zài yù hú"
+              },
+              "otherInfo": {
+                "line": "一片冰心在玉壶"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寒雨”的意思是？",
+                "options": [
+                  "寒冷的雨",
+                  "寒冷的雪",
+                  "寒冷的雾",
+                  "寒冷的风"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“连江”的意思是？",
+                "options": [
+                  "雨势浩大，与江水连成一片",
+                  "连接着长江",
+                  "沿着江岸",
+                  "江面结冰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“平明”的意思是？",
+                "options": [
+                  "天刚亮的时候",
+                  "中午时分",
+                  "傍晚时候",
+                  "半夜时分"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“客”的意思是？",
+                "options": [
+                  "诗人自己",
+                  "被送的朋友辛渐",
+                  "路过的陌生人",
+                  "江上的渔夫"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“孤”的意思是？",
+                "options": [
+                  "孤单寂寞",
+                  "孤立无援",
+                  "孤零零地矗立",
+                  "辜负"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“如”的意思是？",
+                "options": [
+                  "如果",
+                  "好像",
+                  "如同",
+                  "前往"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“冰心”的意思是？",
+                "options": [
+                  "冰冷的心",
+                  "纯洁清明的心",
+                  "寒冷的心情",
+                  "像冰一样坚硬的心"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“玉壶”的意思是？",
+                "options": [
+                  "玉做的酒壶",
+                  "玉做的茶壶",
+                  "玉做的水壶",
+                  "玉做的花瓶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“楚山”的意思是？",
+                "options": [
+                  "楚地的山",
+                  "长满荆棘的山",
+                  "楚国故都的山",
+                  "长江南岸的山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“洛阳”在诗中是？",
+                "options": [
+                  "诗人的家乡",
+                  "朋友要去的地方",
+                  "诗人送别的地点",
+                  "诗人做官的地方"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "寒冷的雨笼罩江面，夜里来到吴地。",
+                "options": [
+                  "寒雨连江夜入吴",
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“寒雨连江夜入吴”的意思是？",
+                "options": [
+                  "寒雨与江水连成一片，夜里来到吴地",
+                  "寒雨落在江面上，夜里进入吴地的城门",
+                  "寒雨连着长江，夜里从吴地出发",
+                  "寒雨洒满江面，夜里回到吴地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "天刚亮送别友人，楚山显得孤零零的。",
+                "options": [
+                  "寒雨连江夜入吴",
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“平明送客楚山孤”的意思是？",
+                "options": [
+                  "天刚亮送别友人，楚山显得孤零零的",
+                  "天刚亮客人离去，楚山独自耸立",
+                  "天亮时送客到楚山，山势孤单",
+                  "清晨送别友人，楚山被云雾遮住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "洛阳的亲友如果问起我。",
+                "options": [
+                  "寒雨连江夜入吴",
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“洛阳亲友如相问”的意思是？",
+                "options": [
+                  "洛阳的亲友如果问起我",
+                  "洛阳的亲友如果来相送",
+                  "洛阳的亲友如果来相见",
+                  "洛阳的亲友如果问起你"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我的一片纯洁之心像玉壶一样晶莹。",
+                "options": [
+                  "寒雨连江夜入吴",
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一片冰心在玉壶”的意思是？",
+                "options": [
+                  "我的一片纯洁之心像玉壶一样晶莹",
+                  "我的一片冰冷之心装在玉壶里",
+                  "我的一片忠心像玉壶一样珍贵",
+                  "我的一片冰心被玉壶收藏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "平明送客楚山孤",
+                  "寒雨连江夜入吴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一片冰心在玉壶",
+                  "洛阳亲友如相问"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "平明送客楚山孤",
+                  "寒雨连江夜入吴",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶",
+                  "寒雨连江夜入吴",
+                  "平明送客楚山孤"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán"
+              },
+              "otherInfo": {
+                "content": "__雨连江夜入吴",
+                "answer": "寒"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gū"
+              },
+              "otherInfo": {
+                "content": "平明送客楚山__",
+                "answer": "孤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò"
+              },
+              "otherInfo": {
+                "content": "__阳亲友如相问",
+                "answer": "洛"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bīng"
+              },
+              "otherInfo": {
+                "content": "一片__心在玉壶",
+                "answer": "冰"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "寒雨__江夜入吴",
+                "answer": "连"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "míng"
+              },
+              "otherInfo": {
+                "content": "平__送客楚山孤",
+                "answer": "明"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīn"
+              },
+              "otherInfo": {
+                "content": "洛阳__友如相问",
+                "answer": "亲"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú"
+              },
+              "otherInfo": {
+                "content": "一片冰心在玉__",
+                "answer": "壶"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú"
+              },
+              "otherInfo": {
+                "content": "寒雨连江夜入__",
+                "answer": "吴"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèn"
+              },
+              "otherInfo": {
+                "content": "洛阳亲友如相__",
+                "answer": "问"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "寒雨连江夜入吴，______",
+                "answer": "平明送客楚山孤"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，平明送客楚山孤",
+                "answer": "寒雨连江夜入吴"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "洛阳亲友如相问，______",
+                "answer": "一片冰心在玉壶"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一片冰心在玉壶",
+                "answer": "洛阳亲友如相问"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "寒雨连江夜入吴，平明送客楚山孤。______，______",
+                "answer": "洛阳亲友如相问，一片冰心在玉壶"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "平明送客楚山孤，洛阳亲友如相问。______，______",
+                "answer": "洛阳亲友如相问，一片冰心在玉壶"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "平明送客楚山孤",
+                  "一片冰心在玉壶",
+                  "寒雨连江夜入吴",
+                  "洛阳亲友如相问"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "洛阳亲友如相问",
+                  "寒雨连江夜入吴",
+                  "一片冰心在玉壶",
+                  "平明送客楚山孤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一片冰心在玉壶",
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "寒雨连江夜入吴"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寒雨连江夜入吴",
+                  "洛阳亲友如相问",
+                  "平明送客楚山孤",
+                  "一片冰心在玉壶"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "平明送客楚山孤",
+                  "洛阳亲友如相问",
+                  "一片冰心在玉壶",
+                  "寒雨连江夜入吴"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

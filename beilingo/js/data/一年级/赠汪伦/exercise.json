@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǐ bái chéng zhōu jiāng yù xíng"
+              },
+              "otherInfo": {
+                "line": "李白乘舟将欲行"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hū wén àn shàng tà gē shēng"
+              },
+              "otherInfo": {
+                "line": "忽闻岸上踏歌声"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo huā tán shuǐ shēn qiān chǐ"
+              },
+              "otherInfo": {
+                "line": "桃花潭水深千尺"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù jí wāng lún sòng wǒ qíng"
+              },
+              "otherInfo": {
+                "line": "不及汪伦送我情"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“将欲行”中“将”的意思是？",
+                "options": [
+                  "将要",
+                  "带领",
+                  "将军",
+                  "拿取"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“忽闻”中“闻”的意思是？",
+                "options": [
+                  "听见",
+                  "闻到气味",
+                  "新闻",
+                  "出名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“踏歌声”中“踏歌”的意思是？",
+                "options": [
+                  "以脚踏地为节拍唱歌",
+                  "边走边跳舞",
+                  "踏步前进",
+                  "踩踏草地唱歌"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“深千尺”中“千尺”的意思是？",
+                "options": [
+                  "形容很深",
+                  "整整一千尺",
+                  "一千把尺子",
+                  "千尺之长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不及”的意思是？",
+                "options": [
+                  "比不上",
+                  "来不及",
+                  "不到",
+                  "不着急"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“送我情”中“情”的意思是？",
+                "options": [
+                  "情谊",
+                  "情况",
+                  "感情用事",
+                  "心情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“岸上”中“岸”的意思是？",
+                "options": [
+                  "水边的陆地",
+                  "海岸线",
+                  "河岸的堤坝",
+                  "岸边的高地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乘舟”中“乘”的意思是？",
+                "options": [
+                  "乘坐",
+                  "趁着",
+                  "登上",
+                  "驾驭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃花潭”中“潭”的意思是？",
+                "options": [
+                  "深水池",
+                  "水潭边",
+                  "潭水",
+                  "湖泊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汪伦”在诗中指？",
+                "options": [
+                  "李白的朋友",
+                  "李白的兄弟",
+                  "当地的官员",
+                  "船夫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "李白坐上小船正要出发。",
+                "options": [
+                  "李白乘舟将欲行",
+                  "忽闻岸上踏歌声",
+                  "桃花潭水深千尺",
+                  "不及汪伦送我情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“李白乘舟将欲行”的意思是？",
+                "options": [
+                  "李白乘船将要远行",
+                  "李白乘船已经出发",
+                  "李白在船上准备写诗",
+                  "李白在岸边等待乘船"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "忽然听到岸上传来踏歌的声音。",
+                "options": [
+                  "忽闻岸上踏歌声",
+                  "李白乘舟将欲行",
+                  "桃花潭水深千尺",
+                  "不及汪伦送我情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“忽闻岸上踏歌声”的意思是？",
+                "options": [
+                  "忽然听到岸上传来踏歌的声音",
+                  "忽然看见岸上有人跳舞",
+                  "忽然听到岸上有人呼喊",
+                  "忽然想起岸上的歌声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "桃花潭的水即使有千尺深。",
+                "options": [
+                  "桃花潭水深千尺",
+                  "不及汪伦送我情",
+                  "李白乘舟将欲行",
+                  "忽闻岸上踏歌声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“桃花潭水深千尺”的意思是？",
+                "options": [
+                  "桃花潭的水有千尺深",
+                  "桃花潭的水深不见底",
+                  "桃花潭边有千尺高台",
+                  "桃花潭的水流了千尺远"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "也比不上汪伦送别我的情谊。",
+                "options": [
+                  "不及汪伦送我情",
+                  "桃花潭水深千尺",
+                  "李白乘舟将欲行",
+                  "忽闻岸上踏歌声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不及汪伦送我情”的意思是？",
+                "options": [
+                  "比不上汪伦送别我的情谊",
+                  "来不及送别汪伦的情谊",
+                  "不如汪伦送我的礼物",
+                  "赶不上汪伦来送我的时间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忽闻岸上踏歌声",
+                  "李白乘舟将欲行"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不及汪伦送我情",
+                  "桃花潭水深千尺"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花潭水深千尺",
+                  "忽闻岸上踏歌声",
+                  "李白乘舟将欲行",
+                  "不及汪伦送我情"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不及汪伦送我情",
+                  "李白乘舟将欲行",
+                  "桃花潭水深千尺",
+                  "忽闻岸上踏歌声"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "李白__舟将欲行",
+                "answer": "乘"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tà"
+              },
+              "otherInfo": {
+                "content": "忽闻岸上__歌声",
+                "answer": "踏"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tán"
+              },
+              "otherInfo": {
+                "content": "桃花__水深千尺",
+                "answer": "潭"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wāng"
+              },
+              "otherInfo": {
+                "content": "不及__伦送我情",
+                "answer": "汪"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōu"
+              },
+              "otherInfo": {
+                "content": "李白乘__将欲行",
+                "answer": "舟"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wén"
+              },
+              "otherInfo": {
+                "content": "忽__岸上踏歌声",
+                "answer": "闻"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēn"
+              },
+              "otherInfo": {
+                "content": "桃花潭水__千尺",
+                "answer": "深"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qíng"
+              },
+              "otherInfo": {
+                "content": "不及汪伦送我__",
+                "answer": "情"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xíng"
+              },
+              "otherInfo": {
+                "content": "李白乘舟将欲__",
+                "answer": "行"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sòng"
+              },
+              "otherInfo": {
+                "content": "不及汪伦__我情",
+                "answer": "送"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "李白乘舟将欲行，______",
+                "answer": "忽闻岸上踏歌声"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，忽闻岸上踏歌声",
+                "answer": "李白乘舟将欲行"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "桃花潭水深千尺，______",
+                "answer": "不及汪伦送我情"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不及汪伦送我情",
+                "answer": "桃花潭水深千尺"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "李白乘舟将欲行，忽闻岸上踏歌声。______，______",
+                "answer": "桃花潭水深千尺，不及汪伦送我情"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "桃花潭水深千尺，不及汪伦送我情。______，______",
+                "answer": "桃花潭水深千尺，不及汪伦送我情"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不及汪伦送我情",
+                  "李白乘舟将欲行",
+                  "桃花潭水深千尺",
+                  "忽闻岸上踏歌声"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忽闻岸上踏歌声",
+                  "桃花潭水深千尺",
+                  "李白乘舟将欲行",
+                  "不及汪伦送我情"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花潭水深千尺",
+                  "李白乘舟将欲行",
+                  "不及汪伦送我情",
+                  "忽闻岸上踏歌声"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "李白乘舟将欲行",
+                  "不及汪伦送我情",
+                  "忽闻岸上踏歌声",
+                  "桃花潭水深千尺"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忽闻岸上踏歌声",
+                  "不及汪伦送我情",
+                  "桃花潭水深千尺",
+                  "李白乘舟将欲行"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

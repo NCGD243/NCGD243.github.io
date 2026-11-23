@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sāi xià qiū lái fēng jǐng yì"
+              },
+              "otherInfo": {
+                "line": "塞下秋来风景异"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "héng yáng yàn qù wú liú yì"
+              },
+              "otherInfo": {
+                "line": "衡阳雁去无留意"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì miàn biān shēng lián jiǎo qǐ"
+              },
+              "otherInfo": {
+                "line": "四面边声连角起"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān zhàng lǐ cháng yān luò rì gū chéng bì"
+              },
+              "otherInfo": {
+                "line": "千嶂里长烟落日孤城闭"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó jiǔ yī bēi jiā wàn lǐ"
+              },
+              "otherInfo": {
+                "line": "浊酒一杯家万里"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān rán wèi lè guī wú jì"
+              },
+              "otherInfo": {
+                "line": "燕然未勒归无计"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiāng guǎn yōu yōu shuāng mǎn dì"
+              },
+              "otherInfo": {
+                "line": "羌管悠悠霜满地"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rén bù mèi jiāng jūn bái fà zhēng fū lèi"
+              },
+              "otherInfo": {
+                "line": "人不寐将军白发征夫泪"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“塞下秋来风景异”中“异”的意思是？",
+                "options": [
+                  "不同",
+                  "奇异",
+                  "惊异",
+                  "分开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“衡阳雁去无留意”中“去”的意思是？",
+                "options": [
+                  "离开",
+                  "前往",
+                  "除去",
+                  "距离"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“四面边声连角起”中“角”的意思是？",
+                "options": [
+                  "号角",
+                  "角落",
+                  "角逐",
+                  "角度"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千嶂里”中“嶂”的意思是？",
+                "options": [
+                  "像屏障一样的山峰",
+                  "高耸的城墙",
+                  "浓密的树林",
+                  "曲折的河流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浊酒一杯家万里”中“浊酒”的意思是？",
+                "options": [
+                  "未滤清的酒",
+                  "浑浊的河水",
+                  "浓烈的茶",
+                  "粗劣的饭"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“燕然未勒归无计”中“勒”的意思是？",
+                "options": [
+                  "刻石记功",
+                  "勒紧缰绳",
+                  "约束",
+                  "统率"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“羌管悠悠霜满地”中“悠悠”的意思是？",
+                "options": [
+                  "声音绵长不断",
+                  "悠闲自在",
+                  "忧思不绝",
+                  "遥远漫长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“人不寐”中“寐”的意思是？",
+                "options": [
+                  "睡觉",
+                  "休息",
+                  "醒来",
+                  "沉思"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“将军白发征夫泪”中“征夫”的意思是？",
+                "options": [
+                  "出征的士兵",
+                  "远行的商人",
+                  "服役的农夫",
+                  "流浪的百姓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“长烟落日孤城闭”中“长烟”的意思是？",
+                "options": [
+                  "大片的烟雾",
+                  "长长的炊烟",
+                  "远处的云气",
+                  "升腾的狼烟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "边塞的秋天到了，这里的风光与中原大不相同。",
+                "options": [
+                  "塞下秋来风景异",
+                  "衡阳雁去无留意",
+                  "四面边声连角起",
+                  "浊酒一杯家万里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“衡阳雁去无留意”的意思是？",
+                "options": [
+                  "大雁飞往衡阳，毫无留恋之意",
+                  "大雁飞到衡阳后，不再向南飞去",
+                  "衡阳的大雁离去，没有留下音信",
+                  "大雁离开衡阳，心中没有牵挂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "层峦叠嶂之中，落日孤城紧闭城门。",
+                "options": [
+                  "千嶂里长烟落日孤城闭",
+                  "塞下秋来风景异",
+                  "羌管悠悠霜满地",
+                  "燕然未勒归无计"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“四面边声连角起”的意思是？",
+                "options": [
+                  "四面的边地声响随着号角声响起",
+                  "四面的边民接连吹响号角",
+                  "四面的军队连成一片，号角震天",
+                  "四面的风声夹杂着号角声传来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "饮下一杯浊酒，思念着万里之外的家乡。",
+                "options": [
+                  "浊酒一杯家万里",
+                  "羌管悠悠霜满地",
+                  "人不寐将军白发征夫泪",
+                  "衡阳雁去无留意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“燕然未勒归无计”的意思是？",
+                "options": [
+                  "尚未刻石记功，无法计划归乡",
+                  "燕然山还没有攻下，归途无计可施",
+                  "没有在燕然山勒马，归期难以确定",
+                  "燕然山未刻字，归乡没有盘缠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "羌笛声悠长，寒霜铺满大地。",
+                "options": [
+                  "羌管悠悠霜满地",
+                  "四面边声连角起",
+                  "千嶂里长烟落日孤城闭",
+                  "塞下秋来风景异"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“人不寐将军白发征夫泪”的意思是？",
+                "options": [
+                  "将士们都无法入睡，将军白了头发，士兵流下眼泪",
+                  "人们都不睡觉，将军白发苍苍，征夫泪流满面",
+                  "士兵们夜不能寐，将军年老发白，征夫暗自落泪",
+                  "将士们难以入眠，将军愁白了头，征夫思乡流泪"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "衡阳雁去无留意",
+                  "塞下秋来风景异"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千嶂里长烟落日孤城闭",
+                  "四面边声连角起"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕然未勒归无计",
+                  "浊酒一杯家万里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人不寐将军白发征夫泪",
+                  "羌管悠悠霜满地"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "四面边声连角起",
+                  "塞下秋来风景异",
+                  "衡阳雁去无留意",
+                  "千嶂里长烟落日孤城闭"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕然未勒归无计",
+                  "千嶂里长烟落日孤城闭",
+                  "浊酒一杯家万里",
+                  "四面边声连角起"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "羌管悠悠霜满地",
+                  "燕然未勒归无计",
+                  "人不寐将军白发征夫泪",
+                  "浊酒一杯家万里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "人不寐将军白发征夫泪",
+                  "塞下秋来风景异",
+                  "羌管悠悠霜满地",
+                  "衡阳雁去无留意",
+                  "燕然未勒归无计",
+                  "千嶂里长烟落日孤城闭",
+                  "浊酒一杯家万里",
+                  "四面边声连角起"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sāi"
+              },
+              "otherInfo": {
+                "content": "__下秋来风景异",
+                "answer": "塞"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yàn"
+              },
+              "otherInfo": {
+                "content": "衡阳__去无留意",
+                "answer": "雁"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎo"
+              },
+              "otherInfo": {
+                "content": "四面边声连__起",
+                "answer": "角"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhàng"
+              },
+              "otherInfo": {
+                "content": "千__里长烟落日孤城闭",
+                "answer": "嶂"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuó"
+              },
+              "otherInfo": {
+                "content": "__酒一杯家万里",
+                "answer": "浊"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lè"
+              },
+              "otherInfo": {
+                "content": "燕然未__归无计",
+                "answer": "勒"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiāng"
+              },
+              "otherInfo": {
+                "content": "__管悠悠霜满地",
+                "answer": "羌"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mèi"
+              },
+              "otherInfo": {
+                "content": "人不__将军白发征夫泪",
+                "answer": "寐"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fà"
+              },
+              "otherInfo": {
+                "content": "人不寐将军白__征夫泪",
+                "answer": "发"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "千嶂里长烟落日孤城__",
+                "answer": "闭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "塞下秋来风景异，______",
+                "answer": "衡阳雁去无留意"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，衡阳雁去无留意",
+                "answer": "塞下秋来风景异"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "四面边声连角起，______",
+                "answer": "千嶂里长烟落日孤城闭"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，千嶂里长烟落日孤城闭",
+                "answer": "四面边声连角起"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浊酒一杯家万里，______",
+                "answer": "燕然未勒归无计"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，燕然未勒归无计",
+                "answer": "浊酒一杯家万里"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "羌管悠悠霜满地，______",
+                "answer": "人不寐将军白发征夫泪"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，人不寐将军白发征夫泪",
+                "answer": "羌管悠悠霜满地"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "塞下秋来风景异，衡阳雁去无留意。______，______",
+                "answer": "四面边声连角起，千嶂里长烟落日孤城闭"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "四面边声连角起，千嶂里长烟落日孤城闭。______，______",
+                "answer": "浊酒一杯家万里，燕然未勒归无计"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浊酒一杯家万里，燕然未勒归无计。______，______",
+                "answer": "羌管悠悠霜满地，人不寐将军白发征夫泪"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浊酒一杯家万里，燕然未勒归无计。______，______",
+                "answer": "羌管悠悠霜满地，人不寐将军白发征夫泪"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千嶂里长烟落日孤城闭",
+                  "人不寐将军白发征夫泪",
+                  "塞下秋来风景异",
+                  "燕然未勒归无计",
+                  "四面边声连角起",
+                  "浊酒一杯家万里",
+                  "衡阳雁去无留意",
+                  "羌管悠悠霜满地"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "羌管悠悠霜满地",
+                  "衡阳雁去无留意",
+                  "燕然未勒归无计",
+                  "塞下秋来风景异",
+                  "人不寐将军白发征夫泪",
+                  "四面边声连角起",
+                  "浊酒一杯家万里",
+                  "千嶂里长烟落日孤城闭"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浊酒一杯家万里",
+                  "千嶂里长烟落日孤城闭",
+                  "人不寐将军白发征夫泪",
+                  "塞下秋来风景异",
+                  "羌管悠悠霜满地",
+                  "衡阳雁去无留意",
+                  "四面边声连角起",
+                  "燕然未勒归无计"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "四面边声连角起",
+                  "羌管悠悠霜满地",
+                  "衡阳雁去无留意",
+                  "燕然未勒归无计",
+                  "塞下秋来风景异",
+                  "人不寐将军白发征夫泪",
+                  "千嶂里长烟落日孤城闭",
+                  "浊酒一杯家万里"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕然未勒归无计",
+                  "塞下秋来风景异",
+                  "人不寐将军白发征夫泪",
+                  "四面边声连角起",
+                  "衡阳雁去无留意",
+                  "浊酒一杯家万里",
+                  "羌管悠悠霜满地",
+                  "千嶂里长烟落日孤城闭"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

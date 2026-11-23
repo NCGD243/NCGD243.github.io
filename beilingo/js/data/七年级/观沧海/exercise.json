@@ -1,0 +1,1887 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng lín jié shí"
+              },
+              "otherInfo": {
+                "line": "东临碣石"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ guān cāng hǎi"
+              },
+              "otherInfo": {
+                "line": "以观沧海"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ hé dàn dàn"
+              },
+              "otherInfo": {
+                "line": "水何澹澹"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān dǎo sǒng zhì"
+              },
+              "otherInfo": {
+                "line": "山岛竦峙"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù mù cóng shēng"
+              },
+              "otherInfo": {
+                "line": "树木丛生"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bǎi cǎo fēng mào"
+              },
+              "otherInfo": {
+                "line": "百草丰茂"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū fēng xiāo sè"
+              },
+              "otherInfo": {
+                "line": "秋风萧瑟"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng bō yǒng qǐ"
+              },
+              "otherInfo": {
+                "line": "洪波涌起"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rì yuè zhī xíng"
+              },
+              "otherInfo": {
+                "line": "日月之行"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ruò chū qí zhōng"
+              },
+              "otherInfo": {
+                "line": "若出其中"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīng hàn càn làn"
+              },
+              "otherInfo": {
+                "line": "星汉灿烂"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ruò chū qí lǐ"
+              },
+              "otherInfo": {
+                "line": "若出其里"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xìng shèn zhì zāi"
+              },
+              "otherInfo": {
+                "line": "幸甚至哉"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gē yǐ yǒng zhì"
+              },
+              "otherInfo": {
+                "line": "歌以咏志"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东临碣石”中“临”的意思是？",
+                "options": [
+                  "到达，登上",
+                  "靠近，面对",
+                  "临时驻扎",
+                  "从高处往下看"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“水何澹澹”中“澹澹”的意思是？",
+                "options": [
+                  "水波荡漾的样子",
+                  "水清见底的样子",
+                  "水流湍急的样子",
+                  "水面平静的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山岛竦峙”中“竦峙”的意思是？",
+                "options": [
+                  "高高地挺立",
+                  "陡峭险峻",
+                  "层层叠叠",
+                  "孤立突出"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“百草丰茂”中“丰茂”的意思是？",
+                "options": [
+                  "丰美茂盛",
+                  "丰收在望",
+                  "繁多杂乱",
+                  "高大挺拔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋风萧瑟”中“萧瑟”的意思是？",
+                "options": [
+                  "形容风吹树木的声音",
+                  "形容秋天气候寒冷",
+                  "形容草木凋零的景象",
+                  "形容人心中的凄凉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“洪波涌起”中“洪波”的意思是？",
+                "options": [
+                  "巨大的波浪",
+                  "洪水泛滥",
+                  "汹涌的暗流",
+                  "宽阔的水面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“星汉灿烂”中“星汉”的意思是？",
+                "options": [
+                  "银河",
+                  "星星和月亮",
+                  "星光",
+                  "天上的星辰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“若出其里”中“若”的意思是？",
+                "options": [
+                  "好像",
+                  "如果",
+                  "你",
+                  "如同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“幸甚至哉”中“幸”的意思是？",
+                "options": [
+                  "幸运",
+                  "庆幸",
+                  "希望",
+                  "幸亏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“歌以咏志”中“咏”的意思是？",
+                "options": [
+                  "吟唱，表达",
+                  "歌颂",
+                  "咏叹",
+                  "写作"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "向东登上碣石山，来观赏大海。",
+                "options": [
+                  "东临碣石，以观沧海",
+                  "水何澹澹，山岛竦峙",
+                  "树木丛生，百草丰茂",
+                  "秋风萧瑟，洪波涌起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“东临碣石，以观沧海”的意思是？",
+                "options": [
+                  "向东登上碣石山，来观赏大海",
+                  "向东靠近碣石山，以便观看沧海",
+                  "从东边来到碣石山，已经看到了大海",
+                  "东边的碣石山，可以望见沧海"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "海水多么荡漾啊，山岛高高地挺立。",
+                "options": [
+                  "水何澹澹，山岛竦峙",
+                  "树木丛生，百草丰茂",
+                  "秋风萧瑟，洪波涌起",
+                  "日月之行，若出其中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水何澹澹，山岛竦峙”的意思是？",
+                "options": [
+                  "海水多么荡漾啊，山岛高高地挺立",
+                  "海水为何这样平静，山岛独自耸立",
+                  "水面泛起微波，山岛显得低矮",
+                  "水波荡漾不定，山岛摇摇欲坠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "树木一丛丛地生长，百草丰美茂盛。",
+                "options": [
+                  "树木丛生，百草丰茂",
+                  "水何澹澹，山岛竦峙",
+                  "秋风萧瑟，洪波涌起",
+                  "星汉灿烂，若出其里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“树木丛生，百草丰茂”的意思是？",
+                "options": [
+                  "树木一丛丛地生长，百草丰美茂盛",
+                  "树木杂乱地生长，百草高低不齐",
+                  "树木聚集在一起，百草刚刚发芽",
+                  "树木丛密遮天，百草枯萎凋零"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "秋风萧瑟地吹着，巨大的波浪涌起。",
+                "options": [
+                  "秋风萧瑟，洪波涌起",
+                  "树木丛生，百草丰茂",
+                  "日月之行，若出其中",
+                  "幸甚至哉，歌以咏志"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“秋风萧瑟，洪波涌起”的意思是？",
+                "options": [
+                  "秋风萧瑟地吹着，巨大的波浪涌起",
+                  "秋风凄凉地吹过，洪水漫上岸来",
+                  "秋风阵阵作响，波涛暗暗涌动",
+                  "秋风寒冷刺骨，海浪拍打山岛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太阳和月亮的运行，好像从大海中升起。",
+                "options": [
+                  "日月之行，若出其中",
+                  "星汉灿烂，若出其里",
+                  "秋风萧瑟，洪波涌起",
+                  "水何澹澹，山岛竦峙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“日月之行，若出其中”的意思是？",
+                "options": [
+                  "太阳和月亮的运行，好像从大海中升起",
+                  "太阳和月亮行走的轨迹，确实经过海中",
+                  "太阳和月亮交替运行，从海面落下",
+                  "太阳和月亮的光辉，好像被大海吞没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "银河星光灿烂，好像从大海里升起。",
+                "options": [
+                  "星汉灿烂，若出其里",
+                  "日月之行，若出其中",
+                  "秋风萧瑟，洪波涌起",
+                  "树木丛生，百草丰茂"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“星汉灿烂，若出其里”的意思是？",
+                "options": [
+                  "银河星光灿烂，好像从大海里升起",
+                  "银河光辉耀眼，确实映照在海面",
+                  "星星和银河明亮，好像沉入海底",
+                  "银河星光闪烁，仿佛从海面消失"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "幸运得很，好极了。",
+                "options": [
+                  "幸甚至哉，歌以咏志",
+                  "日月之行，若出其中",
+                  "星汉灿烂，若出其里",
+                  "秋风萧瑟，洪波涌起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“幸甚至哉，歌以咏志”的意思是？",
+                "options": [
+                  "幸运得很，好极了，用诗歌来抒发志向",
+                  "有幸来到这里，用歌声记下志向",
+                  "庆幸到了这里，以歌唱表达心志",
+                  "幸运之极，唱起歌来咏叹志向"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以观沧海",
+                  "东临碣石"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山岛竦峙",
+                  "水何澹澹"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百草丰茂",
+                  "树木丛生"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "洪波涌起",
+                  "秋风萧瑟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若出其中",
+                  "日月之行"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若出其里",
+                  "星汉灿烂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "歌以咏志",
+                  "幸甚至哉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山岛竦峙",
+                  "以观沧海",
+                  "水何澹澹",
+                  "东临碣石"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百草丰茂",
+                  "水何澹澹",
+                  "树木丛生",
+                  "山岛竦峙"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "洪波涌起",
+                  "树木丛生",
+                  "秋风萧瑟",
+                  "百草丰茂"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若出其中",
+                  "秋风萧瑟",
+                  "日月之行",
+                  "洪波涌起"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "若出其里",
+                  "日月之行",
+                  "星汉灿烂",
+                  "若出其中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "歌以咏志",
+                  "星汉灿烂",
+                  "幸甚至哉",
+                  "若出其里"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋风萧瑟",
+                  "水何澹澹",
+                  "若出其中",
+                  "东临碣石",
+                  "星汉灿烂",
+                  "山岛竦峙",
+                  "日月之行",
+                  "以观沧海",
+                  "洪波涌起",
+                  "树木丛生",
+                  "若出其里",
+                  "百草丰茂",
+                  "歌以咏志",
+                  "幸甚至哉"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jié"
+              },
+              "otherInfo": {
+                "content": "东临__石",
+                "answer": "碣"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cāng"
+              },
+              "otherInfo": {
+                "content": "以观__海",
+                "answer": "沧"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàn"
+              },
+              "otherInfo": {
+                "content": "水何__澹",
+                "answer": "澹"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǒng"
+              },
+              "otherInfo": {
+                "content": "山岛__峙",
+                "answer": "竦"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cóng"
+              },
+              "otherInfo": {
+                "content": "树木__生",
+                "answer": "丛"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mào"
+              },
+              "otherInfo": {
+                "content": "百草丰__",
+                "answer": "茂"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "秋风__瑟",
+                "answer": "萧"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒng"
+              },
+              "otherInfo": {
+                "content": "洪波__起",
+                "answer": "涌"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xíng"
+              },
+              "otherInfo": {
+                "content": "日月之__",
+                "answer": "行"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "càn"
+              },
+              "otherInfo": {
+                "content": "星汉__烂",
+                "answer": "灿"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "东临碣石，______",
+                "answer": "以观沧海"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，以观沧海",
+                "answer": "东临碣石"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水何澹澹，______",
+                "answer": "山岛竦峙"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，山岛竦峙",
+                "answer": "水何澹澹"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "树木丛生，______",
+                "answer": "百草丰茂"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，百草丰茂",
+                "answer": "树木丛生"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "秋风萧瑟，______",
+                "answer": "洪波涌起"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，洪波涌起",
+                "answer": "秋风萧瑟"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日月之行，______",
+                "answer": "若出其中"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，若出其中",
+                "answer": "日月之行"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "星汉灿烂，______",
+                "answer": "若出其里"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，若出其里",
+                "answer": "星汉灿烂"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "幸甚至哉，______",
+                "answer": "歌以咏志"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，歌以咏志",
+                "answer": "幸甚至哉"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "东临碣石，以观沧海。______，______",
+                "answer": "水何澹澹，山岛竦峙"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "水何澹澹，山岛竦峙。______，______",
+                "answer": "树木丛生，百草丰茂"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "树木丛生，百草丰茂。______，______",
+                "answer": "秋风萧瑟，洪波涌起"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "秋风萧瑟，洪波涌起。______，______",
+                "answer": "日月之行，若出其中"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "日月之行，若出其中。______，______",
+                "answer": "星汉灿烂，若出其里"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "星汉灿烂，若出其里。______，______",
+                "answer": "幸甚至哉，歌以咏志"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "星汉灿烂，若出其里。______，______",
+                "answer": "幸甚至哉，歌以咏志"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水何澹澹",
+                  "东临碣石",
+                  "洪波涌起",
+                  "日月之行",
+                  "山岛竦峙",
+                  "以观沧海",
+                  "若出其中",
+                  "秋风萧瑟",
+                  "树木丛生",
+                  "星汉灿烂",
+                  "百草丰茂",
+                  "若出其里",
+                  "幸甚至哉",
+                  "歌以咏志"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "以观沧海",
+                  "秋风萧瑟",
+                  "若出其里",
+                  "水何澹澹",
+                  "日月之行",
+                  "东临碣石",
+                  "百草丰茂",
+                  "山岛竦峙",
+                  "洪波涌起",
+                  "星汉灿烂",
+                  "树木丛生",
+                  "若出其中",
+                  "歌以咏志",
+                  "幸甚至哉"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树木丛生",
+                  "若出其中",
+                  "幸甚至哉",
+                  "水何澹澹",
+                  "以观沧海",
+                  "秋风萧瑟",
+                  "东临碣石",
+                  "星汉灿烂",
+                  "山岛竦峙",
+                  "百草丰茂",
+                  "日月之行",
+                  "洪波涌起",
+                  "若出其里",
+                  "歌以咏志"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "星汉灿烂",
+                  "山岛竦峙",
+                  "歌以咏志",
+                  "东临碣石",
+                  "洪波涌起",
+                  "若出其里",
+                  "水何澹澹",
+                  "树木丛生",
+                  "以观沧海",
+                  "日月之行",
+                  "秋风萧瑟",
+                  "百草丰茂",
+                  "幸甚至哉",
+                  "若出其中"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "百草丰茂",
+                  "日月之行",
+                  "东临碣石",
+                  "若出其里",
+                  "秋风萧瑟",
+                  "山岛竦峙",
+                  "幸甚至哉",
+                  "水何澹澹",
+                  "星汉灿烂",
+                  "以观沧海",
+                  "树木丛生",
+                  "洪波涌起",
+                  "若出其中",
+                  "歌以咏志"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,967 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì xiǎo cì tóu shēn cǎo lǐ"
+              },
+              "otherInfo": {
+                "line": "自小刺头深草里"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ér jīn jiàn jué chū péng hāo"
+              },
+              "otherInfo": {
+                "line": "而今渐觉出蓬蒿"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí rén bù shí líng yún mù"
+              },
+              "otherInfo": {
+                "line": "时人不识凌云木"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhí dài líng yún shǐ dào gāo"
+              },
+              "otherInfo": {
+                "line": "直待凌云始道高"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“刺头”的意思是？",
+                "options": [
+                  "指草木初生时尖锐如刺的嫩芽",
+                  "指人性格尖锐、难以相处",
+                  "指用针尖刺破头皮",
+                  "指松树针叶扎人的触感"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蓬蒿”的意思是？",
+                "options": [
+                  "蓬草和蒿草，泛指杂草",
+                  "一种高大的乔木",
+                  "蓬松的头发",
+                  "蓬莱仙岛上的蒿草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“渐觉”的意思是？",
+                "options": [
+                  "逐渐感觉到",
+                  "突然惊醒",
+                  "渐渐入睡",
+                  "觉得惭愧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“凌云”的意思是？",
+                "options": [
+                  "高耸入云",
+                  "越过云层飞行",
+                  "云雾缭绕",
+                  "登上云端"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“直待”的意思是？",
+                "options": [
+                  "一直等到",
+                  "径直对待",
+                  "只是等待",
+                  "直接对待"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“始道”的意思是？",
+                "options": [
+                  "才说",
+                  "开始说",
+                  "最初的道路",
+                  "才明白道理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时人”的意思是？",
+                "options": [
+                  "当时的人",
+                  "有时的人",
+                  "时代名人",
+                  "守时的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“出”的意思是？",
+                "options": [
+                  "长出、显露",
+                  "离开",
+                  "产出",
+                  "出现"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“识”的意思是？",
+                "options": [
+                  "认识、识别",
+                  "记住",
+                  "知识",
+                  "见识"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高”的意思是？",
+                "options": [
+                  "高大",
+                  "高兴",
+                  "高尚",
+                  "高处"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从小长在深草里，头上长着尖尖的嫩芽。",
+                "options": [
+                  "自小刺头深草里",
+                  "而今渐觉出蓬蒿",
+                  "时人不识凌云木",
+                  "直待凌云始道高"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“自小刺头深草里”的意思是？",
+                "options": [
+                  "小松从小在深草中长出尖尖的嫩芽",
+                  "小松从小就被人刺破了头埋在深草里",
+                  "小松从小性格尖锐，藏在深草中",
+                  "小松从小被深草刺伤头部"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "如今渐渐发觉它已从杂草丛中长出来了。",
+                "options": [
+                  "而今渐觉出蓬蒿",
+                  "自小刺头深草里",
+                  "时人不识凌云木",
+                  "直待凌云始道高"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“而今渐觉出蓬蒿”的意思是？",
+                "options": [
+                  "如今渐渐发觉小松已从杂草丛中长出",
+                  "如今才觉得蓬蒿长得比小松高",
+                  "如今渐渐感觉小松被蓬蒿遮住了",
+                  "如今才发觉小松已经枯萎在蓬蒿中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "当时的人不认识这棵将来能高耸入云的树。",
+                "options": [
+                  "时人不识凌云木",
+                  "自小刺头深草里",
+                  "而今渐觉出蓬蒿",
+                  "直待凌云始道高"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“时人不识凌云木”的意思是？",
+                "options": [
+                  "当时的人不认识这棵能高耸入云的树",
+                  "当时的人不认识凌云这个人",
+                  "当时的人不识字的像凌云木一样多",
+                  "当时的人不认识云中的树木"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一直等到它高耸入云，人们才说它高大。",
+                "options": [
+                  "直待凌云始道高",
+                  "自小刺头深草里",
+                  "而今渐觉出蓬蒿",
+                  "时人不识凌云木"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“直待凌云始道高”的意思是？",
+                "options": [
+                  "一直等到小松高耸入云，人们才说它高大",
+                  "一直等到登上云端，才开始说高",
+                  "径直等待凌云的人说它高",
+                  "只是等到云散了才说它高"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "深草里",
+                  "自小刺头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "出蓬蒿",
+                  "而今渐觉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自小刺头深草里",
+                  "而今渐觉出蓬蒿"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直待凌云始道高",
+                  "时人不识凌云木",
+                  "而今渐觉出蓬蒿",
+                  "自小刺头深草里"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cì"
+              },
+              "otherInfo": {
+                "content": "自小__头深草里",
+                "answer": "刺"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hāo"
+              },
+              "otherInfo": {
+                "content": "而今渐觉出蓬__",
+                "answer": "蒿"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "líng"
+              },
+              "otherInfo": {
+                "content": "时人不识__云木",
+                "answer": "凌"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài"
+              },
+              "otherInfo": {
+                "content": "直__凌云始道高",
+                "answer": "待"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēn"
+              },
+              "otherInfo": {
+                "content": "自小刺头__草里",
+                "answer": "深"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "而今渐__出蓬蒿",
+                "answer": "觉"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí"
+              },
+              "otherInfo": {
+                "content": "__人不识凌云木",
+                "answer": "时"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo"
+              },
+              "otherInfo": {
+                "content": "直待凌云始道__",
+                "answer": "高"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì"
+              },
+              "otherInfo": {
+                "content": "__小刺头深草里",
+                "answer": "自"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "时人不识凌云__",
+                "answer": "木"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自小刺头深草里，______",
+                "answer": "而今渐觉出蓬蒿"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，而今渐觉出蓬蒿",
+                "answer": "自小刺头深草里"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "时人不识凌云木，______",
+                "answer": "直待凌云始道高"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，直待凌云始道高",
+                "answer": "时人不识凌云木"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自小刺头深草里，而今渐觉出蓬蒿。______，______",
+                "answer": "时人不识凌云木，直待凌云始道高"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自小刺头深草里，而今渐觉出蓬蒿。______，______",
+                "answer": "时人不识凌云木，直待凌云始道高"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直待凌云始道高",
+                  "自小刺头深草里",
+                  "时人不识凌云木",
+                  "而今渐觉出蓬蒿"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "而今渐觉出蓬蒿",
+                  "时人不识凌云木",
+                  "自小刺头深草里",
+                  "直待凌云始道高"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时人不识凌云木",
+                  "直待凌云始道高",
+                  "自小刺头深草里",
+                  "而今渐觉出蓬蒿"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自小刺头深草里",
+                  "直待凌云始道高",
+                  "而今渐觉出蓬蒿",
+                  "时人不识凌云木"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直待凌云始道高",
+                  "而今渐觉出蓬蒿",
+                  "自小刺头深草里",
+                  "时人不识凌云木"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín zhú qiū guāng lěng huà píng"
+              },
+              "otherInfo": {
+                "line": "银烛秋光冷画屏"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng luó xiǎo shàn pū liú yíng"
+              },
+              "otherInfo": {
+                "line": "轻罗小扇扑流萤"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiān jiē yè sè liáng rú shuǐ"
+              },
+              "otherInfo": {
+                "line": "天阶夜色凉如水"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wò kàn qiān niú zhī nǚ xīng"
+              },
+              "otherInfo": {
+                "line": "卧看牵牛织女星"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“银烛”的意思是？",
+                "options": [
+                  "银色的蜡烛",
+                  "银制的灯台",
+                  "明亮的月光",
+                  "白色的烛光"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“画屏”的意思是？",
+                "options": [
+                  "绘有图画的屏风",
+                  "画着屏风的画",
+                  "屏住呼吸观看",
+                  "遮挡视线的屏障"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“轻罗”的意思是？",
+                "options": [
+                  "轻薄的丝织品",
+                  "轻便的竹篮",
+                  "轻盈的舞步",
+                  "轻快的罗盘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“小扇”的意思是？",
+                "options": [
+                  "小巧的扇子",
+                  "小小的门扇",
+                  "轻微的扇动",
+                  "年幼的仆人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“流萤”的意思是？",
+                "options": [
+                  "飞动的萤火虫",
+                  "流动的荧光",
+                  "流泪的萤火",
+                  "流星般的光点"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天阶”的意思是？",
+                "options": [
+                  "皇宫中的石阶",
+                  "天上的台阶",
+                  "天边的阶梯",
+                  "登天的路径"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夜色”的意思是？",
+                "options": [
+                  "夜晚的景色",
+                  "黑色的衣服",
+                  "夜里的脸色",
+                  "暗淡的光线"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“卧看”的意思是？",
+                "options": [
+                  "躺着观看",
+                  "卧倒细看",
+                  "趴着偷看",
+                  "睡梦中看见"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“牵牛”在诗中指？",
+                "options": [
+                  "牵牛星",
+                  "牵牛花",
+                  "牵牛的人",
+                  "牵着的牛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“织女”在诗中指？",
+                "options": [
+                  "织女星",
+                  "织布的女子",
+                  "织女的传说",
+                  "编织的女孩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "秋夜银白的烛光映着清冷的画屏。",
+                "options": [
+                  "银烛秋光冷画屏",
+                  "轻罗小扇扑流萤",
+                  "天阶夜色凉如水",
+                  "卧看牵牛织女星"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“银烛秋光冷画屏”的意思是？",
+                "options": [
+                  "秋夜烛光映照画屏，透出清冷之意",
+                  "银色蜡烛照亮了秋天的画屏",
+                  "秋光中画屏被银烛烧冷了",
+                  "画屏上的秋景显得银白清冷"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "拿着轻薄的丝扇扑打飞动的萤火虫。",
+                "options": [
+                  "轻罗小扇扑流萤",
+                  "银烛秋光冷画屏",
+                  "天阶夜色凉如水",
+                  "卧看牵牛织女星"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“轻罗小扇扑流萤”的意思是？",
+                "options": [
+                  "用轻薄的丝扇扑打飞动的萤火虫",
+                  "轻轻罗列小扇子来扑萤火",
+                  "轻罗小扇被流萤扑打",
+                  "扇动小扇让萤火虫流动"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "皇宫石阶上的夜色清凉如水。",
+                "options": [
+                  "天阶夜色凉如水",
+                  "银烛秋光冷画屏",
+                  "轻罗小扇扑流萤",
+                  "卧看牵牛织女星"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“天阶夜色凉如水”的意思是？",
+                "options": [
+                  "皇宫石阶上夜色清凉如水",
+                  "天上的台阶夜里凉得像水",
+                  "天边夜色如水般流下石阶",
+                  "夜色中天阶被水冲凉了"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "躺着观看牵牛星和织女星。",
+                "options": [
+                  "卧看牵牛织女星",
+                  "银烛秋光冷画屏",
+                  "轻罗小扇扑流萤",
+                  "天阶夜色凉如水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“卧看牵牛织女星”的意思是？",
+                "options": [
+                  "躺着观看牵牛星和织女星",
+                  "卧倒细看牵牛织女的故事",
+                  "睡梦中看见牵牛和织女",
+                  "趴着数牵牛星和织女星"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻罗小扇扑流萤",
+                  "银烛秋光冷画屏"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卧看牵牛织女星",
+                  "天阶夜色凉如水"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天阶夜色凉如水",
+                  "轻罗小扇扑流萤",
+                  "银烛秋光冷画屏",
+                  "卧看牵牛织女星"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卧看牵牛织女星",
+                  "银烛秋光冷画屏",
+                  "天阶夜色凉如水",
+                  "轻罗小扇扑流萤"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú"
+              },
+              "otherInfo": {
+                "content": "银__秋光冷画屏",
+                "answer": "烛"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yíng"
+              },
+              "otherInfo": {
+                "content": "轻罗小扇扑流__",
+                "answer": "萤"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiē"
+              },
+              "otherInfo": {
+                "content": "天__夜色凉如水",
+                "answer": "阶"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wò"
+              },
+              "otherInfo": {
+                "content": "__看牵牛织女星",
+                "answer": "卧"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "银烛秋光冷画__",
+                "answer": "屏"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luó"
+              },
+              "otherInfo": {
+                "content": "轻__小扇扑流萤",
+                "answer": "罗"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liáng"
+              },
+              "otherInfo": {
+                "content": "天阶夜色__如水",
+                "answer": "凉"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān"
+              },
+              "otherInfo": {
+                "content": "卧看__牛织女星",
+                "answer": "牵"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shàn"
+              },
+              "otherInfo": {
+                "content": "轻罗小__扑流萤",
+                "answer": "扇"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī"
+              },
+              "otherInfo": {
+                "content": "卧看牵牛__女星",
+                "answer": "织"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "银烛秋光冷画屏，______",
+                "answer": "轻罗小扇扑流萤"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，轻罗小扇扑流萤",
+                "answer": "银烛秋光冷画屏"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "天阶夜色凉如水，______",
+                "answer": "卧看牵牛织女星"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，卧看牵牛织女星",
+                "answer": "天阶夜色凉如水"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "银烛秋光冷画屏，轻罗小扇扑流萤。______，______",
+                "answer": "天阶夜色凉如水，卧看牵牛织女星"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "银烛秋光冷画屏，轻罗小扇扑流萤。______，______",
+                "answer": "天阶夜色凉如水，卧看牵牛织女星"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "卧看牵牛织女星",
+                  "银烛秋光冷画屏",
+                  "天阶夜色凉如水",
+                  "轻罗小扇扑流萤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻罗小扇扑流萤",
+                  "天阶夜色凉如水",
+                  "银烛秋光冷画屏",
+                  "卧看牵牛织女星"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天阶夜色凉如水",
+                  "银烛秋光冷画屏",
+                  "卧看牵牛织女星",
+                  "轻罗小扇扑流萤"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "银烛秋光冷画屏",
+                  "卧看牵牛织女星",
+                  "轻罗小扇扑流萤",
+                  "天阶夜色凉如水"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "轻罗小扇扑流萤",
+                  "卧看牵牛织女星",
+                  "银烛秋光冷画屏",
+                  "天阶夜色凉如水"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

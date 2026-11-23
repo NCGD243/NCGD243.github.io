@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bào zhú shēng zhōng yī suì chú"
+              },
+              "otherInfo": {
+                "line": "爆竹声中一岁除"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chūn fēng sòng nuǎn rù tú sū"
+              },
+              "otherInfo": {
+                "line": "春风送暖入屠苏"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān mén wàn hù tóng tóng rì"
+              },
+              "otherInfo": {
+                "line": "千门万户曈曈日"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǒng bǎ xīn táo huàn jiù fú"
+              },
+              "otherInfo": {
+                "line": "总把新桃换旧符"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“爆竹”的意思是？",
+                "options": [
+                  "用火药制成的爆炸物",
+                  "烧竹子发出的爆裂声",
+                  "一种节日食品",
+                  "一种乐器"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一岁”的意思是？",
+                "options": [
+                  "一年",
+                  "一岁年龄",
+                  "一次",
+                  "一辈子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“除”的意思是？",
+                "options": [
+                  "除去",
+                  "过去",
+                  "台阶",
+                  "任命"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“屠苏”的意思是？",
+                "options": [
+                  "一种草",
+                  "一种酒",
+                  "一种房屋",
+                  "一种习俗"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“曈曈”的意思是？",
+                "options": [
+                  "明亮的样子",
+                  "昏暗的样子",
+                  "温暖的样子",
+                  "朦胧的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃”的意思是？",
+                "options": [
+                  "桃树",
+                  "桃花",
+                  "桃符",
+                  "桃子"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“新桃”的意思是？",
+                "options": [
+                  "新的桃符",
+                  "新的桃子",
+                  "新的桃树",
+                  "新的桃花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“旧符”的意思是？",
+                "options": [
+                  "旧的符号",
+                  "旧的桃符",
+                  "旧的符咒",
+                  "旧的桃树"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“送暖”的意思是？",
+                "options": [
+                  "送来温暖",
+                  "送走温暖",
+                  "赠送暖物",
+                  "感到温暖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“千门万户”的意思是？",
+                "options": [
+                  "一千扇门一万户人家",
+                  "形容门户众多",
+                  "形容门很大",
+                  "形容房屋很多"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在爆竹声中旧的一年过去了。",
+                "options": [
+                  "爆竹声中一岁除",
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日",
+                  "总把新桃换旧符"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“爆竹声中一岁除”的意思是？",
+                "options": [
+                  "在爆竹声中送走旧年",
+                  "在爆竹声中迎来新年",
+                  "在爆竹声中庆祝生日",
+                  "在爆竹声中驱赶鬼神"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "春风送来温暖，人们饮屠苏酒。",
+                "options": [
+                  "爆竹声中一岁除",
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日",
+                  "总把新桃换旧符"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“春风送暖入屠苏”的意思是？",
+                "options": [
+                  "春风送暖，人们畅饮屠苏酒",
+                  "春风送暖，屠苏草发芽",
+                  "春风送暖，屠苏房屋变暖",
+                  "春风送暖，屠苏河水解冻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "千家万户都沐浴在明亮的阳光里。",
+                "options": [
+                  "爆竹声中一岁除",
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日",
+                  "总把新桃换旧符"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“千门万户曈曈日”的意思是？",
+                "options": [
+                  "千家万户迎着初升的太阳",
+                  "千家万户点起明亮的灯",
+                  "千家万户在阳光下劳作",
+                  "千家万户在阳光下欢聚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "总是用新的桃符换下旧的桃符。",
+                "options": [
+                  "爆竹声中一岁除",
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日",
+                  "总把新桃换旧符"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“总把新桃换旧符”的意思是？",
+                "options": [
+                  "人们用新桃符替换旧桃符",
+                  "人们把新桃子换成旧桃子",
+                  "人们把新桃树换成旧桃树",
+                  "人们把新桃花换成旧桃花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春风送暖入屠苏",
+                  "爆竹声中一岁除"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "总把新桃换旧符",
+                  "千门万户曈曈日"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春风送暖入屠苏",
+                  "爆竹声中一岁除",
+                  "千门万户曈曈日",
+                  "总把新桃换旧符"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "总把新桃换旧符",
+                  "爆竹声中一岁除",
+                  "千门万户曈曈日",
+                  "春风送暖入屠苏"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bào"
+              },
+              "otherInfo": {
+                "content": "__竹声中一岁除",
+                "answer": "爆"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tú"
+              },
+              "otherInfo": {
+                "content": "春风送暖入__苏",
+                "answer": "屠"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tóng"
+              },
+              "otherInfo": {
+                "content": "千门万户__曈日",
+                "answer": "曈"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú"
+              },
+              "otherInfo": {
+                "content": "总把新桃换旧__",
+                "answer": "符"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhú"
+              },
+              "otherInfo": {
+                "content": "爆__声中一岁除",
+                "answer": "竹"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sū"
+              },
+              "otherInfo": {
+                "content": "春风送暖入屠__",
+                "answer": "苏"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hù"
+              },
+              "otherInfo": {
+                "content": "千门万__曈曈日",
+                "answer": "户"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo"
+              },
+              "otherInfo": {
+                "content": "总把新__换旧符",
+                "answer": "桃"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì"
+              },
+              "otherInfo": {
+                "content": "爆竹声中一__除",
+                "answer": "岁"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huàn"
+              },
+              "otherInfo": {
+                "content": "总把新桃__旧符",
+                "answer": "换"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "爆竹声中一岁除，______。",
+                "answer": "春风送暖入屠苏"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，春风送暖入屠苏。",
+                "answer": "爆竹声中一岁除"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "千门万户曈曈日，______。",
+                "answer": "总把新桃换旧符"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，总把新桃换旧符。",
+                "answer": "千门万户曈曈日"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "爆竹声中一岁除，春风送暖入屠苏。______，______。",
+                "answer": "千门万户曈曈日，总把新桃换旧符"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "春风送暖入屠苏，千门万户曈曈日。______，______。",
+                "answer": "千门万户曈曈日，总把新桃换旧符"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "总把新桃换旧符",
+                  "爆竹声中一岁除",
+                  "千门万户曈曈日",
+                  "春风送暖入屠苏"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日",
+                  "爆竹声中一岁除",
+                  "总把新桃换旧符"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "千门万户曈曈日",
+                  "总把新桃换旧符",
+                  "春风送暖入屠苏",
+                  "爆竹声中一岁除"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "爆竹声中一岁除",
+                  "总把新桃换旧符",
+                  "春风送暖入屠苏",
+                  "千门万户曈曈日"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "总把新桃换旧符",
+                  "春风送暖入屠苏",
+                  "爆竹声中一岁除",
+                  "千门万户曈曈日"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1219 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò xiào nóng jiā là jiǔ hún"
+              },
+              "otherInfo": {
+                "line": "莫笑农家腊酒浑"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng nián liú kè zú jī tún"
+              },
+              "otherInfo": {
+                "line": "丰年留客足鸡豚"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān chóng shuǐ fù yí wú lù"
+              },
+              "otherInfo": {
+                "line": "山重水复疑无路"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǔ àn huā míng yòu yī cūn"
+              },
+              "otherInfo": {
+                "line": "柳暗花明又一村"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo gǔ zhuī suí chūn shè jìn"
+              },
+              "otherInfo": {
+                "line": "箫鼓追随春社近"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī guān jiǎn pǔ gǔ fēng cún"
+              },
+              "otherInfo": {
+                "line": "衣冠简朴古风存"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cóng jīn ruò xǔ xián chéng yuè"
+              },
+              "otherInfo": {
+                "line": "从今若许闲乘月"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǔ zhàng wú shí yè kòu mén"
+              },
+              "otherInfo": {
+                "line": "拄杖无时夜叩门"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“莫笑农家腊酒浑”中“浑”的意思是？",
+                "options": [
+                  "浑浊",
+                  "全部",
+                  "简直",
+                  "混合"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“丰年留客足鸡豚”中“豚”的意思是？",
+                "options": [
+                  "小猪",
+                  "河豚",
+                  "海豚",
+                  "牲畜圈"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山重水复疑无路”中“疑”的意思是？",
+                "options": [
+                  "怀疑",
+                  "好像",
+                  "疑问",
+                  "迟疑"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“柳暗花明又一村”中“暗”的意思是？",
+                "options": [
+                  "昏暗",
+                  "隐蔽",
+                  "柳色深绿",
+                  "暗淡"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“箫鼓追随春社近”中“社”的意思是？",
+                "options": [
+                  "土地神",
+                  "社日",
+                  "社会",
+                  "社团"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“衣冠简朴古风存”中“存”的意思是？",
+                "options": [
+                  "存在",
+                  "保存",
+                  "思念",
+                  "留存"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“从今若许闲乘月”中“许”的意思是？",
+                "options": [
+                  "答应",
+                  "许多",
+                  "也许",
+                  "处所"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“拄杖无时夜叩门”中“无时”的意思是？",
+                "options": [
+                  "没有时间",
+                  "随时",
+                  "不时",
+                  "无定时"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不要笑话农家腊月酿的酒浑浊。",
+                "options": [
+                  "莫笑农家腊酒浑",
+                  "丰年留客足鸡豚",
+                  "箫鼓追随春社近",
+                  "拄杖无时夜叩门"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“丰年留客足鸡豚”的意思是？",
+                "options": [
+                  "丰收年景留客吃饭，鸡肉猪肉很充足",
+                  "荒年待客只能杀鸡宰猪",
+                  "丰年时客人自带鸡豚来拜访",
+                  "农家养鸡养猪以备荒年"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "山峦重叠，溪水回环，正怀疑无路可走。",
+                "options": [
+                  "山重水复疑无路",
+                  "柳暗花明又一村",
+                  "衣冠简朴古风存",
+                  "从今若许闲乘月"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“柳暗花明又一村”的意思是？",
+                "options": [
+                  "柳色深绿、花色红艳，眼前又出现一个村庄",
+                  "柳树枯萎、花朵凋零，又见到一个荒村",
+                  "柳荫昏暗、花影迷离，误入一个村庄",
+                  "柳絮飘飞、花枝明亮，又路过一个村庄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "箫声鼓声追随春社日的临近。",
+                "options": [
+                  "箫鼓追随春社近",
+                  "莫笑农家腊酒浑",
+                  "山重水复疑无路",
+                  "拄杖无时夜叩门"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“衣冠简朴古风存”的意思是？",
+                "options": [
+                  "村民衣着简朴，保留着古朴的风尚",
+                  "村民衣冠整齐，保存着古代的礼器",
+                  "村民穿戴华丽，延续着古老的习俗",
+                  "村民衣衫破旧，遗存着古时的贫困"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从今以后如果允许我趁着月色闲游。",
+                "options": [
+                  "从今若许闲乘月",
+                  "柳暗花明又一村",
+                  "丰年留客足鸡豚",
+                  "箫鼓追随春社近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“拄杖无时夜叩门”的意思是？",
+                "options": [
+                  "拄着拐杖随时会在夜里敲门来访",
+                  "拄着拐杖没有时间在夜里敲门",
+                  "拄着拐杖不知何时才能夜里敲门",
+                  "拄着拐杖不要在夜里敲门打扰"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "丰年留客足鸡豚",
+                  "莫笑农家腊酒浑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "柳暗花明又一村",
+                  "山重水复疑无路"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "衣冠简朴古风存",
+                  "箫鼓追随春社近"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "拄杖无时夜叩门",
+                  "从今若许闲乘月"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山重水复疑无路",
+                  "丰年留客足鸡豚",
+                  "莫笑农家腊酒浑",
+                  "柳暗花明又一村"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "箫鼓追随春社近",
+                  "柳暗花明又一村",
+                  "山重水复疑无路",
+                  "衣冠简朴古风存"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "从今若许闲乘月",
+                  "衣冠简朴古风存",
+                  "箫鼓追随春社近",
+                  "拄杖无时夜叩门"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "柳暗花明又一村",
+                  "箫鼓追随春社近",
+                  "莫笑农家腊酒浑",
+                  "拄杖无时夜叩门",
+                  "山重水复疑无路",
+                  "丰年留客足鸡豚",
+                  "从今若许闲乘月",
+                  "衣冠简朴古风存"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hún"
+              },
+              "otherInfo": {
+                "content": "莫笑农家腊酒__",
+                "answer": "浑"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tún"
+              },
+              "otherInfo": {
+                "content": "丰年留客足鸡__",
+                "answer": "豚"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "山重水复__无路",
+                "answer": "疑"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǔ"
+              },
+              "otherInfo": {
+                "content": "__暗花明又一村",
+                "answer": "柳"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāo"
+              },
+              "otherInfo": {
+                "content": "__鼓追随春社近",
+                "answer": "箫"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎn"
+              },
+              "otherInfo": {
+                "content": "衣冠__朴古风存",
+                "answer": "简"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "从今若许闲__月",
+                "answer": "乘"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǔ"
+              },
+              "otherInfo": {
+                "content": "__杖无时夜叩门",
+                "answer": "拄"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "莫笑农家腊酒浑，______",
+                "answer": "丰年留客足鸡豚"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，丰年留客足鸡豚",
+                "answer": "莫笑农家腊酒浑"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山重水复疑无路，______",
+                "answer": "柳暗花明又一村"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，柳暗花明又一村",
+                "answer": "山重水复疑无路"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "箫鼓追随春社近，______",
+                "answer": "衣冠简朴古风存"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，衣冠简朴古风存",
+                "answer": "箫鼓追随春社近"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "从今若许闲乘月，______",
+                "answer": "拄杖无时夜叩门"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，拄杖无时夜叩门",
+                "answer": "从今若许闲乘月"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "莫笑农家腊酒浑，丰年留客足鸡豚。______，______",
+                "answer": "山重水复疑无路，柳暗花明又一村"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山重水复疑无路，柳暗花明又一村。______，______",
+                "answer": "箫鼓追随春社近，衣冠简朴古风存"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "箫鼓追随春社近，衣冠简朴古风存。______，______",
+                "answer": "从今若许闲乘月，拄杖无时夜叩门"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "箫鼓追随春社近，衣冠简朴古风存。______，______",
+                "answer": "从今若许闲乘月，拄杖无时夜叩门"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "柳暗花明又一村",
+                  "莫笑农家腊酒浑",
+                  "箫鼓追随春社近",
+                  "山重水复疑无路",
+                  "拄杖无时夜叩门",
+                  "丰年留客足鸡豚",
+                  "从今若许闲乘月",
+                  "衣冠简朴古风存"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "丰年留客足鸡豚",
+                  "山重水复疑无路",
+                  "衣冠简朴古风存",
+                  "莫笑农家腊酒浑",
+                  "从今若许闲乘月",
+                  "柳暗花明又一村",
+                  "箫鼓追随春社近",
+                  "拄杖无时夜叩门"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "箫鼓追随春社近",
+                  "莫笑农家腊酒浑",
+                  "拄杖无时夜叩门",
+                  "柳暗花明又一村",
+                  "丰年留客足鸡豚",
+                  "从今若许闲乘月",
+                  "山重水复疑无路",
+                  "衣冠简朴古风存"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山重水复疑无路",
+                  "衣冠简朴古风存",
+                  "莫笑农家腊酒浑",
+                  "从今若许闲乘月",
+                  "柳暗花明又一村",
+                  "箫鼓追随春社近",
+                  "丰年留客足鸡豚",
+                  "拄杖无时夜叩门"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "从今若许闲乘月",
+                  "丰年留客足鸡豚",
+                  "衣冠简朴古风存",
+                  "莫笑农家腊酒浑",
+                  "拄杖无时夜叩门",
+                  "山重水复疑无路",
+                  "箫鼓追随春社近",
+                  "柳暗花明又一村"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

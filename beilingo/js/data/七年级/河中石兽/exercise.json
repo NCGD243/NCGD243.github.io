@@ -1,0 +1,3348 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cāng zhōu nán yī sì lín hé gān"
+              },
+              "otherInfo": {
+                "line": "沧州南一寺临河干"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān mén pǐ yú hé èr shí shòu bìng chén yān"
+              },
+              "otherInfo": {
+                "line": "山门圮于河，二石兽并沉焉"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè shí yú nián sēng mù jīn chóng xiū"
+              },
+              "otherInfo": {
+                "line": "阅十余年，僧募金重修"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiú èr shí shòu yú shuǐ zhōng jìng bù kě dé"
+              },
+              "otherInfo": {
+                "line": "求二石兽于水中，竟不可得"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǐ wéi shùn liú xià yǐ"
+              },
+              "otherInfo": {
+                "line": "以为顺流下矣"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhào shù xiǎo zhōu yè tiě bà xún shí yú lǐ wú jì"
+              },
+              "otherInfo": {
+                "line": "棹数小舟，曳铁钯，寻十余里无迹"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī jiǎng xué jiā shè zhàng sì zhōng wén zhī xiào yuē"
+              },
+              "otherInfo": {
+                "line": "一讲学家设帐寺中，闻之笑曰"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ěr bèi bù néng jiū wù lǐ fēi mù tiě qǐ néng wéi zhǎng bào xié qù"
+              },
+              "otherInfo": {
+                "line": "尔辈不能究物理，非木杮，岂能为暴涨携去"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǎi shí xìng jiān zhòng fēi shā xìng sōng fú"
+              },
+              "otherInfo": {
+                "line": "乃石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān yú shā shàng jiàn chén jiàn shēn ěr"
+              },
+              "otherInfo": {
+                "line": "湮于沙上，渐沉渐深耳"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yán hé qiú zhī bù yì diān hū"
+              },
+              "otherInfo": {
+                "line": "沿河求之，不亦颠乎"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhòng fú wéi què lùn"
+              },
+              "otherInfo": {
+                "line": "众服为确论"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī lǎo hé bīng wén zhī yòu xiào yuē"
+              },
+              "otherInfo": {
+                "line": "一老河兵闻之，又笑曰"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fán hé zhōng shí shòu dāng qiú zhī yú shàng liú"
+              },
+              "otherInfo": {
+                "line": "凡河中失石，当求之于上流"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gài shí xìng jiān zhòng shā xìng sōng fú"
+              },
+              "otherInfo": {
+                "line": "盖石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuǐ bù néng chōng shí qí fǎn jī zhī lì"
+              },
+              "otherInfo": {
+                "line": "水不能冲石，其反激之力"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì yú shí xià yíng shuǐ chù niè shā wéi kǎn xué"
+              },
+              "otherInfo": {
+                "line": "必于石下迎水处啮沙为坎穴"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn jī jiàn shēn zhì shí zhī bàn"
+              },
+              "otherInfo": {
+                "line": "渐激渐深，至石之半"
+              }
+            },
+            {
+              "id": "s1l1q19",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí bì dǎo zhì kǎn xué zhōng"
+              },
+              "otherInfo": {
+                "line": "石必倒掷坎穴中"
+              }
+            },
+            {
+              "id": "s1l1q20",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rú shì zài niè shí yòu zài zhuǎn"
+              },
+              "otherInfo": {
+                "line": "如是再啮，石又再转"
+              }
+            },
+            {
+              "id": "s1l1q21",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuǎn zhuǎn bù yǐ suì fǎn sù liú nì shàng yǐ"
+              },
+              "otherInfo": {
+                "line": "转转不已，遂反溯流逆上矣"
+              }
+            },
+            {
+              "id": "s1l1q22",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiú zhī xià liú gù diān qiú zhī dì zhōng bù gèng diān hū"
+              },
+              "otherInfo": {
+                "line": "求之下流，固颠；求之地中，不更颠乎"
+              }
+            },
+            {
+              "id": "s1l1q23",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rú qí yán guǒ dé yú shù lǐ wài"
+              },
+              "otherInfo": {
+                "line": "如其言，果得于数里外"
+              }
+            },
+            {
+              "id": "s1l1q24",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rán zé tiān xià zhī shì dàn zhī qí yī bù zhī qí èr zhě duō yǐ"
+              },
+              "otherInfo": {
+                "line": "然则天下之事，但知其一，不知其二者多矣"
+              }
+            },
+            {
+              "id": "s1l1q25",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě jù lǐ yì duàn yú"
+              },
+              "otherInfo": {
+                "line": "可据理臆断欤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河干”的意思是？",
+                "options": [
+                  "河岸",
+                  "河水",
+                  "河床",
+                  "河堤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“圮”的意思是？",
+                "options": [
+                  "倒塌",
+                  "淹没",
+                  "冲走",
+                  "堵塞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“阅”的意思是？",
+                "options": [
+                  "经历",
+                  "阅读",
+                  "检阅",
+                  "查看"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“棹”的意思是？",
+                "options": [
+                  "划船",
+                  "船桨",
+                  "竹筏",
+                  "撑篙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“物理”的意思是？",
+                "options": [
+                  "事物的道理",
+                  "物理学科",
+                  "物品的纹理",
+                  "万物的表象"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“湮”的意思是？",
+                "options": [
+                  "埋没",
+                  "淹没",
+                  "消失",
+                  "沉没"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“颠”的意思是？",
+                "options": [
+                  "颠倒，错乱",
+                  "疯狂",
+                  "跌倒",
+                  "顶端"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“啮”的意思是？",
+                "options": [
+                  "咬，这里指冲刷",
+                  "啃食",
+                  "侵蚀",
+                  "吞噬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“臆断”的意思是？",
+                "options": [
+                  "主观判断",
+                  "凭空猜测",
+                  "随意决断",
+                  "武断结论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“但”的意思是？",
+                "options": [
+                  "只",
+                  "但是",
+                  "仅仅",
+                  "不过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "沧州南边有一座寺庙靠近河岸。",
+                "options": [
+                  "沧州南一寺临河干",
+                  "山门圮于河，二石兽并沉焉",
+                  "阅十余年，僧募金重修",
+                  "求二石兽于水中，竟不可得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山门圮于河，二石兽并沉焉”的意思是？",
+                "options": [
+                  "寺庙的外门倒塌到河里，两只石兽一起沉入水中",
+                  "寺庙的山门被河水冲毁，两只石兽被水冲走",
+                  "寺庙的大门建在河边，两只石兽并排立在水中",
+                  "寺庙的山门倒塌了，两只石兽一起被埋进沙里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "过了十多年，僧人募集钱财重新修建寺庙。",
+                "options": [
+                  "阅十余年，僧募金重修",
+                  "求二石兽于水中，竟不可得",
+                  "以为顺流下矣",
+                  "棹数小舟，曳铁钯，寻十余里无迹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“求二石兽于水中，竟不可得”的意思是？",
+                "options": [
+                  "在水中寻找两只石兽，最终没有找到",
+                  "到水中打捞两只石兽，竟然捞到了",
+                  "寻找两只石兽的下落，始终没有消息",
+                  "向水中投石问路，最终一无所获"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "认为石兽顺着水流往下游去了。",
+                "options": [
+                  "以为顺流下矣",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "尔辈不能究物理"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“棹数小舟，曳铁钯，寻十余里无迹”的意思是？",
+                "options": [
+                  "划着几只小船，拖着铁钯，寻找了十多里也没有踪迹",
+                  "划着几只小船，拿着铁钯，在十多里外找到了痕迹",
+                  "摇着几只小船，拖着铁耙，寻找了十多里才发现石兽",
+                  "撑着几只小船，带着铁锹，沿岸找了十多里毫无收获"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一位讲学家在寺庙中设馆教书，听说这件事后笑着说。",
+                "options": [
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "尔辈不能究物理",
+                  "乃石性坚重，沙性松浮",
+                  "众服为确论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“尔辈不能究物理”的意思是？",
+                "options": [
+                  "你们这些人不能推究事物的道理",
+                  "你们这些人不懂得物理知识",
+                  "你们这些人不能探究石兽的去向",
+                  "你们这些人不明白其中的缘由"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "石头的性质坚硬沉重，沙子的性质松散轻浮。",
+                "options": [
+                  "乃石性坚重，沙性松浮",
+                  "湮于沙上，渐沉渐深耳",
+                  "沿河求之，不亦颠乎",
+                  "众服为确论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“湮于沙上，渐沉渐深耳”的意思是？",
+                "options": [
+                  "石兽埋没在沙上，越沉越深罢了",
+                  "石兽被沙淹没，渐渐沉到水底",
+                  "石兽陷进沙里，越来越深了",
+                  "石兽被沙埋住，逐渐下沉变深"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "顺着河流寻找石兽，不是弄颠倒了吗？",
+                "options": [
+                  "沿河求之，不亦颠乎",
+                  "众服为确论",
+                  "一老河兵闻之，又笑曰",
+                  "凡河中失石，当求之于上流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“众服为确论”的意思是？",
+                "options": [
+                  "大家信服，认为这是确切的论断",
+                  "众人佩服讲学家的口才",
+                  "大家服从讲学家的安排",
+                  "众人认为这是确定的结论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一位老河兵听说了这件事，又笑着说。",
+                "options": [
+                  "一老河兵闻之，又笑曰",
+                  "凡河中失石，当求之于上流",
+                  "盖石性坚重，沙性松浮",
+                  "水不能冲石，其反激之力"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“凡河中失石，当求之于上流”的意思是？",
+                "options": [
+                  "凡是河中丢失的石兽，应当到上游去寻找",
+                  "凡是掉进河里的石头，都要到上游去打捞",
+                  "凡是在河中丢失的东西，都应向上游寻找",
+                  "凡是河中的石头，都应当从上游求取"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "石头的性质坚硬沉重，沙子的性质松散轻浮。",
+                "options": [
+                  "盖石性坚重，沙性松浮",
+                  "水不能冲石，其反激之力",
+                  "必于石下迎水处啮沙为坎穴",
+                  "渐激渐深，至石之半"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“水不能冲石，其反激之力”的意思是？",
+                "options": [
+                  "水不能冲走石头，它反冲的力量",
+                  "水冲不动石头，就绕道而流",
+                  "水不能冲击石头，只能反激",
+                  "水冲不走石头，反而被石头挡住"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一定在石头下面迎水的地方冲刷沙子形成坑洞。",
+                "options": [
+                  "必于石下迎水处啮沙为坎穴",
+                  "渐激渐深，至石之半",
+                  "石必倒掷坎穴中",
+                  "如是再啮，石又再转"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“渐激渐深，至石之半”的意思是？",
+                "options": [
+                  "越冲越深，冲到石头的一半",
+                  "渐渐激起水花，深到石头的一半",
+                  "水势渐急渐深，淹到石头的一半",
+                  "逐渐冲刷加深，直到石头的一半"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "石头必定倒转掉进坑洞里。",
+                "options": [
+                  "石必倒掷坎穴中",
+                  "如是再啮，石又再转",
+                  "转转不已，遂反溯流逆上矣",
+                  "求之下流，固颠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“如是再啮，石又再转”的意思是？",
+                "options": [
+                  "像这样再冲刷，石头又再转动",
+                  "如果再次冲刷，石头又转一次",
+                  "如此反复冲刷，石头又转回来",
+                  "这样再咬石头，石头又转过去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "转个不停，于是反而逆流而上了。",
+                "options": [
+                  "转转不已，遂反溯流逆上矣",
+                  "求之下流，固颠",
+                  "求之地中，不更颠乎",
+                  "如其言，果得于数里外"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“求之下流，固颠；求之地中，不更颠乎”的意思是？",
+                "options": [
+                  "到下游寻找，固然颠倒；到地中寻找，不是更颠倒吗",
+                  "到下游寻找，本来就不对；到地中寻找，更加不对",
+                  "到下游寻找，确实荒唐；到地中寻找，岂不更荒唐",
+                  "到下游寻找，固然错了；到地中寻找，不也错了吗"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "按照他的话，果然在几里外找到了石兽。",
+                "options": [
+                  "如其言，果得于数里外",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "可据理臆断欤",
+                  "众服为确论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“然则天下之事，但知其一，不知其二者多矣”的意思是？",
+                "options": [
+                  "既然这样，那么天下的事情，只知其一、不知其二的情况太多了",
+                  "然而天下的事情，只知道一方面，不知道另一方面的人很多",
+                  "既然如此，天下的事理，只懂一点、不懂另一点的人不少",
+                  "所以天下的事情，只知其一不知其二的现象很多"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q25",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "怎么能根据常理主观判断呢？",
+                "options": [
+                  "可据理臆断欤",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "如其言，果得于数里外",
+                  "求之下流，固颠"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q26",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可据理臆断欤”的意思是？",
+                "options": [
+                  "怎么能根据常理主观判断呢",
+                  "可以依据道理随意推断吗",
+                  "难道能凭常理凭空断定吗",
+                  "怎么可以依据常理妄加判断呢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山门圮于河，二石兽并沉焉",
+                  "沧州南一寺临河干"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "求二石兽于水中，竟不可得",
+                  "阅十余年，僧募金重修"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "以为顺流下矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尔辈不能究物理",
+                  "一讲学家设帐寺中，闻之笑曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "湮于沙上，渐沉渐深耳",
+                  "乃石性坚重，沙性松浮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "众服为确论",
+                  "沿河求之，不亦颠乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "凡河中失石，当求之于上流",
+                  "一老河兵闻之，又笑曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "水不能冲石，其反激之力",
+                  "盖石性坚重，沙性松浮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "渐激渐深，至石之半",
+                  "必于石下迎水处啮沙为坎穴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "石必倒掷坎穴中",
+                  "如是再啮，石又再转"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "转转不已，遂反溯流逆上矣",
+                  "求之下流，固颠"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "求之地中，不更颠乎",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可据理臆断欤",
+                  "然则天下之事，但知其一，不知其二者多矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山门圮于河，二石兽并沉焉",
+                  "沧州南一寺临河干",
+                  "求二石兽于水中，竟不可得",
+                  "阅十余年，僧募金重修"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "以为顺流下矣",
+                  "尔辈不能究物理",
+                  "一讲学家设帐寺中，闻之笑曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "湮于沙上，渐沉渐深耳",
+                  "乃石性坚重，沙性松浮",
+                  "众服为确论",
+                  "沿河求之，不亦颠乎"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "凡河中失石，当求之于上流",
+                  "一老河兵闻之，又笑曰",
+                  "水不能冲石，其反激之力",
+                  "盖石性坚重，沙性松浮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "渐激渐深，至石之半",
+                  "必于石下迎水处啮沙为坎穴",
+                  "石必倒掷坎穴中",
+                  "如是再啮，石又再转"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "转转不已，遂反溯流逆上矣",
+                  "求之下流，固颠",
+                  "求之地中，不更颠乎",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可据理臆断欤",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "山门圮于河，二石兽并沉焉",
+                  "沧州南一寺临河干",
+                  "求二石兽于水中，竟不可得",
+                  "阅十余年，僧募金重修",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "以为顺流下矣",
+                  "尔辈不能究物理",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "湮于沙上，渐沉渐深耳",
+                  "乃石性坚重，沙性松浮",
+                  "众服为确论",
+                  "沿河求之，不亦颠乎",
+                  "凡河中失石，当求之于上流",
+                  "一老河兵闻之，又笑曰",
+                  "水不能冲石，其反激之力",
+                  "盖石性坚重，沙性松浮",
+                  "渐激渐深，至石之半",
+                  "必于石下迎水处啮沙为坎穴",
+                  "石必倒掷坎穴中",
+                  "如是再啮，石又再转",
+                  "转转不已，遂反溯流逆上矣",
+                  "求之下流，固颠",
+                  "求之地中，不更颠乎",
+                  "如其言，果得于数里外"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pǐ"
+              },
+              "otherInfo": {
+                "content": "山门__于河，二石兽并沉焉",
+                "answer": "圮"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "阅十余年，僧__金重修",
+                "answer": "募"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhào"
+              },
+              "otherInfo": {
+                "content": "__数小舟，曳铁钯，寻十余里无迹",
+                "answer": "棹"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎng"
+              },
+              "otherInfo": {
+                "content": "一__学家设帐寺中，闻之笑曰",
+                "answer": "讲"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yān"
+              },
+              "otherInfo": {
+                "content": "__于沙上，渐沉渐深耳",
+                "answer": "湮"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "què"
+              },
+              "otherInfo": {
+                "content": "众服为__论",
+                "answer": "确"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bīng"
+              },
+              "otherInfo": {
+                "content": "一老河__闻之，又笑曰",
+                "answer": "兵"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sōng"
+              },
+              "otherInfo": {
+                "content": "盖石性坚重，沙性__浮",
+                "answer": "松"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǎn"
+              },
+              "otherInfo": {
+                "content": "必于石下迎水处啮沙为__穴",
+                "answer": "坎"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "石必倒__坎穴中",
+                "answer": "掷"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "沧州南一寺临河干，______",
+                "answer": "山门圮于河，二石兽并沉焉"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，二石兽并沉焉",
+                "answer": "山门圮于河"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "阅十余年，______",
+                "answer": "僧募金重修"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，僧募金重修",
+                "answer": "阅十余年"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求二石兽于水中，______",
+                "answer": "竟不可得"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，竟不可得",
+                "answer": "求二石兽于水中"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以为顺流下矣，______",
+                "answer": "棹数小舟，曳铁钯，寻十余里无迹"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，棹数小舟，曳铁钯，寻十余里无迹",
+                "answer": "以为顺流下矣"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一讲学家设帐寺中，闻之笑曰：______",
+                "answer": "尔辈不能究物理"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，闻之笑曰：尔辈不能究物理",
+                "answer": "一讲学家设帐寺中"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乃石性坚重，沙性松浮，______",
+                "answer": "湮于沙上，渐沉渐深耳"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，湮于沙上，渐沉渐深耳",
+                "answer": "乃石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "沿河求之，______",
+                "answer": "不亦颠乎"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不亦颠乎",
+                "answer": "沿河求之"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "众服为确论。______，又笑曰",
+                "answer": "一老河兵闻之"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一老河兵闻之，又笑曰",
+                "answer": "众服为确论"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "凡河中失石，______",
+                "answer": "当求之于上流"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，当求之于上流",
+                "answer": "凡河中失石"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "盖石性坚重，沙性松浮，______",
+                "answer": "水不能冲石，其反激之力"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，水不能冲石，其反激之力",
+                "answer": "盖石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "必于石下迎水处啮沙为坎穴，______",
+                "answer": "渐激渐深，至石之半"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，渐激渐深，至石之半",
+                "answer": "必于石下迎水处啮沙为坎穴"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "石必倒掷坎穴中。______，石又再转",
+                "answer": "如是再啮"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，如是再啮，石又再转",
+                "answer": "石必倒掷坎穴中"
+              }
+            },
+            {
+              "id": "s4l1q25",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "转转不已，______",
+                "answer": "遂反溯流逆上矣"
+              }
+            },
+            {
+              "id": "s4l1q26",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，遂反溯流逆上矣",
+                "answer": "转转不已"
+              }
+            },
+            {
+              "id": "s4l1q27",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求之下流，固颠；______",
+                "answer": "求之地中，不更颠乎"
+              }
+            },
+            {
+              "id": "s4l1q28",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，求之地中，不更颠乎",
+                "answer": "求之下流，固颠"
+              }
+            },
+            {
+              "id": "s4l1q29",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如其言，______",
+                "answer": "果得于数里外"
+              }
+            },
+            {
+              "id": "s4l1q30",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，果得于数里外",
+                "answer": "如其言"
+              }
+            },
+            {
+              "id": "s4l1q31",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "然则天下之事，______",
+                "answer": "但知其一，不知其二者多矣"
+              }
+            },
+            {
+              "id": "s4l1q32",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，但知其一，不知其二者多矣",
+                "answer": "然则天下之事"
+              }
+            },
+            {
+              "id": "s4l1q33",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可据理臆断欤？______",
+                "answer": "（无下句）"
+              }
+            },
+            {
+              "id": "s4l1q34",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，可据理臆断欤",
+                "answer": "然则天下之事，但知其一，不知其二者多矣"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "沧州南一寺临河干，山门圮于河，二石兽并沉焉。______",
+                "answer": "阅十余年，僧募金重修"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "阅十余年，僧募金重修。______",
+                "answer": "求二石兽于水中，竟不可得"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求二石兽于水中，竟不可得。______",
+                "answer": "以为顺流下矣"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "以为顺流下矣，棹数小舟，曳铁钯，寻十余里无迹。______",
+                "answer": "一讲学家设帐寺中，闻之笑曰"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一讲学家设帐寺中，闻之笑曰：尔辈不能究物理。______",
+                "answer": "乃石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "乃石性坚重，沙性松浮，湮于沙上，渐沉渐深耳。______",
+                "answer": "沿河求之，不亦颠乎"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "沿河求之，不亦颠乎？______",
+                "answer": "众服为确论"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "众服为确论。一老河兵闻之，又笑曰：______",
+                "answer": "凡河中失石，当求之于上流"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "凡河中失石，当求之于上流。______",
+                "answer": "盖石性坚重，沙性松浮"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "盖石性坚重，沙性松浮，水不能冲石，其反激之力。______",
+                "answer": "必于石下迎水处啮沙为坎穴"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "必于石下迎水处啮沙为坎穴，渐激渐深，至石之半。______",
+                "answer": "石必倒掷坎穴中"
+              }
+            },
+            {
+              "id": "s4l2q12",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "石必倒掷坎穴中，如是再啮，石又再转。______",
+                "answer": "转转不已，遂反溯流逆上矣"
+              }
+            },
+            {
+              "id": "s4l2q13",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "转转不已，遂反溯流逆上矣。______",
+                "answer": "求之下流，固颠"
+              }
+            },
+            {
+              "id": "s4l2q14",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "求之下流，固颠；求之地中，不更颠乎？______",
+                "answer": "如其言，果得于数里外"
+              }
+            },
+            {
+              "id": "s4l2q15",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "如其言，果得于数里外。______",
+                "answer": "然则天下之事，但知其一，不知其二者多矣"
+              }
+            },
+            {
+              "id": "s4l2q16",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "然则天下之事，但知其一，不知其二者多矣。______",
+                "answer": "可据理臆断欤"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "求二石兽于水中，竟不可得",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "转转不已，遂反溯流逆上矣",
+                  "山门圮于河，二石兽并沉焉",
+                  "盖石性坚重，沙性松浮",
+                  "众服为确论",
+                  "可据理臆断欤",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "求之下流，固颠",
+                  "必于石下迎水处啮沙为坎穴",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "沧州南一寺临河干",
+                  "湮于沙上，渐沉渐深耳",
+                  "石必倒掷坎穴中",
+                  "阅十余年，僧募金重修",
+                  "尔辈不能究物理",
+                  "渐激渐深，至石之半",
+                  "一老河兵闻之，又笑曰",
+                  "以为顺流下矣",
+                  "水不能冲石，其反激之力",
+                  "求之地中，不更颠乎",
+                  "乃石性坚重，沙性松浮",
+                  "沿河求之，不亦颠乎",
+                  "凡河中失石，当求之于上流",
+                  "如是再啮，石又再转",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "阅十余年，僧募金重修",
+                  "石必倒掷坎穴中",
+                  "求之下流，固颠",
+                  "一老河兵闻之，又笑曰",
+                  "沧州南一寺临河干",
+                  "转转不已，遂反溯流逆上矣",
+                  "尔辈不能究物理",
+                  "可据理臆断欤",
+                  "山门圮于河，二石兽并沉焉",
+                  "渐激渐深，至石之半",
+                  "众服为确论",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "求二石兽于水中，竟不可得",
+                  "盖石性坚重，沙性松浮",
+                  "湮于沙上，渐沉渐深耳",
+                  "以为顺流下矣",
+                  "必于石下迎水处啮沙为坎穴",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "水不能冲石，其反激之力",
+                  "凡河中失石，当求之于上流",
+                  "求之地中，不更颠乎",
+                  "乃石性坚重，沙性松浮",
+                  "沿河求之，不亦颠乎",
+                  "如是再啮，石又再转",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "求之地中，不更颠乎",
+                  "沧州南一寺临河干",
+                  "众服为确论",
+                  "必于石下迎水处啮沙为坎穴",
+                  "山门圮于河，二石兽并沉焉",
+                  "转转不已，遂反溯流逆上矣",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "求二石兽于水中，竟不可得",
+                  "可据理臆断欤",
+                  "阅十余年，僧募金重修",
+                  "盖石性坚重，沙性松浮",
+                  "以为顺流下矣",
+                  "尔辈不能究物理",
+                  "石必倒掷坎穴中",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "湮于沙上，渐沉渐深耳",
+                  "一老河兵闻之，又笑曰",
+                  "渐激渐深，至石之半",
+                  "水不能冲石，其反激之力",
+                  "求之下流，固颠",
+                  "凡河中失石，当求之于上流",
+                  "乃石性坚重，沙性松浮",
+                  "沿河求之，不亦颠乎",
+                  "如是再啮，石又再转",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一老河兵闻之，又笑曰",
+                  "求二石兽于水中，竟不可得",
+                  "沿河求之，不亦颠乎",
+                  "沧州南一寺临河干",
+                  "石必倒掷坎穴中",
+                  "阅十余年，僧募金重修",
+                  "可据理臆断欤",
+                  "山门圮于河，二石兽并沉焉",
+                  "渐激渐深，至石之半",
+                  "众服为确论",
+                  "以为顺流下矣",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "转转不已，遂反溯流逆上矣",
+                  "盖石性坚重，沙性松浮",
+                  "求之地中，不更颠乎",
+                  "湮于沙上，渐沉渐深耳",
+                  "尔辈不能究物理",
+                  "水不能冲石，其反激之力",
+                  "必于石下迎水处啮沙为坎穴",
+                  "求之下流，固颠",
+                  "凡河中失石，当求之于上流",
+                  "乃石性坚重，沙性松浮",
+                  "如是再啮，石又再转",
+                  "如其言，果得于数里外"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "众服为确论",
+                  "渐激渐深，至石之半",
+                  "求二石兽于水中，竟不可得",
+                  "沧州南一寺临河干",
+                  "可据理臆断欤",
+                  "棹数小舟，曳铁钯，寻十余里无迹",
+                  "山门圮于河，二石兽并沉焉",
+                  "转转不已，遂反溯流逆上矣",
+                  "阅十余年，僧募金重修",
+                  "一讲学家设帐寺中，闻之笑曰",
+                  "以为顺流下矣",
+                  "石必倒掷坎穴中",
+                  "尔辈不能究物理",
+                  "然则天下之事，但知其一，不知其二者多矣",
+                  "湮于沙上，渐沉渐深耳",
+                  "一老河兵闻之，又笑曰",
+                  "盖石性坚重，沙性松浮",
+                  "水不能冲石，其反激之力",
+                  "求之下流，固颠",
+                  "必于石下迎水处啮沙为坎穴",
+                  "凡河中失石，当求之于上流",
+                  "乃石性坚重，沙性松浮",
+                  "沿河求之，不亦颠乎",
+                  "求之地中，不更颠乎",
+                  "如是再啮，石又再转",
+                  "如其言，果得于数里外"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

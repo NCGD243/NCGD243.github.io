@@ -1,0 +1,945 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī qǔ xīn cí jiǔ yī bēi"
+              },
+              "otherInfo": {
+                "line": "一曲新词酒一杯"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qù nián tiān qì jiù tíng tái"
+              },
+              "otherInfo": {
+                "line": "去年天气旧亭台"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī yáng xī xià jǐ shí huí"
+              },
+              "otherInfo": {
+                "line": "夕阳西下几时回"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú kě nài hé huā luò qù"
+              },
+              "otherInfo": {
+                "line": "无可奈何花落去"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì céng xiāng shí yàn guī lái"
+              },
+              "otherInfo": {
+                "line": "似曾相识燕归来"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo yuán xiāng jìng dú pái huái"
+              },
+              "otherInfo": {
+                "line": "小园香径独徘徊"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一曲新词酒一杯”中“新词”的意思是？",
+                "options": [
+                  "新填的词",
+                  "新学的歌",
+                  "新买的书",
+                  "新酿的酒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“去年天气旧亭台”中“旧”的意思是？",
+                "options": [
+                  "过去的、原来的",
+                  "破旧的",
+                  "老交情的",
+                  "过时的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“夕阳西下几时回”中“几时”的意思是？",
+                "options": [
+                  "什么时候",
+                  "几次",
+                  "多少时间",
+                  "多久"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无可奈何花落去”中“无可奈何”的意思是？",
+                "options": [
+                  "没有办法，无法挽回",
+                  "没有理由，不知为何",
+                  "没有依靠，孤苦无依",
+                  "没有准备，措手不及"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“似曾相识燕归来”中“似曾相识”的意思是？",
+                "options": [
+                  "好像曾经见过",
+                  "似乎互相认识",
+                  "好像曾经听说",
+                  "似乎十分熟悉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“小园香径独徘徊”中“徘徊”的意思是？",
+                "options": [
+                  "在一个地方来回地走",
+                  "犹豫不决的样子",
+                  "心神不定的状态",
+                  "走走停停地休息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "填一曲新词，饮一杯美酒。",
+                "options": [
+                  "一曲新词酒一杯",
+                  "去年天气旧亭台",
+                  "夕阳西下几时回",
+                  "似曾相识燕归来"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“去年天气旧亭台”的意思是？",
+                "options": [
+                  "天气和亭台都与去年相同，暗含物是人非之感",
+                  "去年在这里建了亭台，今年天气依旧晴好",
+                  "去年的天气很好，旧亭台却已经荒废",
+                  "天气像去年一样，亭台是去年新建的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "夕阳向西落下，什么时候才能回来？",
+                "options": [
+                  "夕阳西下几时回",
+                  "无可奈何花落去",
+                  "小园香径独徘徊",
+                  "一曲新词酒一杯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无可奈何花落去”的意思是？",
+                "options": [
+                  "花儿凋落，人力无法挽回，令人无奈",
+                  "花落之后，人无可奈何地离开",
+                  "没有办法让花儿重新开放",
+                  "无可奈何地看着花儿被人摘去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "好像曾经见过的燕子又飞回来了。",
+                "options": [
+                  "似曾相识燕归来",
+                  "无可奈何花落去",
+                  "去年天气旧亭台",
+                  "小园香径独徘徊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“小园香径独徘徊”的意思是？",
+                "options": [
+                  "在小园的花香小路上独自来回走动",
+                  "在小园里独自徘徊，寻找香草小径",
+                  "小园中香气弥漫，小路曲折难行",
+                  "独自在小园中徘徊，不知路在何方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "酒一杯一曲新词",
+                  "去年天气旧亭台"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "几时回夕阳西下",
+                  "无可奈何花落去"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "燕归来似曾相识",
+                  "小园香径独徘徊"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "去年天气旧亭台",
+                  "一曲新词酒一杯",
+                  "夕阳西下几时回"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无可奈何花落去",
+                  "夕阳西下几时回",
+                  "似曾相识燕归来"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小园香径独徘徊",
+                  "似曾相识燕归来",
+                  "一曲新词酒一杯",
+                  "无可奈何花落去",
+                  "去年天气旧亭台",
+                  "夕阳西下几时回"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cí"
+              },
+              "otherInfo": {
+                "content": "一曲新__酒一杯",
+                "answer": "词"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "去年天气旧__台",
+                "answer": "亭"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "__阳西下几时回",
+                "answer": "夕"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nài"
+              },
+              "otherInfo": {
+                "content": "无可__何花落去",
+                "answer": "奈"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yàn"
+              },
+              "otherInfo": {
+                "content": "似曾相识__归来",
+                "answer": "燕"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pái"
+              },
+              "otherInfo": {
+                "content": "小园香径独__徊",
+                "answer": "徘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一曲新词酒一杯，______。",
+                "answer": "去年天气旧亭台"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，去年天气旧亭台。",
+                "answer": "一曲新词酒一杯"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夕阳西下几时回？______。",
+                "answer": "无可奈何花落去"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无可奈何花落去。",
+                "answer": "夕阳西下几时回"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "似曾相识燕归来，______。",
+                "answer": "小园香径独徘徊"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，小园香径独徘徊。",
+                "answer": "似曾相识燕归来"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一曲新词酒一杯，去年天气旧亭台。______，______。",
+                "answer": "夕阳西下几时回？无可奈何花落去"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "夕阳西下几时回？无可奈何花落去。______，______。",
+                "answer": "似曾相识燕归来，小园香径独徘徊"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "无可奈何花落去，似曾相识燕归来。______，______。",
+                "answer": "小园香径独徘徊"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "似曾相识燕归来",
+                  "一曲新词酒一杯",
+                  "小园香径独徘徊",
+                  "夕阳西下几时回",
+                  "去年天气旧亭台",
+                  "无可奈何花落去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无可奈何花落去",
+                  "去年天气旧亭台",
+                  "小园香径独徘徊",
+                  "一曲新词酒一杯",
+                  "似曾相识燕归来",
+                  "夕阳西下几时回"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夕阳西下几时回",
+                  "小园香径独徘徊",
+                  "一曲新词酒一杯",
+                  "似曾相识燕归来",
+                  "无可奈何花落去",
+                  "去年天气旧亭台"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "去年天气旧亭台",
+                  "似曾相识燕归来",
+                  "一曲新词酒一杯",
+                  "小园香径独徘徊",
+                  "夕阳西下几时回",
+                  "无可奈何花落去"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小园香径独徘徊",
+                  "一曲新词酒一杯",
+                  "无可奈何花落去",
+                  "去年天气旧亭台",
+                  "似曾相识燕归来",
+                  "夕阳西下几时回"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

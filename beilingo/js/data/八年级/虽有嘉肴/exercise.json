@@ -1,0 +1,1626 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī yǒu jiā yáo"
+              },
+              "otherInfo": {
+                "line": "虽有嘉肴"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú shí bù zhī qí zhǐ yě"
+              },
+              "otherInfo": {
+                "line": "弗食，不知其旨也"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suī yǒu zhì dào"
+              },
+              "otherInfo": {
+                "line": "虽有至道"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú xué bù zhī qí shàn yě"
+              },
+              "otherInfo": {
+                "line": "弗学，不知其善也"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì gù xué rán hòu zhī bù zú"
+              },
+              "otherInfo": {
+                "line": "是故学然后知不足"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiào rán hòu zhī kùn"
+              },
+              "otherInfo": {
+                "line": "教然后知困"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī bù zú rán hòu néng zì fǎn yě"
+              },
+              "otherInfo": {
+                "line": "知不足，然后能自反也"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhī kùn rán hòu néng zì qiáng yě"
+              },
+              "otherInfo": {
+                "line": "知困，然后能自强也"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù yuē jiào xué xiāng zhǎng yě"
+              },
+              "otherInfo": {
+                "line": "故曰：教学相长也"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duì mìng yuē xué xué bàn"
+              },
+              "otherInfo": {
+                "line": "《兑命》曰“学学半”"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí cǐ zhī wèi hū"
+              },
+              "otherInfo": {
+                "line": "其此之谓乎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“虽有嘉肴”中“嘉”的意思是？",
+                "options": [
+                  "美好的",
+                  "众多的",
+                  "丰盛的",
+                  "珍贵的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不知其旨也”中“旨”的意思是？",
+                "options": [
+                  "滋味美",
+                  "意图",
+                  "命令",
+                  "宗旨"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“虽有至道”中“至”的意思是？",
+                "options": [
+                  "最好的",
+                  "到达",
+                  "极远",
+                  "周到"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不知其善也”中“善”的意思是？",
+                "options": [
+                  "好处",
+                  "善良",
+                  "擅长",
+                  "友好"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是故学然后知不足”中“是故”的意思是？",
+                "options": [
+                  "因此",
+                  "这是旧的",
+                  "于是故意",
+                  "确实"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“教然后知困”中“困”的意思是？",
+                "options": [
+                  "困惑不通",
+                  "贫困",
+                  "困倦",
+                  "包围"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“然后能自反也”中“自反”的意思是？",
+                "options": [
+                  "自我反省",
+                  "自己返回",
+                  "自动反对",
+                  "自我反复"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“然后能自强也”中“自强”的意思是？",
+                "options": [
+                  "自我勉励",
+                  "身体强壮",
+                  "勉强自己",
+                  "力量强大"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“教学相长也”中“相长”的意思是？",
+                "options": [
+                  "互相促进",
+                  "一起生长",
+                  "彼此年长",
+                  "共同长久"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“学学半”中前一个“学”的意思是？",
+                "options": [
+                  "教导",
+                  "学习",
+                  "模仿",
+                  "觉悟"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使有美味的菜肴，不吃就不知道它滋味美。",
+                "options": [
+                  "虽有嘉肴，弗食，不知其旨也",
+                  "虽有至道，弗学，不知其善也",
+                  "是故学然后知不足，教然后知困",
+                  "知不足，然后能自反也；知困，然后能自强也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“虽有嘉肴，弗食，不知其旨也”的意思是？",
+                "options": [
+                  "以美味菜肴为喻，说明不亲身实践就无从知晓事物的好处",
+                  "说明美味菜肴必须趁热吃才有滋味",
+                  "说明只有厨师才知道菜肴的味道",
+                  "说明嘉肴虽好但不宜多吃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "即使有最好的道理，不学习就不知道它的好处。",
+                "options": [
+                  "虽有至道，弗学，不知其善也",
+                  "虽有嘉肴，弗食，不知其旨也",
+                  "故曰：教学相长也",
+                  "《兑命》曰“学学半”，其此之谓乎"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“虽有至道，弗学，不知其善也”的意思是？",
+                "options": [
+                  "以最好的道理为喻，说明不学习就无从领会它的好处",
+                  "说明道理再高深也无人愿意学习",
+                  "说明学习不如实践重要",
+                  "说明至道只可意会不可言传"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所以学习之后才知道自己的不足，教导之后才知道自己的困惑。",
+                "options": [
+                  "是故学然后知不足，教然后知困",
+                  "知不足，然后能自反也；知困，然后能自强也",
+                  "故曰：教学相长也",
+                  "虽有嘉肴，弗食，不知其旨也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“是故学然后知不足，教然后知困”的意思是？",
+                "options": [
+                  "说明学习与教导能让人发现自身的不足与困惑",
+                  "说明学习越久越觉得知识不够用",
+                  "说明教导别人比学习更重要",
+                  "说明人应当先教后学"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "知道不足，然后能自我反省；知道困惑，然后能自我勉励。",
+                "options": [
+                  "知不足，然后能自反也；知困，然后能自强也",
+                  "是故学然后知不足，教然后知困",
+                  "故曰：教学相长也",
+                  "虽有至道，弗学，不知其善也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“知不足，然后能自反也；知困，然后能自强也”的意思是？",
+                "options": [
+                  "说明发现不足与困惑之后能促使人反省与奋勉",
+                  "说明自反与自强是天生就有的能力",
+                  "说明知足与知困是两种不同的境界",
+                  "说明反省与勉励都离不开他人的督促"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "所以说：教与学是互相推动、互相促进的。",
+                "options": [
+                  "故曰：教学相长也",
+                  "《兑命》曰“学学半”，其此之谓乎",
+                  "是故学然后知不足，教然后知困",
+                  "知不足，然后能自反也；知困，然后能自强也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“故曰：教学相长也”的意思是？",
+                "options": [
+                  "总结上文，点明教与学互相促进的道理",
+                  "说明教师应当不断增长学问",
+                  "说明学生应当向老师学习长处",
+                  "说明教学时间越长效果越好"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "《兑命》说“教人是学习的一半”，大概说的就是这个道理吧。",
+                "options": [
+                  "《兑命》曰“学学半”，其此之谓乎",
+                  "故曰：教学相长也",
+                  "虽有嘉肴，弗食，不知其旨也",
+                  "是故学然后知不足，教然后知困"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“《兑命》曰‘学学半’，其此之谓乎”的意思是？",
+                "options": [
+                  "引《兑命》的话并加以推测，说明教与学互相促进",
+                  "说明《兑命》的作者是孔子",
+                  "说明学习一半靠老师一半靠自己",
+                  "说明“学学半”是《兑命》的篇名"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "弗食，不知其旨也",
+                  "虽有嘉肴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "弗学，不知其善也",
+                  "虽有至道"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "教然后知困",
+                  "是故学然后知不足"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "知困，然后能自强也",
+                  "知不足，然后能自反也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "教学相长也",
+                  "故曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其此之谓乎",
+                  "《兑命》曰“学学半”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "虽有至道",
+                  "弗学，不知其善也",
+                  "虽有嘉肴",
+                  "弗食，不知其旨也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "教然后知困",
+                  "是故学然后知不足",
+                  "知困，然后能自强也",
+                  "知不足，然后能自反也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故曰",
+                  "《兑命》曰“学学半”",
+                  "其此之谓乎",
+                  "教学相长也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "教然后知困",
+                  "虽有嘉肴",
+                  "知不足，然后能自反也",
+                  "故曰",
+                  "弗食，不知其旨也",
+                  "虽有至道",
+                  "《兑命》曰“学学半”",
+                  "是故学然后知不足",
+                  "知困，然后能自强也",
+                  "弗学，不知其善也",
+                  "其此之谓乎",
+                  "教学相长也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形填写",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáo"
+              },
+              "otherInfo": {
+                "content": "虽有嘉__",
+                "answer": "肴"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǐ"
+              },
+              "otherInfo": {
+                "content": "弗食，不知其__也",
+                "answer": "旨"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhì"
+              },
+              "otherInfo": {
+                "content": "虽有__道",
+                "answer": "至"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shàn"
+              },
+              "otherInfo": {
+                "content": "弗学，不知其__也",
+                "answer": "善"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "是__学然后知不足",
+                "answer": "故"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kùn"
+              },
+              "otherInfo": {
+                "content": "教然后知__",
+                "answer": "困"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǎn"
+              },
+              "otherInfo": {
+                "content": "知不足，然后能自__也",
+                "answer": "反"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiáng"
+              },
+              "otherInfo": {
+                "content": "知困，然后能自__也",
+                "answer": "强"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǎng"
+              },
+              "otherInfo": {
+                "content": "故曰：教学相__也",
+                "answer": "长"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duì"
+              },
+              "otherInfo": {
+                "content": "《__命》曰“学学半”",
+                "answer": "兑"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽有嘉肴，______",
+                "answer": "弗食，不知其旨也"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，弗食，不知其旨也",
+                "answer": "虽有嘉肴"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽有至道，______",
+                "answer": "弗学，不知其善也"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，弗学，不知其善也",
+                "answer": "虽有至道"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是故学然后知不足，______",
+                "answer": "教然后知困"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，教然后知困",
+                "answer": "是故学然后知不足"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "知不足，然后能自反也；______",
+                "answer": "知困，然后能自强也"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______；知困，然后能自强也",
+                "answer": "知不足，然后能自反也"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故曰：______",
+                "answer": "教学相长也"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______：教学相长也",
+                "answer": "故曰"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "《兑命》曰“学学半”，______",
+                "answer": "其此之谓乎"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______“学学半”，其此之谓乎",
+                "answer": "《兑命》曰"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽有嘉肴，弗食，不知其旨也。______，______。",
+                "answer": "虽有至道，弗学，不知其善也"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "虽有至道，弗学，不知其善也。______，______。",
+                "answer": "是故学然后知不足，教然后知困"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是故学然后知不足，教然后知困。______，______。",
+                "answer": "知不足，然后能自反也；知困，然后能自强也"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "知不足，然后能自反也；知困，然后能自强也。______：______。",
+                "answer": "故曰：教学相长也"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故曰：教学相长也。______，______。",
+                "answer": "《兑命》曰“学学半”，其此之谓乎"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "教然后知困",
+                  "虽有嘉肴",
+                  "知不足，然后能自反也",
+                  "故曰",
+                  "弗食，不知其旨也",
+                  "虽有至道",
+                  "《兑命》曰“学学半”",
+                  "是故学然后知不足",
+                  "知困，然后能自强也",
+                  "弗学，不知其善也",
+                  "其此之谓乎",
+                  "教学相长也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其此之谓乎",
+                  "知困，然后能自强也",
+                  "虽有嘉肴",
+                  "故曰",
+                  "弗学，不知其善也",
+                  "是故学然后知不足",
+                  "教学相长也",
+                  "弗食，不知其旨也",
+                  "《兑命》曰“学学半”",
+                  "知不足，然后能自反也",
+                  "虽有至道",
+                  "教然后知困"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是故学然后知不足",
+                  "虽有至道",
+                  "其此之谓乎",
+                  "弗食，不知其旨也",
+                  "知不足，然后能自反也",
+                  "故曰",
+                  "教然后知困",
+                  "《兑命》曰“学学半”",
+                  "虽有嘉肴",
+                  "知困，然后能自强也",
+                  "教学相长也",
+                  "弗学，不知其善也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "弗学，不知其善也",
+                  "教学相长也",
+                  "知困，然后能自强也",
+                  "虽有嘉肴",
+                  "其此之谓乎",
+                  "是故学然后知不足",
+                  "弗食，不知其旨也",
+                  "故曰",
+                  "虽有至道",
+                  "教然后知困",
+                  "《兑命》曰“学学半”",
+                  "知不足，然后能自反也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故曰",
+                  "知不足，然后能自反也",
+                  "虽有至道",
+                  "其此之谓乎",
+                  "教然后知困",
+                  "弗食，不知其旨也",
+                  "教学相长也",
+                  "虽有嘉肴",
+                  "知困，然后能自强也",
+                  "《兑命》曰“学学半”",
+                  "弗学，不知其善也",
+                  "是故学然后知不足"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

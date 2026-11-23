@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài zōng fū rú hé"
+              },
+              "otherInfo": {
+                "line": "岱宗夫如何"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí lǔ qīng wèi liǎo"
+              },
+              "otherInfo": {
+                "line": "齐鲁青未了"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zào huà zhōng shén xiù"
+              },
+              "otherInfo": {
+                "line": "造化钟神秀"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yīn yáng gē hūn xiǎo"
+              },
+              "otherInfo": {
+                "line": "阴阳割昏晓"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dàng xiōng shēng céng yún"
+              },
+              "otherInfo": {
+                "line": "荡胸生曾云"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué zì rù guī niǎo"
+              },
+              "otherInfo": {
+                "line": "决眦入归鸟"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huì dāng líng jué dǐng"
+              },
+              "otherInfo": {
+                "line": "会当凌绝顶"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yī lǎn zhòng shān xiǎo"
+              },
+              "otherInfo": {
+                "line": "一览众山小"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“岱宗”的意思是？",
+                "options": [
+                  "泰山的别称",
+                  "道教的宗主",
+                  "岱庙的宗祠",
+                  "东岳的行宫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“未了”的意思是？",
+                "options": [
+                  "没有结束",
+                  "没有明白",
+                  "没有到达",
+                  "没有减少"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“钟”的意思是？",
+                "options": [
+                  "聚集",
+                  "敲击",
+                  "计时",
+                  "钟情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“割”的意思是？",
+                "options": [
+                  "分划",
+                  "收割",
+                  "舍弃",
+                  "切断"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“荡胸”的意思是？",
+                "options": [
+                  "心胸摇荡",
+                  "洗涤胸膛",
+                  "胸怀宽广",
+                  "拍打胸口"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“决眦”的意思是？",
+                "options": [
+                  "睁裂眼眶",
+                  "决断目光",
+                  "闭目远望",
+                  "擦亮眼睛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“会当”的意思是？",
+                "options": [
+                  "终当，终要",
+                  "会面应当",
+                  "恰逢其时",
+                  "应当会合"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“凌”的意思是？",
+                "options": [
+                  "登上",
+                  "欺凌",
+                  "越过",
+                  "靠近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“齐鲁”在诗中指？",
+                "options": [
+                  "泰山南北两地的古称",
+                  "齐国与鲁国的都城",
+                  "山东与河南一带",
+                  "春秋时的两个诸侯"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“神秀”的意思是？",
+                "options": [
+                  "神奇秀丽的景色",
+                  "神灵显圣的祥瑞",
+                  "神仙居住的秀峰",
+                  "精神秀美的气度"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "泰山究竟怎么样呢？它横跨齐鲁，青翠的山色望不到尽头。",
+                "options": [
+                  "岱宗夫如何？齐鲁青未了。",
+                  "造化钟神秀，阴阳割昏晓。",
+                  "荡胸生曾云，决眦入归鸟。",
+                  "会当凌绝顶，一览众山小。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“岱宗夫如何”的意思是？",
+                "options": [
+                  "泰山究竟怎么样呢",
+                  "泰山为何被称为岱宗",
+                  "泰山啊，你是什么",
+                  "泰山究竟有多高呢"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大自然把神奇秀丽的景色都聚集在这里，山南山北明暗不同。",
+                "options": [
+                  "岱宗夫如何？齐鲁青未了。",
+                  "造化钟神秀，阴阳割昏晓。",
+                  "荡胸生曾云，决眦入归鸟。",
+                  "会当凌绝顶，一览众山小。"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“齐鲁青未了”的意思是？",
+                "options": [
+                  "齐鲁大地的青翠山色望不到尽头",
+                  "齐鲁两国的青年还没有到来",
+                  "齐鲁一带的青色还没有褪去",
+                  "齐鲁的青山还没有游览完"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "层层云气升腾，使人心胸摇荡；睁大眼睛远望，归鸟飞入眼帘。",
+                "options": [
+                  "岱宗夫如何？齐鲁青未了。",
+                  "造化钟神秀，阴阳割昏晓。",
+                  "荡胸生曾云，决眦入归鸟。",
+                  "会当凌绝顶，一览众山小。"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“造化钟神秀”的意思是？",
+                "options": [
+                  "大自然把神奇秀丽的景色聚集于此",
+                  "造物主像钟一样神奇秀丽",
+                  "天地造化敲响了神秀的钟声",
+                  "神仙造化出钟灵毓秀之地"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "终要登上泰山最高峰，那时众山都显得渺小了。",
+                "options": [
+                  "岱宗夫如何？齐鲁青未了。",
+                  "造化钟神秀，阴阳割昏晓。",
+                  "荡胸生曾云，决眦入归鸟。",
+                  "会当凌绝顶，一览众山小。"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“阴阳割昏晓”的意思是？",
+                "options": [
+                  "山南山北被分割成明暗两面",
+                  "阴阳两界割断了黄昏与拂晓",
+                  "山北山南割舍了昏晨之景",
+                  "日月交替割出了黄昏与拂晓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "齐鲁青未了",
+                  "岱宗夫如何"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "阴阳割昏晓",
+                  "造化钟神秀"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "决眦入归鸟",
+                  "荡胸生曾云"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一览众山小",
+                  "会当凌绝顶"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "齐鲁青未了",
+                  "阴阳割昏晓",
+                  "岱宗夫如何",
+                  "造化钟神秀"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "决眦入归鸟",
+                  "造化钟神秀",
+                  "荡胸生曾云",
+                  "阴阳割昏晓"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "会当凌绝顶",
+                  "荡胸生曾云",
+                  "一览众山小",
+                  "决眦入归鸟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "决眦入归鸟",
+                  "齐鲁青未了",
+                  "会当凌绝顶",
+                  "造化钟神秀",
+                  "一览众山小",
+                  "岱宗夫如何",
+                  "荡胸生曾云",
+                  "阴阳割昏晓"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài"
+              },
+              "otherInfo": {
+                "content": "__宗夫如何",
+                "answer": "岱"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liǎo"
+              },
+              "otherInfo": {
+                "content": "齐鲁青未__",
+                "answer": "了"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng"
+              },
+              "otherInfo": {
+                "content": "造化__神秀",
+                "answer": "钟"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gē"
+              },
+              "otherInfo": {
+                "content": "阴阳__昏晓",
+                "answer": "割"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "céng"
+              },
+              "otherInfo": {
+                "content": "荡胸生__云",
+                "answer": "曾"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì"
+              },
+              "otherInfo": {
+                "content": "决__入归鸟",
+                "answer": "眦"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "líng"
+              },
+              "otherInfo": {
+                "content": "会当__绝顶",
+                "answer": "凌"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǎn"
+              },
+              "otherInfo": {
+                "content": "一__众山小",
+                "answer": "览"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǔ"
+              },
+              "otherInfo": {
+                "content": "齐__青未了",
+                "answer": "鲁"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiù"
+              },
+              "otherInfo": {
+                "content": "造化钟神__",
+                "answer": "秀"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "岱宗夫如何？______",
+                "answer": "齐鲁青未了"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，齐鲁青未了。",
+                "answer": "岱宗夫如何"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "造化钟神秀，______。",
+                "answer": "阴阳割昏晓"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，阴阳割昏晓。",
+                "answer": "造化钟神秀"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荡胸生曾云，______。",
+                "answer": "决眦入归鸟"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，决眦入归鸟。",
+                "answer": "荡胸生曾云"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "会当凌绝顶，______。",
+                "answer": "一览众山小"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，一览众山小。",
+                "answer": "会当凌绝顶"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "岱宗夫如何？齐鲁青未了。______，______。",
+                "answer": "造化钟神秀，阴阳割昏晓"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "造化钟神秀，阴阳割昏晓。______，______。",
+                "answer": "荡胸生曾云，决眦入归鸟"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荡胸生曾云，决眦入归鸟。______，______。",
+                "answer": "会当凌绝顶，一览众山小"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "荡胸生曾云，决眦入归鸟。______，______。",
+                "answer": "会当凌绝顶，一览众山小"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "决眦入归鸟",
+                  "齐鲁青未了",
+                  "会当凌绝顶",
+                  "造化钟神秀",
+                  "一览众山小",
+                  "岱宗夫如何",
+                  "荡胸生曾云",
+                  "阴阳割昏晓"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "阴阳割昏晓",
+                  "荡胸生曾云",
+                  "岱宗夫如何",
+                  "一览众山小",
+                  "造化钟神秀",
+                  "决眦入归鸟",
+                  "齐鲁青未了",
+                  "会当凌绝顶"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "会当凌绝顶",
+                  "岱宗夫如何",
+                  "决眦入归鸟",
+                  "阴阳割昏晓",
+                  "齐鲁青未了",
+                  "荡胸生曾云",
+                  "一览众山小",
+                  "造化钟神秀"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "造化钟神秀",
+                  "一览众山小",
+                  "齐鲁青未了",
+                  "决眦入归鸟",
+                  "岱宗夫如何",
+                  "会当凌绝顶",
+                  "阴阳割昏晓",
+                  "荡胸生曾云"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "荡胸生曾云",
+                  "会当凌绝顶",
+                  "阴阳割昏晓",
+                  "岱宗夫如何",
+                  "决眦入归鸟",
+                  "造化钟神秀",
+                  "齐鲁青未了",
+                  "一览众山小"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

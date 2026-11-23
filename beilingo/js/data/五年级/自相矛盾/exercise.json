@@ -1,0 +1,1279 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chǔ rén yǒu yù dùn yǔ máo zhě"
+              },
+              "otherInfo": {
+                "line": "楚人有鬻盾与矛者"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù zhī yuē wú dùn zhī jiān wù néng xiàn yě"
+              },
+              "otherInfo": {
+                "line": "誉之曰吾盾之坚物莫能陷也"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yòu yù qí máo yuē wú máo zhī lì yú wù wú bù xiàn yě"
+              },
+              "otherInfo": {
+                "line": "又誉其矛曰吾矛之利于物无不陷也"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huò yuē yǐ zǐ zhī máo xiàn zǐ zhī dùn hé rú"
+              },
+              "otherInfo": {
+                "line": "或曰以子之矛陷子之盾何如"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí rén fú néng yìng yě"
+              },
+              "otherInfo": {
+                "line": "其人弗能应也"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú bù kě xiàn zhī dùn yǔ wú bù xiàn zhī máo bù kě tóng shì ér lì"
+              },
+              "otherInfo": {
+                "line": "夫不可陷之盾与无不陷之矛不可同世而立"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鬻”的意思是？",
+                "options": [
+                  "卖",
+                  "买",
+                  "制作",
+                  "夸耀"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“誉”的意思是？",
+                "options": [
+                  "称赞",
+                  "诋毁",
+                  "怀疑",
+                  "询问"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“坚”的意思是？",
+                "options": [
+                  "坚固",
+                  "尖锐",
+                  "沉重",
+                  "昂贵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“陷”的意思是？",
+                "options": [
+                  "刺穿",
+                  "陷入",
+                  "陷害",
+                  "攻占"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“利”的意思是？",
+                "options": [
+                  "锋利",
+                  "利益",
+                  "顺利",
+                  "锐利"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“或”的意思是？",
+                "options": [
+                  "有人",
+                  "或许",
+                  "或者",
+                  "有时"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“以”的意思是？",
+                "options": [
+                  "用",
+                  "因为",
+                  "认为",
+                  "凭借"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“弗”的意思是？",
+                "options": [
+                  "不",
+                  "没有",
+                  "不能",
+                  "不要"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“应”的意思是？",
+                "options": [
+                  "回答",
+                  "应该",
+                  "答应",
+                  "应对"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“立”的意思是？",
+                "options": [
+                  "存在",
+                  "站立",
+                  "建立",
+                  "树立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "楚国有个卖盾和矛的人。",
+                "options": [
+                  "楚人有鬻盾与矛者",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "或曰以子之矛陷子之盾何如"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“誉之曰吾盾之坚物莫能陷也”的意思是？",
+                "options": [
+                  "他夸耀自己的盾说我的盾坚固没有什么东西能刺穿它",
+                  "他夸耀自己的矛说我的矛锋利没有什么东西刺不穿",
+                  "他询问别人说我的盾坚固能不能被刺穿",
+                  "他感叹说我的盾坚固但我的矛更锋利"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "又夸耀他的矛说我的矛锋利，对于物体没有刺不穿的。",
+                "options": [
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "楚人有鬻盾与矛者",
+                  "其人弗能应也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“又誉其矛曰吾矛之利于物无不陷也”的意思是？",
+                "options": [
+                  "他又夸耀自己的矛说我的矛锋利对于物体没有刺不穿的",
+                  "他又夸耀自己的盾说我的盾坚固没有东西能刺穿",
+                  "他反问别人说我的矛锋利为什么刺不穿东西",
+                  "他解释说我的矛虽然锋利但并非什么都能刺穿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "有人问用你的矛刺你的盾会怎么样。",
+                "options": [
+                  "或曰以子之矛陷子之盾何如",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "其人弗能应也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“或曰以子之矛陷子之盾何如”的意思是？",
+                "options": [
+                  "有人说用你的矛刺你的盾会怎么样",
+                  "有人说你的矛和盾都是假的",
+                  "有人问你的矛和盾卖多少钱",
+                  "有人问你的盾能不能挡住你的矛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "那个人不能回答了。",
+                "options": [
+                  "其人弗能应也",
+                  "或曰以子之矛陷子之盾何如",
+                  "楚人有鬻盾与矛者",
+                  "又誉其矛曰吾矛之利于物无不陷也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“其人弗能应也”的意思是？",
+                "options": [
+                  "那个人不能回答",
+                  "那个人不愿意回答",
+                  "那个人回答错了",
+                  "那个人没有听见"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不能被刺穿的盾和没有东西刺不穿的矛，不能同时存在。",
+                "options": [
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "其人弗能应也",
+                  "或曰以子之矛陷子之盾何如",
+                  "誉之曰吾盾之坚物莫能陷也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“夫不可陷之盾与无不陷之矛不可同世而立”的意思是？",
+                "options": [
+                  "不能被刺穿的盾和没有东西刺不穿的矛不能同时存在",
+                  "不能被刺穿的盾和没有东西刺不穿的矛不能一起卖",
+                  "不能被刺穿的盾和没有东西刺不穿的矛不能互相刺",
+                  "不能被刺穿的盾和没有东西刺不穿的矛不能分开使用"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他夸耀自己的盾说我的盾坚固，没有什么东西能刺穿它。",
+                "options": [
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "楚人有鬻盾与矛者",
+                  "夫不可陷之盾与无不陷之矛不可同世而立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“楚人有鬻盾与矛者”的意思是？",
+                "options": [
+                  "楚国有个卖盾和矛的人",
+                  "楚国有个制作盾和矛的人",
+                  "楚国有个使用盾和矛的人",
+                  "楚国有个收藏盾和矛的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "楚人有鬻盾与矛者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "或曰以子之矛陷子之盾何如"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其人弗能应也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "楚人有鬻盾与矛者",
+                  "或曰以子之矛陷子之盾何如"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其人弗能应也",
+                  "或曰以子之矛陷子之盾何如",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "又誉其矛曰吾矛之利于物无不陷也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其人弗能应也",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "或曰以子之矛陷子之盾何如",
+                  "楚人有鬻盾与矛者",
+                  "又誉其矛曰吾矛之利于物无不陷也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "楚人有__盾与矛者",
+                "answer": "鬻"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "誉之曰吾盾之坚物莫能__也",
+                "answer": "陷"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù"
+              },
+              "otherInfo": {
+                "content": "又__其矛曰吾矛之利于物无不陷也",
+                "answer": "誉"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "又誉其矛曰吾矛之利于物无不__也",
+                "answer": "陷"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huò"
+              },
+              "otherInfo": {
+                "content": "__曰以子之矛陷子之盾何如",
+                "answer": "或"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "或曰以子之矛__子之盾何如",
+                "answer": "陷"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fú"
+              },
+              "otherInfo": {
+                "content": "其人__能应也",
+                "answer": "弗"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "夫不可__之盾与无不陷之矛不可同世而立",
+                "answer": "陷"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "夫不可陷之盾与无不陷之矛不可同世而__",
+                "answer": "立"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "又誉其矛曰吾矛之__于物无不陷也",
+                "answer": "利"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "楚人有鬻盾与矛者，______",
+                "answer": "誉之曰吾盾之坚物莫能陷也"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，誉之曰吾盾之坚物莫能陷也",
+                "answer": "楚人有鬻盾与矛者"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "又誉其矛曰吾矛之利于物无不陷也，______",
+                "answer": "或曰以子之矛陷子之盾何如"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，或曰以子之矛陷子之盾何如",
+                "answer": "又誉其矛曰吾矛之利于物无不陷也"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "或曰以子之矛陷子之盾何如，______",
+                "answer": "其人弗能应也"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，其人弗能应也",
+                "answer": "或曰以子之矛陷子之盾何如"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其人弗能应也，______",
+                "answer": "夫不可陷之盾与无不陷之矛不可同世而立"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夫不可陷之盾与无不陷之矛不可同世而立",
+                "answer": "其人弗能应也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "楚人有鬻盾与矛者，誉之曰吾盾之坚物莫能陷也。______，______",
+                "answer": "又誉其矛曰吾矛之利于物无不陷也，或曰以子之矛陷子之盾何如"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "又誉其矛曰吾矛之利于物无不陷也，或曰以子之矛陷子之盾何如。______，______",
+                "answer": "其人弗能应也，夫不可陷之盾与无不陷之矛不可同世而立"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "或曰以子之矛陷子之盾何如，其人弗能应也。______，______",
+                "answer": "夫不可陷之盾与无不陷之矛不可同世而立"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "其人弗能应也",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "或曰以子之矛陷子之盾何如",
+                  "楚人有鬻盾与矛者",
+                  "又誉其矛曰吾矛之利于物无不陷也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "或曰以子之矛陷子之盾何如",
+                  "楚人有鬻盾与矛者",
+                  "其人弗能应也",
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "誉之曰吾盾之坚物莫能陷也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "楚人有鬻盾与矛者",
+                  "或曰以子之矛陷子之盾何如",
+                  "其人弗能应也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "又誉其矛曰吾矛之利于物无不陷也",
+                  "其人弗能应也",
+                  "楚人有鬻盾与矛者",
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "或曰以子之矛陷子之盾何如"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夫不可陷之盾与无不陷之矛不可同世而立",
+                  "或曰以子之矛陷子之盾何如",
+                  "誉之曰吾盾之坚物莫能陷也",
+                  "其人弗能应也",
+                  "楚人有鬻盾与矛者",
+                  "又誉其矛曰吾矛之利于物无不陷也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

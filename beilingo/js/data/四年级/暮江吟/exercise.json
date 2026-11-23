@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí dào cán yáng pū shuǐ zhōng"
+              },
+              "otherInfo": {
+                "line": "一道残阳铺水中"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bàn jiāng sè sè bàn jiāng hóng"
+              },
+              "otherInfo": {
+                "line": "半江瑟瑟半江红"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kě lián jiǔ yuè chū sān yè"
+              },
+              "otherInfo": {
+                "line": "可怜九月初三夜"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù sì zhēn zhū yuè sì gōng"
+              },
+              "otherInfo": {
+                "line": "露似真珠月似弓"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“残阳”的意思是？",
+                "options": [
+                  "快要落山的太阳",
+                  "残缺不全的太阳",
+                  "被云遮住的太阳",
+                  "清晨初升的太阳"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“铺”的意思是？",
+                "options": [
+                  "铺展、铺洒",
+                  "铺设道路",
+                  "铺盖被褥",
+                  "店铺营业"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“瑟瑟”的意思是？",
+                "options": [
+                  "碧绿色",
+                  "寒冷的风声",
+                  "颤抖的样子",
+                  "细小的波纹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可怜”的意思是？",
+                "options": [
+                  "可爱",
+                  "值得同情",
+                  "贫穷困苦",
+                  "令人惋惜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“九月初三夜”中的“初”的意思是？",
+                "options": [
+                  "刚开始、初旬",
+                  "当初、从前",
+                  "初次见面",
+                  "最初的原因"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“露似真珠”中的“似”的意思是？",
+                "options": [
+                  "像、好像",
+                  "相似之处",
+                  "胜过、超过",
+                  "给予、赠送"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“真珠”的意思是？",
+                "options": [
+                  "珍珠",
+                  "真正的珠子",
+                  "珍贵的宝石",
+                  "圆润的露水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“月似弓”中的“弓”在诗中形容？",
+                "options": [
+                  "弯弯的月亮",
+                  "射箭的武器",
+                  "拉开的弓弦",
+                  "弯曲的树枝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“一道残阳”中的“道”的意思是？",
+                "options": [
+                  "量词，用于光线等",
+                  "道路",
+                  "道理",
+                  "说、讲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“半江红”中的“半”的意思是？",
+                "options": [
+                  "一半",
+                  "半个",
+                  "部分",
+                  "旁边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚时分，一道夕阳的余晖铺洒在江面上。",
+                "options": [
+                  "一道残阳铺水中",
+                  "半江瑟瑟半江红",
+                  "可怜九月初三夜",
+                  "露似真珠月似弓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“一道残阳铺水中”的意思是？",
+                "options": [
+                  "一道夕阳的余晖铺洒在江面上",
+                  "一道残破的城墙倒映在水中",
+                  "一缕清晨的阳光照进江水里",
+                  "一片落叶飘落在江水中央"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "江水一半呈现碧绿色，一半呈现红色。",
+                "options": [
+                  "半江瑟瑟半江红",
+                  "一道残阳铺水中",
+                  "可怜九月初三夜",
+                  "露似真珠月似弓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“半江瑟瑟半江红”的意思是？",
+                "options": [
+                  "江水一半碧绿一半泛红",
+                  "江面一半平静一半波涛",
+                  "江岸一半青草一半红花",
+                  "江上半边晴天半边阴云"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "最可爱的是九月初三这个夜晚。",
+                "options": [
+                  "可怜九月初三夜",
+                  "一道残阳铺水中",
+                  "半江瑟瑟半江红",
+                  "露似真珠月似弓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“可怜九月初三夜”的意思是？",
+                "options": [
+                  "最可爱的是九月初三这个夜晚",
+                  "令人同情的是九月初三的夜晚",
+                  "可惜九月初三的夜色太短暂",
+                  "可怜九月初三夜里无人相伴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "露珠像珍珠一样晶莹，月亮像弯弓一样纤细。",
+                "options": [
+                  "露似真珠月似弓",
+                  "一道残阳铺水中",
+                  "半江瑟瑟半江红",
+                  "可怜九月初三夜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“露似真珠月似弓”的意思是？",
+                "options": [
+                  "露珠像珍珠，月亮像弯弓",
+                  "露水打湿了珍珠和弯弓",
+                  "珍珠般的露水映着弓形月影",
+                  "露珠似珍珠般滚落，月牙如弓般高悬"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半江瑟瑟半江红",
+                  "一道残阳铺水中"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "露似真珠月似弓",
+                  "可怜九月初三夜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可怜九月初三夜",
+                  "半江瑟瑟半江红",
+                  "一道残阳铺水中",
+                  "露似真珠月似弓"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "露似真珠月似弓",
+                  "一道残阳铺水中",
+                  "可怜九月初三夜",
+                  "半江瑟瑟半江红"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pū"
+              },
+              "otherInfo": {
+                "content": "一道残阳__水中",
+                "answer": "铺"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sè"
+              },
+              "otherInfo": {
+                "content": "半江__瑟半江红",
+                "answer": "瑟"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "可__九月初三夜",
+                "answer": "怜"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhū"
+              },
+              "otherInfo": {
+                "content": "露似真__月似弓",
+                "answer": "珠"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōng"
+              },
+              "otherInfo": {
+                "content": "露似真珠月似__",
+                "answer": "弓"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cán"
+              },
+              "otherInfo": {
+                "content": "一道__阳铺水中",
+                "answer": "残"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "半江瑟瑟半江__",
+                "answer": "红"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuè"
+              },
+              "otherInfo": {
+                "content": "可怜九月__三夜",
+                "answer": "初"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù"
+              },
+              "otherInfo": {
+                "content": "__似真珠月似弓",
+                "answer": "露"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yáng"
+              },
+              "otherInfo": {
+                "content": "一道残__铺水中",
+                "answer": "阳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一道残阳铺水中，______",
+                "answer": "半江瑟瑟半江红"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，半江瑟瑟半江红",
+                "answer": "一道残阳铺水中"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "可怜九月初三夜，______",
+                "answer": "露似真珠月似弓"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，露似真珠月似弓",
+                "answer": "可怜九月初三夜"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "一道残阳铺水中，半江瑟瑟半江红。______，______",
+                "answer": "可怜九月初三夜，露似真珠月似弓"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "半江瑟瑟半江红。______，______",
+                "answer": "可怜九月初三夜，露似真珠月似弓"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "露似真珠月似弓",
+                  "半江瑟瑟半江红",
+                  "可怜九月初三夜",
+                  "一道残阳铺水中"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可怜九月初三夜",
+                  "一道残阳铺水中",
+                  "露似真珠月似弓",
+                  "半江瑟瑟半江红"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "半江瑟瑟半江红",
+                  "露似真珠月似弓",
+                  "一道残阳铺水中",
+                  "可怜九月初三夜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "一道残阳铺水中",
+                  "可怜九月初三夜",
+                  "半江瑟瑟半江红",
+                  "露似真珠月似弓"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "露似真珠月似弓",
+                  "可怜九月初三夜",
+                  "一道残阳铺水中",
+                  "半江瑟瑟半江红"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

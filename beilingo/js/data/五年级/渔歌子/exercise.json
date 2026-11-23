@@ -1,0 +1,897 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī sài shān qián bái lù fēi"
+              },
+              "otherInfo": {
+                "line": "西塞山前白鹭飞"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo huā liú shuǐ guì yú féi"
+              },
+              "otherInfo": {
+                "line": "桃花流水鳜鱼肥"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng ruò lì lǜ suō yī"
+              },
+              "otherInfo": {
+                "line": "青箬笠，绿蓑衣"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié fēng xì yǔ bù xū guī"
+              },
+              "otherInfo": {
+                "line": "斜风细雨不须归"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“西塞山”的意思是？",
+                "options": [
+                  "西边的塞外山脉",
+                  "今浙江湖州西南的一座山名",
+                  "西边堵塞的山路",
+                  "西方边塞的关隘"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白鹭”的意思是？",
+                "options": [
+                  "白色的鸭子",
+                  "一种白色的水鸟",
+                  "白色的云朵",
+                  "白色的帆船"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鳜鱼”的意思是？",
+                "options": [
+                  "一种淡水鱼，肉味鲜美",
+                  "一种海中的鲸鱼",
+                  "一种会飞的鱼",
+                  "一种彩色的金鱼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“箬笠”的意思是？",
+                "options": [
+                  "用竹篾编成的斗笠",
+                  "用荷叶做成的帽子",
+                  "用布缝成的头巾",
+                  "用草编成的鞋"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蓑衣”的意思是？",
+                "options": [
+                  "用草或棕编成的雨衣",
+                  "用丝绸做的长袍",
+                  "用羽毛织的披风",
+                  "用树皮做的铠甲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“斜风”的意思是？",
+                "options": [
+                  "猛烈的大风",
+                  "微微倾斜吹来的风",
+                  "旋转的旋风",
+                  "寒冷刺骨的北风"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不须”的意思是？",
+                "options": [
+                  "不需要",
+                  "不等待",
+                  "不答应",
+                  "不必须"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“归”的意思是？",
+                "options": [
+                  "回家",
+                  "归还",
+                  "归属",
+                  "归顺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“桃花流水”的意思是？",
+                "options": [
+                  "桃花瓣飘落水中，江水流动",
+                  "桃花盛开在流水岸边",
+                  "桃花被流水冲走",
+                  "桃花与流水相映"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“细雨”的意思是？",
+                "options": [
+                  "细密的小雨",
+                  "细长的雨丝",
+                  "细细的雨声",
+                  "雨后天晴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "西塞山前白鹭飞翔，桃花盛开，江水上涨，鳜鱼正肥美。",
+                "options": [
+                  "西塞山前白鹭飞，桃花流水鳜鱼肥",
+                  "青箬笠，绿蓑衣，斜风细雨不须归",
+                  "孤舟蓑笠翁，独钓寒江雪",
+                  "竹外桃花三两枝，春江水暖鸭先知"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“西塞山前白鹭飞”的意思是？",
+                "options": [
+                  "西塞山前白鹭在飞翔",
+                  "西塞山前白鹭已飞走",
+                  "西塞山前白鹭落下来",
+                  "西塞山前白鹭在觅食"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "头戴青竹笠，身披绿蓑衣，在斜风细雨中垂钓，不必回家。",
+                "options": [
+                  "青箬笠，绿蓑衣，斜风细雨不须归",
+                  "西塞山前白鹭飞，桃花流水鳜鱼肥",
+                  "孤舟蓑笠翁，独钓寒江雪",
+                  "一蓑一笠一扁舟，一丈丝纶一寸钩"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“桃花流水鳜鱼肥”的意思是？",
+                "options": [
+                  "桃花飘落，江水流动，鳜鱼正肥美",
+                  "桃花盛开，流水潺潺，鳜鱼在游动",
+                  "桃花凋谢，流水干涸，鳜鱼已死",
+                  "桃花夹岸，流水湍急，鳜鱼难钓"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花流水鳜鱼肥",
+                  "西塞山前白鹭飞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斜风细雨不须归",
+                  "青箬笠，绿蓑衣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青箬笠，绿蓑衣",
+                  "桃花流水鳜鱼肥",
+                  "西塞山前白鹭飞",
+                  "斜风细雨不须归"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斜风细雨不须归",
+                  "西塞山前白鹭飞",
+                  "青箬笠，绿蓑衣",
+                  "桃花流水鳜鱼肥"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù"
+              },
+              "otherInfo": {
+                "content": "西塞山前白__飞",
+                "answer": "鹭"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guì"
+              },
+              "otherInfo": {
+                "content": "桃花流水__鱼肥",
+                "answer": "鳜"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ruò"
+              },
+              "otherInfo": {
+                "content": "青__笠，绿蓑衣",
+                "answer": "箬"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suō"
+              },
+              "otherInfo": {
+                "content": "青箬笠，绿__衣",
+                "answer": "蓑"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié"
+              },
+              "otherInfo": {
+                "content": "__风细雨不须归",
+                "answer": "斜"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xū"
+              },
+              "otherInfo": {
+                "content": "斜风细雨不__归",
+                "answer": "须"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sài"
+              },
+              "otherInfo": {
+                "content": "西__山前白鹭飞",
+                "answer": "塞"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "táo"
+              },
+              "otherInfo": {
+                "content": "__花流水鳜鱼肥",
+                "answer": "桃"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lǜ"
+              },
+              "otherInfo": {
+                "content": "青箬笠，__蓑衣",
+                "answer": "绿"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xì"
+              },
+              "otherInfo": {
+                "content": "斜风__雨不须归",
+                "answer": "细"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "西塞山前白鹭飞，______",
+                "answer": "桃花流水鳜鱼肥"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，桃花流水鳜鱼肥",
+                "answer": "西塞山前白鹭飞"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青箬笠，绿蓑衣，______",
+                "answer": "斜风细雨不须归"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，斜风细雨不须归",
+                "answer": "青箬笠，绿蓑衣"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "西塞山前白鹭飞，桃花流水鳜鱼肥。______，______",
+                "answer": "青箬笠，绿蓑衣，斜风细雨不须归"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "青箬笠，绿蓑衣，斜风细雨不须归。______，______",
+                "answer": "青箬笠，绿蓑衣，斜风细雨不须归"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斜风细雨不须归",
+                  "西塞山前白鹭飞",
+                  "青箬笠，绿蓑衣",
+                  "桃花流水鳜鱼肥"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "桃花流水鳜鱼肥",
+                  "青箬笠，绿蓑衣",
+                  "西塞山前白鹭飞",
+                  "斜风细雨不须归"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "青箬笠，绿蓑衣",
+                  "斜风细雨不须归",
+                  "桃花流水鳜鱼肥",
+                  "西塞山前白鹭飞"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西塞山前白鹭飞",
+                  "斜风细雨不须归",
+                  "桃花流水鳜鱼肥",
+                  "青箬笠，绿蓑衣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "斜风细雨不须归",
+                  "桃花流水鳜鱼肥",
+                  "青箬笠，绿蓑衣",
+                  "西塞山前白鹭飞"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

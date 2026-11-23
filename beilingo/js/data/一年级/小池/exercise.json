@@ -1,0 +1,1029 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quán yǎn wú shēng xī xì liú"
+              },
+              "otherInfo": {
+                "line": "泉眼无声惜细流"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù yīn zhào shuǐ ài qíng róu"
+              },
+              "otherInfo": {
+                "line": "树阴照水爱晴柔"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiǎo hé cái lù jiān jiān jiǎo"
+              },
+              "otherInfo": {
+                "line": "小荷才露尖尖角"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǎo yǒu qīng tíng lì shàng tóu"
+              },
+              "otherInfo": {
+                "line": "早有蜻蜓立上头"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“泉眼”的意思是？",
+                "options": [
+                  "泉水的出口",
+                  "泉水的源头",
+                  "泉边的石头",
+                  "泉中的倒影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“惜”的意思是？",
+                "options": [
+                  "爱惜",
+                  "可惜",
+                  "吝惜",
+                  "惋惜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“细流”的意思是？",
+                "options": [
+                  "细细的水流",
+                  "细小的支流",
+                  "细长的溪流",
+                  "细微的暗流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“树阴”的意思是？",
+                "options": [
+                  "树木枝叶在阳光下形成的阴影",
+                  "树木背阴的一面",
+                  "树下的阴凉处",
+                  "树木投在水中的倒影"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“照水”的意思是？",
+                "options": [
+                  "映照在水面上",
+                  "照耀着水面",
+                  "照亮了水底",
+                  "照射到水边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晴柔”的意思是？",
+                "options": [
+                  "晴天里柔和的风光",
+                  "晴天的温柔",
+                  "晴日里的柔光",
+                  "晴空下的柔美"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“小荷”的意思是？",
+                "options": [
+                  "初生的荷叶",
+                  "小小的荷花",
+                  "细小的荷茎",
+                  "小巧的荷塘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“才露”的意思是？",
+                "options": [
+                  "刚刚露出",
+                  "才能露出",
+                  "只露出",
+                  "才刚显露"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尖尖角”的意思是？",
+                "options": [
+                  "荷叶尖端那尖尖的小角",
+                  "尖尖的菱角",
+                  "尖尖的荷角",
+                  "尖尖的叶角"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“立”的意思是？",
+                "options": [
+                  "站立",
+                  "直立",
+                  "立起",
+                  "挺立"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "泉眼悄然无声，像是爱惜那细细的水流。",
+                "options": [
+                  "泉眼无声惜细流",
+                  "树阴照水爱晴柔",
+                  "小荷才露尖尖角",
+                  "早有蜻蜓立上头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“泉眼无声惜细流”的意思是？",
+                "options": [
+                  "泉眼悄然无声，像是爱惜那细细的水流",
+                  "泉眼没有声音，可惜水流太细",
+                  "泉眼不出声，吝惜那细小的流水",
+                  "泉眼静默，惋惜细流匆匆逝去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "树荫映照在水面上，像是喜爱晴天里柔和的风光。",
+                "options": [
+                  "树阴照水爱晴柔",
+                  "泉眼无声惜细流",
+                  "小荷才露尖尖角",
+                  "早有蜻蜓立上头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“树阴照水爱晴柔”的意思是？",
+                "options": [
+                  "树荫映照在水面上，像是喜爱晴天里柔和的风光",
+                  "树荫照着水面，喜爱晴天的温柔",
+                  "树影倒映水中，偏爱晴日的柔光",
+                  "树荫遮住水面，享受晴空的柔美"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "小小的荷叶刚刚露出尖尖的小角。",
+                "options": [
+                  "小荷才露尖尖角",
+                  "泉眼无声惜细流",
+                  "树阴照水爱晴柔",
+                  "早有蜻蜓立上头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“小荷才露尖尖角”的意思是？",
+                "options": [
+                  "小小的荷叶刚刚露出尖尖的小角",
+                  "小小的荷花才露出尖尖的角",
+                  "细小的荷茎刚露出尖尖的顶端",
+                  "小巧的荷塘才露出尖尖的一角"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "早已有蜻蜓停立在那荷叶尖角上。",
+                "options": [
+                  "早有蜻蜓立上头",
+                  "泉眼无声惜细流",
+                  "树阴照水爱晴柔",
+                  "小荷才露尖尖角"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“早有蜻蜓立上头”的意思是？",
+                "options": [
+                  "早已有蜻蜓停立在那荷叶尖角上",
+                  "早就有一只蜻蜓立在荷叶上面",
+                  "清晨就有蜻蜓站立在荷尖上头",
+                  "早有蜻蜓飞落在荷叶的顶端"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "惜细流",
+                  "泉眼无声",
+                  "无声惜细流",
+                  "泉眼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "爱晴柔",
+                  "树阴照水",
+                  "照水爱晴柔",
+                  "树阴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "尖尖角",
+                  "小荷才露",
+                  "才露尖尖角",
+                  "小荷"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "立上头",
+                  "早有蜻蜓",
+                  "蜻蜓立上头",
+                  "早有"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树阴照水爱晴柔",
+                  "泉眼无声惜细流",
+                  "惜细流",
+                  "爱晴柔"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小荷才露尖尖角",
+                  "树阴照水爱晴柔",
+                  "爱晴柔",
+                  "尖尖角"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "早有蜻蜓立上头",
+                  "小荷才露尖尖角",
+                  "尖尖角",
+                  "立上头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "早有蜻蜓立上头",
+                  "树阴照水爱晴柔",
+                  "泉眼无声惜细流",
+                  "小荷才露尖尖角"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "泉眼无声__细流",
+                "answer": "惜"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhào"
+              },
+              "otherInfo": {
+                "content": "树阴__水爱晴柔",
+                "answer": "照"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lù"
+              },
+              "otherInfo": {
+                "content": "小荷才__尖尖角",
+                "answer": "露"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng"
+              },
+              "otherInfo": {
+                "content": "早有蜻__立上头",
+                "answer": "蜓"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quán"
+              },
+              "otherInfo": {
+                "content": "__眼无声惜细流",
+                "answer": "泉"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "róu"
+              },
+              "otherInfo": {
+                "content": "树阴照水爱晴__",
+                "answer": "柔"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān"
+              },
+              "otherInfo": {
+                "content": "小荷才露__尖角",
+                "answer": "尖"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì"
+              },
+              "otherInfo": {
+                "content": "早有蜻蜓__上头",
+                "answer": "立"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liú"
+              },
+              "otherInfo": {
+                "content": "泉眼无声惜细__",
+                "answer": "流"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǎo"
+              },
+              "otherInfo": {
+                "content": "__有蜻蜓立上头",
+                "answer": "早"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "泉眼无声惜细流，______",
+                "answer": "树阴照水爱晴柔"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，树阴照水爱晴柔",
+                "answer": "泉眼无声惜细流"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "小荷才露尖尖角，______",
+                "answer": "早有蜻蜓立上头"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，早有蜻蜓立上头",
+                "answer": "小荷才露尖尖角"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "泉眼无声惜细流，树阴照水爱晴柔。______，______",
+                "answer": "小荷才露尖尖角，早有蜻蜓立上头"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "泉眼无声惜细流，树阴照水爱晴柔。______，______",
+                "answer": "小荷才露尖尖角，早有蜻蜓立上头"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树阴照水爱晴柔",
+                  "早有蜻蜓立上头",
+                  "泉眼无声惜细流",
+                  "小荷才露尖尖角"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "小荷才露尖尖角",
+                  "泉眼无声惜细流",
+                  "早有蜻蜓立上头",
+                  "树阴照水爱晴柔"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "早有蜻蜓立上头",
+                  "树阴照水爱晴柔",
+                  "小荷才露尖尖角",
+                  "泉眼无声惜细流"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "泉眼无声惜细流",
+                  "小荷才露尖尖角",
+                  "树阴照水爱晴柔",
+                  "早有蜻蜓立上头"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树阴照水爱晴柔",
+                  "小荷才露尖尖角",
+                  "泉眼无声惜细流",
+                  "早有蜻蜓立上头"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

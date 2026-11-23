@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú jiā xǐ yàn chí tóu shù"
+              },
+              "otherInfo": {
+                "line": "吾家洗砚池头树"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gè gè huā kāi dàn mò hén"
+              },
+              "otherInfo": {
+                "line": "个个花开淡墨痕"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù yào rén kuā hǎo yán sè"
+              },
+              "otherInfo": {
+                "line": "不要人夸好颜色"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǐ liú qīng qì mǎn qián kūn"
+              },
+              "otherInfo": {
+                "line": "只留清气满乾坤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“洗砚池”的意思是？",
+                "options": [
+                  "洗毛笔和砚台的水池",
+                  "洗衣服的池塘",
+                  "养鱼的池子",
+                  "洗菜的水池"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“淡墨痕”的意思是？",
+                "options": [
+                  "淡淡的墨迹",
+                  "浓重的墨块",
+                  "黑色的污点",
+                  "模糊的笔迹"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“颜色”的意思是？",
+                "options": [
+                  "色彩",
+                  "脸色",
+                  "颜料",
+                  "容貌"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“清气”的意思是？",
+                "options": [
+                  "清香之气",
+                  "清冷的空气",
+                  "清正的气节",
+                  "清爽的天气"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“乾坤”的意思是？",
+                "options": [
+                  "天地",
+                  "日月",
+                  "山河",
+                  "宇宙"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“吾家”的意思是？",
+                "options": [
+                  "我家",
+                  "你家",
+                  "他家",
+                  "谁家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“个个”的意思是？",
+                "options": [
+                  "每一朵",
+                  "一个人",
+                  "各个方向",
+                  "偶尔一朵"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不要”的意思是？",
+                "options": [
+                  "不需要",
+                  "不想要",
+                  "别这样",
+                  "不答应"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“只留”的意思是？",
+                "options": [
+                  "只留下",
+                  "只停止",
+                  "只保留",
+                  "只赠送"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“满”的意思是？",
+                "options": [
+                  "充满",
+                  "满足",
+                  "骄傲",
+                  "全部"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我家洗砚池边有一棵梅树。",
+                "options": [
+                  "吾家洗砚池头树",
+                  "个个花开淡墨痕",
+                  "不要人夸好颜色",
+                  "只留清气满乾坤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“吾家洗砚池头树”的意思是？",
+                "options": [
+                  "我家洗砚池边有一棵梅树",
+                  "我家池塘边种着柳树",
+                  "我在池边洗砚台",
+                  "我家池头有一棵大树"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "每一朵梅花都带着淡淡的墨痕。",
+                "options": [
+                  "吾家洗砚池头树",
+                  "个个花开淡墨痕",
+                  "不要人夸好颜色",
+                  "只留清气满乾坤"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“个个花开淡墨痕”的意思是？",
+                "options": [
+                  "每一朵梅花都带着淡淡的墨痕",
+                  "每一朵花都开得很鲜艳",
+                  "梅花开得又多又密",
+                  "墨汁溅到了花上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不需要别人夸赞它的颜色好看。",
+                "options": [
+                  "吾家洗砚池头树",
+                  "个个花开淡墨痕",
+                  "不要人夸好颜色",
+                  "只留清气满乾坤"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不要人夸好颜色”的意思是？",
+                "options": [
+                  "不需要别人夸赞它的颜色好看",
+                  "不要别人说它颜色不好",
+                  "不希望别人来看它的颜色",
+                  "不让人夸赞别的花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "只把清香之气留在天地之间。",
+                "options": [
+                  "吾家洗砚池头树",
+                  "个个花开淡墨痕",
+                  "不要人夸好颜色",
+                  "只留清气满乾坤"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“只留清气满乾坤”的意思是？",
+                "options": [
+                  "只把清香之气留在天地之间",
+                  "只留下清气在屋子里",
+                  "只希望清气充满乾坤袋",
+                  "只把清气留给自家人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "个个花开淡墨痕",
+                  "吾家洗砚池头树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "只留清气满乾坤",
+                  "不要人夸好颜色"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不要人夸好颜色",
+                  "个个花开淡墨痕",
+                  "只留清气满乾坤",
+                  "吾家洗砚池头树"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "只留清气满乾坤",
+                  "吾家洗砚池头树",
+                  "不要人夸好颜色",
+                  "个个花开淡墨痕"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yàn"
+              },
+              "otherInfo": {
+                "content": "吾家洗__池头树",
+                "answer": "砚"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hén"
+              },
+              "otherInfo": {
+                "content": "个个花开淡墨__",
+                "answer": "痕"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kuā"
+              },
+              "otherInfo": {
+                "content": "不要人__好颜色",
+                "answer": "夸"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qián"
+              },
+              "otherInfo": {
+                "content": "只留清气满__坤",
+                "answer": "乾"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chí"
+              },
+              "otherInfo": {
+                "content": "吾家洗砚__头树",
+                "answer": "池"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "个个花开淡__痕",
+                "answer": "墨"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yán"
+              },
+              "otherInfo": {
+                "content": "不要人夸好__色",
+                "answer": "颜"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kūn"
+              },
+              "otherInfo": {
+                "content": "只留清气满乾__",
+                "answer": "坤"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú"
+              },
+              "otherInfo": {
+                "content": "__家洗砚池头树",
+                "answer": "吾"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qīng"
+              },
+              "otherInfo": {
+                "content": "只留__气满乾坤",
+                "answer": "清"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "吾家洗砚池头树，______。",
+                "answer": "个个花开淡墨痕"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，个个花开淡墨痕。",
+                "answer": "吾家洗砚池头树"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不要人夸好颜色，______。",
+                "answer": "只留清气满乾坤"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，只留清气满乾坤。",
+                "answer": "不要人夸好颜色"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "吾家洗砚池头树，个个花开淡墨痕。______，______。",
+                "answer": "不要人夸好颜色，只留清气满乾坤"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "吾家洗砚池头树，个个花开淡墨痕。______，______。",
+                "answer": "不要人夸好颜色，只留清气满乾坤"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "只留清气满乾坤",
+                  "吾家洗砚池头树",
+                  "不要人夸好颜色",
+                  "个个花开淡墨痕"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "个个花开淡墨痕",
+                  "只留清气满乾坤",
+                  "吾家洗砚池头树",
+                  "不要人夸好颜色"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不要人夸好颜色",
+                  "个个花开淡墨痕",
+                  "只留清气满乾坤",
+                  "吾家洗砚池头树"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吾家洗砚池头树",
+                  "只留清气满乾坤",
+                  "个个花开淡墨痕",
+                  "不要人夸好颜色"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "只留清气满乾坤",
+                  "不要人夸好颜色",
+                  "吾家洗砚池头树",
+                  "个个花开淡墨痕"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

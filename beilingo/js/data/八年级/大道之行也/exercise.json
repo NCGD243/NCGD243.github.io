@@ -1,0 +1,2071 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dà dào zhī xíng yě tiān xià wéi gōng"
+              },
+              "otherInfo": {
+                "line": "大道之行也，天下为公"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xuǎn xián yǔ néng jiǎng xìn xiū mù"
+              },
+              "otherInfo": {
+                "line": "选贤与能，讲信修睦"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù rén bù dú qīn qí qīn bù dú zǐ qí zǐ"
+              },
+              "otherInfo": {
+                "line": "故人不独亲其亲，不独子其子"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǐ lǎo yǒu suǒ zhōng zhuàng yǒu suǒ yòng yòu yǒu suǒ zhǎng"
+              },
+              "otherInfo": {
+                "line": "使老有所终，壮有所用，幼有所长"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān guǎ gū dú fèi jí zhě jiē yǒu suǒ yǎng"
+              },
+              "otherInfo": {
+                "line": "矜、寡、孤、独、废疾者皆有所养"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán yǒu fēn nǚ yǒu guī"
+              },
+              "otherInfo": {
+                "line": "男有分，女有归"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huò è qí qì yú dì yě bù bì cáng yú jǐ"
+              },
+              "otherInfo": {
+                "line": "货恶其弃于地也，不必藏于己"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì è qí bù chū yú shēn yě bù bì wèi jǐ"
+              },
+              "otherInfo": {
+                "line": "力恶其不出于身也，不必为己"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shì gù móu bì ér bù xīng dào qiè luàn zéi ér bù zuò"
+              },
+              "otherInfo": {
+                "line": "是故谋闭而不兴，盗窃乱贼而不作"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù wài hù ér bù bì shì wèi dà tóng"
+              },
+              "otherInfo": {
+                "line": "故外户而不闭，是谓大同"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“选贤与能”中“与”的意思是？",
+                "options": [
+                  "通“举”，推举",
+                  "和，跟",
+                  "给予，授予",
+                  "参与，参加"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“讲信修睦”中“修”的意思是？",
+                "options": [
+                  "培养，建立",
+                  "修理，修补",
+                  "编写，撰写",
+                  "学习，钻研"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不独亲其亲”中第一个“亲”的意思是？",
+                "options": [
+                  "以……为亲，亲近",
+                  "亲人，亲属",
+                  "亲自，亲身",
+                  "亲密，亲近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“矜、寡、孤、独、废疾者皆有所养”中“矜”的意思是？",
+                "options": [
+                  "通“鳏”，老而无妻的人",
+                  "自夸，夸耀",
+                  "怜悯，同情",
+                  "庄重，严肃"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“男有分，女有归”中“归”的意思是？",
+                "options": [
+                  "女子出嫁，这里指归宿",
+                  "返回，回归",
+                  "归还，交还",
+                  "归附，归顺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“货恶其弃于地也”中“恶”的意思是？",
+                "options": [
+                  "憎恶，厌恶",
+                  "罪恶，坏事",
+                  "丑陋，难看",
+                  "凶恶，凶猛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“力恶其不出于身也”中“身”的意思是？",
+                "options": [
+                  "自己，自身",
+                  "身体，躯体",
+                  "身份，地位",
+                  "一生，终身"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是故谋闭而不兴”中“兴”的意思是？",
+                "options": [
+                  "兴起，发生",
+                  "兴盛，兴旺",
+                  "兴办，创办",
+                  "兴致，兴趣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“盗窃乱贼而不作”中“作”的意思是？",
+                "options": [
+                  "兴起，发生",
+                  "劳作，劳动",
+                  "创作，写作",
+                  "振作，奋起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“故外户而不闭”中“外户”的意思是？",
+                "options": [
+                  "从外面合上的门",
+                  "门外的住户",
+                  "外面的窗户",
+                  "外屋的门"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "大道施行的时候，天下是众人共有的。",
+                "options": [
+                  "大道之行也，天下为公",
+                  "选贤与能，讲信修睦",
+                  "货恶其弃于地也，不必藏于己",
+                  "故外户而不闭，是谓大同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“选贤与能，讲信修睦”的意思是？",
+                "options": [
+                  "选拔推举品德高尚、才能出众的人，讲求诚信，培养和睦",
+                  "挑选贤良的人给予俸禄，讲究信用，修订睦邻条约",
+                  "选举贤能之人管理财物，讲说信义，修整家族关系",
+                  "选用贤才并授予权柄，讲论信义，修习和睦之礼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "因此人们不只是把自己的亲人当作亲人，不只是把自己的子女当作子女。",
+                "options": [
+                  "故人不独亲其亲，不独子其子",
+                  "使老有所终，壮有所用，幼有所长",
+                  "男有分，女有归",
+                  "矜、寡、孤、独、废疾者皆有所养"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“使老有所终，壮有所用，幼有所长”的意思是？",
+                "options": [
+                  "让老年人能安度晚年，壮年人能发挥才干，幼年人能健康成长",
+                  "让老年人有终了之时，壮年人有使用之处，幼年人有成长之地",
+                  "使老人得到送终，使壮丁得到役使，使幼儿得到抚养",
+                  "让老者终结一生，让壮者出力服役，让幼者长大成人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "让老而无妻、老而无夫、幼而无父、老而无子以及残疾的人都得到供养。",
+                "options": [
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "故人不独亲其亲，不独子其子",
+                  "使老有所终，壮有所用，幼有所长",
+                  "货恶其弃于地也，不必藏于己"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“男有分，女有归”的意思是？",
+                "options": [
+                  "男子有职业，女子有归宿",
+                  "男子有本分，女子有回归",
+                  "男子有分工，女子有归顺",
+                  "男子有职分，女子有归宁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "人们憎恶财物被丢弃在地上，但不一定藏在自己家里。",
+                "options": [
+                  "货恶其弃于地也，不必藏于己",
+                  "力恶其不出于身也，不必为己",
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "故外户而不闭，是谓大同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“力恶其不出于身也，不必为己”的意思是？",
+                "options": [
+                  "人们憎恶力气不从自己身上使出，但不一定是为了自己",
+                  "人们厌恶出力不能亲身参与，但不必替自己打算",
+                  "人们憎恨力气不出于自身，但不必为自己出力",
+                  "人们讨厌劳动不由自己承担，但不一定为自己谋利"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "因此奸谋被遏制而不会兴起，盗窃、造反和害人的事情不会发生。",
+                "options": [
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "故人不独亲其亲，不独子其子",
+                  "货恶其弃于地也，不必藏于己",
+                  "故外户而不闭，是谓大同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“故外户而不闭，是谓大同”的意思是？",
+                "options": [
+                  "所以从外面合上的门不用关闭，这就叫做大同",
+                  "所以外面的住户不用闭门，这就是所谓的大同",
+                  "因此外屋的门不必关上，这叫做天下大同",
+                  "所以出门在外不必闭户，这就是理想的大同"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "天下为公",
+                  "大道之行也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "讲信修睦",
+                  "选贤与能"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不独子其子",
+                  "故人不独亲其亲"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "壮有所用，幼有所长",
+                  "使老有所终"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "废疾者皆有所养",
+                  "矜、寡、孤、独"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "女有归",
+                  "男有分"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不必藏于己",
+                  "货恶其弃于地也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不必为己",
+                  "力恶其不出于身也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "盗窃乱贼而不作",
+                  "是故谋闭而不兴"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是谓大同",
+                  "故外户而不闭"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "选贤与能，讲信修睦",
+                  "大道之行也，天下为公"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故人不独亲其亲，不独子其子",
+                  "选贤与能，讲信修睦"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "使老有所终，壮有所用，幼有所长",
+                  "故人不独亲其亲，不独子其子"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "使老有所终，壮有所用，幼有所长"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "男有分，女有归",
+                  "矜、寡、孤、独、废疾者皆有所养"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "货恶其弃于地也，不必藏于己",
+                  "男有分，女有归"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "力恶其不出于身也，不必为己",
+                  "货恶其弃于地也，不必藏于己"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "力恶其不出于身也，不必为己"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故外户而不闭，是谓大同",
+                  "是故谋闭而不兴，盗窃乱贼而不作"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "大道之行也，天下为公",
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "男有分，女有归",
+                  "故人不独亲其亲，不独子其子",
+                  "货恶其弃于地也，不必藏于己",
+                  "选贤与能，讲信修睦",
+                  "使老有所终，壮有所用，幼有所长",
+                  "故外户而不闭，是谓大同",
+                  "力恶其不出于身也，不必为己"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "大道之行也，天下__公",
+                "answer": "为"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù"
+              },
+              "otherInfo": {
+                "content": "选贤与能，讲信修__",
+                "answer": "睦"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dú"
+              },
+              "otherInfo": {
+                "content": "故人不__亲其亲，不独子其子",
+                "answer": "独"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǎng"
+              },
+              "otherInfo": {
+                "content": "使老有所终，壮有所用，幼有所__",
+                "answer": "长"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān"
+              },
+              "otherInfo": {
+                "content": "__、寡、孤、独、废疾者皆有所养",
+                "answer": "矜"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guī"
+              },
+              "otherInfo": {
+                "content": "男有分，女有__",
+                "answer": "归"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cáng"
+              },
+              "otherInfo": {
+                "content": "货恶其弃于地也，不必__于己",
+                "answer": "藏"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi"
+              },
+              "otherInfo": {
+                "content": "力恶其不出于身也，不必__己",
+                "answer": "为"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīng"
+              },
+              "otherInfo": {
+                "content": "是故谋闭而不__，盗窃乱贼而不作",
+                "answer": "兴"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bì"
+              },
+              "otherInfo": {
+                "content": "故外户而不__，是谓大同",
+                "answer": "闭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大道之行也，______",
+                "answer": "天下为公"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，天下为公",
+                "answer": "大道之行也"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "选贤与能，______",
+                "answer": "讲信修睦"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，讲信修睦",
+                "answer": "选贤与能"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故人不独亲其亲，______",
+                "answer": "不独子其子"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不独子其子",
+                "answer": "故人不独亲其亲"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "使老有所终，壮有所用，______",
+                "answer": "幼有所长"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，壮有所用，幼有所长",
+                "answer": "使老有所终"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "矜、寡、孤、独、______",
+                "answer": "废疾者皆有所养"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______、寡、孤、独、废疾者皆有所养",
+                "answer": "矜"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "男有分，______",
+                "answer": "女有归"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，女有归",
+                "answer": "男有分"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "货恶其弃于地也，______",
+                "answer": "不必藏于己"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不必藏于己",
+                "answer": "货恶其弃于地也"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "力恶其不出于身也，______",
+                "answer": "不必为己"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不必为己",
+                "answer": "力恶其不出于身也"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是故谋闭而不兴，______",
+                "answer": "盗窃乱贼而不作"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，盗窃乱贼而不作",
+                "answer": "是故谋闭而不兴"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故外户而不闭，______",
+                "answer": "是谓大同"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，是谓大同",
+                "answer": "故外户而不闭"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "大道之行也，天下为公。______，______",
+                "answer": "选贤与能，讲信修睦"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "选贤与能，讲信修睦。______，______",
+                "answer": "故人不独亲其亲，不独子其子"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "故人不独亲其亲，不独子其子。______，______",
+                "answer": "使老有所终，壮有所用，幼有所长"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "使老有所终，壮有所用，幼有所长。______，______",
+                "answer": "矜、寡、孤、独、废疾者皆有所养"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "矜、寡、孤、独、废疾者皆有所养。______，______",
+                "answer": "男有分，女有归"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "男有分，女有归。______，______",
+                "answer": "货恶其弃于地也，不必藏于己"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "货恶其弃于地也，不必藏于己。______，______",
+                "answer": "力恶其不出于身也，不必为己"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "力恶其不出于身也，不必为己。______，______",
+                "answer": "是故谋闭而不兴，盗窃乱贼而不作"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "是故谋闭而不兴，盗窃乱贼而不作。______，______",
+                "answer": "故外户而不闭，是谓大同"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "大道之行也，天下为公",
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "男有分，女有归",
+                  "故人不独亲其亲，不独子其子",
+                  "货恶其弃于地也，不必藏于己",
+                  "选贤与能，讲信修睦",
+                  "使老有所终，壮有所用，幼有所长",
+                  "故外户而不闭，是谓大同",
+                  "力恶其不出于身也，不必为己"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "使老有所终，壮有所用，幼有所长",
+                  "故外户而不闭，是谓大同",
+                  "男有分，女有归",
+                  "大道之行也，天下为公",
+                  "力恶其不出于身也，不必为己",
+                  "故人不独亲其亲，不独子其子",
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "选贤与能，讲信修睦",
+                  "货恶其弃于地也，不必藏于己",
+                  "是故谋闭而不兴，盗窃乱贼而不作"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "货恶其弃于地也，不必藏于己",
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "选贤与能，讲信修睦",
+                  "故人不独亲其亲，不独子其子",
+                  "故外户而不闭，是谓大同",
+                  "男有分，女有归",
+                  "大道之行也，天下为公",
+                  "力恶其不出于身也，不必为己",
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "使老有所终，壮有所用，幼有所长"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "故人不独亲其亲，不独子其子",
+                  "力恶其不出于身也，不必为己",
+                  "故外户而不闭，是谓大同",
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "大道之行也，天下为公",
+                  "货恶其弃于地也，不必藏于己",
+                  "使老有所终，壮有所用，幼有所长",
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "选贤与能，讲信修睦",
+                  "男有分，女有归"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "是故谋闭而不兴，盗窃乱贼而不作",
+                  "男有分，女有归",
+                  "使老有所终，壮有所用，幼有所长",
+                  "货恶其弃于地也，不必藏于己",
+                  "故外户而不闭，是谓大同",
+                  "选贤与能，讲信修睦",
+                  "力恶其不出于身也，不必为己",
+                  "大道之行也，天下为公",
+                  "矜、寡、孤、独、废疾者皆有所养",
+                  "故人不独亲其亲，不独子其子"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

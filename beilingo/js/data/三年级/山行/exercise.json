@@ -1,0 +1,1015 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuǎn shàng hán shān shí jìng xié"
+              },
+              "otherInfo": {
+                "line": "远上寒山石径斜"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái yún shēng chù yǒu rén jiā"
+              },
+              "otherInfo": {
+                "line": "白云生处有人家"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng chē zuò ài fēng lín wǎn"
+              },
+              "otherInfo": {
+                "line": "停车坐爱枫林晚"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuāng yè hóng yú èr yuè huā"
+              },
+              "otherInfo": {
+                "line": "霜叶红于二月花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“远上”的意思是？",
+                "options": [
+                  "向远处延伸",
+                  "登上高处",
+                  "远离尘世",
+                  "远远地送上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“寒山”的意思是？",
+                "options": [
+                  "深秋时节的山",
+                  "寒冷的雪山",
+                  "荒凉的山野",
+                  "山名，即寒山寺"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“石径”的意思是？",
+                "options": [
+                  "石头铺成的小路",
+                  "山间的水沟",
+                  "陡峭的崖壁",
+                  "石砌的台阶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“斜”的意思是？",
+                "options": [
+                  "倾斜，这里指山路弯弯曲曲",
+                  "歪斜不正",
+                  "斜着身子",
+                  "夕阳西斜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“生处”的意思是？",
+                "options": [
+                  "产生、升起的地方",
+                  "生活居住的地方",
+                  "陌生偏僻的地方",
+                  "生长草木的地方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“坐”的意思是？",
+                "options": [
+                  "因为",
+                  "坐下",
+                  "乘坐",
+                  "座位"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“爱”的意思是？",
+                "options": [
+                  "喜爱，留恋",
+                  "爱情",
+                  "爱护",
+                  "舍不得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“晚”的意思是？",
+                "options": [
+                  "傍晚",
+                  "夜晚",
+                  "迟到",
+                  "晚年"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“霜叶”的意思是？",
+                "options": [
+                  "经霜变红的枫叶",
+                  "结霜的树叶",
+                  "霜降时节的落叶",
+                  "白色的树叶"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“红于”的意思是？",
+                "options": [
+                  "比……更红",
+                  "红色和……",
+                  "红在",
+                  "红得像"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "一条石头小路弯弯曲曲地伸向深秋时节的山峦。",
+                "options": [
+                  "远上寒山石径斜",
+                  "白云生处有人家",
+                  "停车坐爱枫林晚",
+                  "霜叶红于二月花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“远上寒山石径斜”的意思是？",
+                "options": [
+                  "石头小路弯弯曲曲地伸向深秋的山峦",
+                  "我远远地登上寒冷的山，石路倾斜难行",
+                  "从远处看，寒山上的石径歪歪斜斜",
+                  "沿着石径远行，寒山渐渐倾斜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "在白云升起的地方，隐约有几户人家。",
+                "options": [
+                  "白云生处有人家",
+                  "远上寒山石径斜",
+                  "霜叶红于二月花",
+                  "停车坐爱枫林晚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白云生处有人家”的意思是？",
+                "options": [
+                  "白云升起的地方隐约有几户人家",
+                  "白云生出的地方就是我的家",
+                  "人家住在白云里面",
+                  "白云和人家一同升起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "停下车来，是因为喜爱这傍晚的枫林。",
+                "options": [
+                  "停车坐爱枫林晚",
+                  "远上寒山石径斜",
+                  "白云生处有人家",
+                  "霜叶红于二月花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“停车坐爱枫林晚”的意思是？",
+                "options": [
+                  "停下车来，因为喜爱这傍晚的枫林",
+                  "停下车坐在枫林里直到夜晚",
+                  "停车坐下，喜爱枫林的夜晚",
+                  "因为赶路晚了，停车在枫林休息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "经霜的枫叶比二月的春花还要红。",
+                "options": [
+                  "霜叶红于二月花",
+                  "停车坐爱枫林晚",
+                  "远上寒山石径斜",
+                  "白云生处有人家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“霜叶红于二月花”的意思是？",
+                "options": [
+                  "经霜的枫叶比二月的春花还要红",
+                  "霜打的叶子在二月里红得像花",
+                  "霜叶红在二月花开的时候",
+                  "二月的花比霜叶更红"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "石径斜",
+                  "远上寒山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "有人家",
+                  "白云生处"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "枫林晚",
+                  "停车坐爱"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "二月花",
+                  "霜叶红于"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白云生处有人家",
+                  "远上寒山石径斜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "停车坐爱枫林晚",
+                  "白云生处有人家"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜叶红于二月花",
+                  "停车坐爱枫林晚"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜叶红于二月花",
+                  "白云生处有人家",
+                  "远上寒山石径斜",
+                  "停车坐爱枫林晚"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìng"
+              },
+              "otherInfo": {
+                "content": "远上寒山石__斜",
+                "answer": "径"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shēng"
+              },
+              "otherInfo": {
+                "content": "白云__处有人家",
+                "answer": "生"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuò"
+              },
+              "otherInfo": {
+                "content": "停车__爱枫林晚",
+                "answer": "坐"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shuāng"
+              },
+              "otherInfo": {
+                "content": "__叶红于二月花",
+                "answer": "霜"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán"
+              },
+              "otherInfo": {
+                "content": "远上__山石径斜",
+                "answer": "寒"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǒu"
+              },
+              "otherInfo": {
+                "content": "白云生处__人家",
+                "answer": "有"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎn"
+              },
+              "otherInfo": {
+                "content": "停车坐爱枫林__",
+                "answer": "晚"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "霜叶红__二月花",
+                "answer": "于"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí"
+              },
+              "otherInfo": {
+                "content": "远上寒山__径斜",
+                "answer": "石"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huā"
+              },
+              "otherInfo": {
+                "content": "霜叶红于二月__",
+                "answer": "花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "远上寒山石径斜，______",
+                "answer": "白云生处有人家"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白云生处有人家",
+                "answer": "远上寒山石径斜"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "停车坐爱枫林晚，______",
+                "answer": "霜叶红于二月花"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，霜叶红于二月花",
+                "answer": "停车坐爱枫林晚"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "远上寒山石径斜，白云生处有人家。______，______",
+                "answer": "停车坐爱枫林晚，霜叶红于二月花"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "停车坐爱枫林晚，霜叶红于二月花。______，______",
+                "answer": "停车坐爱枫林晚，霜叶红于二月花"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "霜叶红于二月花",
+                  "远上寒山石径斜",
+                  "停车坐爱枫林晚",
+                  "白云生处有人家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白云生处有人家",
+                  "停车坐爱枫林晚",
+                  "远上寒山石径斜",
+                  "霜叶红于二月花"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "停车坐爱枫林晚",
+                  "霜叶红于二月花",
+                  "远上寒山石径斜",
+                  "白云生处有人家"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "远上寒山石径斜",
+                  "霜叶红于二月花",
+                  "白云生处有人家",
+                  "停车坐爱枫林晚"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白云生处有人家",
+                  "远上寒山石径斜",
+                  "霜叶红于二月花",
+                  "停车坐爱枫林晚"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

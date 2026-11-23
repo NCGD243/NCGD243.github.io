@@ -1,0 +1,4777 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jìn tài yuán zhōng wǔ líng rén bǔ yú wéi yè"
+              },
+              "otherInfo": {
+                "line": "晋太元中，武陵人捕鱼为业。"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán xī xíng wàng lù zhī yuǎn jìn"
+              },
+              "otherInfo": {
+                "line": "缘溪行，忘路之远近。"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hū féng táo huā lín jiā àn shù bǎi bù"
+              },
+              "otherInfo": {
+                "line": "忽逢桃花林，夹岸数百步。"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhōng wú zá shù fāng cǎo xiān měi luò yīng bīn fēn"
+              },
+              "otherInfo": {
+                "line": "中无杂树，芳草鲜美，落英缤纷。"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú rén shèn yì zhī fù qián xíng yù qióng qí lín"
+              },
+              "otherInfo": {
+                "line": "渔人甚异之，复前行，欲穷其林。"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lín jìn shuǐ yuán biàn dé yī shān"
+              },
+              "otherInfo": {
+                "line": "林尽水源，便得一山。"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān yǒu xiǎo kǒu fǎng fú ruò yǒu guāng"
+              },
+              "otherInfo": {
+                "line": "山有小口，仿佛若有光。"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn shě chuán cóng kǒu rù chū jí xiá"
+              },
+              "otherInfo": {
+                "line": "便舍船，从口入。初极狭，才通人。"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù xíng shù shí bù huò rán kāi lǎng"
+              },
+              "otherInfo": {
+                "line": "复行数十步，豁然开朗。"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tǔ dì píng kuàng wū shè yǎn rán yǒu liáng tián měi chí sāng zhú zhī shǔ"
+              },
+              "otherInfo": {
+                "line": "土地平旷，屋舍俨然，有良田美池桑竹之属。"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiān mò jiāo tōng jī quǎn xiāng wén"
+              },
+              "otherInfo": {
+                "line": "阡陌交通，鸡犬相闻。"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qí zhōng wǎng lái zhòng zuò nán nǚ yī zhuó xī rú wài rén"
+              },
+              "otherInfo": {
+                "line": "其中往来种作，男女衣着，悉如外人。"
+              }
+            },
+            {
+              "id": "s1l1q13",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huáng fà chuí tiáo bìng yí rán zì lè"
+              },
+              "otherInfo": {
+                "line": "黄发垂髫，并怡然自乐。"
+              }
+            },
+            {
+              "id": "s1l1q14",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiàn yú rén nǎi dà jīng wèn suǒ cóng lái"
+              },
+              "otherInfo": {
+                "line": "见渔人，乃大惊，问所从来。"
+              }
+            },
+            {
+              "id": "s1l1q15",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jù dá zhī biàn yào huán jiā shè jiǔ shā jī zuò shí"
+              },
+              "otherInfo": {
+                "line": "具答之。便要还家，设酒杀鸡作食。"
+              }
+            },
+            {
+              "id": "s1l1q16",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cūn zhōng wén yǒu cǐ rén xián lái wèn xùn"
+              },
+              "otherInfo": {
+                "line": "村中闻有此人，咸来问讯。"
+              }
+            },
+            {
+              "id": "s1l1q17",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zì yún xiān shì bì qín shí luàn shuài qī zǐ yì rén lái cǐ jué jìng"
+              },
+              "otherInfo": {
+                "line": "自云先世避秦时乱，率妻子邑人来此绝境。"
+              }
+            },
+            {
+              "id": "s1l1q18",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù fù chū yān suì yǔ wài rén jiàn gé"
+              },
+              "otherInfo": {
+                "line": "不复出焉，遂与外人间隔。"
+              }
+            },
+            {
+              "id": "s1l1q19",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèn jīn shì hé shì nǎi bù zhī yǒu hàn wú lùn wèi jìn"
+              },
+              "otherInfo": {
+                "line": "问今是何世，乃不知有汉，无论魏晋。"
+              }
+            },
+            {
+              "id": "s1l1q20",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǐ rén yī yī wèi jù yán suǒ wén jiē tàn wǎn"
+              },
+              "otherInfo": {
+                "line": "此人一一为具言所闻，皆叹惋。"
+              }
+            },
+            {
+              "id": "s1l1q21",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú rén gè fù yán zhì qí jiā jiē chū jiǔ shí"
+              },
+              "otherInfo": {
+                "line": "余人各复延至其家，皆出酒食。"
+              }
+            },
+            {
+              "id": "s1l1q22",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tíng shù rì cí qù cǐ zhōng rén yǔ yún bù zú wèi wài rén dào yě"
+              },
+              "otherInfo": {
+                "line": "停数日，辞去。此中人语云：“不足为外人道也。”"
+              }
+            },
+            {
+              "id": "s1l1q23",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì chū dé qí chuán biàn fú xiàng lù chù chù zhì zhī"
+              },
+              "otherInfo": {
+                "line": "既出，得其船，便扶向路，处处志之。"
+              }
+            },
+            {
+              "id": "s1l1q24",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí jùn xià yì tài shǒu shuō rú cǐ"
+              },
+              "otherInfo": {
+                "line": "及郡下，诣太守，说如此。"
+              }
+            },
+            {
+              "id": "s1l1q25",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tài shǒu jí qiǎn rén suí qí wǎng xún xiàng suǒ zhì"
+              },
+              "otherInfo": {
+                "line": "太守即遣人随其往，寻向所志。"
+              }
+            },
+            {
+              "id": "s1l1q26",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suì mí bù fù dé lù"
+              },
+              "otherInfo": {
+                "line": "遂迷，不复得路。"
+              }
+            },
+            {
+              "id": "s1l1q27",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán yáng liú zǐ jì gāo shàng shì yě wén zhī xīn rán guī wǎng"
+              },
+              "otherInfo": {
+                "line": "南阳刘子骥，高尚士也，闻之，欣然规往。"
+              }
+            },
+            {
+              "id": "s1l1q28",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi guǒ xún bìng zhōng hòu suì wú wèn jīn zhě"
+              },
+              "otherInfo": {
+                "line": "未果，寻病终。后遂无问津者。"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“缘溪行”中“缘”的意思是？",
+                "options": [
+                  "沿着，顺着",
+                  "因为",
+                  "缘分",
+                  "边缘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“落英缤纷”中“英”的意思是？",
+                "options": [
+                  "花",
+                  "英雄",
+                  "才能出众的人",
+                  "精华"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲穷其林”中“穷”的意思是？",
+                "options": [
+                  "走到尽头",
+                  "贫穷",
+                  "穷困",
+                  "穷尽知识"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“仿佛若有光”中“仿佛”的意思是？",
+                "options": [
+                  "隐隐约约，形容看不真切",
+                  "好像",
+                  "类似",
+                  "模仿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“豁然开朗”中“豁然”的意思是？",
+                "options": [
+                  "开阔明朗的样子",
+                  "突然",
+                  "恍然大悟",
+                  "豁达"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“屋舍俨然”中“俨然”的意思是？",
+                "options": [
+                  "整齐的样子",
+                  "严肃的样子",
+                  "好像",
+                  "庄重"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“阡陌交通”中“交通”的意思是？",
+                "options": [
+                  "交错相通",
+                  "运输事业",
+                  "来往",
+                  "交流"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“便要还家”中“要”的意思是？",
+                "options": [
+                  "同“邀”，邀请",
+                  "要求",
+                  "重要",
+                  "想要"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“率妻子邑人来此绝境”中“妻子”的意思是？",
+                "options": [
+                  "妻子和儿女",
+                  "男子的配偶",
+                  "家眷",
+                  "夫人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无论魏晋”中“无论”的意思是？",
+                "options": [
+                  "不要说，更不必说",
+                  "不管",
+                  "无论如何",
+                  "不论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "东晋太元年间，武陵郡有个以捕鱼为业的人。",
+                "options": [
+                  "晋太元中，武陵人捕鱼为业。",
+                  "缘溪行，忘路之远近。",
+                  "忽逢桃花林，夹岸数百步。",
+                  "林尽水源，便得一山。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“缘溪行，忘路之远近”的意思是？",
+                "options": [
+                  "他顺着溪水划船前行，忘记了路程的远近。",
+                  "他沿着山路行走，不知道路有多远。",
+                  "他因为溪水太急，忘了带路标。",
+                  "他逆流而上，迷失了方向。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "忽然遇到一片桃花林，溪水两岸几百步以内。",
+                "options": [
+                  "忽逢桃花林，夹岸数百步。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍俨然。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“中无杂树，芳草鲜美，落英缤纷”的意思是？",
+                "options": [
+                  "桃林中没有别的树，芳草鲜嫩美丽，落花繁多。",
+                  "桃林中间没有杂树，芳草味道鲜美，落花纷纷。",
+                  "桃林中没有杂树，芳草鲜艳，英雄缤纷。",
+                  "桃林中间没有杂树，芳草鲜美，落花像雨一样。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "渔人对此感到十分惊异，又向前走，想走到桃林的尽头。",
+                "options": [
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "便舍船，从口入。",
+                  "复行数十步，豁然开朗。",
+                  "见渔人，乃大惊，问所从来。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“林尽水源，便得一山”的意思是？",
+                "options": [
+                  "桃林在溪水发源的地方就到头了，便出现一座山。",
+                  "桃林尽头有水源，于是得到一座山。",
+                  "桃林尽头是水源，便看到一座山。",
+                  "桃林消失了，水源出现，便找到一座山。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "山上有个小洞口，隐隐约约好像有光亮。",
+                "options": [
+                  "山有小口，仿佛若有光。",
+                  "便舍船，从口入。",
+                  "初极狭，才通人。",
+                  "复行数十步，豁然开朗。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“便舍船，从口入。初极狭，才通人”的意思是？",
+                "options": [
+                  "渔人就舍弃船，从洞口进去。起初洞口很狭窄，仅容一人通过。",
+                  "渔人便离开船，从洞口进入。起初很狭窄，才能通过一个人。",
+                  "渔人便放下船，从洞口进去。起初极窄，刚能通人。",
+                  "渔人便舍弃船，从洞口进入。开始很窄，只通一人。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "又走了几十步，突然变得开阔明亮了。",
+                "options": [
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍俨然。",
+                  "有良田美池桑竹之属。",
+                  "阡陌交通，鸡犬相闻。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“土地平旷，屋舍俨然，有良田美池桑竹之属”的意思是？",
+                "options": [
+                  "土地平坦开阔，房屋整整齐齐，有肥沃的田地、美丽的池塘和桑树竹子之类。",
+                  "土地平坦宽广，房屋庄严，有良田美池和桑竹等。",
+                  "土地平整空旷，房屋俨然，有良田美池桑竹之类。",
+                  "土地平旷，屋舍整齐，有良田美池和桑竹的归属。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "田间小路交错相通，村落间能互相听见鸡鸣狗叫的声音。",
+                "options": [
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“其中往来种作，男女衣着，悉如外人”的意思是？",
+                "options": [
+                  "人们在田间来来往往耕种劳作，男女的穿戴，都像桃花源以外的世人。",
+                  "其中往来耕种的人，男女衣着，都像外人。",
+                  "里面的人往来种作，男女衣服，全像外面的人。",
+                  "其中的人来来往往种作，男女穿着，都像外人。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "老人和小孩都安适愉快，自得其乐。",
+                "options": [
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“见渔人，乃大惊，问所从来”的意思是？",
+                "options": [
+                  "村里人看见渔人，竟然大吃一惊，问他从哪里来。",
+                  "看见渔人，于是大惊，问他所从来的地方。",
+                  "见到渔人，就非常惊讶，问他是从哪里来的。",
+                  "看见渔人，才大吃一惊，问从谁那里来。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "渔人详细地回答了他们。有人就邀请他到自己家里去，摆酒杀鸡做饭来款待他。",
+                "options": [
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "余人各复延至其家，皆出酒食。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“村中闻有此人，咸来问讯”的意思是？",
+                "options": [
+                  "村里的人听说来了这么一个人，都来打听消息。",
+                  "村中听说有这个人，都来问讯。",
+                  "村里人听说有此人，全来询问。",
+                  "村中的人听到有这个人，都来问消息。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他们自己说他们的祖先为了躲避秦时的战乱，领着妻子儿女和乡邻来到这个与人世隔绝的地方。",
+                "options": [
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不复出焉，遂与外人间隔”的意思是？",
+                "options": [
+                  "不再从这里出去，于是就同外界的人隔绝了。",
+                  "不再出来，于是和外人隔开。",
+                  "不再出去，就和外人隔绝。",
+                  "不复出焉，于是与世隔绝。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他们问现在是什么朝代，竟然不知道有过汉朝，更不必说魏晋了。",
+                "options": [
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“此人一一为具言所闻，皆叹惋”的意思是？",
+                "options": [
+                  "渔人把自己听到的事一一详细地告诉了他们，他们听罢都感叹惋惜。",
+                  "这个人一一为他们详细说出所听到的，都感叹惋惜。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "渔人一一为他们具体说所听到的，都叹息。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q21",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "其余的人各自又把渔人邀请到自己家中，都拿出酒饭来款待他。",
+                "options": [
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。",
+                  "此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q22",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“停数日，辞去。此中人语云：‘不足为外人道也。’”的意思是？",
+                "options": [
+                  "渔人停留了几天，就告辞离去。村里人告诉他说：“这里的情况不值得对外面的人说啊。”",
+                  "停留几天，辞去。此中人告诉他说：“不值得对外人说。”",
+                  "停了几天，告辞离开。这里的人对他说：“不足为外人道也。”",
+                  "停留数日，辞别。村中人语云：“不值得对外人讲。”"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q23",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "渔人出来以后，找到了他的船，就顺着旧路回去，处处都做了记号。",
+                "options": [
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q24",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“及郡下，诣太守，说如此”的意思是？",
+                "options": [
+                  "到了郡城，去拜见太守，报告了这番情况。",
+                  "到了郡下，拜访太守，说了如此。",
+                  "到了郡城，到太守那里，说了这样。",
+                  "及郡下，见太守，说如此。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q25",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "太守立即派人跟着他前往，寻找先前所做的记号。",
+                "options": [
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q26",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“遂迷，不复得路”的意思是？",
+                "options": [
+                  "终于迷失了方向，再也找不到通往桃花源的路了。",
+                  "于是迷路，不再得到路。",
+                  "就迷路了，不能再找到路。",
+                  "遂迷，不复得路。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q27",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "南阳刘子骥，是个志向高洁的隐士，听到这件事后，高兴地计划前往。",
+                "options": [
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。",
+                  "后遂无问津者。",
+                  "及郡下，诣太守，说如此。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q28",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“未果，寻病终。后遂无问津者”的意思是？",
+                "options": [
+                  "没有实现，不久就病死了。此后就再也没有人探寻桃花源了。",
+                  "没有结果，寻找病终。后来就没有问路的人。",
+                  "未果，寻病终。后遂无问津者。",
+                  "没有实现，不久病终。后来就没有问津的人。"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "武陵人捕鱼为业。",
+                  "晋太元中，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忘路之远近。",
+                  "缘溪行，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "夹岸数百步。",
+                  "忽逢桃花林，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "芳草鲜美，落英缤纷。",
+                  "中无杂树，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "复前行，欲穷其林。",
+                  "渔人甚异之，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便得一山。",
+                  "林尽水源，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "仿佛若有光。",
+                  "山有小口，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "从口入。初极狭，才通人。",
+                  "便舍船，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "豁然开朗。",
+                  "复行数十步，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "屋舍俨然，有良田美池桑竹之属。",
+                  "土地平旷，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鸡犬相闻。",
+                  "阡陌交通，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "男女衣着，悉如外人。",
+                  "其中往来种作，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "并怡然自乐。",
+                  "黄发垂髫，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乃大惊，问所从来。",
+                  "见渔人，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便要还家，设酒杀鸡作食。",
+                  "具答之。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "咸来问讯。",
+                  "村中闻有此人，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "率妻子邑人来此绝境。",
+                  "自云先世避秦时乱，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "遂与外人间隔。",
+                  "不复出焉，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "乃不知有汉，无论魏晋。",
+                  "问今是何世，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "皆叹惋。",
+                  "此人一一为具言所闻，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q21",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "皆出酒食。",
+                  "余人各复延至其家，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q22",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "此中人语云：“不足为外人道也。”",
+                  "停数日，辞去。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q23",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "便扶向路，处处志之。",
+                  "既出，得其船，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q24",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "诣太守，说如此。",
+                  "及郡下，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q25",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "寻向所志。",
+                  "太守即遣人随其往，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q26",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不复得路。",
+                  "遂迷，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q27",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "闻之，欣然规往。",
+                  "南阳刘子骥，高尚士也，"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q28",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "后遂无问津者。",
+                  "未果，寻病终。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q29",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "缘溪行，忘路之远近。",
+                  "晋太元中，武陵人捕鱼为业。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q30",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "忽逢桃花林，夹岸数百步。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q31",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山有小口，仿佛若有光。",
+                  "林尽水源，便得一山。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q32",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "复行数十步，豁然开朗。",
+                  "便舍船，从口入。初极狭，才通人。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q33",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "阡陌交通，鸡犬相闻。",
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q34",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "黄发垂髫，并怡然自乐。",
+                  "其中往来种作，男女衣着，悉如外人。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q35",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "见渔人，乃大惊，问所从来。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q36",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "村中闻有此人，咸来问讯。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q37",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "不复出焉，遂与外人间隔。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q38",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "余人各复延至其家，皆出酒食。",
+                  "此人一一为具言所闻，皆叹惋。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q39",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "既出，得其船，便扶向路，处处志之。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q40",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "太守即遣人随其往，寻向所志。",
+                  "及郡下，诣太守，说如此。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q41",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "遂迷，不复得路。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q42",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未果，寻病终。后遂无问津者。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q43",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忽逢桃花林，夹岸数百步。",
+                  "晋太元中，武陵人捕鱼为业。",
+                  "缘溪行，忘路之远近。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "林尽水源，便得一山。",
+                  "山有小口，仿佛若有光。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。",
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。后遂无问津者。"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yuán"
+              },
+              "otherInfo": {
+                "content": "晋太__中，武陵人捕鱼为业。",
+                "answer": "元"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēn"
+              },
+              "otherInfo": {
+                "content": "中无杂树，芳草鲜美，落英缤__。",
+                "answer": "纷"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qióng"
+              },
+              "otherInfo": {
+                "content": "渔人甚异之，复前行，欲__其林。",
+                "answer": "穷"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fǎng"
+              },
+              "otherInfo": {
+                "content": "山有小口，__佛若有光。",
+                "answer": "仿"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huò"
+              },
+              "otherInfo": {
+                "content": "复行数十步，__然开朗。",
+                "answer": "豁"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǎn"
+              },
+              "otherInfo": {
+                "content": "土地平旷，屋舍__然，有良田美池桑竹之属。",
+                "answer": "俨"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mò"
+              },
+              "otherInfo": {
+                "content": "阡__交通，鸡犬相闻。",
+                "answer": "陌"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiáo"
+              },
+              "otherInfo": {
+                "content": "黄发垂__，并怡然自乐。",
+                "answer": "髫"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yāo"
+              },
+              "otherInfo": {
+                "content": "具答之。便__还家，设酒杀鸡作食。",
+                "answer": "要"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yì"
+              },
+              "otherInfo": {
+                "content": "自云先世避秦时乱，率妻子__人来此绝境。",
+                "answer": "邑"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晋太元中，______。",
+                "answer": "武陵人捕鱼为业"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，武陵人捕鱼为业。",
+                "answer": "晋太元中"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "缘溪行，______。",
+                "answer": "忘路之远近"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，忘路之远近。",
+                "answer": "缘溪行"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "忽逢桃花林，______。",
+                "answer": "夹岸数百步"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，夹岸数百步。",
+                "answer": "忽逢桃花林"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "中无杂树，______。",
+                "answer": "芳草鲜美，落英缤纷"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，芳草鲜美，落英缤纷。",
+                "answer": "中无杂树"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "渔人甚异之，______。",
+                "answer": "复前行，欲穷其林"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，复前行，欲穷其林。",
+                "answer": "渔人甚异之"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "林尽水源，______。",
+                "answer": "便得一山"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，便得一山。",
+                "answer": "林尽水源"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山有小口，______。",
+                "answer": "仿佛若有光"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，仿佛若有光。",
+                "answer": "山有小口"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "便舍船，从口入。______。",
+                "answer": "初极狭，才通人"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，从口入。初极狭，才通人。",
+                "answer": "便舍船"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "复行数十步，______。",
+                "answer": "豁然开朗"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，豁然开朗。",
+                "answer": "复行数十步"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "土地平旷，______。",
+                "answer": "屋舍俨然，有良田美池桑竹之属"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，屋舍俨然，有良田美池桑竹之属。",
+                "answer": "土地平旷"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "阡陌交通，______。",
+                "answer": "鸡犬相闻"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，鸡犬相闻。",
+                "answer": "阡陌交通"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其中往来种作，______。",
+                "answer": "男女衣着，悉如外人"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，男女衣着，悉如外人。",
+                "answer": "其中往来种作"
+              }
+            },
+            {
+              "id": "s4l1q25",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄发垂髫，______。",
+                "answer": "并怡然自乐"
+              }
+            },
+            {
+              "id": "s4l1q26",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，并怡然自乐。",
+                "answer": "黄发垂髫"
+              }
+            },
+            {
+              "id": "s4l1q27",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "见渔人，______。",
+                "answer": "乃大惊，问所从来"
+              }
+            },
+            {
+              "id": "s4l1q28",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，乃大惊，问所从来。",
+                "answer": "见渔人"
+              }
+            },
+            {
+              "id": "s4l1q29",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "具答之。______。",
+                "answer": "便要还家，设酒杀鸡作食"
+              }
+            },
+            {
+              "id": "s4l1q30",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。便要还家，设酒杀鸡作食。",
+                "answer": "具答之"
+              }
+            },
+            {
+              "id": "s4l1q31",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "村中闻有此人，______。",
+                "answer": "咸来问讯"
+              }
+            },
+            {
+              "id": "s4l1q32",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，咸来问讯。",
+                "answer": "村中闻有此人"
+              }
+            },
+            {
+              "id": "s4l1q33",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自云先世避秦时乱，______。",
+                "answer": "率妻子邑人来此绝境"
+              }
+            },
+            {
+              "id": "s4l1q34",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，率妻子邑人来此绝境。",
+                "answer": "自云先世避秦时乱"
+              }
+            },
+            {
+              "id": "s4l1q35",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不复出焉，______。",
+                "answer": "遂与外人间隔"
+              }
+            },
+            {
+              "id": "s4l1q36",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，遂与外人间隔。",
+                "answer": "不复出焉"
+              }
+            },
+            {
+              "id": "s4l1q37",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问今是何世，______。",
+                "answer": "乃不知有汉，无论魏晋"
+              }
+            },
+            {
+              "id": "s4l1q38",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，乃不知有汉，无论魏晋。",
+                "answer": "问今是何世"
+              }
+            },
+            {
+              "id": "s4l1q39",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此人一一为具言所闻，______。",
+                "answer": "皆叹惋"
+              }
+            },
+            {
+              "id": "s4l1q40",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，皆叹惋。",
+                "answer": "此人一一为具言所闻"
+              }
+            },
+            {
+              "id": "s4l1q41",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "余人各复延至其家，______。",
+                "answer": "皆出酒食"
+              }
+            },
+            {
+              "id": "s4l1q42",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，皆出酒食。",
+                "answer": "余人各复延至其家"
+              }
+            },
+            {
+              "id": "s4l1q43",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "停数日，辞去。______。",
+                "answer": "此中人语云：“不足为外人道也。”"
+              }
+            },
+            {
+              "id": "s4l1q44",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。此中人语云：“不足为外人道也。”",
+                "answer": "停数日，辞去"
+              }
+            },
+            {
+              "id": "s4l1q45",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "既出，得其船，______。",
+                "answer": "便扶向路，处处志之"
+              }
+            },
+            {
+              "id": "s4l1q46",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，便扶向路，处处志之。",
+                "answer": "既出，得其船"
+              }
+            },
+            {
+              "id": "s4l1q47",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "及郡下，______。",
+                "answer": "诣太守，说如此"
+              }
+            },
+            {
+              "id": "s4l1q48",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，诣太守，说如此。",
+                "answer": "及郡下"
+              }
+            },
+            {
+              "id": "s4l1q49",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "太守即遣人随其往，______。",
+                "answer": "寻向所志"
+              }
+            },
+            {
+              "id": "s4l1q50",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，寻向所志。",
+                "answer": "太守即遣人随其往"
+              }
+            },
+            {
+              "id": "s4l1q51",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂迷，______。",
+                "answer": "不复得路"
+              }
+            },
+            {
+              "id": "s4l1q52",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，不复得路。",
+                "answer": "遂迷"
+              }
+            },
+            {
+              "id": "s4l1q53",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南阳刘子骥，高尚士也，______。",
+                "answer": "闻之，欣然规往"
+              }
+            },
+            {
+              "id": "s4l1q54",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，高尚士也，闻之，欣然规往。",
+                "answer": "南阳刘子骥"
+              }
+            },
+            {
+              "id": "s4l1q55",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "未果，寻病终。______。",
+                "answer": "后遂无问津者"
+              }
+            },
+            {
+              "id": "s4l1q56",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______。后遂无问津者。",
+                "answer": "未果，寻病终"
+              }
+            }
+          ]
+        },
+        {
+          "name": "跨联填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "晋太元中，武陵人捕鱼为业。______，______。",
+                "answer": "缘溪行，忘路之远近"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "缘溪行，忘路之远近。______，______。",
+                "answer": "忽逢桃花林，夹岸数百步"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "忽逢桃花林，夹岸数百步。______，______。",
+                "answer": "中无杂树，芳草鲜美，落英缤纷"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "中无杂树，芳草鲜美，落英缤纷。______，______。",
+                "answer": "渔人甚异之，复前行，欲穷其林"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "渔人甚异之，复前行，欲穷其林。______，______。",
+                "answer": "林尽水源，便得一山"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "林尽水源，便得一山。______，______。",
+                "answer": "山有小口，仿佛若有光"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山有小口，仿佛若有光。______，______。",
+                "answer": "便舍船，从口入。初极狭，才通人"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "便舍船，从口入。初极狭，才通人。______，______。",
+                "answer": "复行数十步，豁然开朗"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "复行数十步，豁然开朗。______，______。",
+                "answer": "土地平旷，屋舍俨然，有良田美池桑竹之属"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "土地平旷，屋舍俨然，有良田美池桑竹之属。______，______。",
+                "answer": "阡陌交通，鸡犬相闻"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "阡陌交通，鸡犬相闻。______，______。",
+                "answer": "其中往来种作，男女衣着，悉如外人"
+              }
+            },
+            {
+              "id": "s4l2q12",
+              "type": "spell",
+              "covered": [
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "其中往来种作，男女衣着，悉如外人。______，______。",
+                "answer": "黄发垂髫，并怡然自乐"
+              }
+            },
+            {
+              "id": "s4l2q13",
+              "type": "spell",
+              "covered": [
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "黄发垂髫，并怡然自乐。______，______。",
+                "answer": "见渔人，乃大惊，问所从来"
+              }
+            },
+            {
+              "id": "s4l2q14",
+              "type": "spell",
+              "covered": [
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "见渔人，乃大惊，问所从来。______，______。",
+                "answer": "具答之。便要还家，设酒杀鸡作食"
+              }
+            },
+            {
+              "id": "s4l2q15",
+              "type": "spell",
+              "covered": [
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "具答之。便要还家，设酒杀鸡作食。______，______。",
+                "answer": "村中闻有此人，咸来问讯"
+              }
+            },
+            {
+              "id": "s4l2q16",
+              "type": "spell",
+              "covered": [
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "村中闻有此人，咸来问讯。______，______。",
+                "answer": "自云先世避秦时乱，率妻子邑人来此绝境"
+              }
+            },
+            {
+              "id": "s4l2q17",
+              "type": "spell",
+              "covered": [
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "自云先世避秦时乱，率妻子邑人来此绝境。______，______。",
+                "answer": "不复出焉，遂与外人间隔"
+              }
+            },
+            {
+              "id": "s4l2q18",
+              "type": "spell",
+              "covered": [
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不复出焉，遂与外人间隔。______，______。",
+                "answer": "问今是何世，乃不知有汉，无论魏晋"
+              }
+            },
+            {
+              "id": "s4l2q19",
+              "type": "spell",
+              "covered": [
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "问今是何世，乃不知有汉，无论魏晋。______，______。",
+                "answer": "此人一一为具言所闻，皆叹惋"
+              }
+            },
+            {
+              "id": "s4l2q20",
+              "type": "spell",
+              "covered": [
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "此人一一为具言所闻，皆叹惋。______，______。",
+                "answer": "余人各复延至其家，皆出酒食"
+              }
+            },
+            {
+              "id": "s4l2q21",
+              "type": "spell",
+              "covered": [
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "余人各复延至其家，皆出酒食。______，______。",
+                "answer": "停数日，辞去。此中人语云：“不足为外人道也。”"
+              }
+            },
+            {
+              "id": "s4l2q22",
+              "type": "spell",
+              "covered": [
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "停数日，辞去。此中人语云：“不足为外人道也。”______，______。",
+                "answer": "既出，得其船，便扶向路，处处志之"
+              }
+            },
+            {
+              "id": "s4l2q23",
+              "type": "spell",
+              "covered": [
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "既出，得其船，便扶向路，处处志之。______，______。",
+                "answer": "及郡下，诣太守，说如此"
+              }
+            },
+            {
+              "id": "s4l2q24",
+              "type": "spell",
+              "covered": [
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "及郡下，诣太守，说如此。______，______。",
+                "answer": "太守即遣人随其往，寻向所志"
+              }
+            },
+            {
+              "id": "s4l2q25",
+              "type": "spell",
+              "covered": [
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "太守即遣人随其往，寻向所志。______，______。",
+                "answer": "遂迷，不复得路"
+              }
+            },
+            {
+              "id": "s4l2q26",
+              "type": "spell",
+              "covered": [
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "遂迷，不复得路。______，______。",
+                "answer": "南阳刘子骥，高尚士也，闻之，欣然规往"
+              }
+            },
+            {
+              "id": "s4l2q27",
+              "type": "spell",
+              "covered": [
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "南阳刘子骥，高尚士也，闻之，欣然规往。______，______。",
+                "answer": "未果，寻病终。后遂无问津者"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "忽逢桃花林，夹岸数百步。",
+                  "晋太元中，武陵人捕鱼为业。",
+                  "缘溪行，忘路之远近。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "林尽水源，便得一山。",
+                  "山有小口，仿佛若有光。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。",
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。后遂无问津者。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未果，寻病终。后遂无问津者。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "遂迷，不复得路。",
+                  "太守即遣人随其往，寻向所志。",
+                  "及郡下，诣太守，说如此。",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "余人各复延至其家，皆出酒食。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "不复出焉，遂与外人间隔。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "村中闻有此人，咸来问讯。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "见渔人，乃大惊，问所从来。",
+                  "黄发垂髫，并怡然自乐。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "阡陌交通，鸡犬相闻。",
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。",
+                  "复行数十步，豁然开朗。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "山有小口，仿佛若有光。",
+                  "林尽水源，便得一山。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "忽逢桃花林，夹岸数百步。",
+                  "缘溪行，忘路之远近。",
+                  "晋太元中，武陵人捕鱼为业。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "缘溪行，忘路之远近。",
+                  "晋太元中，武陵人捕鱼为业。",
+                  "忽逢桃花林，夹岸数百步。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "林尽水源，便得一山。",
+                  "山有小口，仿佛若有光。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍然，有良田美池桑竹之属。",
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。后遂无问津者。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。",
+                  "复行数十步，豁然开朗。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "山有小口，仿佛若有光。",
+                  "林尽水源，便得一山。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "忽逢桃花林，夹岸数百步。",
+                  "缘溪行，忘路之远近。",
+                  "晋太元中，武陵人捕鱼为业。",
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。后遂无问津者。"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ],
+                [
+                  13,
+                  1
+                ],
+                [
+                  13,
+                  2
+                ],
+                [
+                  14,
+                  1
+                ],
+                [
+                  14,
+                  2
+                ],
+                [
+                  15,
+                  1
+                ],
+                [
+                  15,
+                  2
+                ],
+                [
+                  16,
+                  1
+                ],
+                [
+                  16,
+                  2
+                ],
+                [
+                  17,
+                  1
+                ],
+                [
+                  17,
+                  2
+                ],
+                [
+                  18,
+                  1
+                ],
+                [
+                  18,
+                  2
+                ],
+                [
+                  19,
+                  1
+                ],
+                [
+                  19,
+                  2
+                ],
+                [
+                  20,
+                  1
+                ],
+                [
+                  20,
+                  2
+                ],
+                [
+                  21,
+                  1
+                ],
+                [
+                  21,
+                  2
+                ],
+                [
+                  22,
+                  1
+                ],
+                [
+                  22,
+                  2
+                ],
+                [
+                  23,
+                  1
+                ],
+                [
+                  23,
+                  2
+                ],
+                [
+                  24,
+                  1
+                ],
+                [
+                  24,
+                  2
+                ],
+                [
+                  25,
+                  1
+                ],
+                [
+                  25,
+                  2
+                ],
+                [
+                  26,
+                  1
+                ],
+                [
+                  26,
+                  2
+                ],
+                [
+                  27,
+                  1
+                ],
+                [
+                  27,
+                  2
+                ],
+                [
+                  28,
+                  1
+                ],
+                [
+                  28,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "晋太元中，武陵人捕鱼为业。",
+                  "缘溪行，忘路之远近。",
+                  "忽逢桃花林，夹岸数百步。",
+                  "中无杂树，芳草鲜美，落英缤纷。",
+                  "渔人甚异之，复前行，欲穷其林。",
+                  "林尽水源，便得一山。",
+                  "山有小口，仿佛若有光。",
+                  "便舍船，从口入。初极狭，才通人。",
+                  "复行数十步，豁然开朗。",
+                  "土地平旷，屋舍俨然，有良田美池桑竹之属。",
+                  "阡陌交通，鸡犬相闻。",
+                  "其中往来种作，男女衣着，悉如外人。",
+                  "黄发垂髫，并怡然自乐。",
+                  "见渔人，乃大惊，问所从来。",
+                  "具答之。便要还家，设酒杀鸡作食。",
+                  "村中闻有此人，咸来问讯。",
+                  "自云先世避秦时乱，率妻子邑人来此绝境。",
+                  "不复出焉，遂与外人间隔。",
+                  "问今是何世，乃不知有汉，无论魏晋。",
+                  "此人一一为具言所闻，皆叹惋。",
+                  "余人各复延至其家，皆出酒食。",
+                  "停数日，辞去。此中人语云：“不足为外人道也。”",
+                  "既出，得其船，便扶向路，处处志之。",
+                  "及郡下，诣太守，说如此。",
+                  "太守即遣人随其往，寻向所志。",
+                  "遂迷，不复得路。",
+                  "南阳刘子骥，高尚士也，闻之，欣然规往。",
+                  "未果，寻病终。后遂无问津者。"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

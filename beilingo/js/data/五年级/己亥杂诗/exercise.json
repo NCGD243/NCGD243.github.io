@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hào dàng lí chóu bái rì xié"
+              },
+              "otherInfo": {
+                "line": "浩荡离愁白日斜"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín biān dōng zhǐ jí tiān yá"
+              },
+              "otherInfo": {
+                "line": "吟鞭东指即天涯"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "luò hóng bú shì wú qíng wù"
+              },
+              "otherInfo": {
+                "line": "落红不是无情物"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huà zuò chūn ní gèng hù huā"
+              },
+              "otherInfo": {
+                "line": "化作春泥更护花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浩荡”的意思是？",
+                "options": [
+                  "广阔壮大的样子",
+                  "水势汹涌的样子",
+                  "心情舒畅的样子",
+                  "声势浩大的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“离愁”的意思是？",
+                "options": [
+                  "离别时的愁绪",
+                  "离开家乡的忧愁",
+                  "远离朝廷的愁苦",
+                  "离别亲人的哀伤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“吟鞭”的意思是？",
+                "options": [
+                  "诗人的马鞭",
+                  "吟诵的节拍",
+                  "吟诗的声音",
+                  "赶马的鞭子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东指”的意思是？",
+                "options": [
+                  "向东指点",
+                  "向东出发",
+                  "向东望去",
+                  "向东挥鞭"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“天涯”的意思是？",
+                "options": [
+                  "天边，指遥远的地方",
+                  "天的尽头，指海边",
+                  "天涯海角，指海南",
+                  "遥远的天际，指故乡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“落红”的意思是？",
+                "options": [
+                  "落下的红花",
+                  "落花",
+                  "红色的落叶",
+                  "凋谢的红叶"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“春泥”的意思是？",
+                "options": [
+                  "春天的泥土",
+                  "春天的泥泞",
+                  "春日融化的泥土",
+                  "春天肥沃的泥土"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“护花”的意思是？",
+                "options": [
+                  "保护花朵",
+                  "爱护花草",
+                  "养护花木",
+                  "庇护花蕾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白日斜”的意思是？",
+                "options": [
+                  "太阳西斜",
+                  "白天倾斜",
+                  "白日将尽",
+                  "阳光斜照"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不是”的意思是？",
+                "options": [
+                  "并非",
+                  "不对",
+                  "不是这样",
+                  "不正确"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "无边无际的离愁笼罩着，夕阳西下。",
+                "options": [
+                  "浩荡离愁白日斜",
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "化作春泥更护花"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“浩荡离愁白日斜”的意思是？",
+                "options": [
+                  "离愁浩荡无边，太阳已经西斜",
+                  "离愁如水浩荡，白日渐渐倾斜",
+                  "离愁充满天地，白日西沉",
+                  "离愁浩荡难平，白日已经落山"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我挥动马鞭向东而去，奔向遥远的天边。",
+                "options": [
+                  "浩荡离愁白日斜",
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "化作春泥更护花"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“吟鞭东指即天涯”的意思是？",
+                "options": [
+                  "挥鞭向东，天涯就在眼前",
+                  "吟诗挥鞭向东，奔向遥远的天边",
+                  "挥动马鞭向东，即刻到达天涯",
+                  "吟鞭东指，天涯近在咫尺"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "飘落的花瓣并非没有感情。",
+                "options": [
+                  "浩荡离愁白日斜",
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "化作春泥更护花"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“落红不是无情物”的意思是？",
+                "options": [
+                  "落花并非没有感情",
+                  "落花不是无情的东西",
+                  "落红并非无情之物",
+                  "落花不是没有情义"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "化作春天的泥土，更加呵护花朵。",
+                "options": [
+                  "浩荡离愁白日斜",
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "化作春泥更护花"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“化作春泥更护花”的意思是？",
+                "options": [
+                  "化作春泥，更加爱护花朵",
+                  "变成春泥，更好地养护花朵",
+                  "化作春泥，更加保护花木",
+                  "变成春泥，更加呵护花蕾"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吟鞭东指即天涯",
+                  "浩荡离愁白日斜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "化作春泥更护花",
+                  "落红不是无情物"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吟鞭东指即天涯",
+                  "浩荡离愁白日斜",
+                  "化作春泥更护花",
+                  "落红不是无情物"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "化作春泥更护花",
+                  "浩荡离愁白日斜",
+                  "落红不是无情物",
+                  "吟鞭东指即天涯"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hào"
+              },
+              "otherInfo": {
+                "content": "__荡离愁白日斜",
+                "answer": "浩"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yín"
+              },
+              "otherInfo": {
+                "content": "__鞭东指即天涯",
+                "answer": "吟"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hóng"
+              },
+              "otherInfo": {
+                "content": "落__不是无情物",
+                "answer": "红"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ní"
+              },
+              "otherInfo": {
+                "content": "化作春__更护花",
+                "answer": "泥"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chóu"
+              },
+              "otherInfo": {
+                "content": "浩荡离__白日斜",
+                "answer": "愁"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yá"
+              },
+              "otherInfo": {
+                "content": "吟鞭东指即天__",
+                "answer": "涯"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qíng"
+              },
+              "otherInfo": {
+                "content": "落红不是无__物",
+                "answer": "情"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hù"
+              },
+              "otherInfo": {
+                "content": "化作春泥更__花",
+                "answer": "护"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xié"
+              },
+              "otherInfo": {
+                "content": "浩荡离愁白日__",
+                "answer": "斜"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huà"
+              },
+              "otherInfo": {
+                "content": "__作春泥更护花",
+                "answer": "化"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浩荡离愁白日斜，______",
+                "answer": "吟鞭东指即天涯"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，吟鞭东指即天涯",
+                "answer": "浩荡离愁白日斜"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "落红不是无情物，______",
+                "answer": "化作春泥更护花"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，化作春泥更护花",
+                "answer": "落红不是无情物"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "浩荡离愁白日斜，吟鞭东指即天涯。______，______",
+                "answer": "落红不是无情物，化作春泥更护花"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "落红不是无情物，化作春泥更护花。______，______",
+                "answer": "浩荡离愁白日斜，吟鞭东指即天涯"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吟鞭东指即天涯",
+                  "化作春泥更护花",
+                  "浩荡离愁白日斜",
+                  "落红不是无情物"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "落红不是无情物",
+                  "浩荡离愁白日斜",
+                  "化作春泥更护花",
+                  "吟鞭东指即天涯"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "化作春泥更护花",
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "浩荡离愁白日斜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "浩荡离愁白日斜",
+                  "落红不是无情物",
+                  "吟鞭东指即天涯",
+                  "化作春泥更护花"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "吟鞭东指即天涯",
+                  "落红不是无情物",
+                  "化作春泥更护花",
+                  "浩荡离愁白日斜"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

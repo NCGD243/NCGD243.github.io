@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo yún cù cù cǐ chéng tóu"
+              },
+              "otherInfo": {
+                "line": "高云簇簇此城头"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qiū fēng chuī sàn mǎ tí shēng"
+              },
+              "otherInfo": {
+                "line": "秋风吹散马蹄声"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hé liú dà yě yóu xián shù"
+              },
+              "otherInfo": {
+                "line": "河流大野犹嫌束"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān rù tóng guān bù jiě píng"
+              },
+              "otherInfo": {
+                "line": "山入潼关不解平"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高云簇簇此城头”中“簇簇”的意思是？",
+                "options": [
+                  "聚集的样子",
+                  "高耸的样子",
+                  "飘散的样子",
+                  "明亮的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋风吹散马蹄声”中“散”的意思是？",
+                "options": [
+                  "消散",
+                  "散落",
+                  "散开",
+                  "散布"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河流大野犹嫌束”中“犹”的意思是？",
+                "options": [
+                  "仍然",
+                  "犹豫",
+                  "如同",
+                  "尚且"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山入潼关不解平”中“解”的意思是？",
+                "options": [
+                  "懂得",
+                  "解开",
+                  "解除",
+                  "解释"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高云簇簇此城头”中“此”的意思是？",
+                "options": [
+                  "这",
+                  "那",
+                  "此前的",
+                  "如此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋风吹散马蹄声”中“马蹄声”指的是？",
+                "options": [
+                  "马蹄踏地的声音",
+                  "马蹄形状的声响",
+                  "马匹奔跑的节奏",
+                  "马蹄铁碰撞的声音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河流大野犹嫌束”中“束”的意思是？",
+                "options": [
+                  "束缚",
+                  "结束",
+                  "束发",
+                  "一束"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山入潼关不解平”中“平”的意思是？",
+                "options": [
+                  "平坦",
+                  "平静",
+                  "公平",
+                  "平息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“高云簇簇此城头”中“城头”指的是？",
+                "options": [
+                  "城墙之上",
+                  "城门之前",
+                  "城中高处",
+                  "城楼之内"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“河流大野犹嫌束”中“大野”的意思是？",
+                "options": [
+                  "广阔的原野",
+                  "巨大的田野",
+                  "野外的荒地",
+                  "辽阔的荒野"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "高高的云层聚集在这座城头之上。",
+                "options": [
+                  "高云簇簇此城头",
+                  "秋风吹散马蹄声",
+                  "河流大野犹嫌束",
+                  "山入潼关不解平"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“高云簇簇此城头”的意思是？",
+                "options": [
+                  "高高的云层聚集在这座城头之上",
+                  "高高的云层飘散在这座城头之上",
+                  "高高的云层笼罩着整座城池",
+                  "高高的云层从城头缓缓升起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "秋风吹散了马蹄踏地的声响。",
+                "options": [
+                  "秋风吹散马蹄声",
+                  "高云簇簇此城头",
+                  "山入潼关不解平",
+                  "河流大野犹嫌束"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“秋风吹散马蹄声”的意思是？",
+                "options": [
+                  "秋风吹散了马蹄踏地的声响",
+                  "秋风吹来了马蹄踏地的声响",
+                  "秋风吹断了马蹄踏地的节奏",
+                  "秋风吹远了马蹄踏地的回音"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "河流奔流在广阔的原野上，仍然嫌受到束缚。",
+                "options": [
+                  "河流大野犹嫌束",
+                  "山入潼关不解平",
+                  "高云簇簇此城头",
+                  "秋风吹散马蹄声"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“河流大野犹嫌束”的意思是？",
+                "options": [
+                  "河流奔流在广阔的原野上，仍然嫌受到束缚",
+                  "河流奔流在广阔的原野上，已经不再受束缚",
+                  "河流在广阔的原野上流淌，显得十分拘束",
+                  "河流在广阔的原野上奔流，嫌原野太狭窄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "群山进入潼关，不懂得什么是平坦。",
+                "options": [
+                  "山入潼关不解平",
+                  "河流大野犹嫌束",
+                  "秋风吹散马蹄声",
+                  "高云簇簇此城头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山入潼关不解平”的意思是？",
+                "options": [
+                  "群山进入潼关，不懂得什么是平坦",
+                  "群山进入潼关，不知道如何平坦",
+                  "群山进入潼关，不理解平坦的好处",
+                  "群山进入潼关，不再保持平坦"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋风吹散马蹄声",
+                  "高云簇簇此城头"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山入潼关不解平",
+                  "河流大野犹嫌束"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋风吹散马蹄声",
+                  "高云簇簇此城头",
+                  "山入潼关不解平",
+                  "河流大野犹嫌束"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山入潼关不解平",
+                  "河流大野犹嫌束",
+                  "高云簇簇此城头",
+                  "秋风吹散马蹄声"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cù"
+              },
+              "otherInfo": {
+                "content": "高云__簇此城头",
+                "answer": "簇"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sàn"
+              },
+              "otherInfo": {
+                "content": "秋风吹__马蹄声",
+                "answer": "散"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xián"
+              },
+              "otherInfo": {
+                "content": "河流大野犹__束",
+                "answer": "嫌"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiě"
+              },
+              "otherInfo": {
+                "content": "山入潼关不__平",
+                "answer": "解"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo"
+              },
+              "otherInfo": {
+                "content": "__云簇簇此城头",
+                "answer": "高"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tí"
+              },
+              "otherInfo": {
+                "content": "秋风吹散马__声",
+                "answer": "蹄"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù"
+              },
+              "otherInfo": {
+                "content": "河流大野犹嫌__",
+                "answer": "束"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "山入潼关不解__",
+                "answer": "平"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chéng"
+              },
+              "otherInfo": {
+                "content": "高云簇簇此__头",
+                "answer": "城"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yě"
+              },
+              "otherInfo": {
+                "content": "河流大__犹嫌束",
+                "answer": "野"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "高云簇簇此城头，______。",
+                "answer": "秋风吹散马蹄声"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，秋风吹散马蹄声。",
+                "answer": "高云簇簇此城头"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "河流大野犹嫌束，______。",
+                "answer": "山入潼关不解平"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，山入潼关不解平。",
+                "answer": "河流大野犹嫌束"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "高云簇簇此城头，秋风吹散马蹄声。______，______。",
+                "answer": "河流大野犹嫌束，山入潼关不解平"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "高云簇簇此城头，秋风吹散马蹄声。______，______。",
+                "answer": "河流大野犹嫌束，山入潼关不解平"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山入潼关不解平",
+                  "高云簇簇此城头",
+                  "河流大野犹嫌束",
+                  "秋风吹散马蹄声"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "秋风吹散马蹄声",
+                  "河流大野犹嫌束",
+                  "高云簇簇此城头",
+                  "山入潼关不解平"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "河流大野犹嫌束",
+                  "山入潼关不解平",
+                  "秋风吹散马蹄声",
+                  "高云簇簇此城头"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "高云簇簇此城头",
+                  "山入潼关不解平",
+                  "秋风吹散马蹄声",
+                  "河流大野犹嫌束"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山入潼关不解平",
+                  "秋风吹散马蹄声",
+                  "河流大野犹嫌束",
+                  "高云簇簇此城头"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

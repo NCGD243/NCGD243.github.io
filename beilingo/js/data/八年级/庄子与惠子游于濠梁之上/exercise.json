@@ -1,0 +1,1896 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuāng zǐ yǔ huì zǐ yóu yú háo liáng zhī shàng"
+              },
+              "otherInfo": {
+                "line": "庄子与惠子游于濠梁之上"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuāng zǐ yuē tiáo yú chū yóu cóng róng shì yú yú zhī lè yě"
+              },
+              "otherInfo": {
+                "line": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huì zǐ yuē zǐ fēi yú ān zhī yú zhī lè"
+              },
+              "otherInfo": {
+                "line": "惠子曰：“子非鱼，安知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuāng zǐ yuē zǐ fēi wǒ ān zhī wǒ bù zhī yú zhī lè"
+              },
+              "otherInfo": {
+                "line": "庄子曰：“子非我，安知我不知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huì zǐ yuē wǒ fēi zǐ gù bù zhī zǐ yǐ zǐ gù bù zhī yú quán yǐ"
+              },
+              "otherInfo": {
+                "line": "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuāng zǐ yuē qǐng xún qí běn"
+              },
+              "otherInfo": {
+                "line": "庄子曰：“请循其本。"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zǐ yuē rǔ ān zhī yú lè yún zhě jì yǐ zhī wú zhī zhī ér wèn wǒ"
+              },
+              "otherInfo": {
+                "line": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǒ zhī zhī háo shàng yě"
+              },
+              "otherInfo": {
+                "line": "我知之濠上也。”"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“鲦鱼出游从容”中“从容”的意思是？",
+                "options": [
+                  "悠闲自得的样子",
+                  "慌张急促的样子",
+                  "整齐有序的样子",
+                  "缓慢迟钝的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“是鱼之乐也”中“是”的意思是？",
+                "options": [
+                  "这",
+                  "正确",
+                  "表示判断",
+                  "于是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“安知鱼之乐”中“安”的意思是？",
+                "options": [
+                  "怎么",
+                  "安全",
+                  "安放",
+                  "安定"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“固不知子矣”中“固”的意思是？",
+                "options": [
+                  "本来",
+                  "坚固",
+                  "固执",
+                  "固然"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“全矣”中“全”的意思是？",
+                "options": [
+                  "完全成立",
+                  "全部",
+                  "保全",
+                  "齐全"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“请循其本”中“循”的意思是？",
+                "options": [
+                  "追溯",
+                  "遵循",
+                  "循环",
+                  "沿着"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“请循其本”中“本”的意思是？",
+                "options": [
+                  "本源",
+                  "根本",
+                  "本来",
+                  "书本"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汝安知鱼乐”中“汝”的意思是？",
+                "options": [
+                  "你",
+                  "我",
+                  "他",
+                  "你们"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“云者”中“云”的意思是？",
+                "options": [
+                  "说",
+                  "云彩",
+                  "如此",
+                  "众多"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“我知之濠上也”中“之”的意思是？",
+                "options": [
+                  "代词，指鱼之乐",
+                  "的",
+                  "往",
+                  "助词，无实义"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "庄子和惠子在濠水的桥上游玩。",
+                "options": [
+                  "庄子与惠子游于濠梁之上",
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "子非鱼，安知鱼之乐",
+                  "我知之濠上也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“庄子与惠子游于濠梁之上”的意思是？",
+                "options": [
+                  "庄子和惠子在濠水的桥上游玩",
+                  "庄子和惠子在濠水边争论",
+                  "庄子和惠子在桥上钓鱼",
+                  "庄子和惠子从濠水桥上经过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鲦鱼游得悠闲自在，这是鱼的快乐啊。",
+                "options": [
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "子非鱼，安知鱼之乐",
+                  "我非子，固不知子矣",
+                  "请循其本"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鲦鱼出游从容，是鱼之乐也”的意思是？",
+                "options": [
+                  "鲦鱼游得悠闲自在，这是鱼的快乐啊",
+                  "鲦鱼在水中游来游去，这是鱼的习性啊",
+                  "鲦鱼从容地游着，这是鱼的本能啊",
+                  "鲦鱼出游很缓慢，这是鱼的悠闲啊"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你不是鱼，怎么知道鱼的快乐？",
+                "options": [
+                  "子非鱼，安知鱼之乐",
+                  "子非我，安知我不知鱼之乐",
+                  "我非子，固不知子矣",
+                  "汝安知鱼乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“子非鱼，安知鱼之乐”的意思是？",
+                "options": [
+                  "你不是鱼，怎么知道鱼的快乐",
+                  "你不是鱼，所以不知道鱼的快乐",
+                  "你不是鱼，哪里能找到鱼的快乐",
+                  "你不是鱼，凭什么说鱼快乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你不是我，怎么知道我不知道鱼的快乐？",
+                "options": [
+                  "子非我，安知我不知鱼之乐",
+                  "子非鱼，安知鱼之乐",
+                  "我非子，固不知子矣",
+                  "既已知吾知之而问我"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“子非我，安知我不知鱼之乐”的意思是？",
+                "options": [
+                  "你不是我，怎么知道我不知道鱼的快乐",
+                  "你不是我，所以不知道我是否知道鱼的快乐",
+                  "你不是我，怎么能体会我知道鱼的快乐",
+                  "你不是我，凭什么说我不知道鱼的快乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我不是你，本来就不了解你；你本来就不是鱼，你不知道鱼的快乐，这是完全可以肯定的！",
+                "options": [
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子非鱼，安知鱼之乐",
+                  "子非我，安知我不知鱼之乐",
+                  "请循其本"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣”的意思是？",
+                "options": [
+                  "我不是你，本来就不了解你；你本来就不是鱼，你不知道鱼的快乐，这是完全可以肯定的",
+                  "我不是你，所以不了解你；你不是鱼，所以不知道鱼的快乐，这是很自然的",
+                  "我不是你，固然不了解你；你固然不是鱼，你不知道鱼的快乐，这是很清楚的",
+                  "我不是你，本来就不了解你；你本来就不是鱼，你不知道鱼的快乐，这是很正常的"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "请追溯话题的本源。",
+                "options": [
+                  "请循其本",
+                  "我知之濠上也",
+                  "既已知吾知之而问我",
+                  "汝安知鱼乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“请循其本”的意思是？",
+                "options": [
+                  "请追溯话题的本源",
+                  "请遵循原来的说法",
+                  "请按照根本的原则",
+                  "请回到最初的问题"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "你说“你怎么知道鱼的快乐”的时候，说明你已经知道我知道鱼的快乐才来问我。",
+                "options": [
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "子非鱼，安知鱼之乐",
+                  "子非我，安知我不知鱼之乐",
+                  "我非子，固不知子矣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“子曰‘汝安知鱼乐’云者，既已知吾知之而问我”的意思是？",
+                "options": [
+                  "你说“你怎么知道鱼的快乐”的时候，说明你已经知道我知道鱼的快乐才来问我",
+                  "你说“你怎么知道鱼的快乐”，是已经知道我知道鱼的快乐才来问我",
+                  "你说“你怎么知道鱼的快乐”，既然已经知道我知道鱼的快乐，就来问我",
+                  "你说“你怎么知道鱼的快乐”，其实已经知道我知道鱼的快乐，却还要问我"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "我是在濠水的桥上知道的。",
+                "options": [
+                  "我知之濠上也",
+                  "请循其本",
+                  "既已知吾知之而问我",
+                  "庄子与惠子游于濠梁之上"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“我知之濠上也”的意思是？",
+                "options": [
+                  "我是在濠水的桥上知道的",
+                  "我知道濠水上的事情",
+                  "我是在濠水桥上听说这件事的",
+                  "我知道鱼在濠水上快乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "庄子与惠子游于濠梁之上"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "庄子曰：“鲦鱼出游从容，是鱼之乐也。”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子非鱼，安知鱼之乐",
+                  "惠子曰：“子非鱼，安知鱼之乐？”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子非我，安知我不知鱼之乐",
+                  "庄子曰：“子非我，安知我不知鱼之乐？”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请循其本",
+                  "庄子曰：“请循其本。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我知之濠上也",
+                  "我知之濠上也。”"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "庄子与惠子游于濠梁之上"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子非鱼，安知鱼之乐",
+                  "鲦鱼出游从容，是鱼之乐也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子非我，安知我不知鱼之乐",
+                  "子非鱼，安知鱼之乐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子非我，安知我不知鱼之乐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请循其本",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "请循其本"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我知之濠上也",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我知之濠上也",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "请循其本",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子非我，安知我不知鱼之乐",
+                  "子非鱼，安知鱼之乐",
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "庄子与惠子游于濠梁之上"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "háo"
+              },
+              "otherInfo": {
+                "content": "庄子与惠子游于__梁之上",
+                "answer": "濠"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tiáo"
+              },
+              "otherInfo": {
+                "content": "__鱼出游从容，是鱼之乐也",
+                "answer": "鲦"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "ān"
+              },
+              "otherInfo": {
+                "content": "子非鱼，__知鱼之乐",
+                "answer": "安"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "我非子，__不知子矣",
+                "answer": "固"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xún"
+              },
+              "otherInfo": {
+                "content": "请__其本",
+                "answer": "循"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "rǔ"
+              },
+              "otherInfo": {
+                "content": "子曰‘__安知鱼乐’云者",
+                "answer": "汝"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "__已知吾知之而问我",
+                "answer": "既"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "háo"
+              },
+              "otherInfo": {
+                "content": "我知之__上也",
+                "answer": "濠"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cóng"
+              },
+              "otherInfo": {
+                "content": "鲦鱼出游__容，是鱼之乐也",
+                "answer": "从"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "quán"
+              },
+              "otherInfo": {
+                "content": "子之不知鱼之乐，__矣",
+                "answer": "全"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子与惠子游于濠梁之上，______",
+                "answer": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，庄子曰：“鲦鱼出游从容，是鱼之乐也。”",
+                "answer": "庄子与惠子游于濠梁之上"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”______",
+                "answer": "惠子曰：“子非鱼，安知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______惠子曰：“子非鱼，安知鱼之乐？”",
+                "answer": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惠子曰：“子非鱼，安知鱼之乐？”______",
+                "answer": "庄子曰：“子非我，安知我不知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______庄子曰：“子非我，安知我不知鱼之乐？”",
+                "answer": "惠子曰：“子非鱼，安知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“子非我，安知我不知鱼之乐？”______",
+                "answer": "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”",
+                "answer": "庄子曰：“子非我，安知我不知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”______",
+                "answer": "庄子曰：“请循其本。"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______庄子曰：“请循其本。",
+                "answer": "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“请循其本。______",
+                "answer": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______子曰‘汝安知鱼乐’云者，既已知吾知之而问我。",
+                "answer": "庄子曰：“请循其本。"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。______",
+                "answer": "我知之濠上也。”"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______我知之濠上也。”",
+                "answer": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我知之濠上也。”______",
+                "answer": "（无下句）"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______我知之濠上也。”",
+                "answer": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子与惠子游于濠梁之上，______",
+                "answer": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”惠子曰：“子非鱼，安知鱼之乐？”"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“鲦鱼出游从容，是鱼之乐也。”惠子曰：“子非鱼，安知鱼之乐？”______",
+                "answer": "庄子曰：“子非我，安知我不知鱼之乐？”惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“子非我，安知我不知鱼之乐？”惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”______",
+                "answer": "庄子曰：“请循其本。子曰‘汝安知鱼乐’云者，既已知吾知之而问我。我知之濠上也。”"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "惠子曰：“我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣！”______",
+                "answer": "庄子曰：“请循其本。子曰‘汝安知鱼乐’云者，既已知吾知之而问我。我知之濠上也。”"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "庄子曰：“请循其本。______",
+                "answer": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。我知之濠上也。”"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "子曰‘汝安知鱼乐’云者，既已知吾知之而问我。______",
+                "answer": "我知之濠上也。”"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "我知之濠上也。”______",
+                "answer": "（无下句）"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我知之濠上也。”",
+                  "子非鱼，安知鱼之乐",
+                  "请循其本",
+                  "庄子与惠子游于濠梁之上",
+                  "子非我，安知我不知鱼之乐",
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "我知之濠上也。”",
+                  "子非我，安知我不知鱼之乐",
+                  "请循其本",
+                  "庄子与惠子游于濠梁之上",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子非鱼，安知鱼之乐",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "子非鱼，安知鱼之乐",
+                  "我知之濠上也。”",
+                  "庄子与惠子游于濠梁之上",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "请循其本",
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子非我，安知我不知鱼之乐"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "请循其本",
+                  "子非我，安知我不知鱼之乐",
+                  "我知之濠上也。”",
+                  "庄子与惠子游于濠梁之上",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "鲦鱼出游从容，是鱼之乐也",
+                  "子非鱼，安知鱼之乐"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "我非子，固不知子矣；子固非鱼也，子之不知鱼之乐，全矣",
+                  "子曰‘汝安知鱼乐’云者，既已知吾知之而问我",
+                  "子非鱼，安知鱼之乐",
+                  "请循其本",
+                  "我知之濠上也。”",
+                  "庄子与惠子游于濠梁之上",
+                  "子非我，安知我不知鱼之乐",
+                  "鲦鱼出游从容，是鱼之乐也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

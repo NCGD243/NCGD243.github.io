@@ -1,0 +1,1301 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng nán kě cǎi lián"
+              },
+              "otherInfo": {
+                "line": "江南可采莲"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián yè hé tián tián"
+              },
+              "otherInfo": {
+                "line": "莲叶何田田"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xì lián yè jiān"
+              },
+              "otherInfo": {
+                "line": "鱼戏莲叶间"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xì lián yè dōng"
+              },
+              "otherInfo": {
+                "line": "鱼戏莲叶东"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xì lián yè xī"
+              },
+              "otherInfo": {
+                "line": "鱼戏莲叶西"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xì lián yè nán"
+              },
+              "otherInfo": {
+                "line": "鱼戏莲叶南"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xì lián yè běi"
+              },
+              "otherInfo": {
+                "line": "鱼戏莲叶北"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“可”的意思是？",
+                "options": [
+                  "可以",
+                  "可爱",
+                  "可是",
+                  "可能"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“采”的意思是？",
+                "options": [
+                  "采摘",
+                  "采集",
+                  "采纳",
+                  "采光"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“何”的意思是？",
+                "options": [
+                  "多么",
+                  "什么",
+                  "为什么",
+                  "哪里"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“田田”的意思是？",
+                "options": [
+                  "莲叶茂盛相连的样子",
+                  "田地整齐的样子",
+                  "田野广阔的样子",
+                  "田埂弯曲的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“戏”的意思是？",
+                "options": [
+                  "嬉戏",
+                  "戏剧",
+                  "戏弄",
+                  "戏说"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“间”的意思是？",
+                "options": [
+                  "中间",
+                  "间隔",
+                  "时间",
+                  "房间"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东”的意思是？",
+                "options": [
+                  "东面",
+                  "东方",
+                  "东边",
+                  "东家"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "江南可以采摘莲蓬。",
+                "options": [
+                  "江南可采莲",
+                  "莲叶何田田",
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶东"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“江南可采莲”的意思是？",
+                "options": [
+                  "江南一带可以采摘莲蓬",
+                  "江南一带可以种植莲藕",
+                  "江南一带可以观赏莲花",
+                  "江南一带可以捕捞鱼虾"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "莲叶多么茂盛相连。",
+                "options": [
+                  "莲叶何田田",
+                  "江南可采莲",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶南"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“莲叶何田田”的意思是？",
+                "options": [
+                  "莲叶多么茂盛相连",
+                  "莲叶多么宽阔平坦",
+                  "莲叶多么稀疏零落",
+                  "莲叶多么枯黄卷曲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鱼儿在莲叶间嬉戏。",
+                "options": [
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鱼戏莲叶间”的意思是？",
+                "options": [
+                  "鱼儿在莲叶中间嬉戏",
+                  "鱼儿在莲叶上面跳跃",
+                  "鱼儿在莲叶下面躲藏",
+                  "鱼儿在莲叶旁边游过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鱼儿在莲叶东边嬉戏。",
+                "options": [
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鱼戏莲叶东”的意思是？",
+                "options": [
+                  "鱼儿在莲叶东边嬉戏",
+                  "鱼儿从东边游向莲叶",
+                  "鱼儿在莲叶东边觅食",
+                  "鱼儿在莲叶东边栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鱼儿在莲叶西边嬉戏。",
+                "options": [
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶北"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鱼戏莲叶西”的意思是？",
+                "options": [
+                  "鱼儿在莲叶西边嬉戏",
+                  "鱼儿从西边游向莲叶",
+                  "鱼儿在莲叶西边觅食",
+                  "鱼儿在莲叶西边栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鱼儿在莲叶南边嬉戏。",
+                "options": [
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶西"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鱼戏莲叶南”的意思是？",
+                "options": [
+                  "鱼儿在莲叶南边嬉戏",
+                  "鱼儿从南边游向莲叶",
+                  "鱼儿在莲叶南边觅食",
+                  "鱼儿在莲叶南边栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "鱼儿在莲叶北边嬉戏。",
+                "options": [
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶西"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“鱼戏莲叶北”的意思是？",
+                "options": [
+                  "鱼儿在莲叶北边嬉戏",
+                  "鱼儿从北边游向莲叶",
+                  "鱼儿在莲叶北边觅食",
+                  "鱼儿在莲叶北边栖息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "莲叶何田田",
+                  "江南可采莲"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶间",
+                  "莲叶何田田"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶西"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶南"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶间",
+                  "江南可采莲",
+                  "莲叶何田田"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶东",
+                  "莲叶何田田",
+                  "鱼戏莲叶间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶间"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶东"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶西"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶间",
+                  "莲叶何田田",
+                  "江南可采莲"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiāng"
+              },
+              "otherInfo": {
+                "content": "__南可采莲",
+                "answer": "江"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lián"
+              },
+              "otherInfo": {
+                "content": "莲叶何田田",
+                "answer": "莲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "__戏莲叶间",
+                "answer": "鱼"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng"
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶__",
+                "answer": "东"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī"
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶__",
+                "answer": "西"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nán"
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶__",
+                "answer": "南"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "běi"
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶__",
+                "answer": "北"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "江南可采莲，______",
+                "answer": "莲叶何田田"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，莲叶何田田",
+                "answer": "江南可采莲"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶间，______",
+                "answer": "鱼戏莲叶东"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，鱼戏莲叶东",
+                "answer": "鱼戏莲叶间"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶西，______",
+                "answer": "鱼戏莲叶南"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，鱼戏莲叶南",
+                "answer": "鱼戏莲叶西"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶北，______",
+                "answer": "鱼戏莲叶北"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，鱼戏莲叶北",
+                "answer": "鱼戏莲叶南"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "江南可采莲，莲叶何田田。______，______",
+                "answer": "鱼戏莲叶间，鱼戏莲叶东"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶间，鱼戏莲叶东。______，______",
+                "answer": "鱼戏莲叶西，鱼戏莲叶南"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "鱼戏莲叶西，鱼戏莲叶南。______，______",
+                "answer": "鱼戏莲叶北，鱼戏莲叶北"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶南",
+                  "江南可采莲",
+                  "鱼戏莲叶东",
+                  "莲叶何田田",
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶北"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "莲叶何田田",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶北",
+                  "江南可采莲",
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶北"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶北",
+                  "江南可采莲",
+                  "鱼戏莲叶南",
+                  "莲叶何田田",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶北"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶间",
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶东",
+                  "莲叶何田田",
+                  "鱼戏莲叶南",
+                  "江南可采莲",
+                  "鱼戏莲叶西",
+                  "鱼戏莲叶北"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "鱼戏莲叶西",
+                  "江南可采莲",
+                  "鱼戏莲叶北",
+                  "鱼戏莲叶间",
+                  "莲叶何田田",
+                  "鱼戏莲叶东",
+                  "鱼戏莲叶南",
+                  "鱼戏莲叶北"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

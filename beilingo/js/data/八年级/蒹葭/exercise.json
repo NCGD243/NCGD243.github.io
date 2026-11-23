@@ -1,0 +1,2415 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān jiā cāng cāng bái lù wéi shuāng"
+              },
+              "otherInfo": {
+                "line": "蒹葭苍苍，白露为霜"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ wèi yī rén zài shuǐ yī fāng"
+              },
+              "otherInfo": {
+                "line": "所谓伊人，在水一方"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù huí cóng zhī dào zǔ qiě cháng"
+              },
+              "otherInfo": {
+                "line": "溯洄从之，道阻且长"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù yóu cóng zhī wǎn zài shuǐ zhōng yāng"
+              },
+              "otherInfo": {
+                "line": "溯游从之，宛在水中央"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān jiā qī qī bái lù wèi xī"
+              },
+              "otherInfo": {
+                "line": "蒹葭萋萋，白露未晞"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ wèi yī rén zài shuǐ zhī méi"
+              },
+              "otherInfo": {
+                "line": "所谓伊人，在水之湄"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù huí cóng zhī dào zǔ qiě jī"
+              },
+              "otherInfo": {
+                "line": "溯洄从之，道阻且跻"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù yóu cóng zhī wǎn zài shuǐ zhōng chí"
+              },
+              "otherInfo": {
+                "line": "溯游从之，宛在水中坻"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān jiā cǎi cǎi bái lù wèi yǐ"
+              },
+              "otherInfo": {
+                "line": "蒹葭采采，白露未已"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "suǒ wèi yī rén zài shuǐ zhī sì"
+              },
+              "otherInfo": {
+                "line": "所谓伊人，在水之涘"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù huí cóng zhī dào zǔ qiě yòu"
+              },
+              "otherInfo": {
+                "line": "溯洄从之，道阻且右"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù yóu cóng zhī wǎn zài shuǐ zhōng zhǐ"
+              },
+              "otherInfo": {
+                "line": "溯游从之，宛在水中沚"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“蒹葭苍苍”中“苍苍”的意思是？",
+                "options": [
+                  "茂盛的样子",
+                  "灰白的颜色",
+                  "寒冷的样子",
+                  "遥远的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白露为霜”中“为”的意思是？",
+                "options": [
+                  "凝结成",
+                  "为了",
+                  "作为",
+                  "因为"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“所谓伊人”中“伊人”的意思是？",
+                "options": [
+                  "那个人，指所思念的人",
+                  "伊水边的人",
+                  "姓伊的人",
+                  "美丽的人"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“在水一方”中“方”的意思是？",
+                "options": [
+                  "边，一侧",
+                  "方法",
+                  "方向",
+                  "地方"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“溯洄从之”中“溯洄”的意思是？",
+                "options": [
+                  "逆流而上",
+                  "顺流而下",
+                  "沿着河岸走",
+                  "渡水而过"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“道阻且长”中“阻”的意思是？",
+                "options": [
+                  "险阻，难走",
+                  "阻止",
+                  "阻挡",
+                  "阻隔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“宛在水中央”中“宛”的意思是？",
+                "options": [
+                  "仿佛，好像",
+                  "宛转",
+                  "曲折",
+                  "确实"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“白露未晞”中“晞”的意思是？",
+                "options": [
+                  "干",
+                  "天亮",
+                  "稀少",
+                  "蒸发"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“道阻且跻”中“跻”的意思是？",
+                "options": [
+                  "升高，攀登",
+                  "拥挤",
+                  "跻身",
+                  "跌倒"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“宛在水中坻”中“坻”的意思是？",
+                "options": [
+                  "水中的小洲或高地",
+                  "水边",
+                  "水底",
+                  "堤岸"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "芦苇茂盛苍青，白露凝结成霜。",
+                "options": [
+                  "蒹葭苍苍，白露为霜",
+                  "蒹葭萋萋，白露未晞",
+                  "蒹葭采采，白露未已",
+                  "关关雎鸠，在河之洲"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“所谓伊人，在水一方”的意思是？",
+                "options": [
+                  "我所思念的那个人，就在河水的那一边",
+                  "我所思念的那个人，就在水的中央",
+                  "我所思念的那个人，就在水边的高地",
+                  "我所思念的那个人，就在河岸的尽头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "逆流而上去追寻她，道路险阻又漫长。",
+                "options": [
+                  "溯洄从之，道阻且长",
+                  "溯游从之，宛在水中央",
+                  "溯洄从之，道阻且跻",
+                  "溯游从之，宛在水中坻"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“溯游从之，宛在水中央”的意思是？",
+                "options": [
+                  "顺流而下去追寻她，她仿佛就在水的中央",
+                  "逆流而上去追寻她，她仿佛就在水的中央",
+                  "顺流而下去追寻她，她仿佛就在水边",
+                  "逆流而上去追寻她，道路险阻又漫长"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "芦苇茂盛，白露还没有干。",
+                "options": [
+                  "蒹葭萋萋，白露未晞",
+                  "蒹葭苍苍，白露为霜",
+                  "蒹葭采采，白露未已",
+                  "所谓伊人，在水之湄"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“所谓伊人，在水之湄”的意思是？",
+                "options": [
+                  "我所思念的那个人，就在水边",
+                  "我所思念的那个人，就在水的中央",
+                  "我所思念的那个人，就在水中的小洲",
+                  "我所思念的那个人，就在河的另一边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "逆流而上去追寻她，道路险阻又难登。",
+                "options": [
+                  "溯洄从之，道阻且跻",
+                  "溯洄从之，道阻且长",
+                  "溯游从之，宛在水中坻",
+                  "溯游从之，宛在水中沚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“溯游从之，宛在水中坻”的意思是？",
+                "options": [
+                  "顺流而下去追寻她，她仿佛就在水中的小洲上",
+                  "逆流而上去追寻她，她仿佛就在水中的小洲上",
+                  "顺流而下去追寻她，她仿佛就在水边",
+                  "逆流而上去追寻她，道路险阻又难登"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "芦苇茂盛，白露还没有完。",
+                "options": [
+                  "蒹葭采采，白露未已",
+                  "蒹葭萋萋，白露未晞",
+                  "蒹葭苍苍，白露为霜",
+                  "所谓伊人，在水之涘"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“所谓伊人，在水之涘”的意思是？",
+                "options": [
+                  "我所思念的那个人，就在水边",
+                  "我所思念的那个人，就在水的中央",
+                  "我所思念的那个人，就在水中的小洲",
+                  "我所思念的那个人，就在河的另一边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "逆流而上去追寻她，道路险阻又曲折。",
+                "options": [
+                  "溯洄从之，道阻且右",
+                  "溯洄从之，道阻且长",
+                  "溯洄从之，道阻且跻",
+                  "溯游从之，宛在水中沚"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“溯游从之，宛在水中沚”的意思是？",
+                "options": [
+                  "顺流而下去追寻她，她仿佛就在水中的小洲上",
+                  "逆流而上去追寻她，她仿佛就在水中的小洲上",
+                  "顺流而下去追寻她，她仿佛就在水边",
+                  "逆流而上去追寻她，道路险阻又曲折"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白露为霜",
+                  "蒹葭苍苍"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "在水一方",
+                  "所谓伊人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且长",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中央",
+                  "溯游从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白露未晞",
+                  "蒹葭萋萋"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "在水之湄",
+                  "所谓伊人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且跻",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中坻",
+                  "溯游从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白露未已",
+                  "蒹葭采采"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "在水之涘",
+                  "所谓伊人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且右",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中沚",
+                  "溯游从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所谓伊人",
+                  "蒹葭苍苍",
+                  "在水一方",
+                  "白露为霜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且长",
+                  "所谓伊人",
+                  "溯洄从之",
+                  "在水一方"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中央",
+                  "道阻且长",
+                  "溯游从之",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白露未晞",
+                  "蒹葭萋萋",
+                  "在水之湄",
+                  "所谓伊人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q17",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且跻",
+                  "所谓伊人",
+                  "溯洄从之",
+                  "在水之湄"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q18",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中坻",
+                  "道阻且跻",
+                  "溯游从之",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q19",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白露未已",
+                  "蒹葭采采",
+                  "在水之涘",
+                  "所谓伊人"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q20",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "道阻且右",
+                  "所谓伊人",
+                  "溯洄从之",
+                  "在水之涘"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q21",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "宛在水中沚",
+                  "道阻且右",
+                  "溯游从之",
+                  "溯洄从之"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q22",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯游从之",
+                  "蒹葭苍苍",
+                  "在水一方",
+                  "白露为霜",
+                  "所谓伊人",
+                  "宛在水中央",
+                  "溯洄从之",
+                  "道阻且长"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q23",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯游从之",
+                  "蒹葭萋萋",
+                  "在水之湄",
+                  "白露未晞",
+                  "所谓伊人",
+                  "宛在水中坻",
+                  "溯洄从之",
+                  "道阻且跻"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q24",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯游从之",
+                  "蒹葭采采",
+                  "在水之涘",
+                  "白露未已",
+                  "所谓伊人",
+                  "宛在水中沚",
+                  "溯洄从之",
+                  "道阻且右"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān"
+              },
+              "otherInfo": {
+                "content": "__葭苍苍，白露为霜",
+                "answer": "蒹"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi"
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水一__",
+                "answer": "方"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sù"
+              },
+              "otherInfo": {
+                "content": "__洄从之，道阻且长",
+                "answer": "溯"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǎn"
+              },
+              "otherInfo": {
+                "content": "溯游从之，__在水中央",
+                "answer": "宛"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qī"
+              },
+              "otherInfo": {
+                "content": "蒹葭__萋，白露未晞",
+                "answer": "萋"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "méi"
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水之__",
+                "answer": "湄"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jī"
+              },
+              "otherInfo": {
+                "content": "溯洄从之，道阻且__",
+                "answer": "跻"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chí"
+              },
+              "otherInfo": {
+                "content": "溯游从之，宛在水中__",
+                "answer": "坻"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎi"
+              },
+              "otherInfo": {
+                "content": "蒹葭__采，白露未已",
+                "answer": "采"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sì"
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水之__",
+                "answer": "涘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭苍苍，______",
+                "answer": "白露为霜"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白露为霜",
+                "answer": "蒹葭苍苍"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，______",
+                "answer": "在水一方"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，在水一方",
+                "answer": "所谓伊人"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，______",
+                "answer": "道阻且长"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，道阻且长",
+                "answer": "溯洄从之"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯游从之，______",
+                "answer": "宛在水中央"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，宛在水中央",
+                "answer": "溯游从之"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭萋萋，______",
+                "answer": "白露未晞"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白露未晞",
+                "answer": "蒹葭萋萋"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，______",
+                "answer": "在水之湄"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，在水之湄",
+                "answer": "所谓伊人"
+              }
+            },
+            {
+              "id": "s4l1q13",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，______",
+                "answer": "道阻且跻"
+              }
+            },
+            {
+              "id": "s4l1q14",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，道阻且跻",
+                "answer": "溯洄从之"
+              }
+            },
+            {
+              "id": "s4l1q15",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯游从之，______",
+                "answer": "宛在水中坻"
+              }
+            },
+            {
+              "id": "s4l1q16",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，宛在水中坻",
+                "answer": "溯游从之"
+              }
+            },
+            {
+              "id": "s4l1q17",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭采采，______",
+                "answer": "白露未已"
+              }
+            },
+            {
+              "id": "s4l1q18",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，白露未已",
+                "answer": "蒹葭采采"
+              }
+            },
+            {
+              "id": "s4l1q19",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，______",
+                "answer": "在水之涘"
+              }
+            },
+            {
+              "id": "s4l1q20",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，在水之涘",
+                "answer": "所谓伊人"
+              }
+            },
+            {
+              "id": "s4l1q21",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，______",
+                "answer": "道阻且右"
+              }
+            },
+            {
+              "id": "s4l1q22",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，道阻且右",
+                "answer": "溯洄从之"
+              }
+            },
+            {
+              "id": "s4l1q23",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯游从之，______",
+                "answer": "宛在水中沚"
+              }
+            },
+            {
+              "id": "s4l1q24",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，宛在水中沚",
+                "answer": "溯游从之"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭苍苍，白露为霜。______，______",
+                "answer": "所谓伊人，在水一方"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水一方。______，______",
+                "answer": "溯洄从之，道阻且长"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，道阻且长。______，______",
+                "answer": "溯游从之，宛在水中央"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯游从之，宛在水中央。______，______",
+                "answer": "蒹葭萋萋，白露未晞"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭萋萋，白露未晞。______，______",
+                "answer": "所谓伊人，在水之湄"
+              }
+            },
+            {
+              "id": "s4l2q6",
+              "type": "spell",
+              "covered": [
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水之湄。______，______",
+                "answer": "溯洄从之，道阻且跻"
+              }
+            },
+            {
+              "id": "s4l2q7",
+              "type": "spell",
+              "covered": [
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，道阻且跻。______，______",
+                "answer": "溯游从之，宛在水中坻"
+              }
+            },
+            {
+              "id": "s4l2q8",
+              "type": "spell",
+              "covered": [
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯游从之，宛在水中坻。______，______",
+                "answer": "蒹葭采采，白露未已"
+              }
+            },
+            {
+              "id": "s4l2q9",
+              "type": "spell",
+              "covered": [
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "蒹葭采采，白露未已。______，______",
+                "answer": "所谓伊人，在水之涘"
+              }
+            },
+            {
+              "id": "s4l2q10",
+              "type": "spell",
+              "covered": [
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "所谓伊人，在水之涘。______，______",
+                "answer": "溯洄从之，道阻且右"
+              }
+            },
+            {
+              "id": "s4l2q11",
+              "type": "spell",
+              "covered": [
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "溯洄从之，道阻且右。______，______",
+                "answer": "溯游从之，宛在水中沚"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯游从之，宛在水中沚",
+                  "蒹葭苍苍，白露为霜",
+                  "所谓伊人，在水之湄",
+                  "溯洄从之，道阻且跻",
+                  "蒹葭采采，白露未已",
+                  "溯游从之，宛在水中央",
+                  "所谓伊人，在水一方",
+                  "溯洄从之，道阻且长",
+                  "蒹葭萋萋，白露未晞",
+                  "溯游从之，宛在水中坻",
+                  "所谓伊人，在水之涘",
+                  "溯洄从之，道阻且右"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "所谓伊人，在水一方",
+                  "溯游从之，宛在水中坻",
+                  "蒹葭采采，白露未已",
+                  "溯洄从之，道阻且长",
+                  "蒹葭苍苍，白露为霜",
+                  "所谓伊人，在水之涘",
+                  "溯游从之，宛在水中沚",
+                  "蒹葭萋萋，白露未晞",
+                  "溯洄从之，道阻且右",
+                  "所谓伊人，在水之湄",
+                  "溯游从之，宛在水中央",
+                  "溯洄从之，道阻且跻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯洄从之，道阻且右",
+                  "所谓伊人，在水之湄",
+                  "溯游从之，宛在水中沚",
+                  "蒹葭苍苍，白露为霜",
+                  "溯洄从之，道阻且跻",
+                  "所谓伊人，在水一方",
+                  "蒹葭采采，白露未已",
+                  "溯游从之，宛在水中央",
+                  "所谓伊人，在水之涘",
+                  "溯洄从之，道阻且长",
+                  "蒹葭萋萋，白露未晞",
+                  "溯游从之，宛在水中坻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "蒹葭萋萋，白露未晞",
+                  "所谓伊人，在水之涘",
+                  "溯游从之，宛在水中坻",
+                  "溯洄从之，道阻且长",
+                  "蒹葭苍苍，白露为霜",
+                  "所谓伊人，在水一方",
+                  "溯游从之，宛在水中沚",
+                  "溯洄从之，道阻且右",
+                  "所谓伊人，在水之湄",
+                  "溯游从之，宛在水中央",
+                  "蒹葭采采，白露未已",
+                  "溯洄从之，道阻且跻"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  7,
+                  2
+                ],
+                [
+                  8,
+                  1
+                ],
+                [
+                  8,
+                  2
+                ],
+                [
+                  9,
+                  1
+                ],
+                [
+                  9,
+                  2
+                ],
+                [
+                  10,
+                  1
+                ],
+                [
+                  10,
+                  2
+                ],
+                [
+                  11,
+                  1
+                ],
+                [
+                  11,
+                  2
+                ],
+                [
+                  12,
+                  1
+                ],
+                [
+                  12,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "溯游从之，宛在水中坻",
+                  "所谓伊人，在水一方",
+                  "溯洄从之，道阻且右",
+                  "蒹葭采采，白露未已",
+                  "溯游从之，宛在水中央",
+                  "所谓伊人，在水之湄",
+                  "蒹葭苍苍，白露为霜",
+                  "溯洄从之，道阻且跻",
+                  "所谓伊人，在水之涘",
+                  "溯游从之，宛在水中沚",
+                  "蒹葭萋萋，白露未晞",
+                  "溯洄从之，道阻且长"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

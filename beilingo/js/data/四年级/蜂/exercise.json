@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bù lùn píng dì yǔ shān jiān"
+              },
+              "otherInfo": {
+                "line": "不论平地与山尖"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wú xiàn fēng guāng jìn bèi zhàn"
+              },
+              "otherInfo": {
+                "line": "无限风光尽被占"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎi dé bǎi huā chéng mì hòu"
+              },
+              "otherInfo": {
+                "line": "采得百花成蜜后"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi shuí xīn kǔ wèi shuí tián"
+              },
+              "otherInfo": {
+                "line": "为谁辛苦为谁甜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“不论”的意思是？",
+                "options": [
+                  "不管，无论",
+                  "不讨论",
+                  "不谈论",
+                  "不争论"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山尖”的意思是？",
+                "options": [
+                  "山峰",
+                  "山脚",
+                  "山腰",
+                  "山洞"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“无限”的意思是？",
+                "options": [
+                  "没有限量，极其多",
+                  "没有线索",
+                  "没有限制",
+                  "没有期限"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“风光”的意思是？",
+                "options": [
+                  "风景，景色",
+                  "光彩，体面",
+                  "风俗，习惯",
+                  "风声，光亮"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“尽”的意思是？",
+                "options": [
+                  "全，都",
+                  "完，结束",
+                  "尽力",
+                  "尽头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“被”的意思是？",
+                "options": [
+                  "表被动，被让",
+                  "被子",
+                  "覆盖",
+                  "遭受"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“占”的意思是？",
+                "options": [
+                  "占据，占有",
+                  "占卜",
+                  "占便宜",
+                  "占优势"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“采得”的意思是？",
+                "options": [
+                  "采集到",
+                  "采取得",
+                  "采纳得",
+                  "采摘得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“成蜜”的意思是？",
+                "options": [
+                  "酿成蜂蜜",
+                  "成为甜蜜",
+                  "变成蜜糖",
+                  "完成蜜事"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“为谁”的意思是？",
+                "options": [
+                  "替谁，给谁",
+                  "是谁",
+                  "为什么谁",
+                  "因为谁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不管是平地还是山峰，无限风光都被蜜蜂占据了。",
+                "options": [
+                  "不论平地与山尖",
+                  "无限风光尽被占",
+                  "采得百花成蜜后",
+                  "为谁辛苦为谁甜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“不论平地与山尖”的意思是？",
+                "options": [
+                  "不管是平地还是山峰",
+                  "不谈论平地与山尖",
+                  "不争论平地与山尖",
+                  "不讨论平地与山尖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "无限的风光景色全都被蜜蜂占有了。",
+                "options": [
+                  "无限风光尽被占",
+                  "不论平地与山尖",
+                  "采得百花成蜜后",
+                  "为谁辛苦为谁甜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“无限风光尽被占”的意思是？",
+                "options": [
+                  "无限风光全都被占有",
+                  "无限风光全都被占卜",
+                  "无限风光全都被占领",
+                  "无限风光全都被占据"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "采集到百花酿成蜂蜜之后。",
+                "options": [
+                  "采得百花成蜜后",
+                  "不论平地与山尖",
+                  "无限风光尽被占",
+                  "为谁辛苦为谁甜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“采得百花成蜜后”的意思是？",
+                "options": [
+                  "采集百花酿成蜂蜜之后",
+                  "采取得百花成为蜜后",
+                  "采纳百花变成蜜后",
+                  "采摘百花完成蜜后"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "蜜蜂替谁辛苦，又给谁甜蜜呢？",
+                "options": [
+                  "为谁辛苦为谁甜",
+                  "不论平地与山尖",
+                  "无限风光尽被占",
+                  "采得百花成蜜后"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“为谁辛苦为谁甜”的意思是？",
+                "options": [
+                  "替谁辛苦，给谁甜蜜",
+                  "是谁辛苦，是谁甜蜜",
+                  "为什么谁辛苦，为什么谁甜",
+                  "因为谁辛苦，因为谁甜"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无限风光尽被占",
+                  "不论平地与山尖"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为谁辛苦为谁甜",
+                  "采得百花成蜜后"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "采得百花成蜜后",
+                  "无限风光尽被占",
+                  "不论平地与山尖",
+                  "为谁辛苦为谁甜"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为谁辛苦为谁甜",
+                  "不论平地与山尖",
+                  "采得百花成蜜后",
+                  "无限风光尽被占"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lùn"
+              },
+              "otherInfo": {
+                "content": "不__平地与山尖",
+                "answer": "论"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhàn"
+              },
+              "otherInfo": {
+                "content": "无限风光尽被__",
+                "answer": "占"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cǎi"
+              },
+              "otherInfo": {
+                "content": "__得百花成蜜后",
+                "answer": "采"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tián"
+              },
+              "otherInfo": {
+                "content": "为谁辛苦为谁__",
+                "answer": "甜"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "不论__地与山尖",
+                "answer": "平"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēng"
+              },
+              "otherInfo": {
+                "content": "无限__光尽被占",
+                "answer": "风"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mì"
+              },
+              "otherInfo": {
+                "content": "采得百花成__后",
+                "answer": "蜜"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "为谁__苦为谁甜",
+                "answer": "辛"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiān"
+              },
+              "otherInfo": {
+                "content": "不论平地与山__",
+                "answer": "尖"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "kǔ"
+              },
+              "otherInfo": {
+                "content": "为谁辛__为谁甜",
+                "answer": "苦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不论平地与山尖，______",
+                "answer": "无限风光尽被占"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，无限风光尽被占",
+                "answer": "不论平地与山尖"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "采得百花成蜜后，______",
+                "answer": "为谁辛苦为谁甜"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，为谁辛苦为谁甜",
+                "answer": "采得百花成蜜后"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联间填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "不论平地与山尖，无限风光尽被占。______，______",
+                "answer": "采得百花成蜜后，为谁辛苦为谁甜"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "采得百花成蜜后，为谁辛苦为谁甜。______，______",
+                "answer": "不论平地与山尖，无限风光尽被占"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "采得百花成蜜后",
+                  "不论平地与山尖",
+                  "为谁辛苦为谁甜",
+                  "无限风光尽被占"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "无限风光尽被占",
+                  "为谁辛苦为谁甜",
+                  "不论平地与山尖",
+                  "采得百花成蜜后"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "为谁辛苦为谁甜",
+                  "采得百花成蜜后",
+                  "无限风光尽被占",
+                  "不论平地与山尖"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "不论平地与山尖",
+                  "采得百花成蜜后",
+                  "无限风光尽被占",
+                  "为谁辛苦为谁甜"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "采得百花成蜜后",
+                  "无限风光尽被占",
+                  "为谁辛苦为谁甜",
+                  "不论平地与山尖"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

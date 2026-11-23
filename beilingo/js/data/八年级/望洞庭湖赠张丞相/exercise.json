@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bā yuè hú shuǐ píng"
+              },
+              "otherInfo": {
+                "line": "八月湖水平"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán xū hùn tài qīng"
+              },
+              "otherInfo": {
+                "line": "涵虚混太清"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qì zhēng yún mèng zé"
+              },
+              "otherInfo": {
+                "line": "气蒸云梦泽"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bō hàn yuè yáng chéng"
+              },
+              "otherInfo": {
+                "line": "波撼岳阳城"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù jì wú zhōu jí"
+              },
+              "otherInfo": {
+                "line": "欲济无舟楫"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "duān jū chǐ shèng míng"
+              },
+              "otherInfo": {
+                "line": "端居耻圣明"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuò guān chuí diào zhě"
+              },
+              "otherInfo": {
+                "line": "坐观垂钓者"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "tú yǒu xiàn yú qíng"
+              },
+              "otherInfo": {
+                "line": "徒有羡鱼情"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“涵虚”的意思是？",
+                "options": [
+                  "包含天空，指水映天空",
+                  "水面平静无波",
+                  "湖水清澈见底",
+                  "雾气弥漫湖面"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“混太清”中“太清”的意思是？",
+                "options": [
+                  "天空",
+                  "湖水",
+                  "清明时节",
+                  "太平盛世"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“气蒸云梦泽”中“蒸”的意思是？",
+                "options": [
+                  "蒸腾、弥漫",
+                  "蒸煮食物",
+                  "蒸发水分",
+                  "热气上升"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“波撼岳阳城”中“撼”的意思是？",
+                "options": [
+                  "撼动、摇动",
+                  "震撼人心",
+                  "遗憾",
+                  "覆盖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲济无舟楫”中“济”的意思是？",
+                "options": [
+                  "渡水",
+                  "救济",
+                  "成功",
+                  "帮助"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“端居耻圣明”中“端居”的意思是？",
+                "options": [
+                  "闲居在家",
+                  "端正坐姿",
+                  "独居一室",
+                  "身居高位"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“坐观垂钓者”中“坐”的意思是？",
+                "options": [
+                  "坐着",
+                  "因为",
+                  "徒然",
+                  "于是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“徒有羡鱼情”中“徒”的意思是？",
+                "options": [
+                  "白白地",
+                  "徒弟",
+                  "步行",
+                  "仅仅"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“八月湖水平”中“平”的意思是？",
+                "options": [
+                  "水面与岸齐平",
+                  "平静无风",
+                  "平坦开阔",
+                  "平常普通"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲济无舟楫”中“舟楫”的意思是？",
+                "options": [
+                  "船只",
+                  "船桨",
+                  "渡口",
+                  "桥梁"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "八月湖水上涨，与岸齐平。",
+                "options": [
+                  "八月湖水平",
+                  "气蒸云梦泽",
+                  "波撼岳阳城",
+                  "欲济无舟楫"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“涵虚混太清”的意思是？",
+                "options": [
+                  "水映天空，水天相接，浑然一体",
+                  "湖水清澈，能看见水底",
+                  "天空阴沉，湖水浑浊",
+                  "雾气笼罩，看不清天空"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "云梦泽水汽蒸腾，波涛撼动岳阳城。",
+                "options": [
+                  "气蒸云梦泽，波撼岳阳城",
+                  "八月湖水平，涵虚混太清",
+                  "欲济无舟楫，端居耻圣明",
+                  "坐观垂钓者，徒有羡鱼情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“波撼岳阳城”的意思是？",
+                "options": [
+                  "波涛汹涌，仿佛撼动岳阳城",
+                  "波浪拍打岳阳城的城墙",
+                  "湖水退去，露出岳阳城",
+                  "岳阳城在波涛中倒塌"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "想渡湖却没有船只，闲居在家有愧于圣明时代。",
+                "options": [
+                  "欲济无舟楫，端居耻圣明",
+                  "气蒸云梦泽，波撼岳阳城",
+                  "坐观垂钓者，徒有羡鱼情",
+                  "八月湖水平，涵虚混太清"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“端居耻圣明”的意思是？",
+                "options": [
+                  "闲居不仕，愧对圣明的时代",
+                  "端正地坐着，感到圣明可耻",
+                  "隐居山林，以圣明为耻",
+                  "身居高位，却感到羞愧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "坐着看别人垂钓，只能白白地有羡慕鱼的心情。",
+                "options": [
+                  "坐观垂钓者，徒有羡鱼情",
+                  "欲济无舟楫，端居耻圣明",
+                  "八月湖水平，涵虚混太清",
+                  "气蒸云梦泽，波撼岳阳城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“徒有羡鱼情”的意思是？",
+                "options": [
+                  "只能白白地有羡慕鱼的心情",
+                  "只有羡慕鱼的味道",
+                  "空有钓鱼的兴致",
+                  "徒然产生羡慕之情"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "涵虚混太清",
+                  "八月湖水平"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "波撼岳阳城",
+                  "气蒸云梦泽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "端居耻圣明",
+                  "欲济无舟楫"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "徒有羡鱼情",
+                  "坐观垂钓者"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "气蒸云梦泽",
+                  "涵虚混太清",
+                  "八月湖水平",
+                  "波撼岳阳城"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "端居耻圣明",
+                  "波撼岳阳城",
+                  "欲济无舟楫",
+                  "气蒸云梦泽"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "徒有羡鱼情",
+                  "端居耻圣明",
+                  "坐观垂钓者",
+                  "欲济无舟楫"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "坐观垂钓者",
+                  "波撼岳阳城",
+                  "八月湖水平",
+                  "端居耻圣明",
+                  "气蒸云梦泽",
+                  "徒有羡鱼情",
+                  "涵虚混太清",
+                  "欲济无舟楫"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hán"
+              },
+              "otherInfo": {
+                "content": "__月湖水平",
+                "answer": "八"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hùn"
+              },
+              "otherInfo": {
+                "content": "涵虚__太清",
+                "answer": "混"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng"
+              },
+              "otherInfo": {
+                "content": "气__云梦泽",
+                "answer": "蒸"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hàn"
+              },
+              "otherInfo": {
+                "content": "波__岳阳城",
+                "answer": "撼"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jì"
+              },
+              "otherInfo": {
+                "content": "欲__无舟楫",
+                "answer": "济"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chǐ"
+              },
+              "otherInfo": {
+                "content": "端居__圣明",
+                "answer": "耻"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chuí"
+              },
+              "otherInfo": {
+                "content": "坐观__钓者",
+                "answer": "垂"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiàn"
+              },
+              "otherInfo": {
+                "content": "徒有__鱼情",
+                "answer": "羡"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "píng"
+              },
+              "otherInfo": {
+                "content": "八月湖水__",
+                "answer": "平"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "guān"
+              },
+              "otherInfo": {
+                "content": "坐__垂钓者",
+                "answer": "观"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "上下句填空",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八月湖水平，______",
+                "answer": "涵虚混太清"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，涵虚混太清",
+                "answer": "八月湖水平"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "气蒸云梦泽，______",
+                "answer": "波撼岳阳城"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，波撼岳阳城",
+                "answer": "气蒸云梦泽"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "欲济无舟楫，______",
+                "answer": "端居耻圣明"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，端居耻圣明",
+                "answer": "欲济无舟楫"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "坐观垂钓者，______",
+                "answer": "徒有羡鱼情"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，徒有羡鱼情",
+                "answer": "坐观垂钓者"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句填空",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "八月湖水平，涵虚混太清。______，______",
+                "answer": "气蒸云梦泽，波撼岳阳城"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "气蒸云梦泽，波撼岳阳城。______，______",
+                "answer": "欲济无舟楫，端居耻圣明"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "欲济无舟楫，端居耻圣明。______，______",
+                "answer": "坐观垂钓者，徒有羡鱼情"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "气蒸云梦泽，波撼岳阳城。______，______",
+                "answer": "坐观垂钓者，徒有羡鱼情"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "波撼岳阳城",
+                  "坐观垂钓者",
+                  "涵虚混太清",
+                  "欲济无舟楫",
+                  "八月湖水平",
+                  "徒有羡鱼情",
+                  "气蒸云梦泽",
+                  "端居耻圣明"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "端居耻圣明",
+                  "八月湖水平",
+                  "徒有羡鱼情",
+                  "气蒸云梦泽",
+                  "坐观垂钓者",
+                  "涵虚混太清",
+                  "波撼岳阳城",
+                  "欲济无舟楫"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲济无舟楫",
+                  "气蒸云梦泽",
+                  "徒有羡鱼情",
+                  "八月湖水平",
+                  "波撼岳阳城",
+                  "坐观垂钓者",
+                  "端居耻圣明",
+                  "涵虚混太清"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "涵虚混太清",
+                  "坐观垂钓者",
+                  "波撼岳阳城",
+                  "端居耻圣明",
+                  "八月湖水平",
+                  "欲济无舟楫",
+                  "徒有羡鱼情",
+                  "气蒸云梦泽"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "气蒸云梦泽",
+                  "徒有羡鱼情",
+                  "八月湖水平",
+                  "端居耻圣明",
+                  "波撼岳阳城",
+                  "欲济无舟楫",
+                  "涵虚混太清",
+                  "坐观垂钓者"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

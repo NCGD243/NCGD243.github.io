@@ -1,0 +1,1859 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiè tài fù hán xuě rì nèi jí"
+              },
+              "otherInfo": {
+                "line": "谢太傅寒雪日内集"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yǔ ér nǚ jiǎng lùn wén yì"
+              },
+              "otherInfo": {
+                "line": "与儿女讲论文义"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "é ér xuě zhòu"
+              },
+              "otherInfo": {
+                "line": "俄而雪骤"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōng xīn rán yuē"
+              },
+              "otherInfo": {
+                "line": "公欣然曰"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bái xuě fēn fēn hé suǒ sì"
+              },
+              "otherInfo": {
+                "line": "白雪纷纷何所似"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiōng zǐ hú ér yuē"
+              },
+              "otherInfo": {
+                "line": "兄子胡儿曰"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǎ yán kōng zhōng chā kě nǐ"
+              },
+              "otherInfo": {
+                "line": "撒盐空中差可拟"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiōng nǚ yuē"
+              },
+              "otherInfo": {
+                "line": "兄女曰"
+              }
+            },
+            {
+              "id": "s1l1q9",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wèi ruò liǔ xù yīn fēng qǐ"
+              },
+              "otherInfo": {
+                "line": "未若柳絮因风起"
+              }
+            },
+            {
+              "id": "s1l1q10",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōng dà xiào lè"
+              },
+              "otherInfo": {
+                "line": "公大笑乐"
+              }
+            },
+            {
+              "id": "s1l1q11",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jí gōng dà xiōng wú yì nǚ"
+              },
+              "otherInfo": {
+                "line": "即公大兄无奕女"
+              }
+            },
+            {
+              "id": "s1l1q12",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuǒ jiāng jūn wáng níng zhī qī yě"
+              },
+              "otherInfo": {
+                "line": "左将军王凝之妻也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“内集”的意思是？",
+                "options": [
+                  "家庭聚会",
+                  "内部集合",
+                  "内心聚集",
+                  "室内集会"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“讲论文义”中“文义”的意思是？",
+                "options": [
+                  "文章的义理",
+                  "文字的意义",
+                  "文学的风格",
+                  "文采和道义"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“俄而”的意思是？",
+                "options": [
+                  "不久，一会儿",
+                  "忽然之间",
+                  "过了一会儿",
+                  "偶尔"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欣然”的意思是？",
+                "options": [
+                  "高兴的样子",
+                  "疑惑的样子",
+                  "自然的样子",
+                  "谦虚的样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“差可拟”中“拟”的意思是？",
+                "options": [
+                  "相比",
+                  "打算",
+                  "模仿",
+                  "准备"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“未若”的意思是？",
+                "options": [
+                  "不如，比不上",
+                  "没有像",
+                  "未曾",
+                  "不像是"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“因风起”中“因”的意思是？",
+                "options": [
+                  "趁，乘",
+                  "因为",
+                  "于是",
+                  "凭借"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“即公大兄无奕女”中“即”的意思是？",
+                "options": [
+                  "就是",
+                  "立即",
+                  "即使",
+                  "靠近"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“公大笑乐”中“乐”的意思是？",
+                "options": [
+                  "高兴",
+                  "音乐",
+                  "快乐的事",
+                  "乐意"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“撒盐空中差可拟”中“差”的意思是？",
+                "options": [
+                  "大体，差不多",
+                  "差别",
+                  "差错",
+                  "差遣"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "谢太傅在寒冷的雪天把家里人聚集在一起。",
+                "options": [
+                  "谢太傅寒雪日内集",
+                  "与儿女讲论文义",
+                  "公欣然曰",
+                  "白雪纷纷何所似"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“与儿女讲论文义”的意思是？",
+                "options": [
+                  "和子侄辈们讲解讨论文章的义理",
+                  "和儿子女儿们谈论文学创作",
+                  "给孩子们讲授文章的写作方法",
+                  "同晚辈们交流读书的心得体会"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不久，雪下得急了。",
+                "options": [
+                  "俄而雪骤",
+                  "公欣然曰",
+                  "撒盐空中差可拟",
+                  "未若柳絮因风起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“公欣然曰”的意思是？",
+                "options": [
+                  "谢太傅高兴地说",
+                  "谢太傅自然地说道",
+                  "谢太傅疑惑地问道",
+                  "谢太傅谦虚地回应"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "这纷纷扬扬的白雪像什么呢？",
+                "options": [
+                  "白雪纷纷何所似",
+                  "撒盐空中差可拟",
+                  "未若柳絮因风起",
+                  "公大笑乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“白雪纷纷何所似”的意思是？",
+                "options": [
+                  "白雪纷纷扬扬像什么",
+                  "白雪纷纷落下从何处来",
+                  "白雪纷纷飘落有多少",
+                  "白雪纷纷飞舞是什么样子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他哥哥的儿子胡儿说。",
+                "options": [
+                  "兄子胡儿曰",
+                  "兄女曰",
+                  "即公大兄无奕女",
+                  "左将军王凝之妻也"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“兄子胡儿曰”的意思是？",
+                "options": [
+                  "他哥哥的儿子胡儿说",
+                  "他哥哥的女儿说",
+                  "他的侄子胡儿说道",
+                  "他的儿子胡儿回答"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "跟把盐撒在空中差不多可以相比。",
+                "options": [
+                  "撒盐空中差可拟",
+                  "未若柳絮因风起",
+                  "白雪纷纷何所似",
+                  "俄而雪骤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“撒盐空中差可拟”的意思是？",
+                "options": [
+                  "跟把盐撒在空中差不多可以相比",
+                  "把盐撒在空中大体可以模拟",
+                  "在空中撒盐差不多可以比拟",
+                  "盐撒在空中差一点就可以相比"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q11",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "他哥哥的女儿说。",
+                "options": [
+                  "兄女曰",
+                  "兄子胡儿曰",
+                  "公大笑乐",
+                  "即公大兄无奕女"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q12",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“兄女曰”的意思是？",
+                "options": [
+                  "他哥哥的女儿说",
+                  "他哥哥的儿子说",
+                  "他的侄女说道",
+                  "他的女儿回答"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q13",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "不如比作柳絮乘风飞舞。",
+                "options": [
+                  "未若柳絮因风起",
+                  "撒盐空中差可拟",
+                  "白雪纷纷何所似",
+                  "俄而雪骤"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q14",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“未若柳絮因风起”的意思是？",
+                "options": [
+                  "不如比作柳絮乘风飞舞",
+                  "不像柳絮被风吹起",
+                  "没有柳絮随风飘起",
+                  "比不上柳絮因风而起"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q15",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "谢太傅高兴地大笑起来。",
+                "options": [
+                  "公大笑乐",
+                  "公欣然曰",
+                  "白雪纷纷何所似",
+                  "即公大兄无奕女"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q16",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“公大笑乐”的意思是？",
+                "options": [
+                  "谢太傅高兴地大笑起来",
+                  "谢太傅大声地笑了起来",
+                  "谢太傅开心地笑了",
+                  "谢太傅大笑并且快乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q17",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "她就是谢太傅大哥谢无奕的女儿。",
+                "options": [
+                  "即公大兄无奕女",
+                  "左将军王凝之妻也",
+                  "兄女曰",
+                  "公大笑乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q18",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“即公大兄无奕女”的意思是？",
+                "options": [
+                  "她就是谢太傅大哥谢无奕的女儿",
+                  "她就是谢太傅大伯谢无奕的女儿",
+                  "她就是谢太傅大哥无奕的女子",
+                  "她就是谢公的大兄无奕的女儿"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q19",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "是左将军王凝之的妻子。",
+                "options": [
+                  "左将军王凝之妻也",
+                  "即公大兄无奕女",
+                  "兄女曰",
+                  "公大笑乐"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q20",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“左将军王凝之妻也”的意思是？",
+                "options": [
+                  "是左将军王凝之的妻子",
+                  "和左将军王凝之的妻子",
+                  "左将军王凝之的妻子说的",
+                  "是左将军王凝之妻子的家"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "与儿女讲论文义",
+                  "谢太傅寒雪日内集"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公欣然曰",
+                  "俄而雪骤"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雪纷纷何所似",
+                  "公欣然曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "兄子胡儿曰",
+                  "白雪纷纷何所似"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "撒盐空中差可拟",
+                  "兄子胡儿曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "兄女曰",
+                  "撒盐空中差可拟"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未若柳絮因风起",
+                  "兄女曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公大笑乐",
+                  "未若柳絮因风起"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q9",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "即公大兄无奕女",
+                  "公大笑乐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q10",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "左将军王凝之妻也",
+                  "即公大兄无奕女"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q11",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "俄而雪骤",
+                  "与儿女讲论文义",
+                  "谢太傅寒雪日内集",
+                  "公欣然曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q12",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公欣然曰",
+                  "白雪纷纷何所似",
+                  "俄而雪骤",
+                  "兄子胡儿曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q13",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雪纷纷何所似",
+                  "撒盐空中差可拟",
+                  "兄子胡儿曰",
+                  "兄女曰"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q14",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "撒盐空中差可拟",
+                  "未若柳絮因风起",
+                  "兄女曰",
+                  "公大笑乐"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q15",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "未若柳絮因风起",
+                  "即公大兄无奕女",
+                  "公大笑乐",
+                  "左将军王凝之妻也"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q16",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公欣然曰",
+                  "谢太傅寒雪日内集",
+                  "俄而雪骤",
+                  "与儿女讲论文义",
+                  "白雪纷纷何所似",
+                  "兄子胡儿曰",
+                  "撒盐空中差可拟",
+                  "兄女曰",
+                  "未若柳絮因风起",
+                  "公大笑乐",
+                  "即公大兄无奕女",
+                  "左将军王凝之妻也"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fù"
+              },
+              "otherInfo": {
+                "content": "谢太__寒雪日内集",
+                "answer": "傅"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiǎng"
+              },
+              "otherInfo": {
+                "content": "与儿女__论文义",
+                "answer": "讲"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhòu"
+              },
+              "otherInfo": {
+                "content": "俄而雪__",
+                "answer": "骤"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xīn"
+              },
+              "otherInfo": {
+                "content": "公__然曰",
+                "answer": "欣"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "fēn"
+              },
+              "otherInfo": {
+                "content": "白雪__纷何所似",
+                "answer": "纷"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú"
+              },
+              "otherInfo": {
+                "content": "兄子__儿曰",
+                "answer": "胡"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "sǎ"
+              },
+              "otherInfo": {
+                "content": "__盐空中差可拟",
+                "answer": "撒"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nǐ"
+              },
+              "otherInfo": {
+                "content": "撒盐空中差可__",
+                "answer": "拟"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xù"
+              },
+              "otherInfo": {
+                "content": "未若柳__因风起",
+                "answer": "絮"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiào"
+              },
+              "otherInfo": {
+                "content": "公大__乐",
+                "answer": "笑"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谢太傅寒雪日内集，______",
+                "answer": "与儿女讲论文义"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，与儿女讲论文义",
+                "answer": "谢太傅寒雪日内集"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "俄而雪骤，______",
+                "answer": "公欣然曰"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，公欣然曰",
+                "answer": "俄而雪骤"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "白雪纷纷何所似，______",
+                "answer": "兄子胡儿曰"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，兄子胡儿曰",
+                "answer": "白雪纷纷何所似"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "撒盐空中差可拟，______",
+                "answer": "兄女曰"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，兄女曰",
+                "answer": "撒盐空中差可拟"
+              }
+            },
+            {
+              "id": "s4l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "未若柳絮因风起，______",
+                "answer": "公大笑乐"
+              }
+            },
+            {
+              "id": "s4l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，公大笑乐",
+                "answer": "未若柳絮因风起"
+              }
+            },
+            {
+              "id": "s4l1q11",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "即公大兄无奕女，______",
+                "answer": "左将军王凝之妻也"
+              }
+            },
+            {
+              "id": "s4l1q12",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，左将军王凝之妻也",
+                "answer": "即公大兄无奕女"
+              }
+            }
+          ]
+        },
+        {
+          "name": "填写句子",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "谢太傅寒雪日内集，与儿女讲论文义。______，______",
+                "answer": "俄而雪骤，公欣然曰"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "俄而雪骤，公欣然曰。______，______",
+                "answer": "白雪纷纷何所似，兄子胡儿曰"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "白雪纷纷何所似，兄子胡儿曰。______，______",
+                "answer": "撒盐空中差可拟，兄女曰"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "撒盐空中差可拟，兄女曰。______，______",
+                "answer": "未若柳絮因风起，公大笑乐"
+              }
+            },
+            {
+              "id": "s4l2q5",
+              "type": "spell",
+              "covered": [
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "未若柳絮因风起，公大笑乐。______，______",
+                "answer": "即公大兄无奕女，左将军王凝之妻也"
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "公欣然曰",
+                  "未若柳絮因风起",
+                  "谢太傅寒雪日内集",
+                  "撒盐空中差可拟",
+                  "左将军王凝之妻也",
+                  "白雪纷纷何所似",
+                  "即公大兄无奕女",
+                  "俄而雪骤",
+                  "兄女曰",
+                  "与儿女讲论文义",
+                  "公大笑乐",
+                  "兄子胡儿曰"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "与儿女讲论文义",
+                  "公大笑乐",
+                  "俄而雪骤",
+                  "兄子胡儿曰",
+                  "谢太傅寒雪日内集",
+                  "未若柳絮因风起",
+                  "公欣然曰",
+                  "左将军王凝之妻也",
+                  "白雪纷纷何所似",
+                  "即公大兄无奕女",
+                  "撒盐空中差可拟",
+                  "兄女曰"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "兄女曰",
+                  "谢太傅寒雪日内集",
+                  "公大笑乐",
+                  "白雪纷纷何所似",
+                  "即公大兄无奕女",
+                  "俄而雪骤",
+                  "撒盐空中差可拟",
+                  "与儿女讲论文义",
+                  "公欣然曰",
+                  "未若柳絮因风起",
+                  "兄子胡儿曰",
+                  "左将军王凝之妻也"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "左将军王凝之妻也",
+                  "公欣然曰",
+                  "与儿女讲论文义",
+                  "未若柳絮因风起",
+                  "兄子胡儿曰",
+                  "谢太傅寒雪日内集",
+                  "公大笑乐",
+                  "俄而雪骤",
+                  "即公大兄无奕女",
+                  "白雪纷纷何所似",
+                  "兄女曰",
+                  "撒盐空中差可拟"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ],
+                [
+                  5,
+                  1
+                ],
+                [
+                  5,
+                  2
+                ],
+                [
+                  6,
+                  1
+                ],
+                [
+                  6,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "白雪纷纷何所似",
+                  "即公大兄无奕女",
+                  "公欣然曰",
+                  "兄女曰",
+                  "谢太傅寒雪日内集",
+                  "撒盐空中差可拟",
+                  "公大笑乐",
+                  "与儿女讲论文义",
+                  "左将军王凝之妻也",
+                  "俄而雪骤",
+                  "未若柳絮因风起",
+                  "兄子胡儿曰"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1029 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān wài qīng shān lóu wài lóu"
+              },
+              "otherInfo": {
+                "line": "山外青山楼外楼"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xī hú gē wǔ jǐ shí xiū"
+              },
+              "otherInfo": {
+                "line": "西湖歌舞几时休"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nuǎn fēng xūn dé yóu rén zuì"
+              },
+              "otherInfo": {
+                "line": "暖风熏得游人醉"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhí bǎ háng zhōu zuò biàn zhōu"
+              },
+              "otherInfo": {
+                "line": "直把杭州作汴州"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“几时休”中“休”的意思是？",
+                "options": [
+                  "停止",
+                  "休息",
+                  "辞官",
+                  "美好"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“暖风熏得游人醉”中“熏”的意思是？",
+                "options": [
+                  "吹拂",
+                  "熏香",
+                  "熏陶",
+                  "烟熏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“直把杭州作汴州”中“直”的意思是？",
+                "options": [
+                  "简直",
+                  "一直",
+                  "正直",
+                  "直接"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“西湖歌舞几时休”中“西湖”在诗中指？",
+                "options": [
+                  "杭州西湖",
+                  "颍州西湖",
+                  "惠州西湖",
+                  "汴州西湖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“山外青山楼外楼”中“楼外楼”的意思是？",
+                "options": [
+                  "楼阁之外还有楼阁",
+                  "一座名叫楼外楼的酒楼",
+                  "楼外有楼台亭榭",
+                  "楼外有座高楼"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“游人”在诗中指的是？",
+                "options": [
+                  "游山玩水的人",
+                  "苟且偷安的权贵",
+                  "漂泊在外的旅人",
+                  "西湖边的商贩"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“汴州”在诗中指的是？",
+                "options": [
+                  "北宋都城汴京",
+                  "南宋都城临安",
+                  "杭州的古称",
+                  "金国的都城"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“歌舞”在诗中指的是？",
+                "options": [
+                  "唱歌跳舞的表演",
+                  "寻欢作乐的生活",
+                  "祭祀时的乐舞",
+                  "民间的歌舞活动"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“暖风”在诗中除了自然之风，还暗指？",
+                "options": [
+                  "奢靡享乐之风",
+                  "和煦的春风",
+                  "江南的季风",
+                  "朝廷的德政"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“熏得”在句中的意思是？",
+                "options": [
+                  "熏染得",
+                  "熏香得",
+                  "烟熏得",
+                  "熏陶得"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "青山之外还有青山，楼阁之外还有楼阁。",
+                "options": [
+                  "山外青山楼外楼",
+                  "西湖歌舞几时休",
+                  "暖风熏得游人醉",
+                  "直把杭州作汴州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山外青山楼外楼”的意思是？",
+                "options": [
+                  "写临安山水楼台重重叠叠、繁华无尽",
+                  "写诗人游山玩水、流连忘返",
+                  "写青山高楼阻隔了北望的视线",
+                  "写临安城依山傍水、地势险要"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "西湖上的歌舞什么时候才能停止呢？",
+                "options": [
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼",
+                  "暖风熏得游人醉",
+                  "直把杭州作汴州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“西湖歌舞几时休”的意思是？",
+                "options": [
+                  "质问统治者寻欢作乐何时才休",
+                  "感叹西湖歌舞表演没有尽期",
+                  "询问西湖游船何时散去",
+                  "埋怨西湖歌舞扰人清静"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "暖洋洋的风把游玩的权贵吹得如醉如痴。",
+                "options": [
+                  "暖风熏得游人醉",
+                  "山外青山楼外楼",
+                  "西湖歌舞几时休",
+                  "直把杭州作汴州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“暖风熏得游人醉”的意思是？",
+                "options": [
+                  "写权贵沉溺享乐、醉生梦死",
+                  "写春风和暖、游人陶醉于美景",
+                  "写游人饮酒过量、醉倒湖边",
+                  "写暖风吹得花草如醉如痴"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "简直把杭州当成了故都汴州。",
+                "options": [
+                  "直把杭州作汴州",
+                  "山外青山楼外楼",
+                  "西湖歌舞几时休",
+                  "暖风熏得游人醉"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“直把杭州作汴州”的意思是？",
+                "options": [
+                  "讽刺权贵苟安杭州、忘却国耻",
+                  "写杭州与汴州城市面貌相似",
+                  "写诗人把杭州误认作汴州",
+                  "写杭州繁华胜过旧都汴州"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "楼外楼",
+                  "山外青山",
+                  "楼外楼",
+                  "山外青山"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "几时休",
+                  "西湖歌舞",
+                  "几时休",
+                  "西湖歌舞"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "游人醉",
+                  "暖风熏得",
+                  "游人醉",
+                  "暖风熏得"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "作汴州",
+                  "直把杭州",
+                  "作汴州",
+                  "直把杭州"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼",
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "暖风熏得游人醉",
+                  "西湖歌舞几时休",
+                  "暖风熏得游人醉",
+                  "西湖歌舞几时休"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直把杭州作汴州",
+                  "暖风熏得游人醉",
+                  "直把杭州作汴州",
+                  "暖风熏得游人醉"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直把杭州作汴州",
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼",
+                  "暖风熏得游人醉"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān"
+              },
+              "otherInfo": {
+                "content": "__外青山楼外楼",
+                "answer": "山"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wǔ"
+              },
+              "otherInfo": {
+                "content": "西湖歌__几时休",
+                "answer": "舞"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xūn"
+              },
+              "otherInfo": {
+                "content": "暖风__得游人醉",
+                "answer": "熏"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "biàn"
+              },
+              "otherInfo": {
+                "content": "直把杭州作__州",
+                "answer": "汴"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lóu"
+              },
+              "otherInfo": {
+                "content": "山外青山__外楼",
+                "answer": "楼"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "hú"
+              },
+              "otherInfo": {
+                "content": "西__歌舞几时休",
+                "answer": "湖"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "暖风熏得游人__",
+                "answer": "醉"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhí"
+              },
+              "otherInfo": {
+                "content": "__把杭州作汴州",
+                "answer": "直"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jǐ"
+              },
+              "otherInfo": {
+                "content": "西湖歌舞__时休",
+                "answer": "几"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "háng"
+              },
+              "otherInfo": {
+                "content": "直把__州作汴州",
+                "answer": "杭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山外青山楼外楼，______",
+                "answer": "西湖歌舞几时休"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，西湖歌舞几时休",
+                "answer": "山外青山楼外楼"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "暖风熏得游人醉，______",
+                "answer": "直把杭州作汴州"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，直把杭州作汴州",
+                "answer": "暖风熏得游人醉"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "山外青山楼外楼，西湖歌舞几时休。______，______",
+                "answer": "暖风熏得游人醉，直把杭州作汴州"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "西湖歌舞几时休，山外青山楼外楼。______，______",
+                "answer": "暖风熏得游人醉，直把杭州作汴州"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "直把杭州作汴州",
+                  "山外青山楼外楼",
+                  "暖风熏得游人醉",
+                  "西湖歌舞几时休"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西湖歌舞几时休",
+                  "暖风熏得游人醉",
+                  "山外青山楼外楼",
+                  "直把杭州作汴州"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "暖风熏得游人醉",
+                  "直把杭州作汴州",
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山外青山楼外楼",
+                  "直把杭州作汴州",
+                  "西湖歌舞几时休",
+                  "暖风熏得游人醉"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "西湖歌舞几时休",
+                  "山外青山楼外楼",
+                  "直把杭州作汴州",
+                  "暖风熏得游人醉"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

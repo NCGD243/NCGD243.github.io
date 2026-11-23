@@ -1,0 +1,761 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "朗读",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ rén xué wèn wú yí lì"
+              },
+              "otherInfo": {
+                "line": "古人学问无遗力"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shào zhuàng gōng fu lǎo shǐ chéng"
+              },
+              "otherInfo": {
+                "line": "少壮工夫老始成"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhǐ shàng dé lái zhōng jué qiǎn"
+              },
+              "otherInfo": {
+                "line": "纸上得来终觉浅"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué zhī cǐ shì yào gōng xíng"
+              },
+              "otherInfo": {
+                "line": "绝知此事要躬行"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "选词义",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“遗力”的意思是？",
+                "options": [
+                  "保留的力量",
+                  "剩余的力量",
+                  "遗留的力气",
+                  "竭尽的力量"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“少壮”的意思是？",
+                "options": [
+                  "年轻力壮时",
+                  "少年时代",
+                  "壮年时期",
+                  "年少气盛"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“工夫”的意思是？",
+                "options": [
+                  "空闲时间",
+                  "时间精力",
+                  "工匠技艺",
+                  "功夫本领"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“始”的意思是？",
+                "options": [
+                  "开始",
+                  "才",
+                  "最初",
+                  "始终"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“终”的意思是？",
+                "options": [
+                  "最终",
+                  "终究",
+                  "始终",
+                  "毕竟"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“觉”的意思是？",
+                "options": [
+                  "感觉",
+                  "发觉",
+                  "觉得",
+                  "睡醒"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“浅”的意思是？",
+                "options": [
+                  "浅显",
+                  "肤浅",
+                  "浅薄",
+                  "不深"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“绝知”的意思是？",
+                "options": [
+                  "绝对知道",
+                  "彻底了解",
+                  "断绝知晓",
+                  "极深理解"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“躬行”的意思是？",
+                "options": [
+                  "弯腰行走",
+                  "亲自实践",
+                  "恭敬行礼",
+                  "亲身前往"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“纸上”的意思是？",
+                "options": [
+                  "纸张上面",
+                  "书本知识",
+                  "纸面文字",
+                  "纸上谈兵"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "选诗句与选意思",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "古人做学问是不遗余力的。",
+                "options": [
+                  "古人学问无遗力",
+                  "少壮工夫老始成",
+                  "纸上得来终觉浅",
+                  "绝知此事要躬行"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“少壮工夫老始成”的意思是？",
+                "options": [
+                  "年轻时下的功夫，到老年才有所成就",
+                  "年轻时学的东西，老了就忘了",
+                  "少年和老年都要下功夫",
+                  "少壮时努力，老年才能成功"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "从书本上得到的知识终究是浅薄的。",
+                "options": [
+                  "古人学问无遗力",
+                  "少壮工夫老始成",
+                  "纸上得来终觉浅",
+                  "绝知此事要躬行"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“纸上得来终觉浅”的意思是？",
+                "options": [
+                  "书本知识终究浅薄，不够深刻",
+                  "纸上的字迹终究会变浅",
+                  "从书本得到的知识终究觉得浅显",
+                  "读书写字终究是浅薄的"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "排序",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "少壮工夫老始成",
+                  "古人学问无遗力"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝知此事要躬行",
+                  "纸上得来终觉浅"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "纸上得来终觉浅",
+                  "古人学问无遗力",
+                  "绝知此事要躬行",
+                  "少壮工夫老始成"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝知此事要躬行",
+                  "少壮工夫老始成",
+                  "纸上得来终觉浅",
+                  "古人学问无遗力"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yí"
+              },
+              "otherInfo": {
+                "content": "古人学问无__力",
+                "answer": "遗"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shǐ"
+              },
+              "otherInfo": {
+                "content": "少壮工夫老__成",
+                "answer": "始"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jué"
+              },
+              "otherInfo": {
+                "content": "纸上得来终__浅",
+                "answer": "觉"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gōng"
+              },
+              "otherInfo": {
+                "content": "绝知此事要__行",
+                "answer": "躬"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "填写句子",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古人学问无遗力，______",
+                "answer": "少壮工夫老始成"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，少壮工夫老始成",
+                "answer": "古人学问无遗力"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "纸上得来终觉浅，______",
+                "answer": "绝知此事要躬行"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，绝知此事要躬行",
+                "answer": "纸上得来终觉浅"
+              }
+            }
+          ]
+        },
+        {
+          "name": "联句默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "古人学问无遗力，少壮工夫老始成。______，______",
+                "answer": "纸上得来终觉浅，绝知此事要躬行"
+              }
+            }
+          ]
+        },
+        {
+          "name": "全诗排序",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝知此事要躬行",
+                  "古人学问无遗力",
+                  "纸上得来终觉浅",
+                  "少壮工夫老始成"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "少壮工夫老始成",
+                  "绝知此事要躬行",
+                  "古人学问无遗力",
+                  "纸上得来终觉浅"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "纸上得来终觉浅",
+                  "少壮工夫老始成",
+                  "绝知此事要躬行",
+                  "古人学问无遗力"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古人学问无遗力",
+                  "绝知此事要躬行",
+                  "少壮工夫老始成",
+                  "纸上得来终觉浅"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "绝知此事要躬行",
+                  "纸上得来终觉浅",
+                  "少壮工夫老始成",
+                  "古人学问无遗力"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

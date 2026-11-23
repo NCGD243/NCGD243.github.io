@@ -1,0 +1,969 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pú tao měi jiǔ yè guāng bēi"
+              },
+              "otherInfo": {
+                "line": "葡萄美酒夜光杯"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yù yǐn pí pá mǎ shàng cuī"
+              },
+              "otherInfo": {
+                "line": "欲饮琵琶马上催"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì wò shā chǎng jūn mò xiào"
+              },
+              "otherInfo": {
+                "line": "醉卧沙场君莫笑"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gǔ lái zhēng zhàn jǐ rén huí"
+              },
+              "otherInfo": {
+                "line": "古来征战几人回"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“葡萄美酒夜光杯”中“夜光杯”的意思是？",
+                "options": [
+                  "夜间能发光的酒杯",
+                  "用白玉制成的酒杯",
+                  "夜里用来照明的灯盏",
+                  "盛放葡萄的器皿"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲饮琵琶马上催”中“欲”的意思是？",
+                "options": [
+                  "将要",
+                  "欲望",
+                  "想要",
+                  "已经"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲饮琵琶马上催”中“催”的意思是？",
+                "options": [
+                  "催促",
+                  "摧毁",
+                  "悲伤",
+                  "弹奏"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“醉卧沙场君莫笑”中“沙场”的意思是？",
+                "options": [
+                  "沙滩",
+                  "战场",
+                  "沙漠",
+                  "校场"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“醉卧沙场君莫笑”中“莫”的意思是？",
+                "options": [
+                  "没有",
+                  "不要",
+                  "不能",
+                  "不曾"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“古来征战几人回”中“古来”的意思是？",
+                "options": [
+                  "古代以来",
+                  "自古以来",
+                  "古时候",
+                  "从前"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“古来征战几人回”中“征战”的意思是？",
+                "options": [
+                  "出征作战",
+                  "长途跋涉",
+                  "狩猎",
+                  "巡边"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“葡萄美酒夜光杯”中“美酒”的意思是？",
+                "options": [
+                  "美味的酒",
+                  "醇美的酒",
+                  "美丽的酒器",
+                  "甘甜的水"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“欲饮琵琶马上催”中“琵琶”在诗中是？",
+                "options": [
+                  "一种弹拨乐器",
+                  "一种打击乐器",
+                  "一种吹奏乐器",
+                  "一种弦乐器的代称"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“醉卧沙场君莫笑”中“醉卧”的意思是？",
+                "options": [
+                  "醉酒后躺卧",
+                  "沉醉于卧姿",
+                  "醉倒不起",
+                  "醉眼朦胧"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "精美的酒杯里盛满葡萄美酒。",
+                "options": [
+                  "葡萄美酒夜光杯",
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "古来征战几人回"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“葡萄美酒夜光杯”的意思是？",
+                "options": [
+                  "葡萄和美酒在夜里闪着光",
+                  "精美的酒杯中盛满葡萄美酒",
+                  "夜光杯里装着葡萄和酒",
+                  "用夜光杯盛酒来葡萄园饮用"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "正想举杯畅饮，马上的琵琶声已催促出发。",
+                "options": [
+                  "葡萄美酒夜光杯",
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "古来征战几人回"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“欲饮琵琶马上催”的意思是？",
+                "options": [
+                  "想要弹琵琶却被人催促上马",
+                  "刚想喝酒，马上的琵琶声就催促起来",
+                  "想听琵琶曲，却催马快走",
+                  "饮酒时琵琶在马上弹奏助兴"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "醉倒在战场上请你不要见笑。",
+                "options": [
+                  "葡萄美酒夜光杯",
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "古来征战几人回"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“醉卧沙场君莫笑”的意思是？",
+                "options": [
+                  "醉倒在沙滩上你不要笑我",
+                  "醉倒在战场上请你不要见笑",
+                  "醉后躺在校场你不要取笑",
+                  "醉卧沙场是因为你莫要笑"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "自古以来出征打仗的人有几个能回来。",
+                "options": [
+                  "葡萄美酒夜光杯",
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "古来征战几人回"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“古来征战几人回”的意思是？",
+                "options": [
+                  "自古以来出征作战的人很少能回来",
+                  "古人打仗回来的人有几个",
+                  "自古以来征战的人回来要问几人",
+                  "古代征战回来的人有多少"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲饮琵琶马上催",
+                  "葡萄美酒夜光杯"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古来征战几人回",
+                  "醉卧沙场君莫笑"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "醉卧沙场君莫笑",
+                  "欲饮琵琶马上催",
+                  "葡萄美酒夜光杯",
+                  "古来征战几人回"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古来征战几人回",
+                  "葡萄美酒夜光杯",
+                  "醉卧沙场君莫笑",
+                  "欲饮琵琶马上催"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pú"
+              },
+              "otherInfo": {
+                "content": "__萄美酒夜光杯",
+                "answer": "葡"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bēi"
+              },
+              "otherInfo": {
+                "content": "葡萄美酒夜光__",
+                "answer": "杯"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pí"
+              },
+              "otherInfo": {
+                "content": "欲饮__琶马上催",
+                "answer": "琵"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "pá"
+              },
+              "otherInfo": {
+                "content": "欲饮琵__马上催",
+                "answer": "琶"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cuī"
+              },
+              "otherInfo": {
+                "content": "欲饮琵琶马上__",
+                "answer": "催"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zuì"
+              },
+              "otherInfo": {
+                "content": "__卧沙场君莫笑",
+                "answer": "醉"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "chǎng"
+              },
+              "otherInfo": {
+                "content": "醉卧沙__君莫笑",
+                "answer": "场"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiào"
+              },
+              "otherInfo": {
+                "content": "醉卧沙场君莫__",
+                "answer": "笑"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhēng"
+              },
+              "otherInfo": {
+                "content": "古来__战几人回",
+                "answer": "征"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huí"
+              },
+              "otherInfo": {
+                "content": "古来征战几人__",
+                "answer": "回"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "葡萄美酒夜光杯，______。",
+                "answer": "欲饮琵琶马上催"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，欲饮琵琶马上催。",
+                "answer": "葡萄美酒夜光杯"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "醉卧沙场君莫笑，______。",
+                "answer": "古来征战几人回"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，古来征战几人回。",
+                "answer": "醉卧沙场君莫笑"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "葡萄美酒夜光杯，欲饮琵琶马上催。______，______。",
+                "answer": "醉卧沙场君莫笑，古来征战几人回"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "葡萄美酒夜光杯，欲饮琵琶马上催。______，______。",
+                "answer": "醉卧沙场君莫笑，古来征战几人回"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲饮琵琶马上催",
+                  "古来征战几人回",
+                  "葡萄美酒夜光杯",
+                  "醉卧沙场君莫笑"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "醉卧沙场君莫笑",
+                  "葡萄美酒夜光杯",
+                  "古来征战几人回",
+                  "欲饮琵琶马上催"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "古来征战几人回",
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "葡萄美酒夜光杯"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "葡萄美酒夜光杯",
+                  "醉卧沙场君莫笑",
+                  "欲饮琵琶马上催",
+                  "古来征战几人回"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "欲饮琵琶马上催",
+                  "醉卧沙场君莫笑",
+                  "古来征战几人回",
+                  "葡萄美酒夜光杯"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

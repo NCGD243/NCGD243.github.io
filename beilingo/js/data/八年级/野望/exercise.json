@@ -1,0 +1,1293 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dōng gāo bó mù wàng"
+              },
+              "otherInfo": {
+                "line": "东皋薄暮望"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xǐ yǐ yù hé yī"
+              },
+              "otherInfo": {
+                "line": "徙倚欲何依"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shù shù jiē qiū sè"
+              },
+              "otherInfo": {
+                "line": "树树皆秋色"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shān shān wéi luò huī"
+              },
+              "otherInfo": {
+                "line": "山山唯落晖"
+              }
+            },
+            {
+              "id": "s1l1q5",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "mù rén qū dú fǎn"
+              },
+              "otherInfo": {
+                "line": "牧人驱犊返"
+              }
+            },
+            {
+              "id": "s1l1q6",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "liè mǎ dài qín guī"
+              },
+              "otherInfo": {
+                "line": "猎马带禽归"
+              }
+            },
+            {
+              "id": "s1l1q7",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xiāng gù wú xiāng shí"
+              },
+              "otherInfo": {
+                "line": "相顾无相识"
+              }
+            },
+            {
+              "id": "s1l1q8",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "cháng gē huái cǎi wēi"
+              },
+              "otherInfo": {
+                "line": "长歌怀采薇"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“东皋”的意思是？",
+                "options": [
+                  "东边的高地",
+                  "东方的田野",
+                  "东面的水边",
+                  "东城的郊外"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“薄暮”的意思是？",
+                "options": [
+                  "傍晚",
+                  "清晨",
+                  "深夜",
+                  "正午"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“徙倚”的意思是？",
+                "options": [
+                  "徘徊",
+                  "疾走",
+                  "站立",
+                  "坐下"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“落晖”的意思是？",
+                "options": [
+                  "夕阳的余晖",
+                  "飘落的花瓣",
+                  "稀疏的星光",
+                  "清晨的露水"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“驱犊”的意思是？",
+                "options": [
+                  "赶着牛犊",
+                  "骑着骏马",
+                  "牵着猎犬",
+                  "背着柴草"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“带禽”的意思是？",
+                "options": [
+                  "带着猎物",
+                  "携带家禽",
+                  "放飞鸟儿",
+                  "驱赶飞禽"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“相顾”的意思是？",
+                "options": [
+                  "互相看着",
+                  "互相照顾",
+                  "彼此思念",
+                  "一起回头"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“采薇”在诗中的意思是？",
+                "options": [
+                  "隐居不仕",
+                  "采摘野菜",
+                  "归隐田园",
+                  "思念故乡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q9",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“秋色”在诗中的意思是？",
+                "options": [
+                  "秋天的景色",
+                  "秋天的颜色",
+                  "秋天的收成",
+                  "秋天的气息"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q10",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“长歌”的意思是？",
+                "options": [
+                  "放声高歌",
+                  "长声叹息",
+                  "低声吟唱",
+                  "长久歌唱"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "傍晚时分，我在东边的高地上眺望远方。",
+                "options": [
+                  "东皋薄暮望",
+                  "徙倚欲何依",
+                  "树树皆秋色",
+                  "山山唯落晖"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“徙倚欲何依”的意思是？",
+                "options": [
+                  "徘徊不定，不知该归依何处",
+                  "来回走动，寻找可以依靠的人",
+                  "四处张望，盼望有人来迎接",
+                  "走走停停，想要回到故乡去"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "每一棵树都染上了秋天的色彩。",
+                "options": [
+                  "树树皆秋色",
+                  "山山唯落晖",
+                  "牧人驱犊返",
+                  "猎马带禽归"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“山山唯落晖”的意思是？",
+                "options": [
+                  "每一座山都只映着夕阳的余晖",
+                  "群山之中只有落日显得明亮",
+                  "山峦之上唯见晚霞渐渐消散",
+                  "重重山岭都笼罩在暮色之中"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "牧人赶着牛犊返回村庄。",
+                "options": [
+                  "牧人驱犊返",
+                  "猎马带禽归",
+                  "相顾无相识",
+                  "长歌怀采薇"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“猎马带禽归”的意思是？",
+                "options": [
+                  "猎马驮着猎物归来",
+                  "猎人骑着马追赶飞禽",
+                  "马匹带着家禽回村",
+                  "猎手牵着马满载而归"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "彼此相看，却没有一个相识的人。",
+                "options": [
+                  "相顾无相识",
+                  "长歌怀采薇",
+                  "东皋薄暮望",
+                  "徙倚欲何依"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“长歌怀采薇”的意思是？",
+                "options": [
+                  "放声高歌，怀念隐居不仕的生活",
+                  "长声歌唱，思念采薇的故人",
+                  "高声吟唱，追忆采摘野菜的时光",
+                  "放歌抒怀，向往田园劳作的日子"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "徙倚欲何依",
+                  "东皋薄暮望"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山山唯落晖",
+                  "树树皆秋色"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猎马带禽归",
+                  "牧人驱犊返"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "长歌怀采薇",
+                  "相顾无相识"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q5",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "徙倚欲何依",
+                  "东皋薄暮望",
+                  "山山唯落晖",
+                  "树树皆秋色"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q6",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树树皆秋色",
+                  "山山唯落晖",
+                  "猎马带禽归",
+                  "牧人驱犊返"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q7",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "牧人驱犊返",
+                  "猎马带禽归",
+                  "长歌怀采薇",
+                  "相顾无相识"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q8",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山山唯落晖",
+                  "东皋薄暮望",
+                  "徙倚欲何依",
+                  "树树皆秋色",
+                  "猎马带禽归",
+                  "牧人驱犊返",
+                  "长歌怀采薇",
+                  "相顾无相识"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gāo"
+              },
+              "otherInfo": {
+                "content": "东__薄暮望",
+                "answer": "皋"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "xǐ"
+              },
+              "otherInfo": {
+                "content": "徙__欲何依",
+                "answer": "倚"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "jiē"
+              },
+              "otherInfo": {
+                "content": "树树__秋色",
+                "answer": "皆"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "huī"
+              },
+              "otherInfo": {
+                "content": "山山唯落__",
+                "answer": "晖"
+              }
+            },
+            {
+              "id": "s3l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "qū"
+              },
+              "otherInfo": {
+                "content": "牧人__犊返",
+                "answer": "驱"
+              }
+            },
+            {
+              "id": "s3l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "dài"
+              },
+              "otherInfo": {
+                "content": "猎马__禽归",
+                "answer": "带"
+              }
+            },
+            {
+              "id": "s3l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "gù"
+              },
+              "otherInfo": {
+                "content": "相__无相识",
+                "answer": "顾"
+              }
+            },
+            {
+              "id": "s3l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wēi"
+              },
+              "otherInfo": {
+                "content": "长歌怀采__",
+                "answer": "薇"
+              }
+            },
+            {
+              "id": "s3l1q9",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bó"
+              },
+              "otherInfo": {
+                "content": "东皋__暮望",
+                "answer": "薄"
+              }
+            },
+            {
+              "id": "s3l1q10",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "wéi"
+              },
+              "otherInfo": {
+                "content": "山山__落晖",
+                "answer": "唯"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "东皋薄暮望，______。",
+                "answer": "徙倚欲何依"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，徙倚欲何依。",
+                "answer": "东皋薄暮望"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "树树皆秋色，______。",
+                "answer": "山山唯落晖"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，山山唯落晖。",
+                "answer": "树树皆秋色"
+              }
+            },
+            {
+              "id": "s4l1q5",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牧人驱犊返，______。",
+                "answer": "猎马带禽归"
+              }
+            },
+            {
+              "id": "s4l1q6",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，猎马带禽归。",
+                "answer": "牧人驱犊返"
+              }
+            },
+            {
+              "id": "s4l1q7",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "相顾无相识，______。",
+                "answer": "长歌怀采薇"
+              }
+            },
+            {
+              "id": "s4l1q8",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，长歌怀采薇。",
+                "answer": "相顾无相识"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "东皋薄暮望，徙倚欲何依。______，______。",
+                "answer": "树树皆秋色，山山唯落晖"
+              }
+            },
+            {
+              "id": "s4l2q2",
+              "type": "spell",
+              "covered": [
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "树树皆秋色，山山唯落晖。______，______。",
+                "answer": "牧人驱犊返，猎马带禽归"
+              }
+            },
+            {
+              "id": "s4l2q3",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牧人驱犊返，猎马带禽归。______，______。",
+                "answer": "相顾无相识，长歌怀采薇"
+              }
+            },
+            {
+              "id": "s4l2q4",
+              "type": "spell",
+              "covered": [
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "牧人驱犊返，猎马带禽归。______，______。",
+                "answer": "相顾无相识，长歌怀采薇"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "山山唯落晖",
+                  "相顾无相识",
+                  "东皋薄暮望",
+                  "猎马带禽归",
+                  "树树皆秋色",
+                  "长歌怀采薇",
+                  "徙倚欲何依",
+                  "牧人驱犊返"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "徙倚欲何依",
+                  "牧人驱犊返",
+                  "长歌怀采薇",
+                  "树树皆秋色",
+                  "东皋薄暮望",
+                  "山山唯落晖",
+                  "相顾无相识",
+                  "猎马带禽归"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "猎马带禽归",
+                  "东皋薄暮望",
+                  "相顾无相识",
+                  "山山唯落晖",
+                  "牧人驱犊返",
+                  "树树皆秋色",
+                  "长歌怀采薇",
+                  "徙倚欲何依"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "树树皆秋色",
+                  "长歌怀采薇",
+                  "徙倚欲何依",
+                  "牧人驱犊返",
+                  "东皋薄暮望",
+                  "猎马带禽归",
+                  "山山唯落晖",
+                  "相顾无相识"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ],
+                [
+                  3,
+                  1
+                ],
+                [
+                  3,
+                  2
+                ],
+                [
+                  4,
+                  1
+                ],
+                [
+                  4,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "相顾无相识",
+                  "山山唯落晖",
+                  "东皋薄暮望",
+                  "长歌怀采薇",
+                  "树树皆秋色",
+                  "徙倚欲何依",
+                  "猎马带禽归",
+                  "牧人驱犊返"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,729 @@
+{
+  "sections": {
+    "s1": {
+      "name": "感知",
+      "lessons": [
+        {
+          "name": "感知",
+          "id": "s1l1",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s1l1q1",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "lì bá shān xī qì gài shì"
+              },
+              "otherInfo": {
+                "line": "力拔山兮气盖世"
+              }
+            },
+            {
+              "id": "s1l1q2",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "shí bù lì xī zhuī bù shì"
+              },
+              "otherInfo": {
+                "line": "时不利兮骓不逝"
+              }
+            },
+            {
+              "id": "s1l1q3",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuī bù shì xī kě nài hé"
+              },
+              "otherInfo": {
+                "line": "骓不逝兮可奈何"
+              }
+            },
+            {
+              "id": "s1l1q4",
+              "type": "read",
+              "covered": [],
+              "prompt": "朗读",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú xī yú xī nài ruò hé"
+              },
+              "otherInfo": {
+                "line": "虞兮虞兮奈若何"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s2": {
+      "name": "理解",
+      "lessons": [
+        {
+          "name": "理解",
+          "id": "s2l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l1q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“力拔山兮气盖世”中“盖”的意思是？",
+                "options": [
+                  "超过",
+                  "遮盖",
+                  "建造",
+                  "大概"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“时不利兮骓不逝”中“逝”的意思是？",
+                "options": [
+                  "奔跑",
+                  "消逝",
+                  "死去",
+                  "离开"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“骓不逝兮可奈何”中“奈何”的意思是？",
+                "options": [
+                  "怎么办",
+                  "为什么",
+                  "怎么样",
+                  "多么"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l1q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选词义",
+              "otherInfo": {
+                "content": "“虞兮虞兮奈若何”中“若”的意思是？",
+                "options": [
+                  "你",
+                  "好像",
+                  "如果",
+                  "如此"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s2l2q1",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "力量能拔起大山啊，气概盖过当世。",
+                "options": [
+                  "力拔山兮气盖世",
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何",
+                  "虞兮虞兮奈若何"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q2",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“力拔山兮气盖世”的意思是？",
+                "options": [
+                  "形容力气极大、气概非凡",
+                  "形容山势高峻、气势雄伟",
+                  "形容武艺高强、天下无敌",
+                  "形容志向远大、不甘平凡"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q3",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "时运不济啊，乌骓马不肯奔驰向前。",
+                "options": [
+                  "力拔山兮气盖世",
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何",
+                  "虞兮虞兮奈若何"
+                ],
+                "answer": [
+                  1
+                ]
+              }
+            },
+            {
+              "id": "s2l2q4",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“时不利兮骓不逝”的意思是？",
+                "options": [
+                  "时运不利，战马不肯前行",
+                  "时光流逝，良马难以再得",
+                  "天气恶劣，马匹无法奔跑",
+                  "时机未到，骏马不愿出征"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q5",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "乌骓马不肯奔驰啊，又能怎么办呢？",
+                "options": [
+                  "力拔山兮气盖世",
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何",
+                  "虞兮虞兮奈若何"
+                ],
+                "answer": [
+                  2
+                ]
+              }
+            },
+            {
+              "id": "s2l2q6",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“骓不逝兮可奈何”的意思是？",
+                "options": [
+                  "战马不前，无可奈何",
+                  "马跑不快，心中焦急",
+                  "道路难行，进退两难",
+                  "失去战马，悲痛欲绝"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            },
+            {
+              "id": "s2l2q7",
+              "type": "option",
+              "covered": [],
+              "prompt": "选诗句",
+              "otherInfo": {
+                "content": "虞姬啊虞姬，我该拿你怎么办呢？",
+                "options": [
+                  "力拔山兮气盖世",
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何",
+                  "虞兮虞兮奈若何"
+                ],
+                "answer": [
+                  3
+                ]
+              }
+            },
+            {
+              "id": "s2l2q8",
+              "type": "option",
+              "covered": [],
+              "prompt": "选意思",
+              "otherInfo": {
+                "content": "“虞兮虞兮奈若何”的意思是？",
+                "options": [
+                  "虞姬啊，我该如何安置你",
+                  "虞姬啊，你为何离我而去",
+                  "虞姬啊，你可曾后悔相随",
+                  "虞姬啊，你能否与我同归"
+                ],
+                "answer": [
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "理解",
+          "id": "s2l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s2l3q1",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "气盖世",
+                  "力拔山兮",
+                  "时不利兮",
+                  "骓不逝"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q2",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "可奈何",
+                  "骓不逝兮",
+                  "奈若何",
+                  "虞兮虞兮"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q3",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时不利兮骓不逝",
+                  "力拔山兮气盖世",
+                  "骓不逝兮可奈何",
+                  "虞兮虞兮奈若何"
+                ]
+              }
+            },
+            {
+              "id": "s2l3q4",
+              "type": "order",
+              "covered": [],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "骓不逝兮可奈何",
+                  "力拔山兮气盖世",
+                  "虞兮虞兮奈若何",
+                  "时不利兮骓不逝"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s3": {
+      "name": "字形",
+      "lessons": [
+        {
+          "name": "字形",
+          "id": "s3l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s3l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "bá"
+              },
+              "otherInfo": {
+                "content": "力__山兮气盖世",
+                "answer": "拔"
+              }
+            },
+            {
+              "id": "s3l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "zhuī"
+              },
+              "otherInfo": {
+                "content": "时不利兮__不逝",
+                "answer": "骓"
+              }
+            },
+            {
+              "id": "s3l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "nài"
+              },
+              "otherInfo": {
+                "content": "骓不逝兮可__何",
+                "answer": "奈"
+              }
+            },
+            {
+              "id": "s3l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": true,
+                "pinyin": "yú"
+              },
+              "otherInfo": {
+                "content": "__兮虞兮奈若何",
+                "answer": "虞"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "s4": {
+      "name": "默写",
+      "lessons": [
+        {
+          "name": "默写",
+          "id": "s4l1",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l1q1",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "力拔山兮气盖世，______",
+                "answer": "时不利兮骓不逝"
+              }
+            },
+            {
+              "id": "s4l1q2",
+              "type": "spell",
+              "covered": [
+                [
+                  1,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，时不利兮骓不逝",
+                "answer": "力拔山兮气盖世"
+              }
+            },
+            {
+              "id": "s4l1q3",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "骓不逝兮可奈何，______",
+                "answer": "虞兮虞兮奈若何"
+              }
+            },
+            {
+              "id": "s4l1q4",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "______，虞兮虞兮奈若何",
+                "answer": "骓不逝兮可奈何"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l2",
+          "shuffle": true,
+          "questions": [
+            {
+              "id": "s4l2q1",
+              "type": "spell",
+              "covered": [
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "填写句子",
+              "pinyinInfo": {
+                "show": false
+              },
+              "otherInfo": {
+                "content": "力拔山兮气盖世，时不利兮骓不逝。______，______",
+                "answer": "骓不逝兮可奈何，虞兮虞兮奈若何"
+              }
+            }
+          ]
+        },
+        {
+          "name": "默写",
+          "id": "s4l3",
+          "shuffle": false,
+          "questions": [
+            {
+              "id": "s4l3q1",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "虞兮虞兮奈若何",
+                  "力拔山兮气盖世",
+                  "骓不逝兮可奈何",
+                  "时不利兮骓不逝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q2",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何",
+                  "力拔山兮气盖世",
+                  "虞兮虞兮奈若何"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q3",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "骓不逝兮可奈何",
+                  "力拔山兮气盖世",
+                  "虞兮虞兮奈若何",
+                  "时不利兮骓不逝"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q4",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "力拔山兮气盖世",
+                  "虞兮虞兮奈若何",
+                  "时不利兮骓不逝",
+                  "骓不逝兮可奈何"
+                ]
+              }
+            },
+            {
+              "id": "s4l3q5",
+              "type": "order",
+              "covered": [
+                [
+                  1,
+                  1
+                ],
+                [
+                  1,
+                  2
+                ],
+                [
+                  2,
+                  1
+                ],
+                [
+                  2,
+                  2
+                ]
+              ],
+              "prompt": "排序",
+              "otherInfo": {
+                "lines": [
+                  "虞兮虞兮奈若何",
+                  "时不利兮骓不逝",
+                  "力拔山兮气盖世",
+                  "骓不逝兮可奈何"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
